@@ -15,7 +15,7 @@ Uses only the Python standard library. One run costs roughly 1,800 of the 10,000
 ## Setup
 
 1. Get a YouTube Data API v3 key from Google Cloud Console (APIs & Services → enable *YouTube Data API v3* → Credentials → API key).
-2. In this repo: **Settings → Secrets and variables → Actions → New repository secret**, name it `YOUTUBE_API_KEY`.
+2. In this repo: **Settings → Secrets and variables → Actions → New repository secret**, name it `YT_OUTLIER_SCOUT`.
 3. **Actions** tab → *Weekly outlier scout* → **Run workflow** to test it.
 
 Run locally:
