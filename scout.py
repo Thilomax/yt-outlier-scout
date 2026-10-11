@@ -12,6 +12,7 @@ import json
 import os
 import statistics
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -31,8 +32,16 @@ def load_json(path, default):
 def api_get(endpoint, key, **params):
     params["key"] = key
     url = f"{API}/{endpoint}?{urllib.parse.urlencode(params)}"
-    with urllib.request.urlopen(url, timeout=30) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(url, timeout=30) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        # Surface Google's explanation (quota, key restriction, API disabled...)
+        try:
+            reason = json.loads(e.read().decode("utf-8"))["error"]["message"]
+        except Exception:
+            reason = str(e)
+        raise RuntimeError(f"{endpoint}: HTTP {e.code}: {reason}") from None
 
 
 def chunks(items, size=50):
@@ -124,14 +133,33 @@ def channel_baselines(key, channel_ids, exclude_ids, cfg):
     return baselines, subs
 
 
+def write_error(message):
+    """Record a failed run in outliers.json so it is visible without the Actions logs."""
+    out = {
+        "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "count": 0,
+        "error": message,
+        "outliers": [],
+    }
+    (ROOT / "outliers.json").write_text(json.dumps(out, indent=2) + "\n", encoding="utf-8")
+
+
 def main():
+    try:
+        run()
+    except Exception as e:
+        write_error(str(e))
+        sys.exit(f"Scout failed: {e}")
+
+
+def run():
     key = os.environ.get("YOUTUBE_API_KEY")
     if not key:
-        sys.exit("Missing YOUTUBE_API_KEY environment variable")
+        raise RuntimeError("Missing YOUTUBE_API_KEY secret")
 
     cfg = load_json(ROOT / "config.json", None)
     if cfg is None:
-        sys.exit("config.json missing or invalid")
+        raise RuntimeError("config.json missing or invalid")
     seen = set(load_json(ROOT / "seen.json", []))
 
     now = datetime.now(timezone.utc)
@@ -141,16 +169,21 @@ def main():
 
     # 1. search every topic
     candidates = {}  # video id -> topic
+    errors = []
     for topic in cfg["topics"]:
         for query in topic["queries"]:
             try:
                 ids = search_videos(key, query, published_after, cfg)
             except Exception as e:
                 print(f"search failed for '{query}': {e}", file=sys.stderr)
+                errors.append(str(e))
                 continue
             for vid in ids:
                 if vid not in seen:
                     candidates.setdefault(vid, topic["name"])
+    total_queries = sum(len(t["queries"]) for t in cfg["topics"])
+    if errors and len(errors) == total_queries:
+        raise RuntimeError(f"All searches failed. First error: {errors[0]}")
     print(f"{len(candidates)} new candidate videos")
 
     # 2. details + filter (long-form only, old enough to judge, enough views)
