@@ -1,0 +1,218 @@
+"""
+yt-outlier-scout
+Finds YouTube "outlier" videos: videos that got far more views than their
+channel normally gets. Uses the free YouTube Data API v3 and writes the
+results to outliers.json.
+
+Outlier score = video views / median views of the channel's recent uploads.
+A score of 10 means the video did 10x better than that channel usually does.
+"""
+
+import json
+import os
+import statistics
+import sys
+import urllib.parse
+import urllib.request
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+API = "https://www.googleapis.com/youtube/v3"
+ROOT = Path(__file__).parent
+
+
+def load_json(path, default):
+    try:
+        return json.loads(Path(path).read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return default
+
+
+def api_get(endpoint, key, **params):
+    params["key"] = key
+    url = f"{API}/{endpoint}?{urllib.parse.urlencode(params)}"
+    with urllib.request.urlopen(url, timeout=30) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def chunks(items, size=50):
+    for i in range(0, len(items), size):
+        yield items[i : i + size]
+
+
+def parse_duration(iso):
+    """'PT1H2M3S' -> seconds."""
+    if not iso or not iso.startswith("PT"):
+        return 0
+    total, num = 0, ""
+    for ch in iso[2:]:
+        if ch.isdigit():
+            num += ch
+        else:
+            mult = {"H": 3600, "M": 60, "S": 1}.get(ch, 0)
+            total += int(num or 0) * mult
+            num = ""
+    return total
+
+
+def search_videos(key, query, published_after, cfg):
+    data = api_get(
+        "search",
+        key,
+        part="snippet",
+        q=query,
+        type="video",
+        order="viewCount",
+        publishedAfter=published_after,
+        maxResults=cfg["results_per_query"],
+        relevanceLanguage=cfg.get("language", "en"),
+    )
+    return [item["id"]["videoId"] for item in data.get("items", [])]
+
+
+def video_details(key, ids):
+    out = {}
+    for batch in chunks(ids):
+        data = api_get(
+            "videos", key, part="snippet,statistics,contentDetails", id=",".join(batch)
+        )
+        for v in data.get("items", []):
+            out[v["id"]] = v
+    return out
+
+
+def channel_baselines(key, channel_ids, exclude_ids, cfg):
+    """Median views of each channel's recent uploads (excluding the candidate videos)."""
+    uploads, subs = {}, {}
+    for batch in chunks(channel_ids):
+        data = api_get(
+            "channels", key, part="contentDetails,statistics", id=",".join(batch)
+        )
+        for c in data.get("items", []):
+            uploads[c["id"]] = c["contentDetails"]["relatedPlaylists"]["uploads"]
+            subs[c["id"]] = int(c["statistics"].get("subscriberCount", 0) or 0)
+
+    baselines = {}
+    for cid, playlist in uploads.items():
+        try:
+            data = api_get(
+                "playlistItems",
+                key,
+                part="contentDetails",
+                playlistId=playlist,
+                maxResults=cfg["baseline_videos"],
+            )
+        except Exception as e:  # deleted/private playlists etc.
+            print(f"  skip channel {cid}: {e}", file=sys.stderr)
+            continue
+        recent = [
+            it["contentDetails"]["videoId"]
+            for it in data.get("items", [])
+            if it["contentDetails"]["videoId"] not in exclude_ids
+        ]
+        if len(recent) < cfg["min_baseline_videos"]:
+            continue
+        stats = video_details(key, recent)
+        views = [
+            int(v["statistics"].get("viewCount", 0) or 0)
+            for v in stats.values()
+            # only long-form uploads count toward the baseline, Shorts skew it
+            if parse_duration(v["contentDetails"].get("duration")) >= cfg["min_duration_sec"]
+        ]
+        if len(views) >= cfg["min_baseline_videos"]:
+            baselines[cid] = statistics.median(views)
+    return baselines, subs
+
+
+def main():
+    key = os.environ.get("YOUTUBE_API_KEY")
+    if not key:
+        sys.exit("Missing YOUTUBE_API_KEY environment variable")
+
+    cfg = load_json(ROOT / "config.json", None)
+    if cfg is None:
+        sys.exit("config.json missing or invalid")
+    seen = set(load_json(ROOT / "seen.json", []))
+
+    now = datetime.now(timezone.utc)
+    published_after = (now - timedelta(days=cfg["lookback_days"])).strftime(
+        "%Y-%m-%dT%H:%M:%SZ"
+    )
+
+    # 1. search every topic
+    candidates = {}  # video id -> topic
+    for topic in cfg["topics"]:
+        for query in topic["queries"]:
+            try:
+                ids = search_videos(key, query, published_after, cfg)
+            except Exception as e:
+                print(f"search failed for '{query}': {e}", file=sys.stderr)
+                continue
+            for vid in ids:
+                if vid not in seen:
+                    candidates.setdefault(vid, topic["name"])
+    print(f"{len(candidates)} new candidate videos")
+
+    # 2. details + filter (long-form only, old enough to judge, enough views)
+    details = video_details(key, list(candidates))
+    min_age = timedelta(days=cfg["min_age_days"])
+    kept = {}
+    for vid, v in details.items():
+        published = datetime.fromisoformat(
+            v["snippet"]["publishedAt"].replace("Z", "+00:00")
+        )
+        views = int(v["statistics"].get("viewCount", 0) or 0)
+        duration = parse_duration(v["contentDetails"].get("duration"))
+        if (
+            duration >= cfg["min_duration_sec"]
+            and now - published >= min_age
+            and views >= cfg["min_views"]
+        ):
+            kept[vid] = v
+    print(f"{len(kept)} long-form videos after filtering")
+
+    # 3. channel baselines
+    channel_ids = sorted({v["snippet"]["channelId"] for v in kept.values()})
+    baselines, subs = channel_baselines(key, channel_ids, set(kept), cfg)
+
+    # 4. score
+    results = []
+    for vid, v in kept.items():
+        cid = v["snippet"]["channelId"]
+        base = baselines.get(cid)
+        if not base:
+            continue
+        views = int(v["statistics"]["viewCount"])
+        score = views / base
+        if score < cfg["min_outlier_score"]:
+            continue
+        results.append(
+            {
+                "video_id": vid,
+                "title": v["snippet"]["title"],
+                "url": f"https://www.youtube.com/watch?v={vid}",
+                "channel": v["snippet"]["channelTitle"],
+                "subscribers": subs.get(cid, 0),
+                "views": views,
+                "channel_median_views": int(base),
+                "outlier_score": round(score, 1),
+                "published": v["snippet"]["publishedAt"][:10],
+                "duration_min": round(parse_duration(v["contentDetails"]["duration"]) / 60),
+                "topic": candidates[vid],
+            }
+        )
+
+    results.sort(key=lambda r: r["outlier_score"], reverse=True)
+    results = results[: cfg["max_results"]]
+
+    out = {"generated": now.strftime("%Y-%m-%d"), "count": len(results), "outliers": results}
+    (ROOT / "outliers.json").write_text(
+        json.dumps(out, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+    )
+    seen.update(r["video_id"] for r in results)
+    (ROOT / "seen.json").write_text(json.dumps(sorted(seen), indent=0) + "\n", encoding="utf-8")
+    print(f"Wrote {len(results)} outliers")
+
+
+if __name__ == "__main__":
+    main()

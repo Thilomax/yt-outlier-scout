@@ -1,0 +1,42 @@
+{
+  "lookback_days": 45,
+  "min_age_days": 3,
+  "min_duration_sec": 300,
+  "min_views": 10000,
+  "min_outlier_score": 3,
+  "results_per_query": 25,
+  "baseline_videos": 30,
+  "min_baseline_videos": 5,
+  "max_results": 30,
+  "language": "en",
+  "topics": [
+    {
+      "name": "Day in the life",
+      "queries": ["day in the life computer science student", "productive day in my life student", "day in my life vlog 20s"]
+    },
+    {
+      "name": "Programming",
+      "queries": ["learning to code journey", "I built an app", "leetcode software engineer interview prep"]
+    },
+    {
+      "name": "Studying",
+      "queries": ["how I study effectively", "university student routine"]
+    },
+    {
+      "name": "Advice & self-improvement",
+      "queries": ["advice for people in their 20s", "how to stop procrastinating", "I tried this for 30 days"]
+    },
+    {
+      "name": "Talking about interests",
+      "queries": ["stoicism philosophy life", "my minimal linux setup", "gym routine as a student"]
+    },
+    {
+      "name": "Short film / cinematic",
+      "queries": ["cinematic short film about life", "personal video essay"]
+    },
+    {
+      "name": "Lists",
+      "queries": ["things I wish I knew earlier"]
+    }
+  ]
+}
