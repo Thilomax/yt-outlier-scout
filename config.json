@@ -16,7 +16,8 @@
         "I tried coding a game in one hour",
         "exploring weird websites",
         "trying cool apps you didn't know existed",
-        "I let AI build my app",
+        "going through my old",
+        "ranking every",
         "programmer reacts"
       ]
     },
@@ -107,6 +108,11 @@
     },
     {
       "name": "Joshua Weissman"
+    },
+    {
+      "name": "katnchat",
+      "handle": "@katnchat",
+      "note": "format reference only: goes through something and gives commentary"
     }
   ]
 }
