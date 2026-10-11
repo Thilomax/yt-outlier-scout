@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 17 * * 0"   # Sundays 17:00 UTC (19:00 Oslo summer time)
   workflow_dispatch:        # lets you run it manually from the Actions tab
+  push:                     # re-run when the script or topics change
+    branches: [main]
+    paths: ["scout.py", "config.json", ".github/workflows/scout.yml"]
 
 permissions:
   contents: write
