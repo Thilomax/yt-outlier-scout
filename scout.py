@@ -355,6 +355,15 @@ def run():
             creator_error = str(e)
             print(f"creator scouting failed: {e}", file=sys.stderr)
 
+    if not results and not creator_results:
+        # nothing new this run: keep last week's file instead of wiping it
+        previous = load_json(ROOT / "outliers.json", {})
+        if previous.get("outliers") or previous.get("creator_outliers"):
+            previous["note"] = f"No new outliers on {now.strftime('%Y-%m-%d')}; kept previous results"
+            (ROOT / "outliers.json").write_text(json.dumps(previous, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+            print("No new outliers; kept previous results")
+            return
+
     out = {
         "generated": now.strftime("%Y-%m-%d"),
         "count": len(results),
