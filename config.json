@@ -61,5 +61,41 @@
         "things I wish I knew earlier"
       ]
     }
+  ],
+  "creator_lookback_days": 90,
+  "creator_min_score": 1.5,
+  "max_creator_results": 15,
+  "creators": [
+    {
+      "name": "Steph Ran",
+      "core": true
+    },
+    {
+      "name": "Gazi",
+      "core": true
+    },
+    {
+      "name": "Ryan Trahan",
+      "core": true
+    },
+    {
+      "name": "Bog",
+      "core": true
+    },
+    {
+      "name": "Kelly Wakasa"
+    },
+    {
+      "name": "Will Tennyson"
+    },
+    {
+      "name": "Lil Code"
+    },
+    {
+      "name": "Marques Brownlee"
+    },
+    {
+      "name": "Joshua Weissman"
+    }
   ]
 }

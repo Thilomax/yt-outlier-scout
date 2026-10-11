@@ -133,6 +133,94 @@ def channel_baselines(key, channel_ids, exclude_ids, cfg):
     return baselines, subs
 
 
+def resolve_creators(key, creators):
+    """Map creator names to channel IDs. Results are cached in creators_cache.json
+    so the expensive search (100 quota units) only happens once per creator.
+    A creator in config.json can pin an exact channel with "id"."""
+    cache_path = ROOT / "creators_cache.json"
+    cache = load_json(cache_path, {})
+    for c in creators:
+        name = c["name"]
+        if c.get("id"):
+            cache[name] = {"id": c["id"], "title": cache.get(name, {}).get("title", name), "pinned": True}
+            continue
+        if name in cache:
+            continue
+        data = api_get("search", key, part="snippet", q=name, type="channel", maxResults=1)
+        items = data.get("items", [])
+        if items:
+            cache[name] = {
+                "id": items[0]["snippet"]["channelId"],
+                "title": items[0]["snippet"]["channelTitle"],
+            }
+        else:
+            print(f"  no channel found for {name}", file=sys.stderr)
+    cache_path.write_text(json.dumps(cache, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return cache
+
+
+def creator_outliers(key, creators, cache, seen, now, cfg):
+    """Recent videos from chosen creators that beat that creator's own median."""
+    lookback = timedelta(days=cfg.get("creator_lookback_days", 90))
+    min_age = timedelta(days=cfg["min_age_days"])
+    min_score = cfg.get("creator_min_score", 1.5)
+    core = {c["name"] for c in creators if c.get("core")}
+    by_id = {cache[c["name"]]["id"]: c["name"] for c in creators if c["name"] in cache}
+
+    results = []
+    for batch in chunks(list(by_id)):
+        data = api_get("channels", key, part="contentDetails,statistics", id=",".join(batch))
+        for ch in data.get("items", []):
+            name = by_id[ch["id"]]
+            subs = int(ch["statistics"].get("subscriberCount", 0) or 0)
+            playlist = ch["contentDetails"]["relatedPlaylists"]["uploads"]
+            try:
+                items = api_get(
+                    "playlistItems", key, part="contentDetails",
+                    playlistId=playlist, maxResults=cfg["baseline_videos"],
+                ).get("items", [])
+            except Exception as e:
+                print(f"  skip creator {name}: {e}", file=sys.stderr)
+                continue
+            vids = video_details(key, [it["contentDetails"]["videoId"] for it in items])
+            longform = {
+                vid: v for vid, v in vids.items()
+                if parse_duration(v["contentDetails"].get("duration")) >= cfg["min_duration_sec"]
+            }
+            views = [int(v["statistics"].get("viewCount", 0) or 0) for v in longform.values()]
+            if len(views) < cfg["min_baseline_videos"]:
+                continue
+            base = statistics.median(views)
+            if not base:
+                continue
+            for vid, v in longform.items():
+                published = datetime.fromisoformat(v["snippet"]["publishedAt"].replace("Z", "+00:00"))
+                age = now - published
+                if vid in seen or age < min_age or age > lookback:
+                    continue
+                score = int(v["statistics"].get("viewCount", 0) or 0) / base
+                if score < min_score:
+                    continue
+                results.append(
+                    {
+                        "video_id": vid,
+                        "title": v["snippet"]["title"],
+                        "url": f"https://www.youtube.com/watch?v={vid}",
+                        "channel": v["snippet"]["channelTitle"],
+                        "creator": name,
+                        "core_vibe": name in core,
+                        "subscribers": subs,
+                        "views": int(v["statistics"]["viewCount"]),
+                        "channel_median_views": int(base),
+                        "outlier_score": round(score, 1),
+                        "published": v["snippet"]["publishedAt"][:10],
+                        "duration_min": round(parse_duration(v["contentDetails"]["duration"]) / 60),
+                    }
+                )
+    results.sort(key=lambda r: r["outlier_score"], reverse=True)
+    return results[: cfg.get("max_creator_results", 15)]
+
+
 def write_error(message):
     """Record a failed run in outliers.json so it is visible without the Actions logs."""
     out = {
@@ -238,13 +326,32 @@ def run():
     results.sort(key=lambda r: r["outlier_score"], reverse=True)
     results = results[: cfg["max_results"]]
 
-    out = {"generated": now.strftime("%Y-%m-%d"), "count": len(results), "outliers": results}
+    # 5. creators he likes (an extra source, never the only one)
+    creator_results, creator_error = [], None
+    creators = cfg.get("creators", [])
+    if creators:
+        try:
+            cache = resolve_creators(key, creators)
+            creator_results = creator_outliers(key, creators, cache, seen, now, cfg)
+        except Exception as e:  # keyword results still get written
+            creator_error = str(e)
+            print(f"creator scouting failed: {e}", file=sys.stderr)
+
+    out = {
+        "generated": now.strftime("%Y-%m-%d"),
+        "count": len(results),
+        "outliers": results,
+        "creator_outliers": creator_results,
+    }
+    if creator_error:
+        out["creator_error"] = creator_error
     (ROOT / "outliers.json").write_text(
         json.dumps(out, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
     seen.update(r["video_id"] for r in results)
+    seen.update(r["video_id"] for r in creator_results)
     (ROOT / "seen.json").write_text(json.dumps(sorted(seen), indent=0) + "\n", encoding="utf-8")
-    print(f"Wrote {len(results)} outliers")
+    print(f"Wrote {len(results)} keyword outliers and {len(creator_results)} creator outliers")
 
 
 if __name__ == "__main__":
