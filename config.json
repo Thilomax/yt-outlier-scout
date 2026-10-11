@@ -12,31 +12,54 @@
   "topics": [
     {
       "name": "Day in the life",
-      "queries": ["day in the life computer science student", "productive day in my life student", "day in my life vlog 20s"]
+      "queries": [
+        "day in the life computer science student",
+        "productive day in my life student",
+        "day in my life vlog 20s"
+      ]
     },
     {
       "name": "Programming",
-      "queries": ["learning to code journey", "I built an app", "leetcode software engineer interview prep"]
+      "queries": [
+        "learning to code journey",
+        "I built an app",
+        "leetcode software engineer interview prep"
+      ]
     },
     {
       "name": "Studying",
-      "queries": ["how I study effectively", "university student routine"]
+      "queries": [
+        "how I study effectively",
+        "university student routine"
+      ]
     },
     {
       "name": "Advice & self-improvement",
-      "queries": ["advice for people in their 20s", "how to stop procrastinating", "I tried this for 30 days"]
+      "queries": [
+        "advice for people in their 20s",
+        "how to stop procrastinating",
+        "I tried this for 30 days"
+      ]
     },
     {
       "name": "Talking about interests",
-      "queries": ["stoicism philosophy life", "my minimal linux setup", "gym routine as a student"]
+      "queries": [
+        "stoicism philosophy life",
+        "gym routine as a student"
+      ]
     },
     {
       "name": "Short film / cinematic",
-      "queries": ["cinematic short film about life", "personal video essay"]
+      "queries": [
+        "cinematic short film about life",
+        "personal video essay"
+      ]
     },
     {
       "name": "Lists",
-      "queries": ["things I wish I knew earlier"]
+      "queries": [
+        "things I wish I knew earlier"
+      ]
     }
   ]
 }
