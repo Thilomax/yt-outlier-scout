@@ -72,7 +72,8 @@
     },
     {
       "name": "Gazi",
-      "core": true
+      "core": true,
+      "handle": "@gaziai"
     },
     {
       "name": "Ryan Trahan",

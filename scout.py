@@ -144,6 +144,16 @@ def resolve_creators(key, creators):
         if c.get("id"):
             cache[name] = {"id": c["id"], "title": cache.get(name, {}).get("title", name), "pinned": True}
             continue
+        if c.get("handle"):
+            if cache.get(name, {}).get("handle") == c["handle"]:
+                continue
+            data = api_get("channels", key, part="snippet", forHandle=c["handle"])
+            items = data.get("items", [])
+            if items:
+                cache[name] = {"id": items[0]["id"], "title": items[0]["snippet"]["title"], "handle": c["handle"]}
+            else:
+                print(f"  no channel found for handle {c['handle']}", file=sys.stderr)
+            continue
         if name in cache:
             continue
         data = api_get("search", key, part="snippet", q=name, type="channel", maxResults=1)
