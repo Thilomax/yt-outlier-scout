@@ -11,6 +11,16 @@
   "language": "en",
   "topics": [
     {
+      "name": "PC-only (facecam + screen, under 2h to record)",
+      "queries": [
+        "I tried coding a game in one hour",
+        "exploring weird websites",
+        "trying cool apps you didn't know existed",
+        "I let AI build my app",
+        "programmer reacts"
+      ]
+    },
+    {
       "name": "Day in the life",
       "queries": [
         "day in the life computer science student",
