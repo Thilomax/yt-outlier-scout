@@ -232,13 +232,21 @@ def creator_outliers(key, creators, cache, seen, now, cfg):
 
 
 def write_error(message):
-    """Record a failed run in outliers.json so it is visible without the Actions logs."""
-    out = {
-        "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-        "count": 0,
-        "error": message,
-        "outliers": [],
-    }
+    """Record a failed run in outliers.json so it is visible without the Actions logs.
+    If an earlier run left good results, keep them and only note the failure, so a
+    temporary problem (e.g. API quota) doesn't wipe the week's ideas."""
+    previous = load_json(ROOT / "outliers.json", {})
+    if previous.get("outliers") or previous.get("creator_outliers"):
+        previous["last_error"] = message
+        previous.pop("error", None)
+        out = previous
+    else:
+        out = {
+            "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            "count": 0,
+            "error": message,
+            "outliers": [],
+        }
     (ROOT / "outliers.json").write_text(json.dumps(out, indent=2) + "\n", encoding="utf-8")
 
 
