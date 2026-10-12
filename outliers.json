@@ -1,7 +1,23 @@
 {
   "generated": "2026-10-12",
-  "count": 18,
+  "pool_days": 7,
+  "new_today": 37,
+  "count": 55,
   "outliers": [
+    {
+      "video_id": "evFRP1o5-eM",
+      "title": "Crimson Desert - Essential Tips - Things I Wish I Knew Sooner",
+      "url": "https://www.youtube.com/watch?v=evFRP1o5-eM",
+      "channel": "Cousin Bobby",
+      "subscribers": 483,
+      "views": 64466,
+      "channel_median_views": 122,
+      "outlier_score": 528.4,
+      "published": "2026-09-11",
+      "duration_min": 15,
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
     {
       "video_id": "b39qd9UpviY",
       "title": "Kidilampally Cinematic Universe | Malayalam Fantasy Short Film | Venkitesh VP | Jamshi K S",
@@ -13,7 +29,64 @@
       "outlier_score": 209.9,
       "published": "2026-09-18",
       "duration_min": 51,
-      "topic": "Short film / cinematic"
+      "topic": "Short film / cinematic",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "wYVjvMXBMBI",
+      "title": "Nobody Cares About You — And That's Your Power | Stoic Philosophy",
+      "url": "https://www.youtube.com/watch?v=wYVjvMXBMBI",
+      "channel": "Stotic Motivational HUB",
+      "subscribers": 736,
+      "views": 37827,
+      "channel_median_views": 225,
+      "outlier_score": 168.1,
+      "published": "2026-09-03",
+      "duration_min": 31,
+      "topic": "Talking about interests",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "sYQ6Zb_d1vI",
+      "title": "Nightmare Mode: 5 Things I Wish I Knew Before Starting",
+      "url": "https://www.youtube.com/watch?v=sYQ6Zb_d1vI",
+      "channel": "GAMECHRONE 🇦🇺 Aussie Live",
+      "subscribers": 6140,
+      "views": 149046,
+      "channel_median_views": 1078,
+      "outlier_score": 138.3,
+      "published": "2026-10-03",
+      "duration_min": 119,
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "Gbq7o7iEChI",
+      "title": "I’m 35—Here Are 10 Things I Wish I Knew at 30",
+      "url": "https://www.youtube.com/watch?v=Gbq7o7iEChI",
+      "channel": "DiaryByMartha",
+      "subscribers": 3440,
+      "views": 91297,
+      "channel_median_views": 674,
+      "outlier_score": 135.5,
+      "published": "2026-09-06",
+      "duration_min": 20,
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "Wdqm4eF0MRo",
+      "title": "5 Things I Wish I Knew Before Growing My Hair Out",
+      "url": "https://www.youtube.com/watch?v=Wdqm4eF0MRo",
+      "channel": "Cole Bussell",
+      "subscribers": 6610,
+      "views": 151129,
+      "channel_median_views": 1537,
+      "outlier_score": 98.3,
+      "published": "2026-10-05",
+      "duration_min": 7,
+      "topic": "Lists",
+      "found": "2026-10-12"
     },
     {
       "video_id": "f1gkkzHZxNg",
@@ -26,7 +99,22 @@
       "outlier_score": 47.8,
       "published": "2026-08-30",
       "duration_min": 15,
-      "topic": "Studying"
+      "topic": "Studying",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "ciZh11OQXtM",
+      "title": "THE WITCH & THE BEAST | AI Fantasy Short Film (Cinematic 4K)",
+      "url": "https://www.youtube.com/watch?v=ciZh11OQXtM",
+      "channel": "NEXORA\nSTUDIOS",
+      "subscribers": 819,
+      "views": 23390,
+      "channel_median_views": 576,
+      "outlier_score": 40.6,
+      "published": "2026-09-17",
+      "duration_min": 8,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-12"
     },
     {
       "video_id": "QLLQVFF5Kg4",
@@ -39,7 +127,36 @@
       "outlier_score": 32.3,
       "published": "2026-10-01",
       "duration_min": 22,
-      "topic": "PC-only (facecam + screen, under 2h to record)"
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "bCVsfL-JPBE",
+      "title": "2 Designers Built This iOS App That Brings In $160K+ a Year ✦ Ryan & Sarah",
+      "url": "https://www.youtube.com/watch?v=bCVsfL-JPBE",
+      "channel": "Minjun Chen",
+      "subscribers": 3350,
+      "views": 58370,
+      "channel_median_views": 1890,
+      "outlier_score": 30.9,
+      "published": "2026-09-27",
+      "duration_min": 50,
+      "topic": "Programming",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "juQhm3Z5CB4",
+      "title": "The Witcher Games Got Me Through the Hardest Year of My Life",
+      "url": "https://www.youtube.com/watch?v=juQhm3Z5CB4",
+      "channel": "Bernard's Save Files",
+      "subscribers": 328,
+      "views": 20819,
+      "channel_median_views": 679,
+      "outlier_score": 30.7,
+      "published": "2026-09-25",
+      "duration_min": 16,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-12"
     },
     {
       "video_id": "xLwgYzdOD4A",
@@ -52,7 +169,8 @@
       "outlier_score": 30.0,
       "published": "2026-09-15",
       "duration_min": 7,
-      "topic": "Programming"
+      "topic": "Programming",
+      "found": "2026-10-12"
     },
     {
       "video_id": "zQYRZ4gOUso",
@@ -65,7 +183,22 @@
       "outlier_score": 27.9,
       "published": "2026-09-24",
       "duration_min": 19,
-      "topic": "Lists"
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "vTkrReXKIdw",
+      "title": "теория ОЧЕНЬ нишевого интернета",
+      "url": "https://www.youtube.com/watch?v=vTkrReXKIdw",
+      "channel": "VEOCH",
+      "subscribers": 2270,
+      "views": 90459,
+      "channel_median_views": 3391,
+      "outlier_score": 26.7,
+      "published": "2026-09-05",
+      "duration_min": 6,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
     },
     {
       "video_id": "J_of765rwfM",
@@ -78,7 +211,22 @@
       "outlier_score": 25.0,
       "published": "2026-10-07",
       "duration_min": 11,
-      "topic": "PC-only (facecam + screen, under 2h to record)"
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "2_oIQRvByzg",
+      "title": "6 Things I Wish I Knew BEFORE Playing Once Human",
+      "url": "https://www.youtube.com/watch?v=2_oIQRvByzg",
+      "channel": "SenileSarge",
+      "subscribers": 3340,
+      "views": 77225,
+      "channel_median_views": 3143,
+      "outlier_score": 24.6,
+      "published": "2026-09-04",
+      "duration_min": 14,
+      "topic": "Lists",
+      "found": "2026-10-12"
     },
     {
       "video_id": "TU2wOaP0f0c",
@@ -91,7 +239,22 @@
       "outlier_score": 15.3,
       "published": "2026-09-26",
       "duration_min": 55,
-      "topic": "PC-only (facecam + screen, under 2h to record)"
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "5dCPkjKMwzo",
+      "title": "🔴 IND W Vs SL W Live Match Commentary, Final, Asia Cup Women Cricket Live Match | Live Cricket Match",
+      "url": "https://www.youtube.com/watch?v=5dCPkjKMwzo",
+      "channel": "UH Sports",
+      "subscribers": 809000,
+      "views": 1232062,
+      "channel_median_views": 88636,
+      "outlier_score": 13.9,
+      "published": "2026-09-13",
+      "duration_min": 176,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
     },
     {
       "video_id": "2OXxGEhlVHs",
@@ -104,7 +267,8 @@
       "outlier_score": 12.6,
       "published": "2026-09-22",
       "duration_min": 18,
-      "topic": "Talking about interests"
+      "topic": "Talking about interests",
+      "found": "2026-10-12"
     },
     {
       "video_id": "leAN8i9QtCY",
@@ -117,7 +281,36 @@
       "outlier_score": 12.4,
       "published": "2026-09-26",
       "duration_min": 23,
-      "topic": "Short film / cinematic"
+      "topic": "Short film / cinematic",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "ugGMcu-iUaQ",
+      "title": "I Spent 24 Hours with WORLD'S SHORTEST WOMAN (SHE FIT IN MY SHOE!) | Jordan Matter & Salish",
+      "url": "https://www.youtube.com/watch?v=ugGMcu-iUaQ",
+      "channel": "Salish Daily",
+      "subscribers": 1250,
+      "views": 31946,
+      "channel_median_views": 2803,
+      "outlier_score": 11.4,
+      "published": "2026-10-08",
+      "duration_min": 255,
+      "topic": "Advice & self-improvement",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "WwiIJsEkcoE",
+      "title": "I Built a Visual Music App",
+      "url": "https://www.youtube.com/watch?v=WwiIJsEkcoE",
+      "channel": "Designer In Japan",
+      "subscribers": 18700,
+      "views": 63067,
+      "channel_median_views": 6110,
+      "outlier_score": 10.3,
+      "published": "2026-09-25",
+      "duration_min": 7,
+      "topic": "Programming",
+      "found": "2026-10-12"
     },
     {
       "video_id": "LpIbuDjRq8I",
@@ -130,7 +323,8 @@
       "outlier_score": 9.7,
       "published": "2026-09-30",
       "duration_min": 56,
-      "topic": "PC-only (facecam + screen, under 2h to record)"
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
     },
     {
       "video_id": "Usxx8o3lTxI",
@@ -143,7 +337,50 @@
       "outlier_score": 9.1,
       "published": "2026-09-28",
       "duration_min": 141,
-      "topic": "PC-only (facecam + screen, under 2h to record)"
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "1NRBTEQALu0",
+      "title": "15 Things I Wish I Knew BEFORE Starting Dune Awakening | Patch 1.5",
+      "url": "https://www.youtube.com/watch?v=1NRBTEQALu0",
+      "channel": "Overlord Alex Gaming",
+      "subscribers": 2110,
+      "views": 80161,
+      "channel_median_views": 8950,
+      "outlier_score": 9.0,
+      "published": "2026-09-16",
+      "duration_min": 16,
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "G4sMyUQ6s3w",
+      "title": "WOLVERINE PS5 Gameplay Walkthrough FULL GAME [4K 60FPS] - No Commentary",
+      "url": "https://www.youtube.com/watch?v=G4sMyUQ6s3w",
+      "channel": "MKIceAndFire",
+      "subscribers": 4770000,
+      "views": 1517503,
+      "channel_median_views": 178898,
+      "outlier_score": 8.5,
+      "published": "2026-09-15",
+      "duration_min": 712,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "0fTGMUTdq9M",
+      "title": "Active Matter Beginner Guide – Things I Wish I Knew Before Playing",
+      "url": "https://www.youtube.com/watch?v=0fTGMUTdq9M",
+      "channel": "SiNisterFPS",
+      "subscribers": 57900,
+      "views": 83491,
+      "channel_median_views": 10033,
+      "outlier_score": 8.3,
+      "published": "2026-09-16",
+      "duration_min": 33,
+      "topic": "Lists",
+      "found": "2026-10-12"
     },
     {
       "video_id": "7U5wM1Qs9Vo",
@@ -156,7 +393,22 @@
       "outlier_score": 8.2,
       "published": "2026-09-07",
       "duration_min": 166,
-      "topic": "PC-only (facecam + screen, under 2h to record)"
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "J7UxNjpGGGk",
+      "title": "10 Things I Wish I Knew Before Starting Dragonwilds",
+      "url": "https://www.youtube.com/watch?v=J7UxNjpGGGk",
+      "channel": "Spopes",
+      "subscribers": 16400,
+      "views": 79941,
+      "channel_median_views": 10547,
+      "outlier_score": 7.6,
+      "published": "2026-09-17",
+      "duration_min": 10,
+      "topic": "Lists",
+      "found": "2026-10-12"
     },
     {
       "video_id": "Ju41cQSe7hY",
@@ -169,7 +421,8 @@
       "outlier_score": 7.5,
       "published": "2026-09-07",
       "duration_min": 24,
-      "topic": "Advice & self-improvement"
+      "topic": "Advice & self-improvement",
+      "found": "2026-10-12"
     },
     {
       "video_id": "c_CYUGfg5DI",
@@ -182,7 +435,78 @@
       "outlier_score": 6.8,
       "published": "2026-08-28",
       "duration_min": 31,
-      "topic": "PC-only (facecam + screen, under 2h to record)"
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "ghuwqDwLqNM",
+      "title": "The Beyonce Mindset",
+      "url": "https://www.youtube.com/watch?v=ghuwqDwLqNM",
+      "channel": "The Muse Manual",
+      "subscribers": 3610,
+      "views": 57892,
+      "channel_median_views": 9161,
+      "outlier_score": 6.3,
+      "published": "2026-09-10",
+      "duration_min": 10,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "GLO1voinujQ",
+      "title": "Obsidian replaced the app I built. ICOR for Life is free.",
+      "url": "https://www.youtube.com/watch?v=GLO1voinujQ",
+      "channel": "ICOR with Tom | AI Productivity",
+      "subscribers": 113000,
+      "views": 46286,
+      "channel_median_views": 7497,
+      "outlier_score": 6.2,
+      "published": "2026-08-30",
+      "duration_min": 31,
+      "topic": "Programming",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "YZo4ooAnlDk",
+      "title": "This 3-Hour Video Will Change Your Life | Stoicism Philosophy",
+      "url": "https://www.youtube.com/watch?v=YZo4ooAnlDk",
+      "channel": "The Stoic Method",
+      "subscribers": 1330,
+      "views": 28472,
+      "channel_median_views": 5123,
+      "outlier_score": 5.6,
+      "published": "2026-09-25",
+      "duration_min": 199,
+      "topic": "Talking about interests",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "c8UzmACUd8g",
+      "title": "“THINGS I WISH I KNEW BEFORE GETTING MARRIED”🥺💔 WOMEN SPEAK OUT‼️🥴🤦‍♀️MARRIAGE AIN’T WHAT YOU THINK ",
+      "url": "https://www.youtube.com/watch?v=c8UzmACUd8g",
+      "channel": "LYZANDRA",
+      "subscribers": 67800,
+      "views": 120532,
+      "channel_median_views": 23800,
+      "outlier_score": 5.1,
+      "published": "2026-09-14",
+      "duration_min": 33,
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "RKVtRzf3IIU",
+      "title": "What The Game DOESN'T Tell You! Everything I Wish I Knew! // Aion 2 Beginner Guide",
+      "url": "https://www.youtube.com/watch?v=RKVtRzf3IIU",
+      "channel": "Moxsy",
+      "subscribers": 552000,
+      "views": 121954,
+      "channel_median_views": 24616,
+      "outlier_score": 5.0,
+      "published": "2026-10-06",
+      "duration_min": 21,
+      "topic": "Lists",
+      "found": "2026-10-12"
     },
     {
       "video_id": "rqdJSawu2R4",
@@ -195,7 +519,92 @@
       "outlier_score": 4.9,
       "published": "2026-09-30",
       "duration_min": 10,
-      "topic": "Advice & self-improvement"
+      "topic": "Advice & self-improvement",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "jV_Zrz8J1q4",
+      "title": "CONTROL YOUR MOUTH, MIND, MOOD & MONEY — MASTER YOUR LIFE | STOICISM Philosophy",
+      "url": "https://www.youtube.com/watch?v=jV_Zrz8J1q4",
+      "channel": "The Stoic Method",
+      "subscribers": 1330,
+      "views": 24818,
+      "channel_median_views": 5123,
+      "outlier_score": 4.8,
+      "published": "2026-10-03",
+      "duration_min": 174,
+      "topic": "Talking about interests",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "-GHPr3I6V3A",
+      "title": "9 Things I Wish I Knew Before Playing Star Wars: Zero Company",
+      "url": "https://www.youtube.com/watch?v=-GHPr3I6V3A",
+      "channel": "Gaming with Griff Griffin",
+      "subscribers": 109000,
+      "views": 72310,
+      "channel_median_views": 15151,
+      "outlier_score": 4.8,
+      "published": "2026-09-07",
+      "duration_min": 13,
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "xhsIWMjE84E",
+      "title": "The Happiest People Do These 12 tiny Habits Every Day |  Stoicism",
+      "url": "https://www.youtube.com/watch?v=xhsIWMjE84E",
+      "channel": "Wisdom of the Stoics",
+      "subscribers": 40400,
+      "views": 41151,
+      "channel_median_views": 8672,
+      "outlier_score": 4.7,
+      "published": "2026-09-20",
+      "duration_min": 35,
+      "topic": "Talking about interests",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "MiV_l-AW5-o",
+      "title": "6AM autumn morning routine 🍂 rainy & cosy",
+      "url": "https://www.youtube.com/watch?v=MiV_l-AW5-o",
+      "channel": "Becca Watson",
+      "subscribers": 328000,
+      "views": 133301,
+      "channel_median_views": 31235,
+      "outlier_score": 4.3,
+      "published": "2026-09-13",
+      "duration_min": 12,
+      "topic": "Studying",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "xSezMq0N18o",
+      "title": "बस 02 महीने पागल बनकर पढ़ना होगा बेटा🔥| STUDY MOTIVATION",
+      "url": "https://www.youtube.com/watch?v=xSezMq0N18o",
+      "channel": "PW Emotion",
+      "subscribers": 1330000,
+      "views": 185564,
+      "channel_median_views": 46379,
+      "outlier_score": 4.0,
+      "published": "2026-10-05",
+      "duration_min": 8,
+      "topic": "Studying",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "4FgN9QKQKZI",
+      "title": "This farming game is better than Leetcode",
+      "url": "https://www.youtube.com/watch?v=4FgN9QKQKZI",
+      "channel": "Coding Jesus (getcracked.io)",
+      "subscribers": 289000,
+      "views": 144470,
+      "channel_median_views": 36671,
+      "outlier_score": 3.9,
+      "published": "2026-09-26",
+      "duration_min": 13,
+      "topic": "Programming",
+      "found": "2026-10-12"
     },
     {
       "video_id": "pJ0xI2M9yzs",
@@ -208,7 +617,8 @@
       "outlier_score": 3.7,
       "published": "2026-10-03",
       "duration_min": 100,
-      "topic": "PC-only (facecam + screen, under 2h to record)"
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
     },
     {
       "video_id": "1CVcMo37H1s",
@@ -221,7 +631,36 @@
       "outlier_score": 3.6,
       "published": "2026-10-08",
       "duration_min": 23,
-      "topic": "Advice & self-improvement"
+      "topic": "Advice & self-improvement",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "_S4Ia3Mh0UQ",
+      "title": "2026 年 AI 都會寫程式了,工程師面試還要考演算法嗎?",
+      "url": "https://www.youtube.com/watch?v=_S4Ia3Mh0UQ",
+      "channel": "Debug 土撥鼠",
+      "subscribers": 30900,
+      "views": 85771,
+      "channel_median_views": 23506,
+      "outlier_score": 3.6,
+      "published": "2026-10-06",
+      "duration_min": 11,
+      "topic": "Programming",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "a2LeOzbqHkk",
+      "title": "Things I Wish I Knew Earlier In The Witcher 3 Remastered (Tips & Tricks)",
+      "url": "https://www.youtube.com/watch?v=a2LeOzbqHkk",
+      "channel": "LunarGaming",
+      "subscribers": 265000,
+      "views": 124154,
+      "channel_median_views": 34781,
+      "outlier_score": 3.6,
+      "published": "2026-09-29",
+      "duration_min": 10,
+      "topic": "Lists",
+      "found": "2026-10-12"
     },
     {
       "video_id": "dZH9f-Kxbas",
@@ -234,7 +673,106 @@
       "outlier_score": 3.5,
       "published": "2026-09-22",
       "duration_min": 42,
-      "topic": "PC-only (facecam + screen, under 2h to record)"
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "kW9DruMHWRc",
+      "title": "The Witcher 3 Remastered - 15 Things I Wish I Knew Before Starting The Game",
+      "url": "https://www.youtube.com/watch?v=kW9DruMHWRc",
+      "channel": "GamingBolt",
+      "subscribers": 1350000,
+      "views": 131340,
+      "channel_median_views": 37145,
+      "outlier_score": 3.5,
+      "published": "2026-09-29",
+      "duration_min": 10,
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "HJcMG565bdo",
+      "title": "10 MORE Things I Wish I Knew SOONER in Fire Emblem Fortune's Weave",
+      "url": "https://www.youtube.com/watch?v=HJcMG565bdo",
+      "channel": "Jay Dunna ",
+      "subscribers": 149000,
+      "views": 68194,
+      "channel_median_views": 19243,
+      "outlier_score": 3.5,
+      "published": "2026-09-20",
+      "duration_min": 11,
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "b_5ejVMW7sM",
+      "title": "Live: India vs Japan, 1ST T20I, 2026 Series, Cricket Match Today Score Commentary, CricTalks",
+      "url": "https://www.youtube.com/watch?v=b_5ejVMW7sM",
+      "channel": "CricTalks Live",
+      "subscribers": 1720000,
+      "views": 2116763,
+      "channel_median_views": 619249,
+      "outlier_score": 3.4,
+      "published": "2026-09-22",
+      "duration_min": 344,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "K4t-GSiJ6Zg",
+      "title": "17 SAAL Se Ye Train Kabhi Nahi RUKI | Film/Movie Explained in Hindi/ Urdu Story",
+      "url": "https://www.youtube.com/watch?v=K4t-GSiJ6Zg",
+      "channel": "Hidden Film",
+      "subscribers": 12900,
+      "views": 205684,
+      "channel_median_views": 62572,
+      "outlier_score": 3.3,
+      "published": "2026-09-09",
+      "duration_min": 17,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "zB0HTtQDCc0",
+      "title": "ঢাবিতে পুরো ২৪ ঘণ্টা আমার কিভাবে কাটে? A random day in my life at DU | Daily Vlog-03",
+      "url": "https://www.youtube.com/watch?v=zB0HTtQDCc0",
+      "channel": "Abdullah Al Fahad",
+      "subscribers": 15100,
+      "views": 168479,
+      "channel_median_views": 53966,
+      "outlier_score": 3.1,
+      "published": "2026-10-03",
+      "duration_min": 17,
+      "topic": "Studying",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "2LwW-_qVev8",
+      "title": "Lionel Messi Emotional Last Game For Argentina 💔 1 Goal & 2 Assists",
+      "url": "https://www.youtube.com/watch?v=2LwW-_qVev8",
+      "channel": "ELEVEN™",
+      "subscribers": 356000,
+      "views": 2572852,
+      "channel_median_views": 854812,
+      "outlier_score": 3.0,
+      "published": "2026-10-07",
+      "duration_min": 16,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "czswgGCAS7o",
+      "title": "How to Worry Less About Life | 10 Stoic Lessons to Protect Your Inner Peace | Stoicism  ",
+      "url": "https://www.youtube.com/watch?v=czswgGCAS7o",
+      "channel": "Wisdom of the Stoics",
+      "subscribers": 40400,
+      "views": 26397,
+      "channel_median_views": 8672,
+      "outlier_score": 3.0,
+      "published": "2026-09-23",
+      "duration_min": 36,
+      "topic": "Talking about interests",
+      "found": "2026-10-12"
     }
   ],
   "creator_outliers": [
@@ -250,7 +788,8 @@
       "channel_median_views": 114567,
       "outlier_score": 2.2,
       "published": "2026-08-30",
-      "duration_min": 26
+      "duration_min": 26,
+      "found": "2026-10-12"
     },
     {
       "video_id": "xxQpZMibyDw",
@@ -264,7 +803,8 @@
       "channel_median_views": 114567,
       "outlier_score": 1.9,
       "published": "2026-08-08",
-      "duration_min": 21
+      "duration_min": 21,
+      "found": "2026-10-12"
     },
     {
       "video_id": "gKkQ21oOoj4",
@@ -278,7 +818,8 @@
       "channel_median_views": 114567,
       "outlier_score": 1.8,
       "published": "2026-09-15",
-      "duration_min": 10
+      "duration_min": 10,
+      "found": "2026-10-12"
     },
     {
       "video_id": "bLPTkdADd_0",
@@ -292,7 +833,8 @@
       "channel_median_views": 114567,
       "outlier_score": 1.5,
       "published": "2026-09-25",
-      "duration_min": 15
+      "duration_min": 15,
+      "found": "2026-10-12"
     }
   ]
 }
