@@ -231,10 +231,24 @@ def creator_outliers(key, creators, cache, seen, now, cfg):
     return results[: cfg.get("max_creator_results", 15)]
 
 
+def merge_pool(previous, field, new_items, now, cfg):
+    """Previous finds still inside the pool window, plus today's new ones, best first."""
+    cutoff = (now - timedelta(days=cfg.get("pool_days", 7))).strftime("%Y-%m-%d")
+    fallback = previous.get("generated", now.strftime("%Y-%m-%d"))
+    pool = {}
+    for r in previous.get(field, []) or []:
+        r.setdefault("found", fallback)
+        if r["found"] > cutoff:
+            pool[r["video_id"]] = r
+    for r in new_items:
+        pool[r["video_id"]] = r
+    return sorted(pool.values(), key=lambda r: r["outlier_score"], reverse=True)
+
+
 def write_error(message):
     """Record a failed run in outliers.json so it is visible without the Actions logs.
     If an earlier run left good results, keep them and only note the failure, so a
-    temporary problem (e.g. API quota) doesn't wipe the week's ideas."""
+    temporary problem (e.g. API quota) doesn't wipe the week's pool."""
     previous = load_json(ROOT / "outliers.json", {})
     if previous.get("outliers") or previous.get("creator_outliers"):
         previous["last_error"] = message
@@ -355,20 +369,24 @@ def run():
             creator_error = str(e)
             print(f"creator scouting failed: {e}", file=sys.stderr)
 
-    if not results and not creator_results:
-        # nothing new this run: keep last week's file instead of wiping it
-        previous = load_json(ROOT / "outliers.json", {})
-        if previous.get("outliers") or previous.get("creator_outliers"):
-            previous["note"] = f"No new outliers on {now.strftime('%Y-%m-%d')}; kept previous results"
-            (ROOT / "outliers.json").write_text(json.dumps(previous, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-            print("No new outliers; kept previous results")
-            return
+    # 6. merge into the rolling pool: keep finds from the last `pool_days` days so a
+    # daily scraper builds up a full week of candidates for the weekly Notion run
+    today = now.strftime("%Y-%m-%d")
+    for r in results + creator_results:
+        r["found"] = today
+    previous = load_json(ROOT / "outliers.json", {})
+    outliers_pool = merge_pool(previous, "outliers", results, now, cfg)[: cfg["max_results"]]
+    creators_pool = merge_pool(previous, "creator_outliers", creator_results, now, cfg)[
+        : cfg.get("max_creator_results", 15)
+    ]
 
     out = {
-        "generated": now.strftime("%Y-%m-%d"),
-        "count": len(results),
-        "outliers": results,
-        "creator_outliers": creator_results,
+        "generated": today,
+        "pool_days": cfg.get("pool_days", 7),
+        "new_today": len(results) + len(creator_results),
+        "count": len(outliers_pool),
+        "outliers": outliers_pool,
+        "creator_outliers": creators_pool,
     }
     if creator_error:
         out["creator_error"] = creator_error
@@ -378,7 +396,10 @@ def run():
     seen.update(r["video_id"] for r in results)
     seen.update(r["video_id"] for r in creator_results)
     (ROOT / "seen.json").write_text(json.dumps(sorted(seen), indent=0) + "\n", encoding="utf-8")
-    print(f"Wrote {len(results)} keyword outliers and {len(creator_results)} creator outliers")
+    print(
+        f"{len(results)} new keyword and {len(creator_results)} new creator outliers; "
+        f"pool now {len(outliers_pool)} + {len(creators_pool)}"
+    )
 
 
 if __name__ == "__main__":

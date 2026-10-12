@@ -1,8 +1,8 @@
-name: Weekly outlier scout
+name: Daily outlier scout
 
 on:
   schedule:
-    - cron: "0 17 * * 0"   # Sundays 17:00 UTC (19:00 Oslo summer time)
+    - cron: "0 10 * * *"   # daily 10:00 UTC, after the YouTube quota resets (midnight Pacific)
   workflow_dispatch:        # lets you run it manually from the Actions tab
   push:                     # re-run when the script or topics change
     branches: [main]

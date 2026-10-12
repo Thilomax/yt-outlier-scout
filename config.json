@@ -1,13 +1,14 @@
 {
   "lookback_days": 45,
+  "pool_days": 7,
   "min_age_days": 3,
   "min_duration_sec": 300,
   "min_views": 10000,
   "min_outlier_score": 3,
-  "results_per_query": 25,
+  "results_per_query": 50,
   "baseline_videos": 30,
   "min_baseline_videos": 5,
-  "max_results": 30,
+  "max_results": 60,
   "language": "en",
   "topics": [
     {
@@ -75,7 +76,7 @@
   ],
   "creator_lookback_days": 90,
   "creator_min_score": 1.5,
-  "max_creator_results": 15,
+  "max_creator_results": 30,
   "creators": [
     {
       "name": "Steph Ran",
