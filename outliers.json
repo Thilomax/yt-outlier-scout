@@ -1,9 +1,23 @@
 {
   "generated": "2026-10-12",
   "pool_days": 7,
-  "new_today": 37,
-  "count": 55,
+  "new_today": 7,
+  "count": 60,
   "outliers": [
+    {
+      "video_id": "sf6Sbad0XRU",
+      "title": "AION 2: Everything I Wish I Knew Before Level 45",
+      "url": "https://www.youtube.com/watch?v=sf6Sbad0XRU",
+      "channel": "RinkuTalks",
+      "subscribers": 8200,
+      "views": 154776,
+      "channel_median_views": 240,
+      "outlier_score": 644.9,
+      "published": "2026-10-09",
+      "duration_min": 12,
+      "topic": "Lists",
+      "found": "2026-10-12"
+    },
     {
       "video_id": "evFRP1o5-eM",
       "title": "Crimson Desert - Essential Tips - Things I Wish I Knew Sooner",
@@ -114,6 +128,20 @@
       "published": "2026-09-17",
       "duration_min": 8,
       "topic": "Short film / cinematic",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "-xPUW05H3Bk",
+      "title": "STUDY DIARIES 🙇🏻‍♀️: 4AM study sessions, studying for exams, hectic + tiring week & busy uni days📝☕️",
+      "url": "https://www.youtube.com/watch?v=-xPUW05H3Bk",
+      "channel": "baie",
+      "subscribers": 54600,
+      "views": 188211,
+      "channel_median_views": 5528,
+      "outlier_score": 34.0,
+      "published": "2026-09-22",
+      "duration_min": 31,
+      "topic": "Day in the life",
       "found": "2026-10-12"
     },
     {
@@ -243,6 +271,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "CiBGujMjeqU",
+      "title": "He Has Google AND Citadel Interviews Next Week - Mock Interview",
+      "url": "https://www.youtube.com/watch?v=CiBGujMjeqU",
+      "channel": "James Peralta",
+      "subscribers": 209000,
+      "views": 31779,
+      "channel_median_views": 2178,
+      "outlier_score": 14.6,
+      "published": "2026-10-06",
+      "duration_min": 65,
+      "topic": "Programming",
+      "found": "2026-10-12"
+    },
+    {
       "video_id": "5dCPkjKMwzo",
       "title": "🔴 IND W Vs SL W Live Match Commentary, Final, Asia Cup Women Cricket Live Match | Live Cricket Match",
       "url": "https://www.youtube.com/watch?v=5dCPkjKMwzo",
@@ -282,6 +324,20 @@
       "published": "2026-09-26",
       "duration_min": 23,
       "topic": "Short film / cinematic",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "cyKHul1H-Ss",
+      "title": "Justin Gaethje vs Ilia Topuria 🚨 | NO COMMENTARY",
+      "url": "https://www.youtube.com/watch?v=cyKHul1H-Ss",
+      "channel": "UFC",
+      "subscribers": 23100000,
+      "views": 2436414,
+      "channel_median_views": 201927,
+      "outlier_score": 12.1,
+      "published": "2026-10-09",
+      "duration_min": 31,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-12"
     },
     {
@@ -467,6 +523,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "oZM341x3Ows",
+      "title": "Class 10th - Final ROADMAP to Score 95%+ in Boards 2027",
+      "url": "https://www.youtube.com/watch?v=oZM341x3Ows",
+      "channel": "Ashu Ghai 9th & 10th",
+      "subscribers": 226000,
+      "views": 89222,
+      "channel_median_views": 15620,
+      "outlier_score": 5.7,
+      "published": "2026-10-07",
+      "duration_min": 14,
+      "topic": "Studying",
+      "found": "2026-10-12"
+    },
+    {
       "video_id": "YZo4ooAnlDk",
       "title": "This 3-Hour Video Will Change Your Life | Stoicism Philosophy",
       "url": "https://www.youtube.com/watch?v=YZo4ooAnlDk",
@@ -492,6 +562,20 @@
       "published": "2026-09-14",
       "duration_min": 33,
       "topic": "Lists",
+      "found": "2026-10-12"
+    },
+    {
+      "video_id": "w1H7DHcbti8",
+      "title": "How to Start LeetCode From Zero in 2026 | Beginner's Guide",
+      "url": "https://www.youtube.com/watch?v=w1H7DHcbti8",
+      "channel": "Anoob Engineer",
+      "subscribers": 7530,
+      "views": 25565,
+      "channel_median_views": 5023,
+      "outlier_score": 5.1,
+      "published": "2026-10-09",
+      "duration_min": 9,
+      "topic": "Programming",
       "found": "2026-10-12"
     },
     {
@@ -758,20 +842,6 @@
       "published": "2026-10-07",
       "duration_min": 16,
       "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "czswgGCAS7o",
-      "title": "How to Worry Less About Life | 10 Stoic Lessons to Protect Your Inner Peace | Stoicism  ",
-      "url": "https://www.youtube.com/watch?v=czswgGCAS7o",
-      "channel": "Wisdom of the Stoics",
-      "subscribers": 40400,
-      "views": 26397,
-      "channel_median_views": 8672,
-      "outlier_score": 3.0,
-      "published": "2026-09-23",
-      "duration_min": 36,
-      "topic": "Talking about interests",
       "found": "2026-10-12"
     }
   ],
