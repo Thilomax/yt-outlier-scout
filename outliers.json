@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-12",
+  "generated": "2026-10-13",
   "pool_days": 7,
-  "new_today": 7,
+  "new_today": 9,
   "count": 60,
   "outliers": [
     {
@@ -31,6 +31,20 @@
       "duration_min": 15,
       "topic": "Lists",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "Qdh_zX-_aDs",
+      "title": "10 Best Retirement Hobbies That Keep You Young After 60 | Stoicism | Stoic Philosophy",
+      "url": "https://www.youtube.com/watch?v=Qdh_zX-_aDs",
+      "channel": "Wisdom Of Humanity",
+      "subscribers": 2160,
+      "views": 128289,
+      "channel_median_views": 292,
+      "outlier_score": 439.3,
+      "published": "2026-09-03",
+      "duration_min": 36,
+      "topic": "Talking about interests",
+      "found": "2026-10-13"
     },
     {
       "video_id": "b39qd9UpviY",
@@ -101,6 +115,20 @@
       "duration_min": 7,
       "topic": "Lists",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "EX1ZBuY8bY8",
+      "title": "When You Stop Caring What People Think, Your Whole Life Changes | Stoicism",
+      "url": "https://www.youtube.com/watch?v=EX1ZBuY8bY8",
+      "channel": "Powerful Stoic Hub",
+      "subscribers": 322,
+      "views": 20476,
+      "channel_median_views": 211,
+      "outlier_score": 97.0,
+      "published": "2026-10-03",
+      "duration_min": 56,
+      "topic": "Talking about interests",
+      "found": "2026-10-13"
     },
     {
       "video_id": "f1gkkzHZxNg",
@@ -299,6 +327,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "gDI508P5F3g",
+      "title": "FULL REPLAY (English): Bengaluru FC vs Sporting Club Delhi (3-2) | MG ISL 2026-27 | Gameweek 1",
+      "url": "https://www.youtube.com/watch?v=gDI508P5F3g",
+      "channel": "MG Indian Super League",
+      "subscribers": 2760000,
+      "views": 7634283,
+      "channel_median_views": 602573,
+      "outlier_score": 12.7,
+      "published": "2026-10-10",
+      "duration_min": 156,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-13"
+    },
+    {
       "video_id": "2OXxGEhlVHs",
       "title": "Start Your Day Right, Listen To This Every Day (Powerful Morning Motivation) | Stoicism Philosophy",
       "url": "https://www.youtube.com/watch?v=2OXxGEhlVHs",
@@ -381,6 +423,20 @@
       "duration_min": 56,
       "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "oHYMSCA-7aA",
+      "title": "Increase Your Study Hours 3 Times with Consistency and Focus for All Competitive Exams",
+      "url": "https://www.youtube.com/watch?v=oHYMSCA-7aA",
+      "channel": "UnderStand UPSC",
+      "subscribers": 508000,
+      "views": 92708,
+      "channel_median_views": 9922,
+      "outlier_score": 9.3,
+      "published": "2026-10-09",
+      "duration_min": 16,
+      "topic": "Studying",
+      "found": "2026-10-13"
     },
     {
       "video_id": "Usxx8o3lTxI",
@@ -493,6 +549,20 @@
       "duration_min": 31,
       "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "IeiSdVRMc-U",
+      "title": "🟢 Build an AI Wardrobe App with GPT-6 Astra! | Beginner Series Ep#22 (Typesafe AI/Jev, AI Workflows)",
+      "url": "https://www.youtube.com/watch?v=IeiSdVRMc-U",
+      "channel": "Sonny Sangha",
+      "subscribers": 476000,
+      "views": 317921,
+      "channel_median_views": 48408,
+      "outlier_score": 6.6,
+      "published": "2026-09-18",
+      "duration_min": 221,
+      "topic": "Programming",
+      "found": "2026-10-13"
     },
     {
       "video_id": "ghuwqDwLqNM",
@@ -663,6 +733,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "AAI0YyezaSk",
+      "title": "GPT-6 Astra Built My Power App in 20 Minutes",
+      "url": "https://www.youtube.com/watch?v=AAI0YyezaSk",
+      "channel": "Powercademy",
+      "subscribers": 7320,
+      "views": 29896,
+      "channel_median_views": 7026,
+      "outlier_score": 4.3,
+      "published": "2026-09-11",
+      "duration_min": 15,
+      "topic": "Programming",
+      "found": "2026-10-13"
+    },
+    {
       "video_id": "xSezMq0N18o",
       "title": "बस 02 महीने पागल बनकर पढ़ना होगा बेटा🔥| STUDY MOTIVATION",
       "url": "https://www.youtube.com/watch?v=xSezMq0N18o",
@@ -705,6 +789,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "8Jlg8_SYX_E",
+      "title": "தோழியின் கணவர் செய்த உதவி  PART 02 | Tamil Short Film | Tamil Short Movie",
+      "url": "https://www.youtube.com/watch?v=8Jlg8_SYX_E",
+      "channel": "TSR Entertainment",
+      "subscribers": 684000,
+      "views": 210361,
+      "channel_median_views": 57529,
+      "outlier_score": 3.7,
+      "published": "2026-09-10",
+      "duration_min": 10,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-13"
+    },
+    {
       "video_id": "1CVcMo37H1s",
       "title": "We Spent 24 HOURS in The MOST HAUNTED Chuck E. Cheese…",
       "url": "https://www.youtube.com/watch?v=1CVcMo37H1s",
@@ -744,104 +842,6 @@
       "published": "2026-09-29",
       "duration_min": 10,
       "topic": "Lists",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "dZH9f-Kxbas",
-      "title": "TikTok Rabbit Holes You Probably Never Heard About 👀",
-      "url": "https://www.youtube.com/watch?v=dZH9f-Kxbas",
-      "channel": "2BUniqueD Takes",
-      "subscribers": 15600,
-      "views": 66818,
-      "channel_median_views": 18940,
-      "outlier_score": 3.5,
-      "published": "2026-09-22",
-      "duration_min": 42,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "kW9DruMHWRc",
-      "title": "The Witcher 3 Remastered - 15 Things I Wish I Knew Before Starting The Game",
-      "url": "https://www.youtube.com/watch?v=kW9DruMHWRc",
-      "channel": "GamingBolt",
-      "subscribers": 1350000,
-      "views": 131340,
-      "channel_median_views": 37145,
-      "outlier_score": 3.5,
-      "published": "2026-09-29",
-      "duration_min": 10,
-      "topic": "Lists",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "HJcMG565bdo",
-      "title": "10 MORE Things I Wish I Knew SOONER in Fire Emblem Fortune's Weave",
-      "url": "https://www.youtube.com/watch?v=HJcMG565bdo",
-      "channel": "Jay Dunna ",
-      "subscribers": 149000,
-      "views": 68194,
-      "channel_median_views": 19243,
-      "outlier_score": 3.5,
-      "published": "2026-09-20",
-      "duration_min": 11,
-      "topic": "Lists",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "b_5ejVMW7sM",
-      "title": "Live: India vs Japan, 1ST T20I, 2026 Series, Cricket Match Today Score Commentary, CricTalks",
-      "url": "https://www.youtube.com/watch?v=b_5ejVMW7sM",
-      "channel": "CricTalks Live",
-      "subscribers": 1720000,
-      "views": 2116763,
-      "channel_median_views": 619249,
-      "outlier_score": 3.4,
-      "published": "2026-09-22",
-      "duration_min": 344,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "K4t-GSiJ6Zg",
-      "title": "17 SAAL Se Ye Train Kabhi Nahi RUKI | Film/Movie Explained in Hindi/ Urdu Story",
-      "url": "https://www.youtube.com/watch?v=K4t-GSiJ6Zg",
-      "channel": "Hidden Film",
-      "subscribers": 12900,
-      "views": 205684,
-      "channel_median_views": 62572,
-      "outlier_score": 3.3,
-      "published": "2026-09-09",
-      "duration_min": 17,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "zB0HTtQDCc0",
-      "title": "ঢাবিতে পুরো ২৪ ঘণ্টা আমার কিভাবে কাটে? A random day in my life at DU | Daily Vlog-03",
-      "url": "https://www.youtube.com/watch?v=zB0HTtQDCc0",
-      "channel": "Abdullah Al Fahad",
-      "subscribers": 15100,
-      "views": 168479,
-      "channel_median_views": 53966,
-      "outlier_score": 3.1,
-      "published": "2026-10-03",
-      "duration_min": 17,
-      "topic": "Studying",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "2LwW-_qVev8",
-      "title": "Lionel Messi Emotional Last Game For Argentina 💔 1 Goal & 2 Assists",
-      "url": "https://www.youtube.com/watch?v=2LwW-_qVev8",
-      "channel": "ELEVEN™",
-      "subscribers": 356000,
-      "views": 2572852,
-      "channel_median_views": 854812,
-      "outlier_score": 3.0,
-      "published": "2026-10-07",
-      "duration_min": 16,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-12"
     }
   ],
@@ -890,6 +890,21 @@
       "published": "2026-09-15",
       "duration_min": 10,
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "aNC_9m58euQ",
+      "title": "So Adobe seems to be in trouble...",
+      "url": "https://www.youtube.com/watch?v=aNC_9m58euQ",
+      "channel": "Bog",
+      "creator": "Bog",
+      "core_vibe": true,
+      "subscribers": 641000,
+      "views": 93643,
+      "channel_median_views": 54838,
+      "outlier_score": 1.7,
+      "published": "2026-10-10",
+      "duration_min": 106,
+      "found": "2026-10-13"
     },
     {
       "video_id": "bLPTkdADd_0",
