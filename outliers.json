@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-13",
+  "generated": "2026-10-14",
   "pool_days": 7,
-  "new_today": 9,
+  "new_today": 6,
   "count": 60,
   "outliers": [
     {
@@ -425,6 +425,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "K15dND_Kfvg",
+      "title": "Neetcode: Google vs Amazon, Programming Interviews, Quitting Big Tech",
+      "url": "https://www.youtube.com/watch?v=K15dND_Kfvg",
+      "channel": "Ryan Peterman",
+      "subscribers": 112000,
+      "views": 133471,
+      "channel_median_views": 13970,
+      "outlier_score": 9.6,
+      "published": "2026-10-05",
+      "duration_min": 35,
+      "topic": "Programming",
+      "found": "2026-10-14"
+    },
+    {
       "video_id": "oHYMSCA-7aA",
       "title": "Increase Your Study Hours 3 Times with Consistency and Focus for All Competitive Exams",
       "url": "https://www.youtube.com/watch?v=oHYMSCA-7aA",
@@ -579,6 +593,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "HsPt_DvnXNM",
+      "title": "Oxford student spends a day at Harvard",
+      "url": "https://www.youtube.com/watch?v=HsPt_DvnXNM",
+      "channel": "Just Me, Alina",
+      "subscribers": 34100,
+      "views": 69263,
+      "channel_median_views": 10926,
+      "outlier_score": 6.3,
+      "published": "2026-10-08",
+      "duration_min": 16,
+      "topic": "Studying",
+      "found": "2026-10-14"
+    },
+    {
       "video_id": "GLO1voinujQ",
       "title": "Obsidian replaced the app I built. ICOR for Life is free.",
       "url": "https://www.youtube.com/watch?v=GLO1voinujQ",
@@ -619,6 +647,20 @@
       "duration_min": 199,
       "topic": "Talking about interests",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "5ONuDfcDoL8",
+      "title": "Francis of Assisi (1961) | Classic Catholic Film | Full Movie | Prayer & Sacred Music",
+      "url": "https://www.youtube.com/watch?v=5ONuDfcDoL8",
+      "channel": "Divine Legacy Official",
+      "subscribers": 64100,
+      "views": 67446,
+      "channel_median_views": 12666,
+      "outlier_score": 5.3,
+      "published": "2026-09-09",
+      "duration_min": 110,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-14"
     },
     {
       "video_id": "c8UzmACUd8g",
@@ -747,6 +789,20 @@
       "found": "2026-10-13"
     },
     {
+      "video_id": "OwjcNp1YUx8",
+      "title": "I Tested Every Built-In Apple App",
+      "url": "https://www.youtube.com/watch?v=OwjcNp1YUx8",
+      "channel": "Derk",
+      "subscribers": 11400,
+      "views": 97581,
+      "channel_median_views": 23673,
+      "outlier_score": 4.1,
+      "published": "2026-10-10",
+      "duration_min": 8,
+      "topic": "Programming",
+      "found": "2026-10-14"
+    },
+    {
       "video_id": "xSezMq0N18o",
       "title": "बस 02 महीने पागल बनकर पढ़ना होगा बेटा🔥| STUDY MOTIVATION",
       "url": "https://www.youtube.com/watch?v=xSezMq0N18o",
@@ -786,62 +842,6 @@
       "published": "2026-10-03",
       "duration_min": 100,
       "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "8Jlg8_SYX_E",
-      "title": "தோழியின் கணவர் செய்த உதவி  PART 02 | Tamil Short Film | Tamil Short Movie",
-      "url": "https://www.youtube.com/watch?v=8Jlg8_SYX_E",
-      "channel": "TSR Entertainment",
-      "subscribers": 684000,
-      "views": 210361,
-      "channel_median_views": 57529,
-      "outlier_score": 3.7,
-      "published": "2026-09-10",
-      "duration_min": 10,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-13"
-    },
-    {
-      "video_id": "1CVcMo37H1s",
-      "title": "We Spent 24 HOURS in The MOST HAUNTED Chuck E. Cheese…",
-      "url": "https://www.youtube.com/watch?v=1CVcMo37H1s",
-      "channel": "JR LIVE",
-      "subscribers": 50200,
-      "views": 120646,
-      "channel_median_views": 33482,
-      "outlier_score": 3.6,
-      "published": "2026-10-08",
-      "duration_min": 23,
-      "topic": "Advice & self-improvement",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "_S4Ia3Mh0UQ",
-      "title": "2026 年 AI 都會寫程式了,工程師面試還要考演算法嗎?",
-      "url": "https://www.youtube.com/watch?v=_S4Ia3Mh0UQ",
-      "channel": "Debug 土撥鼠",
-      "subscribers": 30900,
-      "views": 85771,
-      "channel_median_views": 23506,
-      "outlier_score": 3.6,
-      "published": "2026-10-06",
-      "duration_min": 11,
-      "topic": "Programming",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "a2LeOzbqHkk",
-      "title": "Things I Wish I Knew Earlier In The Witcher 3 Remastered (Tips & Tricks)",
-      "url": "https://www.youtube.com/watch?v=a2LeOzbqHkk",
-      "channel": "LunarGaming",
-      "subscribers": 265000,
-      "views": 124154,
-      "channel_median_views": 34781,
-      "outlier_score": 3.6,
-      "published": "2026-09-29",
-      "duration_min": 10,
-      "topic": "Lists",
       "found": "2026-10-12"
     }
   ],
