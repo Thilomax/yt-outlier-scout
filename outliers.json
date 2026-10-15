@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-14",
+  "generated": "2026-10-15",
   "pool_days": 7,
-  "new_today": 6,
+  "new_today": 5,
   "count": 60,
   "outliers": [
     {
@@ -45,6 +45,20 @@
       "duration_min": 36,
       "topic": "Talking about interests",
       "found": "2026-10-13"
+    },
+    {
+      "video_id": "x9_E4WJncmI",
+      "title": "7 stoic habits that make happiness your default — even when life falls apart | stoicism philosophy?",
+      "url": "https://www.youtube.com/watch?v=x9_E4WJncmI",
+      "channel": "The stoic Code",
+      "subscribers": 655,
+      "views": 47047,
+      "channel_median_views": 157,
+      "outlier_score": 299.7,
+      "published": "2026-10-09",
+      "duration_min": 53,
+      "topic": "Talking about interests",
+      "found": "2026-10-15"
     },
     {
       "video_id": "b39qd9UpviY",
@@ -395,6 +409,20 @@
       "duration_min": 255,
       "topic": "Advice & self-improvement",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "JhvE_BA8qB8",
+      "title": "Avengers Endgame: Encore NEW FOOTAGE Breakdown!",
+      "url": "https://www.youtube.com/watch?v=JhvE_BA8qB8",
+      "channel": "ScreenCrush",
+      "subscribers": 1940000,
+      "views": 2633086,
+      "channel_median_views": 231608,
+      "outlier_score": 11.4,
+      "published": "2026-09-23",
+      "duration_min": 30,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-15"
     },
     {
       "video_id": "WwiIJsEkcoE",
@@ -789,60 +817,32 @@
       "found": "2026-10-13"
     },
     {
-      "video_id": "OwjcNp1YUx8",
-      "title": "I Tested Every Built-In Apple App",
-      "url": "https://www.youtube.com/watch?v=OwjcNp1YUx8",
-      "channel": "Derk",
-      "subscribers": 11400,
-      "views": 97581,
-      "channel_median_views": 23673,
-      "outlier_score": 4.1,
+      "video_id": "DTel79jq_Sg",
+      "title": "24 HOUR OVERNIGHT CHALLENGE IN MOVIE THEATRE.. (200k special)",
+      "url": "https://www.youtube.com/watch?v=DTel79jq_Sg",
+      "channel": "TK Twins",
+      "subscribers": 207000,
+      "views": 279099,
+      "channel_median_views": 64635,
+      "outlier_score": 4.3,
       "published": "2026-10-10",
-      "duration_min": 8,
-      "topic": "Programming",
-      "found": "2026-10-14"
+      "duration_min": 41,
+      "topic": "Advice & self-improvement",
+      "found": "2026-10-15"
     },
     {
-      "video_id": "xSezMq0N18o",
-      "title": "बस 02 महीने पागल बनकर पढ़ना होगा बेटा🔥| STUDY MOTIVATION",
-      "url": "https://www.youtube.com/watch?v=xSezMq0N18o",
-      "channel": "PW Emotion",
-      "subscribers": 1330000,
-      "views": 185564,
-      "channel_median_views": 46379,
-      "outlier_score": 4.0,
-      "published": "2026-10-05",
-      "duration_min": 8,
-      "topic": "Studying",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "4FgN9QKQKZI",
-      "title": "This farming game is better than Leetcode",
-      "url": "https://www.youtube.com/watch?v=4FgN9QKQKZI",
-      "channel": "Coding Jesus (getcracked.io)",
-      "subscribers": 289000,
-      "views": 144470,
-      "channel_median_views": 36671,
-      "outlier_score": 3.9,
-      "published": "2026-09-26",
-      "duration_min": 13,
-      "topic": "Programming",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "pJ0xI2M9yzs",
-      "title": "Ind vs Pak Final Asian Games Match Fan Commentary | India vs Pakistan Live Cricket Update",
-      "url": "https://www.youtube.com/watch?v=pJ0xI2M9yzs",
-      "channel": "Sports khabar ",
-      "subscribers": 782000,
-      "views": 2534013,
-      "channel_median_views": 683999,
-      "outlier_score": 3.7,
-      "published": "2026-10-03",
-      "duration_min": 100,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-12"
+      "video_id": "GJdbyA6DPkA",
+      "title": "Your Friends Want You to Win, Until You Outgrow Them",
+      "url": "https://www.youtube.com/watch?v=GJdbyA6DPkA",
+      "channel": "The Anime Wan",
+      "subscribers": 2430,
+      "views": 40959,
+      "channel_median_views": 9777,
+      "outlier_score": 4.2,
+      "published": "2026-10-09",
+      "duration_min": 6,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-15"
     }
   ],
   "creator_outliers": [
