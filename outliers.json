@@ -1,9 +1,23 @@
 {
-  "generated": "2026-10-15",
+  "generated": "2026-10-16",
   "pool_days": 7,
-  "new_today": 5,
+  "new_today": 7,
   "count": 60,
   "outliers": [
+    {
+      "video_id": "K_P7s_H1Xe0",
+      "title": "Collage life || love story short movie 😍 #shortfilm ",
+      "url": "https://www.youtube.com/watch?v=K_P7s_H1Xe0",
+      "channel": "Tormexa",
+      "subscribers": 481,
+      "views": 154336,
+      "channel_median_views": 55,
+      "outlier_score": 2780.8,
+      "published": "2026-09-24",
+      "duration_min": 19,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-16"
+    },
     {
       "video_id": "sf6Sbad0XRU",
       "title": "AION 2: Everything I Wish I Knew Before Level 45",
@@ -143,6 +157,20 @@
       "duration_min": 56,
       "topic": "Talking about interests",
       "found": "2026-10-13"
+    },
+    {
+      "video_id": "LsEx1N6hja0",
+      "title": "Endless Love part-2 | Nagamese Movie | Short Film",
+      "url": "https://www.youtube.com/watch?v=LsEx1N6hja0",
+      "channel": "CR Mission Church KOHIMA",
+      "subscribers": 15500,
+      "views": 118791,
+      "channel_median_views": 1224,
+      "outlier_score": 97.0,
+      "published": "2026-09-14",
+      "duration_min": 34,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-16"
     },
     {
       "video_id": "f1gkkzHZxNg",
@@ -297,6 +325,20 @@
       "duration_min": 14,
       "topic": "Lists",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "47ImeDiMKlQ",
+      "title": "I studied 60 HOURS in a week🥱 - send help.",
+      "url": "https://www.youtube.com/watch?v=47ImeDiMKlQ",
+      "channel": "yana patel",
+      "subscribers": 11000,
+      "views": 15005,
+      "channel_median_views": 668,
+      "outlier_score": 22.4,
+      "published": "2026-10-13",
+      "duration_min": 12,
+      "topic": "Day in the life",
+      "found": "2026-10-16"
     },
     {
       "video_id": "TU2wOaP0f0c",
@@ -579,6 +621,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "QJVBwbsW5kY",
+      "title": "24 Hours with Cat In The Hat & Grinch!",
+      "url": "https://www.youtube.com/watch?v=QJVBwbsW5kY",
+      "channel": "Khan Asadi VODS",
+      "subscribers": 10000,
+      "views": 114248,
+      "channel_median_views": 15625,
+      "outlier_score": 7.3,
+      "published": "2026-09-12",
+      "duration_min": 316,
+      "topic": "Advice & self-improvement",
+      "found": "2026-10-16"
+    },
+    {
       "video_id": "c_CYUGfg5DI",
       "title": "Chris Chan นักวาดการ์ตูนที่ถูกบันทึกไว้มากที่สุดในโลกอินเทอร์เน็ต | Internet Rabbit Hole",
       "url": "https://www.youtube.com/watch?v=c_CYUGfg5DI",
@@ -787,62 +843,6 @@
       "duration_min": 35,
       "topic": "Talking about interests",
       "found": "2026-10-12"
-    },
-    {
-      "video_id": "MiV_l-AW5-o",
-      "title": "6AM autumn morning routine 🍂 rainy & cosy",
-      "url": "https://www.youtube.com/watch?v=MiV_l-AW5-o",
-      "channel": "Becca Watson",
-      "subscribers": 328000,
-      "views": 133301,
-      "channel_median_views": 31235,
-      "outlier_score": 4.3,
-      "published": "2026-09-13",
-      "duration_min": 12,
-      "topic": "Studying",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "AAI0YyezaSk",
-      "title": "GPT-6 Astra Built My Power App in 20 Minutes",
-      "url": "https://www.youtube.com/watch?v=AAI0YyezaSk",
-      "channel": "Powercademy",
-      "subscribers": 7320,
-      "views": 29896,
-      "channel_median_views": 7026,
-      "outlier_score": 4.3,
-      "published": "2026-09-11",
-      "duration_min": 15,
-      "topic": "Programming",
-      "found": "2026-10-13"
-    },
-    {
-      "video_id": "DTel79jq_Sg",
-      "title": "24 HOUR OVERNIGHT CHALLENGE IN MOVIE THEATRE.. (200k special)",
-      "url": "https://www.youtube.com/watch?v=DTel79jq_Sg",
-      "channel": "TK Twins",
-      "subscribers": 207000,
-      "views": 279099,
-      "channel_median_views": 64635,
-      "outlier_score": 4.3,
-      "published": "2026-10-10",
-      "duration_min": 41,
-      "topic": "Advice & self-improvement",
-      "found": "2026-10-15"
-    },
-    {
-      "video_id": "GJdbyA6DPkA",
-      "title": "Your Friends Want You to Win, Until You Outgrow Them",
-      "url": "https://www.youtube.com/watch?v=GJdbyA6DPkA",
-      "channel": "The Anime Wan",
-      "subscribers": 2430,
-      "views": 40959,
-      "channel_median_views": 9777,
-      "outlier_score": 4.2,
-      "published": "2026-10-09",
-      "duration_min": 6,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-15"
     }
   ],
   "creator_outliers": [
