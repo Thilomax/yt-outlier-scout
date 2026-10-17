@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16",
+  "generated": "2026-10-17",
   "pool_days": 7,
-  "new_today": 7,
+  "new_today": 18,
   "count": 60,
   "outliers": [
     {
@@ -131,6 +131,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "KYppa6gWyQU",
+      "title": "Patang (2026) Latest Hindi Full Movie | Preethi, Vamsi Pujit, Pranav | New South Dubbed Movies",
+      "url": "https://www.youtube.com/watch?v=KYppa6gWyQU",
+      "channel": "Sri Balaji Hindi Movies",
+      "subscribers": 1380000,
+      "views": 1590315,
+      "channel_median_views": 11857,
+      "outlier_score": 134.1,
+      "published": "2026-10-09",
+      "duration_min": 157,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-17"
+    },
+    {
       "video_id": "Wdqm4eF0MRo",
       "title": "5 Things I Wish I Knew Before Growing My Hair Out",
       "url": "https://www.youtube.com/watch?v=Wdqm4eF0MRo",
@@ -173,6 +187,34 @@
       "found": "2026-10-16"
     },
     {
+      "video_id": "UMiqRSLzw0c",
+      "title": "Australia vs Brazil | Extended Highlights | Game Two | International Friendly",
+      "url": "https://www.youtube.com/watch?v=UMiqRSLzw0c",
+      "channel": "Football Australia",
+      "subscribers": 285000,
+      "views": 2127823,
+      "channel_median_views": 22523,
+      "outlier_score": 94.5,
+      "published": "2026-09-29",
+      "duration_min": 14,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-17"
+    },
+    {
+      "video_id": "Y3ZUyc8qB1o",
+      "title": "WINTER ARC - The Ultimate 90 Days Challenge to Change Your Life ( Last Chance )",
+      "url": "https://www.youtube.com/watch?v=Y3ZUyc8qB1o",
+      "channel": "Soulvance",
+      "subscribers": 6360,
+      "views": 113223,
+      "channel_median_views": 1610,
+      "outlier_score": 70.3,
+      "published": "2026-09-29",
+      "duration_min": 11,
+      "topic": "Talking about interests",
+      "found": "2026-10-17"
+    },
+    {
       "video_id": "f1gkkzHZxNg",
       "title": "Psychology of Intelligence: Learn Anything So Fast It's Almost Unfair",
       "url": "https://www.youtube.com/watch?v=f1gkkzHZxNg",
@@ -185,6 +227,20 @@
       "duration_min": 15,
       "topic": "Studying",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "QtvvVMICqqE",
+      "title": "Claude Opus 5.5 Built a 3D Warehouse App That Looks Like a Game: The Exact Prompts",
+      "url": "https://www.youtube.com/watch?v=QtvvVMICqqE",
+      "channel": "o0o0o0o",
+      "subscribers": 3290,
+      "views": 15766,
+      "channel_median_views": 371,
+      "outlier_score": 42.5,
+      "published": "2026-10-08",
+      "duration_min": 5,
+      "topic": "Programming",
+      "found": "2026-10-17"
     },
     {
       "video_id": "ciZh11OQXtM",
@@ -227,6 +283,20 @@
       "duration_min": 22,
       "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "wsysXETXWxA",
+      "title": "FULL REPLAY (English): Inter Kashi FC vs Kerala Blasters FC (0-2) | MG ISL 2026-27 | GW 1",
+      "url": "https://www.youtube.com/watch?v=wsysXETXWxA",
+      "channel": "MG Indian Super League",
+      "subscribers": 2800000,
+      "views": 12256649,
+      "channel_median_views": 381850,
+      "outlier_score": 32.1,
+      "published": "2026-10-11",
+      "duration_min": 156,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-17"
     },
     {
       "video_id": "bCVsfL-JPBE",
@@ -299,6 +369,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "qaxOZroXUQM",
+      "title": "A Life of Debauchery | DRAMA | Full Movie in English",
+      "url": "https://www.youtube.com/watch?v=qaxOZroXUQM",
+      "channel": "Boxoffice | DRAMA | Full Movies",
+      "subscribers": 296000,
+      "views": 864004,
+      "channel_median_views": 33298,
+      "outlier_score": 25.9,
+      "published": "2026-09-05",
+      "duration_min": 76,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-17"
+    },
+    {
       "video_id": "J_of765rwfM",
       "title": "MESSI FAREWELL 🔥 Argentina vs Benin 3-0 All Goals & Highlights 2026",
       "url": "https://www.youtube.com/watch?v=J_of765rwfM",
@@ -339,6 +423,34 @@
       "duration_min": 12,
       "topic": "Day in the life",
       "found": "2026-10-16"
+    },
+    {
+      "video_id": "W84rpxyrtyc",
+      "title": "The Suspicious Wife | THRILLER | Full Movie in English",
+      "url": "https://www.youtube.com/watch?v=W84rpxyrtyc",
+      "channel": "Boxoffice | TV Movies in English",
+      "subscribers": 209000,
+      "views": 425175,
+      "channel_median_views": 23669,
+      "outlier_score": 18.0,
+      "published": "2026-09-25",
+      "duration_min": 88,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-17"
+    },
+    {
+      "video_id": "p4t4gIBoP7U",
+      "title": "Last 3 Months TIMETABLE to Score 99% in Boards 2027 🔥| AIR 1 TOPPER ROUTINE",
+      "url": "https://www.youtube.com/watch?v=p4t4gIBoP7U",
+      "channel": "Learn With Fahima",
+      "subscribers": 99400,
+      "views": 136615,
+      "channel_median_views": 8069,
+      "outlier_score": 16.9,
+      "published": "2026-09-26",
+      "duration_min": 18,
+      "topic": "Studying",
+      "found": "2026-10-17"
     },
     {
       "video_id": "TU2wOaP0f0c",
@@ -551,6 +663,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "9hpibIQiKwI",
+      "title": "I Spent 24 HOURS With A Stranger From Omegle.. (we met irl)",
+      "url": "https://www.youtube.com/watch?v=9hpibIQiKwI",
+      "channel": "JankEmJONNI",
+      "subscribers": 285000,
+      "views": 376956,
+      "channel_median_views": 42874,
+      "outlier_score": 8.8,
+      "published": "2026-10-10",
+      "duration_min": 27,
+      "topic": "Advice & self-improvement",
+      "found": "2026-10-17"
+    },
+    {
       "video_id": "G4sMyUQ6s3w",
       "title": "WOLVERINE PS5 Gameplay Walkthrough FULL GAME [4K 60FPS] - No Commentary",
       "url": "https://www.youtube.com/watch?v=G4sMyUQ6s3w",
@@ -635,6 +761,20 @@
       "found": "2026-10-16"
     },
     {
+      "video_id": "ne-B_5ddN34",
+      "title": "Secret TIMETABLE to Score 95%+ in Boards 2027 | Ashu Sir",
+      "url": "https://www.youtube.com/watch?v=ne-B_5ddN34",
+      "channel": "Ashu Ghai 11th & 12th",
+      "subscribers": 735000,
+      "views": 390816,
+      "channel_median_views": 53792,
+      "outlier_score": 7.3,
+      "published": "2026-09-05",
+      "duration_min": 14,
+      "topic": "Studying",
+      "found": "2026-10-17"
+    },
+    {
       "video_id": "c_CYUGfg5DI",
       "title": "Chris Chan นักวาดการ์ตูนที่ถูกบันทึกไว้มากที่สุดในโลกอินเทอร์เน็ต | Internet Rabbit Hole",
       "url": "https://www.youtube.com/watch?v=c_CYUGfg5DI",
@@ -703,149 +843,24 @@
       "duration_min": 31,
       "topic": "Programming",
       "found": "2026-10-12"
-    },
-    {
-      "video_id": "oZM341x3Ows",
-      "title": "Class 10th - Final ROADMAP to Score 95%+ in Boards 2027",
-      "url": "https://www.youtube.com/watch?v=oZM341x3Ows",
-      "channel": "Ashu Ghai 9th & 10th",
-      "subscribers": 226000,
-      "views": 89222,
-      "channel_median_views": 15620,
-      "outlier_score": 5.7,
-      "published": "2026-10-07",
-      "duration_min": 14,
-      "topic": "Studying",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "YZo4ooAnlDk",
-      "title": "This 3-Hour Video Will Change Your Life | Stoicism Philosophy",
-      "url": "https://www.youtube.com/watch?v=YZo4ooAnlDk",
-      "channel": "The Stoic Method",
-      "subscribers": 1330,
-      "views": 28472,
-      "channel_median_views": 5123,
-      "outlier_score": 5.6,
-      "published": "2026-09-25",
-      "duration_min": 199,
-      "topic": "Talking about interests",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "5ONuDfcDoL8",
-      "title": "Francis of Assisi (1961) | Classic Catholic Film | Full Movie | Prayer & Sacred Music",
-      "url": "https://www.youtube.com/watch?v=5ONuDfcDoL8",
-      "channel": "Divine Legacy Official",
-      "subscribers": 64100,
-      "views": 67446,
-      "channel_median_views": 12666,
-      "outlier_score": 5.3,
-      "published": "2026-09-09",
-      "duration_min": 110,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-14"
-    },
-    {
-      "video_id": "c8UzmACUd8g",
-      "title": "“THINGS I WISH I KNEW BEFORE GETTING MARRIED”🥺💔 WOMEN SPEAK OUT‼️🥴🤦‍♀️MARRIAGE AIN’T WHAT YOU THINK ",
-      "url": "https://www.youtube.com/watch?v=c8UzmACUd8g",
-      "channel": "LYZANDRA",
-      "subscribers": 67800,
-      "views": 120532,
-      "channel_median_views": 23800,
-      "outlier_score": 5.1,
-      "published": "2026-09-14",
-      "duration_min": 33,
-      "topic": "Lists",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "w1H7DHcbti8",
-      "title": "How to Start LeetCode From Zero in 2026 | Beginner's Guide",
-      "url": "https://www.youtube.com/watch?v=w1H7DHcbti8",
-      "channel": "Anoob Engineer",
-      "subscribers": 7530,
-      "views": 25565,
-      "channel_median_views": 5023,
-      "outlier_score": 5.1,
-      "published": "2026-10-09",
-      "duration_min": 9,
-      "topic": "Programming",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "RKVtRzf3IIU",
-      "title": "What The Game DOESN'T Tell You! Everything I Wish I Knew! // Aion 2 Beginner Guide",
-      "url": "https://www.youtube.com/watch?v=RKVtRzf3IIU",
-      "channel": "Moxsy",
-      "subscribers": 552000,
-      "views": 121954,
-      "channel_median_views": 24616,
-      "outlier_score": 5.0,
-      "published": "2026-10-06",
-      "duration_min": 21,
-      "topic": "Lists",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "rqdJSawu2R4",
-      "title": "How To Stop Procrastinating (Psychology Approved)",
-      "url": "https://www.youtube.com/watch?v=rqdJSawu2R4",
-      "channel": "Rewire The Mind Coaching",
-      "subscribers": 8900,
-      "views": 14698,
-      "channel_median_views": 2980,
-      "outlier_score": 4.9,
-      "published": "2026-09-30",
-      "duration_min": 10,
-      "topic": "Advice & self-improvement",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "jV_Zrz8J1q4",
-      "title": "CONTROL YOUR MOUTH, MIND, MOOD & MONEY — MASTER YOUR LIFE | STOICISM Philosophy",
-      "url": "https://www.youtube.com/watch?v=jV_Zrz8J1q4",
-      "channel": "The Stoic Method",
-      "subscribers": 1330,
-      "views": 24818,
-      "channel_median_views": 5123,
-      "outlier_score": 4.8,
-      "published": "2026-10-03",
-      "duration_min": 174,
-      "topic": "Talking about interests",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "-GHPr3I6V3A",
-      "title": "9 Things I Wish I Knew Before Playing Star Wars: Zero Company",
-      "url": "https://www.youtube.com/watch?v=-GHPr3I6V3A",
-      "channel": "Gaming with Griff Griffin",
-      "subscribers": 109000,
-      "views": 72310,
-      "channel_median_views": 15151,
-      "outlier_score": 4.8,
-      "published": "2026-09-07",
-      "duration_min": 13,
-      "topic": "Lists",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "xhsIWMjE84E",
-      "title": "The Happiest People Do These 12 tiny Habits Every Day |  Stoicism",
-      "url": "https://www.youtube.com/watch?v=xhsIWMjE84E",
-      "channel": "Wisdom of the Stoics",
-      "subscribers": 40400,
-      "views": 41151,
-      "channel_median_views": 8672,
-      "outlier_score": 4.7,
-      "published": "2026-09-20",
-      "duration_min": 35,
-      "topic": "Talking about interests",
-      "found": "2026-10-12"
     }
   ],
   "creator_outliers": [
+    {
+      "video_id": "8OMFpnvQHZs",
+      "title": "This Artist Is Insufferable...",
+      "url": "https://www.youtube.com/watch?v=8OMFpnvQHZs",
+      "channel": "kat 'n chat",
+      "creator": "katnchat",
+      "core_vibe": false,
+      "subscribers": 364000,
+      "views": 173221,
+      "channel_median_views": 71476,
+      "outlier_score": 2.4,
+      "published": "2026-10-13",
+      "duration_min": 30,
+      "found": "2026-10-17"
+    },
     {
       "video_id": "a-S0TP4Gqb8",
       "title": "My New Life In My New Apartment As a Software Engineer | Living Alone In My 20's",
@@ -905,6 +920,21 @@
       "published": "2026-10-10",
       "duration_min": 106,
       "found": "2026-10-13"
+    },
+    {
+      "video_id": "QVv3mQzlrN0",
+      "title": "Apple Homeview Impressions: Not Convinced!",
+      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
+      "channel": "Marques Brownlee",
+      "creator": "Marques Brownlee",
+      "core_vibe": false,
+      "subscribers": 21400000,
+      "views": 9364329,
+      "channel_median_views": 5794212,
+      "outlier_score": 1.6,
+      "published": "2026-10-13",
+      "duration_min": 12,
+      "found": "2026-10-17"
     },
     {
       "video_id": "bLPTkdADd_0",
