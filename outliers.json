@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-18",
   "pool_days": 7,
-  "new_today": 18,
+  "new_today": 16,
   "count": 60,
   "outliers": [
     {
@@ -73,6 +73,20 @@
       "duration_min": 53,
       "topic": "Talking about interests",
       "found": "2026-10-15"
+    },
+    {
+      "video_id": "ixJwbQGIcyM",
+      "title": "I Joined Minecraft's Rich VS Poor Civilization [FULL MOVIE]",
+      "url": "https://www.youtube.com/watch?v=ixJwbQGIcyM",
+      "channel": "DerpDurCake",
+      "subscribers": 341000,
+      "views": 2727518,
+      "channel_median_views": 9928,
+      "outlier_score": 274.7,
+      "published": "2026-09-04",
+      "duration_min": 55,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-18"
     },
     {
       "video_id": "b39qd9UpviY",
@@ -579,6 +593,20 @@
       "found": "2026-10-15"
     },
     {
+      "video_id": "Eyjfvyvq9tY",
+      "title": "Stop Procrastinating & Get It Done 🌸 | 15 Minute Timer with Music for Classroom",
+      "url": "https://www.youtube.com/watch?v=Eyjfvyvq9tY",
+      "channel": "Timer Machine",
+      "subscribers": 96000,
+      "views": 11363,
+      "channel_median_views": 1036,
+      "outlier_score": 11.0,
+      "published": "2026-09-16",
+      "duration_min": 15,
+      "topic": "Advice & self-improvement",
+      "found": "2026-10-18"
+    },
+    {
       "video_id": "WwiIJsEkcoE",
       "title": "I Built a Visual Music App",
       "url": "https://www.youtube.com/watch?v=WwiIJsEkcoE",
@@ -691,6 +719,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "WIYSHAeTGB8",
+      "title": "Wardogs - Base Building Tips I Wish I Knew Sooner (Gameplay Guide)",
+      "url": "https://www.youtube.com/watch?v=WIYSHAeTGB8",
+      "channel": "Legacy Gaming",
+      "subscribers": 547000,
+      "views": 304128,
+      "channel_median_views": 36367,
+      "outlier_score": 8.4,
+      "published": "2026-09-17",
+      "duration_min": 17,
+      "topic": "Lists",
+      "found": "2026-10-18"
+    },
+    {
       "video_id": "0fTGMUTdq9M",
       "title": "Active Matter Beginner Guide – Things I Wish I Knew Before Playing",
       "url": "https://www.youtube.com/watch?v=0fTGMUTdq9M",
@@ -705,6 +747,20 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "zubVFMNSpLM",
+      "title": "Dan Soder: I Wish I Knew",
+      "url": "https://www.youtube.com/watch?v=zubVFMNSpLM",
+      "channel": "Neal Brennan",
+      "subscribers": 302000,
+      "views": 238670,
+      "channel_median_views": 28741,
+      "outlier_score": 8.3,
+      "published": "2026-09-17",
+      "duration_min": 76,
+      "topic": "Lists",
+      "found": "2026-10-18"
+    },
+    {
       "video_id": "7U5wM1Qs9Vo",
       "title": "Podcast Mysterium #178 - INTERNET RABBIT HOLES || ŠOKATNI MISTERIJI || LIVE Q&A",
       "url": "https://www.youtube.com/watch?v=7U5wM1Qs9Vo",
@@ -717,6 +773,34 @@
       "duration_min": 166,
       "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-12"
+    },
+    {
+      "video_id": "mhe5as76GnU",
+      "title": "Stoicism for Women: 12 Ancient Lessons Every Woman Needs to Transform Her Life",
+      "url": "https://www.youtube.com/watch?v=mhe5as76GnU",
+      "channel": "Stoic Force",
+      "subscribers": 1310,
+      "views": 49234,
+      "channel_median_views": 6165,
+      "outlier_score": 8.0,
+      "published": "2026-10-04",
+      "duration_min": 35,
+      "topic": "Talking about interests",
+      "found": "2026-10-18"
+    },
+    {
+      "video_id": "NuLeT3DX3fs",
+      "title": "7 stoic habits that make happiness your default — even when life falls apart | stoicism philosophy",
+      "url": "https://www.youtube.com/watch?v=NuLeT3DX3fs",
+      "channel": "Stoic Secret",
+      "subscribers": 2490,
+      "views": 22690,
+      "channel_median_views": 2831,
+      "outlier_score": 8.0,
+      "published": "2026-09-23",
+      "duration_min": 53,
+      "topic": "Talking about interests",
+      "found": "2026-10-18"
     },
     {
       "video_id": "J7UxNjpGGGk",
@@ -759,90 +843,6 @@
       "duration_min": 316,
       "topic": "Advice & self-improvement",
       "found": "2026-10-16"
-    },
-    {
-      "video_id": "ne-B_5ddN34",
-      "title": "Secret TIMETABLE to Score 95%+ in Boards 2027 | Ashu Sir",
-      "url": "https://www.youtube.com/watch?v=ne-B_5ddN34",
-      "channel": "Ashu Ghai 11th & 12th",
-      "subscribers": 735000,
-      "views": 390816,
-      "channel_median_views": 53792,
-      "outlier_score": 7.3,
-      "published": "2026-09-05",
-      "duration_min": 14,
-      "topic": "Studying",
-      "found": "2026-10-17"
-    },
-    {
-      "video_id": "c_CYUGfg5DI",
-      "title": "Chris Chan นักวาดการ์ตูนที่ถูกบันทึกไว้มากที่สุดในโลกอินเทอร์เน็ต | Internet Rabbit Hole",
-      "url": "https://www.youtube.com/watch?v=c_CYUGfg5DI",
-      "channel": "MarkStory",
-      "subscribers": 24800,
-      "views": 342275,
-      "channel_median_views": 50032,
-      "outlier_score": 6.8,
-      "published": "2026-08-28",
-      "duration_min": 31,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "IeiSdVRMc-U",
-      "title": "🟢 Build an AI Wardrobe App with GPT-6 Astra! | Beginner Series Ep#22 (Typesafe AI/Jev, AI Workflows)",
-      "url": "https://www.youtube.com/watch?v=IeiSdVRMc-U",
-      "channel": "Sonny Sangha",
-      "subscribers": 476000,
-      "views": 317921,
-      "channel_median_views": 48408,
-      "outlier_score": 6.6,
-      "published": "2026-09-18",
-      "duration_min": 221,
-      "topic": "Programming",
-      "found": "2026-10-13"
-    },
-    {
-      "video_id": "ghuwqDwLqNM",
-      "title": "The Beyonce Mindset",
-      "url": "https://www.youtube.com/watch?v=ghuwqDwLqNM",
-      "channel": "The Muse Manual",
-      "subscribers": 3610,
-      "views": 57892,
-      "channel_median_views": 9161,
-      "outlier_score": 6.3,
-      "published": "2026-09-10",
-      "duration_min": 10,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-12"
-    },
-    {
-      "video_id": "HsPt_DvnXNM",
-      "title": "Oxford student spends a day at Harvard",
-      "url": "https://www.youtube.com/watch?v=HsPt_DvnXNM",
-      "channel": "Just Me, Alina",
-      "subscribers": 34100,
-      "views": 69263,
-      "channel_median_views": 10926,
-      "outlier_score": 6.3,
-      "published": "2026-10-08",
-      "duration_min": 16,
-      "topic": "Studying",
-      "found": "2026-10-14"
-    },
-    {
-      "video_id": "GLO1voinujQ",
-      "title": "Obsidian replaced the app I built. ICOR for Life is free.",
-      "url": "https://www.youtube.com/watch?v=GLO1voinujQ",
-      "channel": "ICOR with Tom | AI Productivity",
-      "subscribers": 113000,
-      "views": 46286,
-      "channel_median_views": 7497,
-      "outlier_score": 6.2,
-      "published": "2026-08-30",
-      "duration_min": 31,
-      "topic": "Programming",
-      "found": "2026-10-12"
     }
   ],
   "creator_outliers": [
@@ -892,6 +892,21 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "06KjwWF_Jx4",
+      "title": "Artist Had Many Excuses...Until They Did A Stream",
+      "url": "https://www.youtube.com/watch?v=06KjwWF_Jx4",
+      "channel": "kat 'n chat",
+      "creator": "katnchat",
+      "core_vibe": false,
+      "subscribers": 366000,
+      "views": 104235,
+      "channel_median_views": 55571,
+      "outlier_score": 1.9,
+      "published": "2026-10-04",
+      "duration_min": 46,
+      "found": "2026-10-18"
+    },
+    {
       "video_id": "gKkQ21oOoj4",
       "title": "9 Home Tech Items That Are ACTUALLY Worth The Money",
       "url": "https://www.youtube.com/watch?v=gKkQ21oOoj4",
@@ -907,6 +922,21 @@
       "found": "2026-10-12"
     },
     {
+      "video_id": "J4MxCuBYOso",
+      "title": "People Are Using AI For...Inktober?",
+      "url": "https://www.youtube.com/watch?v=J4MxCuBYOso",
+      "channel": "kat 'n chat",
+      "creator": "katnchat",
+      "core_vibe": false,
+      "subscribers": 366000,
+      "views": 97651,
+      "channel_median_views": 55571,
+      "outlier_score": 1.8,
+      "published": "2026-10-09",
+      "duration_min": 14,
+      "found": "2026-10-18"
+    },
+    {
       "video_id": "aNC_9m58euQ",
       "title": "So Adobe seems to be in trouble...",
       "url": "https://www.youtube.com/watch?v=aNC_9m58euQ",
@@ -920,6 +950,21 @@
       "published": "2026-10-10",
       "duration_min": 106,
       "found": "2026-10-13"
+    },
+    {
+      "video_id": "jQYrt39XEA8",
+      "title": "The Public Is Torn Over This Artist's Work...",
+      "url": "https://www.youtube.com/watch?v=jQYrt39XEA8",
+      "channel": "kat 'n chat",
+      "creator": "katnchat",
+      "core_vibe": false,
+      "subscribers": 366000,
+      "views": 96990,
+      "channel_median_views": 55571,
+      "outlier_score": 1.7,
+      "published": "2026-10-12",
+      "duration_min": 21,
+      "found": "2026-10-18"
     },
     {
       "video_id": "QVv3mQzlrN0",
