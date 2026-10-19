@@ -8,7 +8,7 @@
   "results_per_query": 50,
   "baseline_videos": 30,
   "min_baseline_videos": 5,
-  "max_results": 60,
+  "max_results": 250,
   "language": "en",
   "topics": [
     {
@@ -18,7 +18,12 @@
         "day in the life cs student europe",
         "productive day in my life student",
         "day in my life vlog 20s",
-        "day in my life gym and studying"
+        "day in my life gym and studying",
+        "week in my life university student",
+        "day in my life software engineering student",
+        "day in my life studying abroad student",
+        "a normal day in my life college student",
+        "exam season day in my life"
       ]
     },
     {
@@ -28,14 +33,21 @@
         "exploring weird websites",
         "trying cool apps you didn't know existed",
         "internet rabbit hole",
-        "going through my old videos commentary"
+        "going through my old videos commentary",
+        "I tried every",
+        "testing viral apps",
+        "rating my subscribers",
+        "I let my viewers decide"
       ]
     },
     {
       "name": "High-concept hook (click for one thing, get more)",
       "queries": [
         "I copied a youtuber until he noticed me",
-        "I spent 24 hours doing"
+        "I spent 24 hours doing",
+        "I tried living like",
+        "I pretended to be",
+        "I followed a routine for 24 hours"
       ]
     },
     {
@@ -43,21 +55,28 @@
       "queries": [
         "learning to code journey",
         "I built an app",
-        "leetcode grind student vlog"
+        "leetcode grind student vlog",
+        "coding vlog",
+        "I made a website in 24 hours",
+        "first year computer science student honest"
       ]
     },
     {
       "name": "Studying",
       "queries": [
         "how I study effectively",
-        "university student routine"
+        "university student routine",
+        "study with me vlog",
+        "how I take notes university"
       ]
     },
     {
       "name": "Advice from my own experience",
       "queries": [
         "advice for people in their 20s",
-        "honest advice from my first year of university"
+        "honest advice from my first year of university",
+        "what I learned in my first year of university",
+        "lessons I learned the hard way"
       ]
     },
     {
@@ -65,27 +84,32 @@
       "queries": [
         "gym routine as a student",
         "what I eat in a day healthy student",
-        "my productivity system honest"
+        "my productivity system honest",
+        "beginner gym journey",
+        "high protein meals student budget",
+        "my morning routine honest"
       ]
     },
     {
       "name": "Short film / cinematic",
       "queries": [
         "cinematic short film about life",
-        "personal video essay"
+        "personal video essay",
+        "short film about growing up"
       ]
     },
     {
       "name": "Lists and rankings",
       "queries": [
         "things I wish I knew earlier",
-        "I ranked every"
+        "I ranked every",
+        "tier list"
       ]
     }
   ],
   "creator_lookback_days": 90,
   "creator_min_score": 1.5,
-  "max_creator_results": 30,
+  "max_creator_results": 60,
   "creators": [
     {
       "name": "Steph Ran",
