@@ -12,22 +12,30 @@
   "language": "en",
   "topics": [
     {
+      "name": "Day in the life (best performer, double down)",
+      "queries": [
+        "realistic day in my life computer science student",
+        "day in the life cs student europe",
+        "productive day in my life student",
+        "day in my life vlog 20s",
+        "day in my life gym and studying"
+      ]
+    },
+    {
       "name": "PC-only (facecam + screen, under 2h to record)",
       "queries": [
         "I tried coding a game in one hour",
         "exploring weird websites",
         "trying cool apps you didn't know existed",
         "internet rabbit hole",
-        "commentary video",
-        "programmer reacts"
+        "going through my old videos commentary"
       ]
     },
     {
-      "name": "Day in the life",
+      "name": "High-concept hook (click for one thing, get more)",
       "queries": [
-        "day in the life computer science student",
-        "productive day in my life student",
-        "day in my life vlog 20s"
+        "I copied a youtuber until he noticed me",
+        "I spent 24 hours doing"
       ]
     },
     {
@@ -35,7 +43,7 @@
       "queries": [
         "learning to code journey",
         "I built an app",
-        "leetcode software engineer interview prep"
+        "leetcode grind student vlog"
       ]
     },
     {
@@ -46,18 +54,18 @@
       ]
     },
     {
-      "name": "Advice & self-improvement",
+      "name": "Advice from my own experience",
       "queries": [
         "advice for people in their 20s",
-        "how to stop procrastinating",
-        "I spent 24 hours doing"
+        "honest advice from my first year of university"
       ]
     },
     {
-      "name": "Talking about interests",
+      "name": "Things I'm into (gym, healthy eating, productivity)",
       "queries": [
-        "stoicism philosophy life",
-        "gym routine as a student"
+        "gym routine as a student",
+        "what I eat in a day healthy student",
+        "my productivity system honest"
       ]
     },
     {
@@ -68,9 +76,10 @@
       ]
     },
     {
-      "name": "Lists",
+      "name": "Lists and rankings",
       "queries": [
-        "things I wish I knew earlier"
+        "things I wish I knew earlier",
+        "I ranked every"
       ]
     }
   ],
@@ -98,6 +107,11 @@
     {
       "name": "Luke Made It",
       "core": true
+    },
+    {
+      "name": "Yikes",
+      "core": true,
+      "handle": "@yikes."
     },
     {
       "name": "Kelly Wakasa"
