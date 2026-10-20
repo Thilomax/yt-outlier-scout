@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-19",
+  "generated": "2026-10-20",
   "pool_days": 7,
-  "new_today": 113,
-  "count": 163,
+  "new_today": 23,
+  "count": 181,
   "outliers": [
     {
       "video_id": "K_P7s_H1Xe0",
@@ -33,20 +33,6 @@
       "found": "2026-10-19"
     },
     {
-      "video_id": "Qdh_zX-_aDs",
-      "title": "10 Best Retirement Hobbies That Keep You Young After 60 | Stoicism | Stoic Philosophy",
-      "url": "https://www.youtube.com/watch?v=Qdh_zX-_aDs",
-      "channel": "Wisdom Of Humanity",
-      "subscribers": 2160,
-      "views": 128289,
-      "channel_median_views": 292,
-      "outlier_score": 439.3,
-      "published": "2026-09-03",
-      "duration_min": 36,
-      "topic": "Talking about interests",
-      "found": "2026-10-13"
-    },
-    {
       "video_id": "D_fDXa_GauY",
       "title": "She Was Sent to the Worst Class, Where the Richest Boys Became Her Secret Protectors!",
       "url": "https://www.youtube.com/watch?v=D_fDXa_GauY",
@@ -59,6 +45,20 @@
       "duration_min": 129,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "QhOEUWK3QQE",
+      "title": "One Brave Trunk",
+      "url": "https://www.youtube.com/watch?v=QhOEUWK3QQE",
+      "channel": "PolyFilms",
+      "subscribers": 12700,
+      "views": 3205511,
+      "channel_median_views": 10553,
+      "outlier_score": 303.8,
+      "published": "2026-10-06",
+      "duration_min": 8,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-20"
     },
     {
       "video_id": "x9_E4WJncmI",
@@ -87,6 +87,20 @@
       "duration_min": 55,
       "topic": "Short film / cinematic",
       "found": "2026-10-18"
+    },
+    {
+      "video_id": "LBc_PzFqwsM",
+      "title": "Your religious toy.",
+      "url": "https://www.youtube.com/watch?v=LBc_PzFqwsM",
+      "channel": "May the Cinema be with you",
+      "subscribers": 181,
+      "views": 11272,
+      "channel_median_views": 42,
+      "outlier_score": 268.4,
+      "published": "2026-10-16",
+      "duration_min": 6,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-20"
     },
     {
       "video_id": "8sTdB3fdufQ",
@@ -131,6 +145,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "Zsn380Fj4QM",
+      "title": "Polar Bear 2026 Is Much Weirder Than I Expected",
+      "url": "https://www.youtube.com/watch?v=Zsn380Fj4QM",
+      "channel": "Mothpiece",
+      "subscribers": 1130,
+      "views": 18202,
+      "channel_median_views": 82,
+      "outlier_score": 222.0,
+      "published": "2026-09-26",
+      "duration_min": 16,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "KYppa6gWyQU",
       "title": "Patang (2026) Latest Hindi Full Movie | Preethi, Vamsi Pujit, Pranav | New South Dubbed Movies",
       "url": "https://www.youtube.com/watch?v=KYppa6gWyQU",
@@ -159,6 +187,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "97PA1XGmFas",
+      "title": "Aaj Mera Placement Ho Gaya! 🥹❤️ | Finally Placed in Cognizant",
+      "url": "https://www.youtube.com/watch?v=97PA1XGmFas",
+      "channel": "Anubhav Tiwari",
+      "subscribers": 3720,
+      "views": 144889,
+      "channel_median_views": 1282,
+      "outlier_score": 113.0,
+      "published": "2026-09-16",
+      "duration_min": 9,
+      "topic": "Day in the life (best performer, double down)",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "53jWKu7wEVw",
       "title": "Every Drug I’ve Done, Ranked by How Terrifying It Was",
       "url": "https://www.youtube.com/watch?v=53jWKu7wEVw",
@@ -185,20 +227,6 @@
       "duration_min": 49,
       "topic": "Programming",
       "found": "2026-10-19"
-    },
-    {
-      "video_id": "EX1ZBuY8bY8",
-      "title": "When You Stop Caring What People Think, Your Whole Life Changes | Stoicism",
-      "url": "https://www.youtube.com/watch?v=EX1ZBuY8bY8",
-      "channel": "Powerful Stoic Hub",
-      "subscribers": 322,
-      "views": 20476,
-      "channel_median_views": 211,
-      "outlier_score": 97.0,
-      "published": "2026-10-03",
-      "duration_min": 56,
-      "topic": "Talking about interests",
-      "found": "2026-10-13"
     },
     {
       "video_id": "LsEx1N6hja0",
@@ -353,6 +381,20 @@
       "duration_min": 10,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "OR8j1S1xpe4",
+      "title": "REA GitHub Tutorial: I Built 3 Apps With Reverse Engineer Anything",
+      "url": "https://www.youtube.com/watch?v=OR8j1S1xpe4",
+      "channel": "Nuno Tavares | Automated Marketer",
+      "subscribers": 116000,
+      "views": 72938,
+      "channel_median_views": 1410,
+      "outlier_score": 51.7,
+      "published": "2026-10-16",
+      "duration_min": 19,
+      "topic": "Programming",
+      "found": "2026-10-20"
     },
     {
       "video_id": "ck42nvhEx9I",
@@ -621,6 +663,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "PZwj4hT7ZiE",
+      "title": "Essential Tips I Wish I Knew Sooner - The Blood of Dawnwalker",
+      "url": "https://www.youtube.com/watch?v=PZwj4hT7ZiE",
+      "channel": "Arktix",
+      "subscribers": 170000,
+      "views": 125436,
+      "channel_median_views": 5943,
+      "outlier_score": 21.1,
+      "published": "2026-09-12",
+      "duration_min": 20,
+      "topic": "Lists and rankings",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "rCfY28AD9EQ",
       "title": "I Tried 3 Cities in the Philippines—Only One Felt Like Home",
       "url": "https://www.youtube.com/watch?v=rCfY28AD9EQ",
@@ -649,6 +705,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "-J838qSMuy0",
+      "title": "Skin FULL MOVIE | Drama Movies | Sarah Fisher | Girls Night In Movies",
+      "url": "https://www.youtube.com/watch?v=-J838qSMuy0",
+      "channel": "Girls Night In ",
+      "subscribers": 74400,
+      "views": 969003,
+      "channel_median_views": 50689,
+      "outlier_score": 19.1,
+      "published": "2026-09-17",
+      "duration_min": 89,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "wruvp0Kj6yg",
       "title": "My Viewers Broke The Choicer Voicer Again With My Soundboard...",
       "url": "https://www.youtube.com/watch?v=wruvp0Kj6yg",
@@ -661,6 +731,20 @@
       "duration_min": 24,
       "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "LaT7F-xY9as",
+      "title": "She Loved Him in Secret for Years—When They Reunited, He Introduced Her as His Girlfriend!",
+      "url": "https://www.youtube.com/watch?v=LaT7F-xY9as",
+      "channel": "Heartthrob Dramas",
+      "subscribers": 81900,
+      "views": 188507,
+      "channel_median_views": 10126,
+      "outlier_score": 18.6,
+      "published": "2026-09-17",
+      "duration_min": 186,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-20"
     },
     {
       "video_id": "YhjxNZQGSj0",
@@ -775,6 +859,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "2ICeHYLAUu4",
+      "title": "    A Week in My Life as an Assistant Professor 🦋🧪| students🙋🏼‍♀️|lab work🧑🏻‍🔬unboxing 💄",
+      "url": "https://www.youtube.com/watch?v=2ICeHYLAUu4",
+      "channel": "Grace🌷",
+      "subscribers": 493,
+      "views": 11699,
+      "channel_median_views": 715,
+      "outlier_score": 16.4,
+      "published": "2026-09-20",
+      "duration_min": 11,
+      "topic": "Day in the life (best performer, double down)",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "AasjDpmc8SA",
       "title": "🚨 110g PROTEIN for Just ₹125?! 😱 The Ultimate Budget Vegetarian Diet!",
       "url": "https://www.youtube.com/watch?v=AasjDpmc8SA",
@@ -829,20 +927,6 @@
       "duration_min": 36,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
-    },
-    {
-      "video_id": "gDI508P5F3g",
-      "title": "FULL REPLAY (English): Bengaluru FC vs Sporting Club Delhi (3-2) | MG ISL 2026-27 | Gameweek 1",
-      "url": "https://www.youtube.com/watch?v=gDI508P5F3g",
-      "channel": "MG Indian Super League",
-      "subscribers": 2760000,
-      "views": 7634283,
-      "channel_median_views": 602573,
-      "outlier_score": 12.7,
-      "published": "2026-10-10",
-      "duration_min": 156,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-13"
     },
     {
       "video_id": "1ZdVUfqGFdM",
@@ -971,6 +1055,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "N2uQWfV6Jr4",
+      "title": "4 ways to fix your attention span - Shannon Odell",
+      "url": "https://www.youtube.com/watch?v=N2uQWfV6Jr4",
+      "channel": "TED-Ed",
+      "subscribers": 23000000,
+      "views": 4265414,
+      "channel_median_views": 403524,
+      "outlier_score": 10.6,
+      "published": "2026-09-22",
+      "duration_min": 5,
+      "topic": "Studying",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "eR3U1uR6Wn8",
       "title": "24 Tips I Wish I Knew Sooner in WARDOGS (Tips & Tricks)",
       "url": "https://www.youtube.com/watch?v=eR3U1uR6Wn8",
@@ -1069,18 +1167,18 @@
       "found": "2026-10-14"
     },
     {
-      "video_id": "oHYMSCA-7aA",
-      "title": "Increase Your Study Hours 3 Times with Consistency and Focus for All Competitive Exams",
-      "url": "https://www.youtube.com/watch?v=oHYMSCA-7aA",
-      "channel": "UnderStand UPSC",
-      "subscribers": 508000,
-      "views": 92708,
-      "channel_median_views": 9922,
-      "outlier_score": 9.3,
-      "published": "2026-10-09",
-      "duration_min": 16,
-      "topic": "Studying",
-      "found": "2026-10-13"
+      "video_id": "JdzVLRG17GU",
+      "title": "Aniimo - Wish I Knew Sooner | Tips, Tricks, & Game Knowledge for New Players",
+      "url": "https://www.youtube.com/watch?v=JdzVLRG17GU",
+      "channel": "Legacy Gaming",
+      "subscribers": 547000,
+      "views": 422990,
+      "channel_median_views": 45151,
+      "outlier_score": 9.4,
+      "published": "2026-09-19",
+      "duration_min": 24,
+      "topic": "Lists and rankings",
+      "found": "2026-10-20"
     },
     {
       "video_id": "XcsI63AlUwE",
@@ -1207,6 +1305,20 @@
       "duration_min": 14,
       "topic": "Lists and rankings",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "qFEuYUfauNY",
+      "title": "I Tested The Viral Reverse Engineering Repo",
+      "url": "https://www.youtube.com/watch?v=qFEuYUfauNY",
+      "channel": "Low Level",
+      "subscribers": 1180000,
+      "views": 2650163,
+      "channel_median_views": 317709,
+      "outlier_score": 8.3,
+      "published": "2026-10-16",
+      "duration_min": 16,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-20"
     },
     {
       "video_id": "rXYftk3faUU",
@@ -1461,6 +1573,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "3sTvD7rr6DQ",
+      "title": "HANUMAN ANSH AVTAR | Neem Karoli Baba की चमत्कारी कहानी | Hindi Short Film | 2D Animation",
+      "url": "https://www.youtube.com/watch?v=3sTvD7rr6DQ",
+      "channel": "Hidden Ops India",
+      "subscribers": 89500,
+      "views": 2023932,
+      "channel_median_views": 333038,
+      "outlier_score": 6.1,
+      "published": "2026-09-17",
+      "duration_min": 47,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "B00hEr2sMao",
       "title": "78 KG to 60 KG! 😱 How I Lost 18 KG | Easy Weight Loss Tips | No Gym, No Workout",
       "url": "https://www.youtube.com/watch?v=B00hEr2sMao",
@@ -1473,6 +1599,20 @@
       "duration_min": 17,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "YJI_94GK-Bw",
+      "title": "I Tested The Viral Reverse Engineer Anything GitHub Skill (Step By Step Tutorial)",
+      "url": "https://www.youtube.com/watch?v=YJI_94GK-Bw",
+      "channel": "Darsh Jain",
+      "subscribers": 34900,
+      "views": 46041,
+      "channel_median_views": 7628,
+      "outlier_score": 6.0,
+      "published": "2026-10-17",
+      "duration_min": 12,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-20"
     },
     {
       "video_id": "BU8BPkuDifs",
@@ -1685,6 +1825,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "6OT9HL2spYA",
+      "title": "১৩৫ গ্রাম প্রোটিন | High Protein Diet Plan | Bodybuilding on a Budget",
+      "url": "https://www.youtube.com/watch?v=6OT9HL2spYA",
+      "channel": "Hasibul Mizan Shanto",
+      "subscribers": 2010,
+      "views": 11138,
+      "channel_median_views": 2307,
+      "outlier_score": 4.8,
+      "published": "2026-10-16",
+      "duration_min": 11,
+      "topic": "Things I'm into (gym, healthy eating, productivity)",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "6YP_nB1NCvc",
       "title": "TRYING EVERY SIDEMEN'S FAVOURITE RESTAURANT",
       "url": "https://www.youtube.com/watch?v=6YP_nB1NCvc",
@@ -1711,6 +1865,20 @@
       "duration_min": 33,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "jDAZwBxAq4A",
+      "title": "I Tried Living Like a Local in Sri Lanka 🇱🇰",
+      "url": "https://www.youtube.com/watch?v=jDAZwBxAq4A",
+      "channel": "Just Ebru",
+      "subscribers": 2360,
+      "views": 25951,
+      "channel_median_views": 5526,
+      "outlier_score": 4.7,
+      "published": "2026-09-09",
+      "duration_min": 10,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "found": "2026-10-20"
     },
     {
       "video_id": "5u-iTRxMqnA",
@@ -1937,6 +2105,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "vG-5Wf0OPBU",
+      "title": "Trying Every HYDERABAD Street Food For 24 Hours! Indian Street Food Challenge",
+      "url": "https://www.youtube.com/watch?v=vG-5Wf0OPBU",
+      "channel": "Harry Uppal",
+      "subscribers": 1130000,
+      "views": 2234754,
+      "channel_median_views": 571782,
+      "outlier_score": 3.9,
+      "published": "2026-10-10",
+      "duration_min": 30,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "ITTNWQ8eas0",
       "title": "How I Made EVERY Viral Squishy AT HOME! *EASY DIY Tutorial*",
       "url": "https://www.youtube.com/watch?v=ITTNWQ8eas0",
@@ -1949,6 +2131,20 @@
       "duration_min": 22,
       "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "jEdJEQ3Ridg",
+      "title": "20-70代達が明かす、人生の幸福度/後悔 -泣くほどの苦悩- 【幸せとは/in新橋駅/提供notta様/人生の失敗/苦悩/アドバイス】",
+      "url": "https://www.youtube.com/watch?v=jEdJEQ3Ridg",
+      "channel": "シンヤ / shinya",
+      "subscribers": 116000,
+      "views": 33441,
+      "channel_median_views": 8862,
+      "outlier_score": 3.8,
+      "published": "2026-10-14",
+      "duration_min": 34,
+      "topic": "Advice from my own experience",
+      "found": "2026-10-20"
     },
     {
       "video_id": "ncitwRaVneY",
@@ -1991,6 +2187,20 @@
       "duration_min": 17,
       "topic": "High-concept hook (click for one thing, get more)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "HiO6HBXFT1g",
+      "title": "These old short films captured growing up gay",
+      "url": "https://www.youtube.com/watch?v=HiO6HBXFT1g",
+      "channel": "Fab Heb",
+      "subscribers": 7910,
+      "views": 107604,
+      "channel_median_views": 29721,
+      "outlier_score": 3.6,
+      "published": "2026-10-16",
+      "duration_min": 11,
+      "topic": "Short film / cinematic",
+      "found": "2026-10-20"
     },
     {
       "video_id": "e8-7bR5WzTc",
@@ -2175,6 +2385,20 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "cASmou81OyY",
+      "title": "Introduction to University Mathematics (2026), Lecture 1. First Year Student Lecture",
+      "url": "https://www.youtube.com/watch?v=cASmou81OyY",
+      "channel": "Oxford Mathematics",
+      "subscribers": 746000,
+      "views": 32483,
+      "channel_median_views": 9891,
+      "outlier_score": 3.3,
+      "published": "2026-09-29",
+      "duration_min": 113,
+      "topic": "Advice from my own experience",
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "SK8I8XcmvRQ",
       "title": "20대에 알았으면 좋았을 것들  • 미래가 불안할 때 절대 하면 안 되는 것",
       "url": "https://www.youtube.com/watch?v=SK8I8XcmvRQ",
@@ -2215,6 +2439,20 @@
       "duration_min": 19,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "U8f90y364_k",
+      "title": "Ranking EVERY New Feature in the Minecraft 26.3 Update!",
+      "url": "https://www.youtube.com/watch?v=U8f90y364_k",
+      "channel": "Odyssey Central",
+      "subscribers": 345000,
+      "views": 491804,
+      "channel_median_views": 153879,
+      "outlier_score": 3.2,
+      "published": "2026-09-23",
+      "duration_min": 36,
+      "topic": "Lists and rankings",
+      "found": "2026-10-20"
     },
     {
       "video_id": "Nv_V6hhc_eU",
@@ -2285,6 +2523,20 @@
       "duration_min": 25,
       "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "nrmgoHVx_aY",
+      "title": "5 TIME-SAVING HACKS That Actually Work | Study More in Less Time",
+      "url": "https://www.youtube.com/watch?v=nrmgoHVx_aY",
+      "channel": "Digraj Singh Rajput",
+      "subscribers": 4430000,
+      "views": 1149544,
+      "channel_median_views": 382361,
+      "outlier_score": 3.0,
+      "published": "2026-10-03",
+      "duration_min": 10,
+      "topic": "Studying",
+      "found": "2026-10-20"
     }
   ],
   "creator_outliers": [
@@ -2349,6 +2601,21 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "scwlR0QHGOk",
+      "title": "The NEW Tesla Roadster: My Honest Reaction",
+      "url": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+      "channel": "Marques Brownlee",
+      "creator": "Marques Brownlee",
+      "core_vibe": false,
+      "subscribers": 21400000,
+      "views": 11230300,
+      "channel_median_views": 5936388,
+      "outlier_score": 1.9,
+      "published": "2026-10-17",
+      "duration_min": 23,
+      "found": "2026-10-20"
+    },
+    {
       "video_id": "J4MxCuBYOso",
       "title": "People Are Using AI For...Inktober?",
       "url": "https://www.youtube.com/watch?v=J4MxCuBYOso",
@@ -2362,21 +2629,6 @@
       "published": "2026-10-09",
       "duration_min": 14,
       "found": "2026-10-18"
-    },
-    {
-      "video_id": "aNC_9m58euQ",
-      "title": "So Adobe seems to be in trouble...",
-      "url": "https://www.youtube.com/watch?v=aNC_9m58euQ",
-      "channel": "Bog",
-      "creator": "Bog",
-      "core_vibe": true,
-      "subscribers": 641000,
-      "views": 93643,
-      "channel_median_views": 54838,
-      "outlier_score": 1.7,
-      "published": "2026-10-10",
-      "duration_min": 106,
-      "found": "2026-10-13"
     },
     {
       "video_id": "jQYrt39XEA8",
