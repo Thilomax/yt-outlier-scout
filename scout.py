@@ -64,6 +64,19 @@ def parse_duration(iso):
     return total
 
 
+def chapters(description):
+    """Timestamped chapter lines from a description ('0:00 Intro', '12:30 - The test').
+    They are the creator's own outline of the video's beats. Costs no API quota."""
+    out = []
+    for line in description.splitlines():
+        line = line.strip()
+        stamp = line.split(" ", 1)[0]
+        parts = stamp.split(":")
+        if 2 <= len(parts) <= 3 and all(p.isdigit() for p in parts) and " " in line:
+            out.append(line[:120])
+    return out[:40] if len(out) >= 3 else []
+
+
 def search_videos(key, query, published_after, cfg):
     data = api_get(
         "search",
@@ -225,19 +238,43 @@ def creator_outliers(key, creators, cache, seen, now, cfg):
                         "outlier_score": round(score, 1),
                         "published": v["snippet"]["publishedAt"][:10],
                         "duration_min": round(parse_duration(v["contentDetails"]["duration"]) / 60),
+                        "chapters": chapters(v["snippet"].get("description", "")),
                     }
                 )
     results.sort(key=lambda r: r["outlier_score"], reverse=True)
     return results[: cfg.get("max_creator_results", 15)]
 
 
-def merge_pool(previous, field, new_items, now, cfg):
+def is_noise(r, cfg):
+    """True for keyword finds that are almost never useful: tiny channels (one lucky
+    video against a median of 50 views gives absurd scores), full movies and dubbed
+    dramas, sports highlights, and very long uploads."""
+    if r.get("subscribers", 0) < cfg.get("min_subscribers", 0):
+        return True
+    if r.get("channel_median_views", 0) < cfg.get("min_channel_median", 0):
+        return True
+    if r.get("duration_min", 0) * 60 > cfg.get("max_duration_sec", 10**9):
+        return True
+    title = r.get("title", "").lower()
+    return any(term.lower() in title for term in cfg.get("blocked_title_terms", []))
+
+
+def wrong_language(v, cfg):
+    """Skip videos whose audio language is set and isn't the configured one."""
+    want = cfg.get("language", "en")
+    lang = v["snippet"].get("defaultAudioLanguage") or v["snippet"].get("defaultLanguage")
+    return bool(lang) and not lang.lower().startswith(want)
+
+
+def merge_pool(previous, field, new_items, now, cfg, noise_filter=False):
     """Previous finds still inside the pool window, plus today's new ones, best first."""
     cutoff = (now - timedelta(days=cfg.get("pool_days", 7))).strftime("%Y-%m-%d")
     fallback = previous.get("generated", now.strftime("%Y-%m-%d"))
     pool = {}
     for r in previous.get(field, []) or []:
         r.setdefault("found", fallback)
+        if noise_filter and is_noise(r, cfg):
+            continue
         if r["found"] > cutoff:
             pool[r["video_id"]] = r
     for r in new_items:
@@ -320,6 +357,7 @@ def run():
             duration >= cfg["min_duration_sec"]
             and now - published >= min_age
             and views >= cfg["min_views"]
+            and not wrong_language(v, cfg)
         ):
             kept[vid] = v
     print(f"{len(kept)} long-form videos after filtering")
@@ -352,9 +390,11 @@ def run():
                 "published": v["snippet"]["publishedAt"][:10],
                 "duration_min": round(parse_duration(v["contentDetails"]["duration"]) / 60),
                 "topic": candidates[vid],
+                "chapters": chapters(v["snippet"].get("description", "")),
             }
         )
 
+    results = [r for r in results if not is_noise(r, cfg)]
     results.sort(key=lambda r: r["outlier_score"], reverse=True)
     results = results[: cfg["max_results"]]
 
@@ -375,7 +415,9 @@ def run():
     for r in results + creator_results:
         r["found"] = today
     previous = load_json(ROOT / "outliers.json", {})
-    outliers_pool = merge_pool(previous, "outliers", results, now, cfg)[: cfg["max_results"]]
+    outliers_pool = merge_pool(previous, "outliers", results, now, cfg, noise_filter=True)[
+        : cfg["max_results"]
+    ]
     creators_pool = merge_pool(previous, "creator_outliers", creator_results, now, cfg)[
         : cfg.get("max_creator_results", 15)
     ]

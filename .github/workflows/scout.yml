@@ -4,9 +4,14 @@ on:
   schedule:
     - cron: "0 10 * * *"   # daily 10:00 UTC, after the YouTube quota resets (midnight Pacific)
   workflow_dispatch:        # lets you run it manually from the Actions tab
+    inputs:
+      transcripts_only:
+        description: "Only fetch transcripts for the current pool (no searching, saves quota)"
+        type: boolean
+        default: false
   push:                     # re-run when the script or topics change
     branches: [main]
-    paths: ["scout.py", "config.json", ".github/workflows/scout.yml"]
+    paths: ["scout.py", "transcripts.py", "config.json", ".github/workflows/scout.yml"]
 
 permissions:
   contents: write
@@ -22,9 +27,18 @@ jobs:
           python-version: "3.12"
 
       - name: Find outliers
+        if: ${{ !inputs.transcripts_only }}
         env:
           YOUTUBE_API_KEY: ${{ secrets.YT_OUTLIER_SCOUT }}
         run: python scout.py
+
+      - name: Fetch transcripts and comments
+        if: always()
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YT_OUTLIER_SCOUT }}
+        run: |
+          pip install --quiet youtube-transcript-api
+          python transcripts.py
 
       - name: Commit results
         if: always()
@@ -32,5 +46,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
           for f in outliers.json seen.json creators_cache.json; do [ -f "$f" ] && git add "$f"; done
+          [ -d transcripts ] && git add -A transcripts
           git diff --cached --quiet || git commit -m "Outliers $(date -u +%F)"
           git push

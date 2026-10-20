@@ -10,6 +10,25 @@
   "min_baseline_videos": 5,
   "max_results": 250,
   "language": "en",
+  "min_subscribers": 1000,
+  "min_channel_median": 500,
+  "max_duration_sec": 3600,
+  "blocked_title_terms": [
+    "full movie",
+    "[full]",
+    "full dub",
+    "eng dub",
+    "movie part",
+    "back to back scenes",
+    "highlights",
+    "#shortfilm",
+    "【"
+  ],
+  "transcripts": {
+    "top_keyword_outliers": 25,
+    "max_chars": 40000,
+    "comments_per_video": 15
+  },
   "topics": [
     {
       "name": "Day in the life (best performer, double down)",
