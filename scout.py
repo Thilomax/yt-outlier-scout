@@ -92,6 +92,24 @@ def search_videos(key, query, published_after, cfg):
     return [item["id"]["videoId"] for item in data.get("items", [])]
 
 
+CATEGORY_NAMES = {
+    "1": "Film & Animation", "2": "Autos", "10": "Music", "15": "Pets & Animals",
+    "17": "Sports", "19": "Travel", "20": "Gaming", "22": "People & Blogs",
+    "23": "Comedy", "24": "Entertainment", "25": "News", "26": "Howto & Style",
+    "27": "Education", "28": "Science & Tech",
+}
+
+
+def trending_videos(key, region, category):
+    """YouTube's own 'most popular' chart for one region and category. Costs 1 quota
+    unit, and brings in topics the keyword searches would never ask for."""
+    data = api_get(
+        "videos", key, part="id", chart="mostPopular",
+        regionCode=region, videoCategoryId=category, maxResults=50,
+    )
+    return [item["id"] for item in data.get("items", [])]
+
+
 def video_details(key, ids):
     out = {}
     for batch in chunks(ids):
@@ -341,6 +359,20 @@ def run():
     total_queries = sum(len(t["queries"]) for t in cfg["topics"])
     if errors and len(errors) == total_queries:
         raise RuntimeError(f"All searches failed. First error: {errors[0]}")
+
+    # 1b. YouTube's trending charts, for topics outside the search terms
+    trend = cfg.get("trending", {})
+    for region in trend.get("regions", []):
+        for cat in trend.get("categories", []):
+            try:
+                ids = trending_videos(key, region, str(cat))
+            except Exception as e:  # some categories have no chart in some regions
+                print(f"trending {region}/{cat} failed: {e}", file=sys.stderr)
+                continue
+            label = f"Trending: {CATEGORY_NAMES.get(str(cat), cat)}"
+            for vid in ids:
+                if vid not in seen:
+                    candidates.setdefault(vid, label)
     print(f"{len(candidates)} new candidate videos")
 
     # 2. details + filter (long-form only, old enough to judge, enough views)

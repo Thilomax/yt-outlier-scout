@@ -115,12 +115,9 @@ def main():
         vid = r["video_id"]
         path = OUT_DIR / f"{vid}.txt"
         rel = f"transcripts/{vid}.txt"
-        if path.exists():
+        if path.exists() and "## Transcript\n(unavailable" not in path.read_text(encoding="utf-8"):
             r["transcript"] = rel
             r.pop("transcript_error", None)
-            continue
-        if blocked:
-            r["transcript_error"] = blocked
             continue
 
         header = [
@@ -128,33 +125,48 @@ def main():
             f"{r['channel']} | {r['views']:,} views vs usual {r['channel_median_views']:,} "
             f"({r['outlier_score']}x) | {r['duration_min']} min | {r['url']}",
         ]
-        try:
-            transcript = fetch_transcript(api, vid)
-        except Exception as e:
-            name = type(e).__name__
-            r["transcript_error"] = name
-            failed += 1
-            print(f"  {vid}: {name}", file=sys.stderr)
-            # YouTube blocking this machine's IP: stop instead of hammering it
-            if name in ("RequestBlocked", "IpBlocked"):
-                blocked = f"{name} (YouTube blocked transcript requests from this server)"
-            continue
+        transcript = None
+        if blocked:
+            r["transcript_error"] = blocked
+        else:
+            try:
+                transcript = fetch_transcript(api, vid)
+                r.pop("transcript_error", None)
+            except Exception as e:
+                name = type(e).__name__
+                r["transcript_error"] = name
+                failed += 1
+                print(f"  {vid}: {name}", file=sys.stderr)
+                # YouTube blocking this machine's IP: stop trying instead of hammering it
+                if name in ("RequestBlocked", "IpBlocked"):
+                    blocked = f"{name} (YouTube blocked transcript requests from this server)"
 
+        # comments use the official API, so they work even when transcripts are blocked
+        if path.exists() and transcript is None:
+            r["transcript"] = rel  # keep the comments-only file from an earlier run
+            continue
         try:
             comments = fetch_comments(key, vid, n_comments)
         except Exception as e:
             comments = [f"(comments unavailable: {e})"]
 
-        body = header + ["", "## Transcript", transcript[:max_chars]]
-        if len(transcript) > max_chars:
-            body.append(f"[... cut at {max_chars} characters]")
+        if transcript is None and not comments:
+            continue
+        if transcript is None:
+            body = header + ["", "## Transcript", "(unavailable: watch the video itself)"]
+        else:
+            body = header + ["", "## Transcript", transcript[:max_chars]]
+            if len(transcript) > max_chars:
+                body.append(f"[... cut at {max_chars} characters]")
+            fetched += 1
+        if r.get("chapters"):
+            body += ["", "## Chapters (from the description)"] + r["chapters"]
         if comments:
             body += ["", "## Top comments (by relevance)"] + comments
         path.write_text("\n".join(body) + "\n", encoding="utf-8")
         r["transcript"] = rel
-        r.pop("transcript_error", None)
-        fetched += 1
-        time.sleep(1.5)  # be gentle
+        if not blocked:
+            time.sleep(1.5)  # be gentle
 
     # keep only files for videos that are still in the pool
     keep = {f"{r['video_id']}.txt" for r in keyword + creators}
