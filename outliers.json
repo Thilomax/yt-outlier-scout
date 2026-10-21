@@ -1,51 +1,9 @@
 {
-  "generated": "2026-10-20",
+  "generated": "2026-10-21",
   "pool_days": 7,
-  "new_today": 23,
-  "count": 181,
+  "new_today": 10,
+  "count": 141,
   "outliers": [
-    {
-      "video_id": "K_P7s_H1Xe0",
-      "title": "Collage life || love story short movie 😍 #shortfilm ",
-      "url": "https://www.youtube.com/watch?v=K_P7s_H1Xe0",
-      "channel": "Tormexa",
-      "subscribers": 481,
-      "views": 154336,
-      "channel_median_views": 55,
-      "outlier_score": 2780.8,
-      "published": "2026-09-24",
-      "duration_min": 19,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-16"
-    },
-    {
-      "video_id": "hPK040n4-yU",
-      "title": "I wasted my 20s. Lessons I learned the hard way",
-      "url": "https://www.youtube.com/watch?v=hPK040n4-yU",
-      "channel": "Charisma Engineered",
-      "subscribers": 349,
-      "views": 65233,
-      "channel_median_views": 115,
-      "outlier_score": 567.2,
-      "published": "2026-10-12",
-      "duration_min": 18,
-      "topic": "Advice from my own experience",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "D_fDXa_GauY",
-      "title": "She Was Sent to the Worst Class, Where the Richest Boys Became Her Secret Protectors!",
-      "url": "https://www.youtube.com/watch?v=D_fDXa_GauY",
-      "channel": "Heartthrob Dramas",
-      "subscribers": 81700,
-      "views": 3134632,
-      "channel_median_views": 9445,
-      "outlier_score": 331.9,
-      "published": "2026-09-09",
-      "duration_min": 129,
-      "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
-    },
     {
       "video_id": "QhOEUWK3QQE",
       "title": "One Brave Trunk",
@@ -58,133 +16,8 @@
       "published": "2026-10-06",
       "duration_min": 8,
       "topic": "Short film / cinematic",
-      "found": "2026-10-20"
-    },
-    {
-      "video_id": "x9_E4WJncmI",
-      "title": "7 stoic habits that make happiness your default — even when life falls apart | stoicism philosophy?",
-      "url": "https://www.youtube.com/watch?v=x9_E4WJncmI",
-      "channel": "The stoic Code",
-      "subscribers": 655,
-      "views": 47047,
-      "channel_median_views": 157,
-      "outlier_score": 299.7,
-      "published": "2026-10-09",
-      "duration_min": 53,
-      "topic": "Talking about interests",
-      "found": "2026-10-15"
-    },
-    {
-      "video_id": "ixJwbQGIcyM",
-      "title": "I Joined Minecraft's Rich VS Poor Civilization [FULL MOVIE]",
-      "url": "https://www.youtube.com/watch?v=ixJwbQGIcyM",
-      "channel": "DerpDurCake",
-      "subscribers": 341000,
-      "views": 2727518,
-      "channel_median_views": 9928,
-      "outlier_score": 274.7,
-      "published": "2026-09-04",
-      "duration_min": 55,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-18"
-    },
-    {
-      "video_id": "LBc_PzFqwsM",
-      "title": "Your religious toy.",
-      "url": "https://www.youtube.com/watch?v=LBc_PzFqwsM",
-      "channel": "May the Cinema be with you",
-      "subscribers": 181,
-      "views": 11272,
-      "channel_median_views": 42,
-      "outlier_score": 268.4,
-      "published": "2026-10-16",
-      "duration_min": 6,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-20"
-    },
-    {
-      "video_id": "8sTdB3fdufQ",
-      "title": "【Full Dub】The Campus Ice Queen Ignored Every Rich Heir, Then She Walked Straight to Me！😱 #drama",
-      "url": "https://www.youtube.com/watch?v=8sTdB3fdufQ",
-      "channel": "DramaRush-Hub",
-      "subscribers": 14300,
-      "views": 260086,
-      "channel_median_views": 999,
-      "outlier_score": 260.2,
-      "published": "2026-09-16",
-      "duration_min": 186,
-      "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "t1jZc7Qilbk",
-      "title": "[FULL] Raised by the Mafia | She Grew Up Surrounded by Secrets and Danger | Full Drama Movie",
-      "url": "https://www.youtube.com/watch?v=t1jZc7Qilbk",
-      "channel": "Secret Story Cinema",
-      "subscribers": 1440,
-      "views": 138071,
-      "channel_median_views": 577,
-      "outlier_score": 239.1,
-      "published": "2026-09-11",
-      "duration_min": 25,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "qC7FRyv2yxY",
-      "title": "Pichaikkaran Movie Part 2 Back to Back Scenes | Vijay Antony | Satna Titus | Dheepa Ramanujam | KTV",
-      "url": "https://www.youtube.com/watch?v=qC7FRyv2yxY",
-      "channel": "KTV",
-      "subscribers": 1790000,
-      "views": 2821876,
-      "channel_median_views": 12072,
-      "outlier_score": 233.7,
-      "published": "2026-09-29",
-      "duration_min": 28,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "Zsn380Fj4QM",
-      "title": "Polar Bear 2026 Is Much Weirder Than I Expected",
-      "url": "https://www.youtube.com/watch?v=Zsn380Fj4QM",
-      "channel": "Mothpiece",
-      "subscribers": 1130,
-      "views": 18202,
-      "channel_median_views": 82,
-      "outlier_score": 222.0,
-      "published": "2026-09-26",
-      "duration_min": 16,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-20"
-    },
-    {
-      "video_id": "KYppa6gWyQU",
-      "title": "Patang (2026) Latest Hindi Full Movie | Preethi, Vamsi Pujit, Pranav | New South Dubbed Movies",
-      "url": "https://www.youtube.com/watch?v=KYppa6gWyQU",
-      "channel": "Sri Balaji Hindi Movies",
-      "subscribers": 1380000,
-      "views": 1590315,
-      "channel_median_views": 11857,
-      "outlier_score": 134.1,
-      "published": "2026-10-09",
-      "duration_min": 157,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-17"
-    },
-    {
-      "video_id": "EkE1VmdpS58",
-      "title": "DIVORCED WOMEN REVEAL HARSH TRUTHS THEY WISH THEY KNEW BEFORE MARRIAGE●RELATIONSHIP ADVICE FOR WOMEN",
-      "url": "https://www.youtube.com/watch?v=EkE1VmdpS58",
-      "channel": "Allegedly Holly Baddie ",
-      "subscribers": 3580,
-      "views": 25738,
-      "channel_median_views": 206,
-      "outlier_score": 124.9,
-      "published": "2026-10-06",
-      "duration_min": 31,
-      "topic": "Advice from my own experience",
-      "found": "2026-10-19"
+      "found": "2026-10-20",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "97PA1XGmFas",
@@ -198,7 +31,8 @@
       "published": "2026-09-16",
       "duration_min": 9,
       "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-20"
+      "found": "2026-10-20",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "53jWKu7wEVw",
@@ -212,7 +46,8 @@
       "published": "2026-09-12",
       "duration_min": 17,
       "topic": "Lists and rankings",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "5IXUKEHtyT0",
@@ -226,7 +61,8 @@
       "published": "2026-10-09",
       "duration_min": 49,
       "topic": "Programming",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "LsEx1N6hja0",
@@ -240,49 +76,8 @@
       "published": "2026-09-14",
       "duration_min": 34,
       "topic": "Short film / cinematic",
-      "found": "2026-10-16"
-    },
-    {
-      "video_id": "fEb4i3LU1kA",
-      "title": "SUNDAY RESET AS A UNIVERSITY STUDENT | TUKS UNI DIARIES[SOUTH AFRICAN YOUTUBER].",
-      "url": "https://www.youtube.com/watch?v=fEb4i3LU1kA",
-      "channel": "LifeWithTshepangM",
-      "subscribers": 926,
-      "views": 44919,
-      "channel_median_views": 465,
-      "outlier_score": 96.6,
-      "published": "2026-09-06",
-      "duration_min": 18,
-      "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "UMiqRSLzw0c",
-      "title": "Australia vs Brazil | Extended Highlights | Game Two | International Friendly",
-      "url": "https://www.youtube.com/watch?v=UMiqRSLzw0c",
-      "channel": "Football Australia",
-      "subscribers": 285000,
-      "views": 2127823,
-      "channel_median_views": 22523,
-      "outlier_score": 94.5,
-      "published": "2026-09-29",
-      "duration_min": 14,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-17"
-    },
-    {
-      "video_id": "fhcqfoqvppc",
-      "title": "【ENG DUB】They cut her hair and left her to die—she woke up six years earlier.",
-      "url": "https://www.youtube.com/watch?v=fhcqfoqvppc",
-      "channel": "StardustTV",
-      "subscribers": 291000,
-      "views": 253605,
-      "channel_median_views": 2884,
-      "outlier_score": 87.9,
-      "published": "2026-09-19",
-      "duration_min": 114,
-      "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
+      "found": "2026-10-16",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "xyhLx2h6BoE",
@@ -296,7 +91,8 @@
       "published": "2026-09-16",
       "duration_min": 16,
       "topic": "Lists and rankings",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "Y3ZUyc8qB1o",
@@ -310,7 +106,8 @@
       "published": "2026-09-29",
       "duration_min": 11,
       "topic": "Talking about interests",
-      "found": "2026-10-17"
+      "found": "2026-10-17",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "QjSWlR9ZvTc",
@@ -324,21 +121,8 @@
       "published": "2026-09-12",
       "duration_min": 13,
       "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "l8o6joFOVMw",
-      "title": "The Prince Pretended to Be Blind to Find True Love | Full Movie",
-      "url": "https://www.youtube.com/watch?v=l8o6joFOVMw",
-      "channel": "African tales by favourite:  2500M views ",
-      "subscribers": 40800,
-      "views": 870698,
-      "channel_median_views": 13070,
-      "outlier_score": 66.6,
-      "published": "2026-10-11",
-      "duration_min": 47,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "m_j9uD-qXfM",
@@ -352,21 +136,8 @@
       "published": "2026-10-11",
       "duration_min": 13,
       "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "YWRqBqegNtE",
-      "title": "110g PROTEIN for Just ₹125! 😱 Cheapest Muscle Building Diet in India",
-      "url": "https://www.youtube.com/watch?v=YWRqBqegNtE",
-      "channel": "Sudipta Singha Fitness ",
-      "subscribers": 3570,
-      "views": 10179,
-      "channel_median_views": 169,
-      "outlier_score": 60.1,
-      "published": "2026-09-25",
-      "duration_min": 6,
-      "topic": "Things I'm into (gym, healthy eating, productivity)",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "4rfMh7y1ryc",
@@ -380,7 +151,8 @@
       "published": "2026-09-06",
       "duration_min": 10,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "OR8j1S1xpe4",
@@ -394,21 +166,8 @@
       "published": "2026-10-16",
       "duration_min": 19,
       "topic": "Programming",
-      "found": "2026-10-20"
-    },
-    {
-      "video_id": "ck42nvhEx9I",
-      "title": "Jurassic Park III Is NOT a Bad Movie... Don't Listen to the Critics",
-      "url": "https://www.youtube.com/watch?v=ck42nvhEx9I",
-      "channel": "Mr. Justified",
-      "subscribers": 340,
-      "views": 29444,
-      "channel_median_views": 655,
-      "outlier_score": 44.9,
-      "published": "2026-10-16",
-      "duration_min": 14,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-19"
+      "found": "2026-10-20",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "CNHDmAZ0Nlk",
@@ -422,7 +181,8 @@
       "published": "2026-09-12",
       "duration_min": 12,
       "topic": "Lists and rankings",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "HzXD4GVqXwM",
@@ -436,7 +196,8 @@
       "published": "2026-10-04",
       "duration_min": 17,
       "topic": "Programming",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "CWzpzQ2-ubs",
@@ -450,21 +211,8 @@
       "published": "2026-09-19",
       "duration_min": 13,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "QtvvVMICqqE",
-      "title": "Claude Opus 5.5 Built a 3D Warehouse App That Looks Like a Game: The Exact Prompts",
-      "url": "https://www.youtube.com/watch?v=QtvvVMICqqE",
-      "channel": "o0o0o0o",
-      "subscribers": 3290,
-      "views": 15766,
-      "channel_median_views": 371,
-      "outlier_score": 42.5,
-      "published": "2026-10-08",
-      "duration_min": 5,
-      "topic": "Programming",
-      "found": "2026-10-17"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "NPBlovQ2rzk",
@@ -478,21 +226,8 @@
       "published": "2026-10-07",
       "duration_min": 23,
       "topic": "Lists and rankings",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "TTkbIlQZvUU",
-      "title": "Kadhalum Kadandhu Pogum - Full Movie | Vijay Sethpathi| Madonna Sebastian| Nalan Kumarasamy| J Movie",
-      "url": "https://www.youtube.com/watch?v=TTkbIlQZvUU",
-      "channel": "J Movie Official",
-      "subscribers": 332000,
-      "views": 1872575,
-      "channel_median_views": 50752,
-      "outlier_score": 36.9,
-      "published": "2026-09-29",
-      "duration_min": 134,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "_IsJDlNYkdQ",
@@ -506,7 +241,8 @@
       "published": "2026-10-11",
       "duration_min": 9,
       "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "rFPcudYPP0Q",
@@ -520,35 +256,48 @@
       "published": "2026-09-17",
       "duration_min": 16,
       "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
-      "video_id": "E60jSZykByA",
-      "title": "Rich Girls Bully Poor Student As Usual! Unaware The One Sit There Is Her Mafia Twin Sis..Show Begin!",
-      "url": "https://www.youtube.com/watch?v=E60jSZykByA",
-      "channel": "Swan Drama",
-      "subscribers": 15500,
-      "views": 265973,
-      "channel_median_views": 8172,
-      "outlier_score": 32.5,
-      "published": "2026-10-01",
-      "duration_min": 120,
-      "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "wsysXETXWxA",
-      "title": "FULL REPLAY (English): Inter Kashi FC vs Kerala Blasters FC (0-2) | MG ISL 2026-27 | GW 1",
-      "url": "https://www.youtube.com/watch?v=wsysXETXWxA",
-      "channel": "MG Indian Super League",
-      "subscribers": 2800000,
-      "views": 12256649,
-      "channel_median_views": 381850,
-      "outlier_score": 32.1,
-      "published": "2026-10-11",
-      "duration_min": 156,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-17"
+      "video_id": "IP357MKliHw",
+      "title": "22 Surprising Japanese Cleaning Hacks You’ll Wish You Knew Sooner!",
+      "url": "https://www.youtube.com/watch?v=IP357MKliHw",
+      "channel": "Japanese Home Hacks",
+      "subscribers": 36900,
+      "views": 535829,
+      "channel_median_views": 16886,
+      "outlier_score": 31.7,
+      "published": "2026-09-26",
+      "duration_min": 23,
+      "topic": "Lists and rankings",
+      "chapters": [
+        "0:00 22 Japanese Cleaning Hacks",
+        "0:31 1.",
+        "1:46 2.",
+        "2:41 3.",
+        "3:38 4.",
+        "4:31 5.",
+        "6:00 6.",
+        "7:14 7.",
+        "8:11 8.",
+        "9:26 9.",
+        "10:22 10.",
+        "11:13 11.",
+        "12:14 12.",
+        "13:17 13.",
+        "14:18 14.",
+        "15:14 15.",
+        "16:12 16.",
+        "16:58 17.",
+        "17:37 18.",
+        "18:16 19.",
+        "18:59 20.",
+        "19:35 21.",
+        "20:41 22."
+      ],
+      "found": "2026-10-21",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "2BGZB6cO1Mk",
@@ -562,49 +311,24 @@
       "published": "2026-09-09",
       "duration_min": 39,
       "topic": "Short film / cinematic",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
-      "video_id": "zEH4eq0a8Ng",
-      "title": "Death Saved My Life (Starring Meagan Good & La’Myia Good) | Full Movie | Lifetime",
-      "url": "https://www.youtube.com/watch?v=zEH4eq0a8Ng",
-      "channel": "Lifetime",
-      "subscribers": 6960000,
-      "views": 765803,
-      "channel_median_views": 26138,
-      "outlier_score": 29.3,
-      "published": "2026-09-06",
-      "duration_min": 88,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "UXwJ9RwdyHs",
-      "title": "Hyperfocus | LOCK IN for 3 Hours | Deep Work Study With Me (Pomodoro 50/10)",
-      "url": "https://www.youtube.com/watch?v=UXwJ9RwdyHs",
-      "channel": "Work With Paul",
-      "subscribers": 18500,
-      "views": 4015388,
-      "channel_median_views": 137407,
-      "outlier_score": 29.2,
-      "published": "2026-09-07",
-      "duration_min": 172,
+      "video_id": "kgy5GtLOcSc",
+      "title": "How to Study Chess Efficiently | The System That Actually Works",
+      "url": "https://www.youtube.com/watch?v=kgy5GtLOcSc",
+      "channel": "Chess 369",
+      "subscribers": 5120,
+      "views": 35913,
+      "channel_median_views": 1429,
+      "outlier_score": 25.1,
+      "published": "2026-09-10",
+      "duration_min": 15,
       "topic": "Studying",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "qaxOZroXUQM",
-      "title": "A Life of Debauchery | DRAMA | Full Movie in English",
-      "url": "https://www.youtube.com/watch?v=qaxOZroXUQM",
-      "channel": "Boxoffice | DRAMA | Full Movies",
-      "subscribers": 296000,
-      "views": 864004,
-      "channel_median_views": 33298,
-      "outlier_score": 25.9,
-      "published": "2026-09-05",
-      "duration_min": 76,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-17"
+      "chapters": [],
+      "found": "2026-10-21",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "fWzDz0M5Tq4",
@@ -618,7 +342,8 @@
       "published": "2026-09-09",
       "duration_min": 7,
       "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "47ImeDiMKlQ",
@@ -632,7 +357,8 @@
       "published": "2026-10-13",
       "duration_min": 12,
       "topic": "Day in the life",
-      "found": "2026-10-16"
+      "found": "2026-10-16",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "WglGV58FSpA",
@@ -646,7 +372,8 @@
       "published": "2026-09-08",
       "duration_min": 24,
       "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "w0NW57I3i1c",
@@ -660,7 +387,8 @@
       "published": "2026-09-20",
       "duration_min": 17,
       "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "PZwj4hT7ZiE",
@@ -674,21 +402,64 @@
       "published": "2026-09-12",
       "duration_min": 20,
       "topic": "Lists and rankings",
-      "found": "2026-10-20"
+      "found": "2026-10-20",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
-      "video_id": "rCfY28AD9EQ",
-      "title": "I Tried 3 Cities in the Philippines—Only One Felt Like Home",
-      "url": "https://www.youtube.com/watch?v=rCfY28AD9EQ",
-      "channel": "Somewhere New Abroad",
-      "subscribers": 272,
-      "views": 36156,
-      "channel_median_views": 1794,
-      "outlier_score": 20.2,
-      "published": "2026-09-22",
-      "duration_min": 32,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "found": "2026-10-19"
+      "video_id": "v6B4F-mqqGA",
+      "title": "50+ Transport Fever 3 Tips I Wish I Knew Sooner!",
+      "url": "https://www.youtube.com/watch?v=v6B4F-mqqGA",
+      "channel": "Flowengineer",
+      "subscribers": 2240,
+      "views": 149306,
+      "channel_median_views": 7212,
+      "outlier_score": 20.7,
+      "published": "2026-09-29",
+      "duration_min": 22,
+      "topic": "Lists and rankings",
+      "chapters": [
+        "00:00 Welcome to the Video!",
+        "00:14 Mods on Map Creation",
+        "00:34 Enabling Larger Map Sizes (Experimental)",
+        "01:19 Managing Loans and Choosing the Best Option",
+        "01:45 You should use Subsidies",
+        "02:07 New Line Button",
+        "02:23 Buying Vehicles Directly from the Line Menu",
+        "02:43 Send vehicles to the line by clicking",
+        "02:53 Vehicle Distribution",
+        "03:16 Alternative Vehicle Listing Display",
+        "03:30 Comparing Vehicles with the Compare Button",
+        "03:42 Pay Attention to Delivery Times",
+        "04:01 Applying Specializations When Fitting",
+        "04:18 Warehouses Stop Delivery Timers",
+        "04:27 Cargo Delivery Times Overlay",
+        "04:44 Warehouses are passive",
+        "05:05 Debug Tool: Ruler",
+        "05:23 Debug Tool: Speed",
+        "05:37 Debug Tool: Asset Manipulator",
+        "05:56 Using Overlays to Identify Bottlenecks",
+        "06:09 Lane Manager",
+        "06:21 Traffic Light Tool",
+        "06:30 Signal Phases",
+        "06:39 Locking Roads",
+        "06:56 Upgrading Roads with Alley",
+        "07:03 Preventing House Construction with Country Roads",
+        "07:26 Underground Transit: Using Streets Instead of Tracks Below 100 km/h",
+        "07:53 Disable Snapping",
+        "08:03 Change One-Way Road Direction",
+        "08:22 Bus Stop Traffic Jams Solution",
+        "09:14 Follow Terrain Setting",
+        "09:39 Height Overlay",
+        "10:00 Use Trams!",
+        "10:13 Trams on Train Tracks",
+        "10:19 Sidings",
+        "11:00 Moving Stops & Waypoints",
+        "11:14 Creating Waypoints",
+        "11:30 Terminal Settings",
+        "11:58 Separating Delivery and Pickup Stations",
+        "12:21 Cargo Setup in Line Manager"
+      ],
+      "found": "2026-10-21"
     },
     {
       "video_id": "YsrMlFSGwgY",
@@ -705,20 +476,6 @@
       "found": "2026-10-19"
     },
     {
-      "video_id": "-J838qSMuy0",
-      "title": "Skin FULL MOVIE | Drama Movies | Sarah Fisher | Girls Night In Movies",
-      "url": "https://www.youtube.com/watch?v=-J838qSMuy0",
-      "channel": "Girls Night In ",
-      "subscribers": 74400,
-      "views": 969003,
-      "channel_median_views": 50689,
-      "outlier_score": 19.1,
-      "published": "2026-09-17",
-      "duration_min": 89,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-20"
-    },
-    {
       "video_id": "wruvp0Kj6yg",
       "title": "My Viewers Broke The Choicer Voicer Again With My Soundboard...",
       "url": "https://www.youtube.com/watch?v=wruvp0Kj6yg",
@@ -730,34 +487,6 @@
       "published": "2026-09-21",
       "duration_min": 24,
       "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "LaT7F-xY9as",
-      "title": "She Loved Him in Secret for Years—When They Reunited, He Introduced Her as His Girlfriend!",
-      "url": "https://www.youtube.com/watch?v=LaT7F-xY9as",
-      "channel": "Heartthrob Dramas",
-      "subscribers": 81900,
-      "views": 188507,
-      "channel_median_views": 10126,
-      "outlier_score": 18.6,
-      "published": "2026-09-17",
-      "duration_min": 186,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-20"
-    },
-    {
-      "video_id": "YhjxNZQGSj0",
-      "title": "A Day in the Life of a Software Engineer at Cognizant Noida | 9 to 6 Office Routine 💻",
-      "url": "https://www.youtube.com/watch?v=YhjxNZQGSj0",
-      "channel": "Abhishek Dhanaliya",
-      "subscribers": 625,
-      "views": 12526,
-      "channel_median_views": 681,
-      "outlier_score": 18.4,
-      "published": "2026-09-05",
-      "duration_min": 14,
-      "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
     },
     {
@@ -773,20 +502,6 @@
       "duration_min": 16,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
-    },
-    {
-      "video_id": "W84rpxyrtyc",
-      "title": "The Suspicious Wife | THRILLER | Full Movie in English",
-      "url": "https://www.youtube.com/watch?v=W84rpxyrtyc",
-      "channel": "Boxoffice | TV Movies in English",
-      "subscribers": 209000,
-      "views": 425175,
-      "channel_median_views": 23669,
-      "outlier_score": 18.0,
-      "published": "2026-09-25",
-      "duration_min": 88,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-17"
     },
     {
       "video_id": "dAzs_rU6080",
@@ -859,20 +574,6 @@
       "found": "2026-10-19"
     },
     {
-      "video_id": "2ICeHYLAUu4",
-      "title": "    A Week in My Life as an Assistant Professor 🦋🧪| students🙋🏼‍♀️|lab work🧑🏻‍🔬unboxing 💄",
-      "url": "https://www.youtube.com/watch?v=2ICeHYLAUu4",
-      "channel": "Grace🌷",
-      "subscribers": 493,
-      "views": 11699,
-      "channel_median_views": 715,
-      "outlier_score": 16.4,
-      "published": "2026-09-20",
-      "duration_min": 11,
-      "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-20"
-    },
-    {
       "video_id": "AasjDpmc8SA",
       "title": "🚨 110g PROTEIN for Just ₹125?! 😱 The Ultimate Budget Vegetarian Diet!",
       "url": "https://www.youtube.com/watch?v=AasjDpmc8SA",
@@ -884,20 +585,6 @@
       "published": "2026-09-05",
       "duration_min": 12,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "RDLCbbWWbTY",
-      "title": "We Grow Up Quietly | Cozy Surreal AI Film About Childhood, Family & Time",
-      "url": "https://www.youtube.com/watch?v=RDLCbbWWbTY",
-      "channel": "Cozy Tiny World",
-      "subscribers": 658,
-      "views": 11828,
-      "channel_median_views": 763,
-      "outlier_score": 15.5,
-      "published": "2026-09-27",
-      "duration_min": 6,
-      "topic": "Short film / cinematic",
       "found": "2026-10-19"
     },
     {
@@ -985,20 +672,6 @@
       "found": "2026-10-15"
     },
     {
-      "video_id": "oNuf9K6Nuw4",
-      "title": "The CEO Never Smiled—Until a Clumsy Delivery Girl Made Him Laugh and Steal His Heart! 😱❤️",
-      "url": "https://www.youtube.com/watch?v=oNuf9K6Nuw4",
-      "channel": "PeachShine Drama",
-      "subscribers": 93000,
-      "views": 1427349,
-      "channel_median_views": 124680,
-      "outlier_score": 11.4,
-      "published": "2026-09-18",
-      "duration_min": 150,
-      "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
-    },
-    {
       "video_id": "5Nu7pwvK3a0",
       "title": "क्यूँ? KYON? | Hindi Short Film | Family Drama | Sahil Gaikwad | Mitesh Yadav | Santosh Shinde | MFI",
       "url": "https://www.youtube.com/watch?v=5Nu7pwvK3a0",
@@ -1025,6 +698,21 @@
       "duration_min": 30,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "6b7JkQejgA4",
+      "title": "A Day in My Life as a Software Engineer 🇳🇱 (Office Day + 1K Special)",
+      "url": "https://www.youtube.com/watch?v=6b7JkQejgA4",
+      "channel": "Ibon Cañete",
+      "subscribers": 1620,
+      "views": 22504,
+      "channel_median_views": 2019,
+      "outlier_score": 11.1,
+      "published": "2026-10-04",
+      "duration_min": 9,
+      "topic": "Day in the life (best performer, double down)",
+      "chapters": [],
+      "found": "2026-10-21"
     },
     {
       "video_id": "Eyjfvyvq9tY",
@@ -1080,20 +768,6 @@
       "published": "2026-09-11",
       "duration_min": 19,
       "topic": "Lists and rankings",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "trtJHDuW1VQ",
-      "title": "Billionaire’s Mother PRETEND To Be A Maid In Her Son’s Mansion To Test His Fiancée (Full Movie)",
-      "url": "https://www.youtube.com/watch?v=trtJHDuW1VQ",
-      "channel": "DoveCine Studios",
-      "subscribers": 27200,
-      "views": 1759389,
-      "channel_median_views": 170774,
-      "outlier_score": 10.3,
-      "published": "2026-09-15",
-      "duration_min": 74,
-      "topic": "High-concept hook (click for one thing, get more)",
       "found": "2026-10-19"
     },
     {
@@ -1153,20 +827,6 @@
       "found": "2026-10-19"
     },
     {
-      "video_id": "K15dND_Kfvg",
-      "title": "Neetcode: Google vs Amazon, Programming Interviews, Quitting Big Tech",
-      "url": "https://www.youtube.com/watch?v=K15dND_Kfvg",
-      "channel": "Ryan Peterman",
-      "subscribers": 112000,
-      "views": 133471,
-      "channel_median_views": 13970,
-      "outlier_score": 9.6,
-      "published": "2026-10-05",
-      "duration_min": 35,
-      "topic": "Programming",
-      "found": "2026-10-14"
-    },
-    {
       "video_id": "JdzVLRG17GU",
       "title": "Aniimo - Wish I Knew Sooner | Tips, Tricks, & Game Knowledge for New Players",
       "url": "https://www.youtube.com/watch?v=JdzVLRG17GU",
@@ -1195,6 +855,21 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "4ZJwjMfNl90",
+      "title": "My Parents Called Me a Toad. They Forgot I Grew Up. 🦢 | DramaBox",
+      "url": "https://www.youtube.com/watch?v=4ZJwjMfNl90",
+      "channel": "DramaBox - Prime Drama Shorts",
+      "subscribers": 529000,
+      "views": 10184,
+      "channel_median_views": 1111,
+      "outlier_score": 9.2,
+      "published": "2026-10-11",
+      "duration_min": 14,
+      "topic": "Short film / cinematic",
+      "chapters": [],
+      "found": "2026-10-21"
+    },
+    {
       "video_id": "qM_LnNDJ6TU",
       "title": "The Brutally Honest Work Boot Brand Tier List",
       "url": "https://www.youtube.com/watch?v=qM_LnNDJ6TU",
@@ -1221,6 +896,21 @@
       "duration_min": 30,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "BpdoSNn4LhQ",
+      "title": "Google AI Studio: Build an App With AI Without Coding (2026)",
+      "url": "https://www.youtube.com/watch?v=BpdoSNn4LhQ",
+      "channel": "Ai With Shivam ",
+      "subscribers": 15000,
+      "views": 27556,
+      "channel_median_views": 3089,
+      "outlier_score": 8.9,
+      "published": "2026-09-20",
+      "duration_min": 17,
+      "topic": "Programming",
+      "chapters": [],
+      "found": "2026-10-21"
     },
     {
       "video_id": "9hpibIQiKwI",
@@ -1265,34 +955,6 @@
       "found": "2026-10-18"
     },
     {
-      "video_id": "GN3KlcrVs_0",
-      "title": "Out of 999 Girls, Only a Poor Girl Passed Every Test—and Won the CEO and His Family's Hearts!",
-      "url": "https://www.youtube.com/watch?v=GN3KlcrVs_0",
-      "channel": "Heartthrob Dramas",
-      "subscribers": 81700,
-      "views": 79533,
-      "channel_median_views": 9445,
-      "outlier_score": 8.4,
-      "published": "2026-10-16",
-      "duration_min": 159,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "zubVFMNSpLM",
-      "title": "Dan Soder: I Wish I Knew",
-      "url": "https://www.youtube.com/watch?v=zubVFMNSpLM",
-      "channel": "Neal Brennan",
-      "subscribers": 302000,
-      "views": 238670,
-      "channel_median_views": 28741,
-      "outlier_score": 8.3,
-      "published": "2026-09-17",
-      "duration_min": 76,
-      "topic": "Lists",
-      "found": "2026-10-18"
-    },
-    {
       "video_id": "zHI71Kb4zTg",
       "title": "Every Michael Myers Ranked From Weakest to Strongest",
       "url": "https://www.youtube.com/watch?v=zHI71Kb4zTg",
@@ -1319,20 +981,6 @@
       "duration_min": 16,
       "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-20"
-    },
-    {
-      "video_id": "rXYftk3faUU",
-      "title": "We Ranked Every French Fry | The Yard",
-      "url": "https://www.youtube.com/watch?v=rXYftk3faUU",
-      "channel": "The Yard",
-      "subscribers": 455000,
-      "views": 1009427,
-      "channel_median_views": 122826,
-      "outlier_score": 8.2,
-      "published": "2026-09-25",
-      "duration_min": 145,
-      "topic": "Lists and rankings",
-      "found": "2026-10-19"
     },
     {
       "video_id": "0Kd_D25u_EY",
@@ -1402,62 +1050,6 @@
       "published": "2026-10-06",
       "duration_min": 24,
       "topic": "High-concept hook (click for one thing, get more)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "bqrRwhXVelk",
-      "title": "Class 12th Geography Ardhvaarshik Pariksha Viral Objective 2026| Geography Half Yearly Exam Question",
-      "url": "https://www.youtube.com/watch?v=bqrRwhXVelk",
-      "channel": "Tanu Classes ArtCom",
-      "subscribers": 1570000,
-      "views": 97521,
-      "channel_median_views": 13092,
-      "outlier_score": 7.4,
-      "published": "2026-09-18",
-      "duration_min": 123,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "5jZvtNHLJZc",
-      "title": "3 HOUR STUDY WITH ME 🌧️ / Rainy Day In The Forest 🍃🐿️ / Pomodoro 50-10 / Rain Sounds / No Music",
-      "url": "https://www.youtube.com/watch?v=5jZvtNHLJZc",
-      "channel": "Sora's Treehouse Study",
-      "subscribers": 30300,
-      "views": 284575,
-      "channel_median_views": 38649,
-      "outlier_score": 7.4,
-      "published": "2026-09-07",
-      "duration_min": 171,
-      "topic": "Studying",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "QJVBwbsW5kY",
-      "title": "24 Hours with Cat In The Hat & Grinch!",
-      "url": "https://www.youtube.com/watch?v=QJVBwbsW5kY",
-      "channel": "Khan Asadi VODS",
-      "subscribers": 10000,
-      "views": 114248,
-      "channel_median_views": 15625,
-      "outlier_score": 7.3,
-      "published": "2026-09-12",
-      "duration_min": 316,
-      "topic": "Advice & self-improvement",
-      "found": "2026-10-16"
-    },
-    {
-      "video_id": "P1cB2fLn9QA",
-      "title": "I Watched All 3 Seasons of What If...? So You Don't Have To",
-      "url": "https://www.youtube.com/watch?v=P1cB2fLn9QA",
-      "channel": "Toasted Water",
-      "subscribers": 37700,
-      "views": 580807,
-      "channel_median_views": 79602,
-      "outlier_score": 7.3,
-      "published": "2026-09-05",
-      "duration_min": 66,
-      "topic": "Lists and rankings",
       "found": "2026-10-19"
     },
     {
@@ -1643,20 +1235,6 @@
       "found": "2026-10-19"
     },
     {
-      "video_id": "kgaVdnu-vnQ",
-      "title": "Class 12th History Half Yearly Exam Viral Objective 2026 | History Ardhvaarshik Pariksha Questions",
-      "url": "https://www.youtube.com/watch?v=kgaVdnu-vnQ",
-      "channel": "Tanu Classes ArtCom",
-      "subscribers": 1570000,
-      "views": 75242,
-      "channel_median_views": 13092,
-      "outlier_score": 5.7,
-      "published": "2026-09-23",
-      "duration_min": 93,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "found": "2026-10-19"
-    },
-    {
       "video_id": "6OHb7ul6vDY",
       "title": "Naresh Trying To Encourage His Daughter Samantha To live Like Free Bird Interesting Scene | C Market",
       "url": "https://www.youtube.com/watch?v=6OHb7ul6vDY",
@@ -1696,20 +1274,6 @@
       "published": "2026-09-06",
       "duration_min": 19,
       "topic": "Programming",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "8ifI7aqf9Zg",
-      "title": "Class 12th Geography Ardhvaarshik Pariksha Viral Subjective 2026|Geography Half Yearly Exam Question",
-      "url": "https://www.youtube.com/watch?v=8ifI7aqf9Zg",
-      "channel": "Tanu Classes ArtCom",
-      "subscribers": 1570000,
-      "views": 71687,
-      "channel_median_views": 13092,
-      "outlier_score": 5.5,
-      "published": "2026-09-19",
-      "duration_min": 70,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-19"
     },
     {
@@ -1923,20 +1487,6 @@
       "found": "2026-10-19"
     },
     {
-      "video_id": "qN6OM1IzjIE",
-      "title": "Teaching in the Age of AI: Learning Goals and the Goals of Learning",
-      "url": "https://www.youtube.com/watch?v=qN6OM1IzjIE",
-      "channel": "Jane Street",
-      "subscribers": 101000,
-      "views": 249723,
-      "channel_median_views": 55715,
-      "outlier_score": 4.5,
-      "published": "2026-09-23",
-      "duration_min": 97,
-      "topic": "Programming",
-      "found": "2026-10-19"
-    },
-    {
       "video_id": "PDqdTs80BYE",
       "title": "10 Años en el Gym me Enseñaron Esto (18 Cosas que Ojalá Hubiese Aprendido Antes)",
       "url": "https://www.youtube.com/watch?v=PDqdTs80BYE",
@@ -2003,20 +1553,6 @@
       "outlier_score": 4.3,
       "published": "2026-10-08",
       "duration_min": 11,
-      "topic": "Day in the life (best performer, double down)",
-      "found": "2026-10-19"
-    },
-    {
-      "video_id": "N-uvl-ZgOgI",
-      "title": "No One Knows the New CEO Is Her Doctor—At Work They Pretend to Be Strangers, But He Can’t Stay Away!",
-      "url": "https://www.youtube.com/watch?v=N-uvl-ZgOgI",
-      "channel": "PeachShine Drama",
-      "subscribers": 93000,
-      "views": 528073,
-      "channel_median_views": 124680,
-      "outlier_score": 4.2,
-      "published": "2026-10-06",
-      "duration_min": 197,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
     },
@@ -2131,20 +1667,6 @@
       "duration_min": 22,
       "topic": "PC-only (facecam + screen, under 2h to record)",
       "found": "2026-10-19"
-    },
-    {
-      "video_id": "jEdJEQ3Ridg",
-      "title": "20-70代達が明かす、人生の幸福度/後悔 -泣くほどの苦悩- 【幸せとは/in新橋駅/提供notta様/人生の失敗/苦悩/アドバイス】",
-      "url": "https://www.youtube.com/watch?v=jEdJEQ3Ridg",
-      "channel": "シンヤ / shinya",
-      "subscribers": 116000,
-      "views": 33441,
-      "channel_median_views": 8862,
-      "outlier_score": 3.8,
-      "published": "2026-10-14",
-      "duration_min": 34,
-      "topic": "Advice from my own experience",
-      "found": "2026-10-20"
     },
     {
       "video_id": "ncitwRaVneY",
@@ -2385,20 +1907,6 @@
       "found": "2026-10-19"
     },
     {
-      "video_id": "cASmou81OyY",
-      "title": "Introduction to University Mathematics (2026), Lecture 1. First Year Student Lecture",
-      "url": "https://www.youtube.com/watch?v=cASmou81OyY",
-      "channel": "Oxford Mathematics",
-      "subscribers": 746000,
-      "views": 32483,
-      "channel_median_views": 9891,
-      "outlier_score": 3.3,
-      "published": "2026-09-29",
-      "duration_min": 113,
-      "topic": "Advice from my own experience",
-      "found": "2026-10-20"
-    },
-    {
       "video_id": "SK8I8XcmvRQ",
       "title": "20대에 알았으면 좋았을 것들  • 미래가 불안할 때 절대 하면 안 되는 것",
       "url": "https://www.youtube.com/watch?v=SK8I8XcmvRQ",
@@ -2469,20 +1977,6 @@
       "found": "2026-10-19"
     },
     {
-      "video_id": "e36Ee81WpXA",
-      "title": "How To Study the Bible (and ACTUALLY Grow Spiritually) | Live Free with Josh Howerton",
-      "url": "https://www.youtube.com/watch?v=e36Ee81WpXA",
-      "channel": "Lakepointe Church",
-      "subscribers": 1460000,
-      "views": 470024,
-      "channel_median_views": 151005,
-      "outlier_score": 3.1,
-      "published": "2026-09-14",
-      "duration_min": 101,
-      "topic": "Studying",
-      "found": "2026-10-19"
-    },
-    {
       "video_id": "wgePLwChCbU",
       "title": "What 90% Of BDS 1st Year Students Get Wrong | Gold Medalist Shares BDS Experience, Tips & Guide",
       "url": "https://www.youtube.com/watch?v=wgePLwChCbU",
@@ -2511,6 +2005,21 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "7NYK0m-0c3s",
+      "title": "To Catch a Predator Excuse Tier List",
+      "url": "https://www.youtube.com/watch?v=7NYK0m-0c3s",
+      "channel": "MayooseeXP",
+      "subscribers": 25200,
+      "views": 830491,
+      "channel_median_views": 265889,
+      "outlier_score": 3.1,
+      "published": "2026-09-25",
+      "duration_min": 35,
+      "topic": "Lists and rankings",
+      "chapters": [],
+      "found": "2026-10-21"
+    },
+    {
       "video_id": "OdukppDj78w",
       "title": "We Tried EVERY Food At McDonald's",
       "url": "https://www.youtube.com/watch?v=OdukppDj78w",
@@ -2537,9 +2046,67 @@
       "duration_min": 10,
       "topic": "Studying",
       "found": "2026-10-20"
+    },
+    {
+      "video_id": "0RJBLZ-JDow",
+      "title": "the reality of studying in residency",
+      "url": "https://www.youtube.com/watch?v=0RJBLZ-JDow",
+      "channel": "Kay B Chung",
+      "subscribers": 778000,
+      "views": 1110980,
+      "channel_median_views": 369433,
+      "outlier_score": 3.0,
+      "published": "2026-09-08",
+      "duration_min": 11,
+      "topic": "Studying",
+      "chapters": [],
+      "found": "2026-10-21"
+    },
+    {
+      "video_id": "0z87MrD7e6U",
+      "title": "The Last Legend Of Korra Video Essay",
+      "url": "https://www.youtube.com/watch?v=0z87MrD7e6U",
+      "channel": "Mr Obsidian",
+      "subscribers": 4720,
+      "views": 60132,
+      "channel_median_views": 19926,
+      "outlier_score": 3.0,
+      "published": "2026-10-14",
+      "duration_min": 27,
+      "topic": "Short film / cinematic",
+      "chapters": [
+        "0:00 Intro",
+        "2:34 Doomed From The Start",
+        "4:44 What's Bad",
+        "5:13 Americanisation",
+        "7:23 No Chemistry",
+        "9:50 The Past Lives",
+        "13:31 What's Good",
+        "14:36 With Villains",
+        "19:51 Korra Herself",
+        "25:50 Final Thoughts"
+      ],
+      "found": "2026-10-21"
     }
   ],
   "creator_outliers": [
+    {
+      "video_id": "93b8yGGoWr8",
+      "title": "Worst Sleep vs. Scientifically Best Sleep",
+      "url": "https://www.youtube.com/watch?v=93b8yGGoWr8",
+      "channel": "Lil code",
+      "creator": "Lil Code",
+      "core_vibe": false,
+      "subscribers": 159000,
+      "views": 1530866,
+      "channel_median_views": 93499,
+      "outlier_score": 16.4,
+      "published": "2026-10-17",
+      "duration_min": 26,
+      "chapters": [],
+      "found": "2026-10-21",
+      "transcript_error": "RequestBlocked"
+    },
     {
       "video_id": "8OMFpnvQHZs",
       "title": "This Artist Is Insufferable...",
@@ -2553,7 +2120,8 @@
       "outlier_score": 2.4,
       "published": "2026-10-13",
       "duration_min": 30,
-      "found": "2026-10-17"
+      "found": "2026-10-17",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "BML9GqxfrGw",
@@ -2568,7 +2136,8 @@
       "outlier_score": 2.1,
       "published": "2026-08-31",
       "duration_min": 23,
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "06KjwWF_Jx4",
@@ -2583,7 +2152,8 @@
       "outlier_score": 1.9,
       "published": "2026-10-04",
       "duration_min": 46,
-      "found": "2026-10-18"
+      "found": "2026-10-18",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "BiyySLyEfdM",
@@ -2598,7 +2168,8 @@
       "outlier_score": 1.9,
       "published": "2026-09-24",
       "duration_min": 25,
-      "found": "2026-10-19"
+      "found": "2026-10-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "scwlR0QHGOk",
@@ -2613,7 +2184,8 @@
       "outlier_score": 1.9,
       "published": "2026-10-17",
       "duration_min": 23,
-      "found": "2026-10-20"
+      "found": "2026-10-20",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "J4MxCuBYOso",
@@ -2628,7 +2200,8 @@
       "outlier_score": 1.8,
       "published": "2026-10-09",
       "duration_min": 14,
-      "found": "2026-10-18"
+      "found": "2026-10-18",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "jQYrt39XEA8",
@@ -2643,7 +2216,8 @@
       "outlier_score": 1.7,
       "published": "2026-10-12",
       "duration_min": 21,
-      "found": "2026-10-18"
+      "found": "2026-10-18",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "QVv3mQzlrN0",
@@ -2658,7 +2232,9 @@
       "outlier_score": 1.6,
       "published": "2026-10-13",
       "duration_min": 12,
-      "found": "2026-10-17"
+      "found": "2026-10-17",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     }
-  ]
+  ],
+  "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
 }
