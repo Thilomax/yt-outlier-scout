@@ -1,0 +1,22 @@
+# Probando el MCP Viral que Puede Recrear Cualquier Software
+Toni Dev | 163,825 views vs usual 2,562 (63.9x) | 13 min | https://www.youtube.com/watch?v=m_j9uD-qXfM
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Top comments (by relevance)
+(3 likes) Se vienen TREMENDAS Demandas Legales!!!!
+(8 likes) Tengo unas fuertes ganas de jugar Resistance 3 y la saga de Metro.
+(34 likes) la era de lo privativo ah termina, comienza la era del open source
+(11 likes) Sería interesante intentar replicar una aplicación más compleja y pedirle que haga algo que no existe, no solamente que la intente clonar tal cual. Por ejemplo, se me ocurre intentar sacar una versión para Linux del launcher de videojuegos "Launchbox", de la cual no existe versión para Linux. O del IDE "Visual Studio" (sin Code), que tampoco existe versión para Linux.
+(0 likes) Se me viene a la mente DOS y WINDOWS, eso si va a estar interesante
+(4 likes) Buen video! estaria bueno que lo repliques con algún viodejuego
+(3 likes) La consecuencia de este tipo de innovaciones no es inmediata pero marca el camino, esta herramienta seria la V1.0 de este concepto, pero marca que el software como lo conocemos es historia, sera en 1 año o en 10. Basicamente es la victoria pirrica del open source por sobre el software cerrado pero no por adopcion sino porque cambia la realidad, el open source es ademas de creatividad mancomunada ,
+(1 likes) Acabo de tener un chat bien interesante co mi BFF Deepseek acerca de REA y pienso usarlo para hacer una version de "Sync2Lip" para Linux. Tengo a Daz Studio, Cascadeur y Marvelous Designer corriendo como nativos de Linux a traves de Wine, pero los que no quieren cooperar ahora tendrán que hacerlo!
+(2 likes) Alucinante sería que en una primera etapa clonen el Half Life 1 y 2 y con ese conocimiento crear el Half Life 3 con la colaboración de la comunidad porque si esperamos a Valve nos vamos a morir esperando 😂
+(0 likes) Muy interesante, yo he estado usandolo para poder crear un soft contable para Linux ya que todas las versiones muy conocidas aqui en mi país, solo estan para windows (COI y Contpaqi).
+(29 likes) Yo creo que el uso de la ingeniería inversa, lesión del código compilado, puede tener mayor importancia no tanto en la interfaz visual, sino en la lógica de los procesos, porque duplicar la parte visual te podrá llevar más o menos tiempo podrá ser muy parecida o menos parecida, pero lo importante es si para hacer determinada función tiene que tener cierto algoritmo, leerlo, interpretarlo, no tener
+(1 likes) Hubo un software llamado Code Crusader que hace años intentaba revertir el código campilado para obtener el código fuente, pero eso fue hace mucho.
+(0 likes) La venganza de los programadores.
+(0 likes) la ia ya tiene la capacidad de hacerlo sin rea , y tan bien como ella , los invito a que lo prueben
+(2 likes) En serio? Yo esperaba que lo probaria en un software mas complejo, alguno que maneje una base de datos compleja por lo menos, y se pone a probarlo en paint 🤡

@@ -1,0 +1,22 @@
+# trying to code a cute valentines project in a day
+Steph Ran | 142,098 views vs usual 31,544 (4.5x) | 12 min | https://www.youtube.com/watch?v=_uM9ELZgPvU
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Top comments (by relevance)
+(73 likes) ty for being here friends! hope you all have a lovely valentines day regardless of who you’re spending it with!💖 quick disclaimer: this project was NOT my idea! i came across @mewtru’s tiktok and thought it was absolutely adorable so i decided to practice my skills a bit and build it myself! :) def go check her stuff out if you haven’t already bc she’s so fkn cool
+(443 likes) Coding whole day and watching someone code to relax, what am i doing with my life :)
+(287 likes) the tools i use for fast coding is ctrl c + ctrl v .
+(27 likes) 📌Save Your time with this Short Cuts Ctrl + A - Select All Ctrl + B - Bold Ctrl + C - Copy Ctrl + D - Fill Ctrl + F - Find Ctrl + G - Find next instance of text Ctrl + H - Replace Ctrl + I - Italic Ctrl + K - Insert a hyperlink Ctrl + N - New workbook Ctrl + O - Open Ctrl + P - Print Ctrl + R - Nothing right Ctrl + S - Save Ctrl + U - Underlined Ctrl + V - Paste Ctrl W - Close Ctrl + X - Cut Ctrl 
+(34 likes) Watching this while struggling to make a calendar for my intro to web design class 😭😭 thanks for the motivation!!! + the vday card is freaking adorable!!!!
+(46 likes) Prettier!!! An amazing extension in VScose that automatically fixes up mistakes and properly indents code for you, after installing it head to settings, then format and change the format code to (prettier) and check the box, update upon save. Now every time you save your code it’ll work its magic.
+(5 likes) i watched it without getting bored, im looking forward to more coding and javascript content, maybe some even react. great job.
+(18 likes) There were some insights here and there in the video, plus the project was fun and refreshing to watch. It was like taking a break after having a long tedious coding project. Oh and thanks for the video. Keep up the good work.
+(4 likes) Please make a lot more of code with me vlog!! I looove to watch you code for something cute like this. I get a chill and motivation to code as well from your video❤
+(19 likes) i love the authenticity of this series, and how you document your journey from the early stages 💗!! as someone who uses figma a lot to design my sites before converting to code, i often take advantage of figmas css code styling at the bottom of the right column. ill completely design my site on figma with auto layout and then create divs on my html to follow that same hierarchy. so copy and pastin
+(7 likes) The dangling plants in your desk set up are such a vibe 🔥
+(2 likes) Yo cool project! 🎉 You can use emmet shortcuts that’s already integrated in vscode to type fast. Like “!!!” For a new html file or also type “div>h1+p” to add a div tag with an h1 and p tag inside of the div tag. You can do it for a lot of things. I don’t know all the short cuts for that but it’s what I use to type fast. Also I sometimes just type “div + tab” and in makes the open and closing tags
+(1 likes) I love this so much as I’ve only just started trying to learn to code myself
+(1 likes) Thank you for motivating me for the Coding Journey. Been following you since you had 20k subs, and till then from now, love all of ur content. Keep growing.💫💫🌼
+(1 likes) the most cute project I program in this valentines day was a kernel, which cost me more hair than time :) so cute

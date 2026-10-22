@@ -1,0 +1,22 @@
+# I Tested Opus 5.5 Build the Same App at Every Effort Level
+Krystian Wojtarowicz AI | 111,939 views vs usual 1,148 (97.5x) | 49 min | https://www.youtube.com/watch?v=5IXUKEHtyT0
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Top comments (by relevance)
+(50 likes) The most fascinating thing was watching the guy learn about rear wheel drive cars and how to drive them
+(159 likes) A year ago this would be science fiction.
+(124 likes) The low version did an amazing job compare to medium, high, extra! But the ultracode smashed it
+(33 likes) Listen: To make this cheaper! Claude charges you for cache tokens, it has to re-read everything from before with each API call. So, A token started at 1M has to charge another 1M just to re-read old tokens. Every step, delete the chat and start a new one, it is way cheaper having it read the full project another time than for it to read cache tokens. Just have it create a handoff file. This will s
+(54 likes) for the extrahigh and max the non turing is not a problem in coding but its a phenomenal called understering in the real world , the more speed you have the harder to turn and thats why in low speeds the turn normlaly like real cars , so its not a bad thing but a good thing that they implmented real physics
+(7 likes) Ultracode was in a different galaxy in terms of performance and output just insane if this were a blind test, people would just assume Ultracode was Fable 5.5
+(61 likes) The blinking/flickering is called ‘z-fighting’. It’s an overlap issue.
+(36 likes) Low is actually feels better than Extra... Ultracode is a beast (still glitchy though) of its own
+(28 likes) Honestly, this is the best channel, no exaggeration. It's the only one that gives accurate results with Prompt as well. Thank you. Another thing I'd like to request is that you provide links to the project so we can try it and compare in detail.
+(0 likes) Very interesting video! I suspect the model performed so well on low effort because the task description was very precise. I wonder how much the results would change with a more vague prompt. I'd also be curious to see how different subagent setups affect quality, cost, and latency. For example: - Opus doing everything on its own - Opus delegating to an Opus subagent (sequentially) - Opus delegati
+(2 likes) I do this: Ultracode for planning to consider all the small things, then Extra High for implementation saying it mostly use High and Extra for complex tasks. For the money, High is the most efficient effort imho.
+(11 likes) I think ultracofr was best mainly because it uses sub agents, so one main ai has to juggle 10 tasks and it looses focus dub sub agents can break it down and can keep its focus
+(8 likes) it would be interesting to see how ultracode only for planning and high for implementation would work out - nice job
+(1 likes) Follow-up idea for you: Give the low version additional prompts one at a time to see if it can beat Ultracode. Or maybe use Extra for that. I suspect that you can get a better result for less with those models.
+(1 likes) People started to worry that nerds would marry Claude AI robot

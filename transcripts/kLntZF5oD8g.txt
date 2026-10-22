@@ -1,0 +1,22 @@
+# I took an "entry level" CIA test
+Bog | 5,698,999 views vs usual 319,134 (17.9x) | 20 min | https://www.youtube.com/watch?v=kLntZF5oD8g
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Top comments (by relevance)
+(692 likes) Deploy your app without complexity and $50 in free credits on Sevalla - https://sevalla.com/?utm_source=bog&utm_medium=Referral&utm_campaign=youtube
+(14721 likes) All people complaining about him not knowing this or not knowing that... LORD FORBID someone wanting to learn something to get smarter
+(18378 likes) Just imagine in CIA office. Sorry boss, daily limits over, Im not gonna find the wifi sorry.
+(5758 likes) Installing kali to find a remote ssid was the equivalent of looking for your neighbor's keys in your own house
+(1066 likes) discord people in 2021 when you slightly offend them
+(12357 likes) Entry level test: basically just dox a guy and learn all his personal info Finale: hack into the pentagon with a computer powered by potato batteries and a wifi with 1 bar
+(1379 likes) Rookie CIA Operative, "Excuse me, where can I find the Hint button?"
+(7182 likes) Ah yes. I TOO creat a paragraph in my websites and type my passwords into it, and set the color to white... Lol
+(6503 likes) Everyone being an elitist in the comments expecting you to see everything clearly without any experience, I just appreciate that you showed your whole thought process as you're learning
+(479 likes) bro spent hours scanning his own network to find the ssid lmfao
+(1520 likes) This is qualified as a: ,,0% understanding 100% trusting" type of video.
+(11481 likes) I will say, the "password" challenge was a bit random/unrealistic. Yes, passwords can be hidden in web page source code, but there's no real logical reason why it would be on that specific page in that specific location. A better example would've been to hide it on the contact page as a hidden parameter for the form to use the e-mail server or some API or something...
+(53 likes) The dancing part while working was really fun but what made me crash out laughing was the written text dancing HAHAHA well done mate!
+(17092 likes) The amount of time he spent trying to use tools for local network scanning was crazy
+(9381 likes) I visited the site, forgot i had a darkmode extension, and instantly saw the password lol

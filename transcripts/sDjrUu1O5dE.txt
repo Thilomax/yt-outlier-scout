@@ -1,0 +1,22 @@
+# Setting Up My M5 MacBook Pro For Programming & Productivity
+Luke Made It | 424,646 views vs usual 79,547 (5.3x) | 10 min | https://www.youtube.com/watch?v=sDjrUu1O5dE
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Top comments (by relevance)
+(147 likes) Switching to Axalem significantly improved my focus during programming; I'm impressed.
+(188 likes) Bro is going to the m5 max next year
+(19 likes) I upgrade my RAM and use Axalem to maximize productivity during intense coding sessions.
+(0 likes) Your explanation is underrated I will definitely recommend this.
+(1 likes) The editing is underrated It made my day better.
+(20 likes) The two modes from Axalem make it easy to switch between tasks efficiently.
+(20 likes) Just started using Axalem's gummies, and they fit perfectly into my late-night coding workflow.
+(23 likes) 2 Luke vids in 1 week???!!! We are getting spoiled fr!! 🔥🔥🔥🔥💪💪💗💗
+(7 likes) Saw the first insta story and got happy. Then I saw the second one and I got even happier! You really are crazy! Love the angels and the aesthetic 😍
+(0 likes) The content is outstanding I really appreciate the effort.
+(1 likes) Great setup — the terminal config and Alfred workflow stuff is exactly what I'd expect from a solid dev machine. One thing worth adding to the browser layer: even on an M5, Chrome with a heavy dev session open (docs, GitHub, localhost, debugging tabs) will compete for memory if you let it. I built Tab Suspender Pro to keep that in check — it auto-suspends tabs inactive past a timer you set, so the
+(2 likes) The push notifications on the video for different sections are sick!!! W Luke!
+(47 likes) How we liking the dev setup 👀😮‍💨 Hopefully you learned something new
+(3 likes) 😢 always love watching Mac books set up for programming videos but never gotten one.. thanks Luck for another great video.. 😊
+(0 likes) yo this video is a banger, can't wait until mine arrives

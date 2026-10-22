@@ -1,0 +1,22 @@
+# REA GitHub Tutorial: I Built 3 Apps With Reverse Engineer Anything
+Nuno Tavares | Automated Marketer | 72,938 views vs usual 1,410 (51.7x) | 19 min | https://www.youtube.com/watch?v=OR8j1S1xpe4
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Top comments (by relevance)
+(5 likes) 👋 I'm Nuno. I used REA to build 3 of my own apps from 3 free, open-source tools: a recorder with a built-in editor, a screenshot tool and a meeting-notes app. New AI builds every week, so subscribe if you want the next one. 🎁 The guide + the exact prompts (free in the VCInc community): https://portal.vcinc.ai/communities/groups/vibe-coding-incubator/home/posts/6ad258488a4d7fc13cff8842 ⚠ Only githu
+(15 likes) We live in different era now. And honestly I feel lucky to live these moments. I can't wait to see what AI can do more.
+(0 likes) great video, explained well, subscribed
+(13 likes) I created the Whispr app for local use and added cool features. I'm an Indian and I like to speak Hindi sometimes, and I created my own app. I'm thinking about open-sourcing it.
+(1 likes) Awesome video sharing Nuno...thanks for sharing :)
+(0 likes) Thanks for sharing this really game changing ...
+(0 likes) This was a good tutorial, thank you
+(1 likes) I just made my own Voice-singing cloning App and it works far better than the one I been paying subscription for. I subscribe to Suno, but I CANNOT organize cloning because suno always not completing my verif test. Same voice
+(0 likes) Awesome 😮. What do you think, will this method work for scientific apps, which includes serious mathematical operations inside? For example, a structural engineering simulation software like Ansys?
+(0 likes) Anyone have any luck doing this with a local model? Thinking something like qwen 3.8 with a 5090.
+(0 likes) I need this so bad
+(0 likes) hey, which sub for claude is recom. for that? i think pro sub might be not enaugh.
+(0 likes) Can we reverse engineer games?
+(2 likes) Can this work for that software for personal local use If I want "VIRTUAL DJ PRO" pc reverse engineering because it ask account licence to buy monthly bases to use all features
+(1 likes) So I need the source code to work, or could I also send compiled apps like .exe or .apk files?
