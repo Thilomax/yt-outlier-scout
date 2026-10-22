@@ -51,7 +51,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
-          for f in outliers.json seen.json creators_cache.json creator_alltime.json; do [ -f "$f" ] && git add "$f"; done
+          for f in outliers.json seen.json creators_cache.json creator_alltime.json search_stats.json; do [ -f "$f" ] && git add "$f"; done
           [ -d transcripts ] && git add -A transcripts
           git diff --cached --quiet || git commit -m "Outliers $(date -u +%F)"
           git push

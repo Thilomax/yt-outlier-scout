@@ -300,6 +300,22 @@ def merge_pool(previous, field, new_items, now, cfg, noise_filter=False):
     return sorted(pool.values(), key=lambda r: r["outlier_score"], reverse=True)
 
 
+def write_search_stats(today, stats, results):
+    """Daily log of what every search brought in, kept for 60 days, for the monthly
+    search review: which searches find good outliers and which only bring junk."""
+    path = ROOT / "search_stats.json"
+    log = load_json(path, {"days": []})
+    days = [d for d in log.get("days", []) if d.get("date") != today]
+    for query, s in stats.items():
+        s["examples"] = [
+            f"{r['title'][:80]} ({r['outlier_score']}x)"
+            for r in results if r.get("query") == query
+        ][:3]
+    days.append({"date": today, "searches": stats})
+    days = sorted(days, key=lambda d: d["date"])[-60:]
+    path.write_text(json.dumps({"days": days}, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+
+
 def write_error(message):
     """Record a failed run in outliers.json so it is visible without the Actions logs.
     If an earlier run left good results, keep them and only note the failure, so a
@@ -344,6 +360,8 @@ def run():
 
     # 1. search every topic
     candidates = {}  # video id -> topic
+    found_by = {}  # video id -> the exact search (or trending chart) that found it
+    stats = {}  # search -> {"returned", "new", "outliers"}, for the monthly search review
     errors = []
     for topic in cfg["topics"]:
         for query in topic["queries"]:
@@ -353,9 +371,11 @@ def run():
                 print(f"search failed for '{query}': {e}", file=sys.stderr)
                 errors.append(str(e))
                 continue
-            for vid in ids:
-                if vid not in seen:
-                    candidates.setdefault(vid, topic["name"])
+            fresh = [vid for vid in ids if vid not in seen]
+            stats[query] = {"returned": len(ids), "new": len(fresh), "outliers": 0}
+            for vid in fresh:
+                candidates.setdefault(vid, topic["name"])
+                found_by.setdefault(vid, query)
     total_queries = sum(len(t["queries"]) for t in cfg["topics"])
     if errors and len(errors) == total_queries:
         raise RuntimeError(f"All searches failed. First error: {errors[0]}")
@@ -370,9 +390,12 @@ def run():
                 print(f"trending {region}/{cat} failed: {e}", file=sys.stderr)
                 continue
             label = f"Trending: {CATEGORY_NAMES.get(str(cat), cat)}"
-            for vid in ids:
-                if vid not in seen:
-                    candidates.setdefault(vid, label)
+            source = f"trending {region} / {CATEGORY_NAMES.get(str(cat), cat)}"
+            fresh = [vid for vid in ids if vid not in seen]
+            stats[source] = {"returned": len(ids), "new": len(fresh), "outliers": 0}
+            for vid in fresh:
+                candidates.setdefault(vid, label)
+                found_by.setdefault(vid, source)
     print(f"{len(candidates)} new candidate videos")
 
     # 2. details + filter (long-form only, old enough to judge, enough views)
@@ -422,6 +445,7 @@ def run():
                 "published": v["snippet"]["publishedAt"][:10],
                 "duration_min": round(parse_duration(v["contentDetails"]["duration"]) / 60),
                 "topic": candidates[vid],
+                "query": found_by.get(vid, ""),
                 "chapters": chapters(v["snippet"].get("description", "")),
             }
         )
@@ -429,6 +453,9 @@ def run():
     results = [r for r in results if not is_noise(r, cfg)]
     results.sort(key=lambda r: r["outlier_score"], reverse=True)
     results = results[: cfg["max_results"]]
+    for r in results:
+        if r["query"] in stats:
+            stats[r["query"]]["outliers"] += 1
 
     # 5. creators he likes (an extra source, never the only one)
     creator_results, creator_error = [], None
@@ -467,6 +494,7 @@ def run():
     (ROOT / "outliers.json").write_text(
         json.dumps(out, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
+    write_search_stats(now.strftime("%Y-%m-%d"), stats, results)
     seen.update(r["video_id"] for r in results)
     seen.update(r["video_id"] for r in creator_results)
     (ROOT / "seen.json").write_text(json.dumps(sorted(seen), indent=0) + "\n", encoding="utf-8")
