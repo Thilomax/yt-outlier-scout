@@ -134,6 +134,14 @@
   "creator_lookback_days": 90,
   "creator_min_score": 1.5,
   "max_creator_results": 60,
+  "creator_alltime": {
+    "enabled": true,
+    "refresh_days": 30,
+    "top_per_creator": 10,
+    "min_breakout_score": 2,
+    "neighbour_window": 20,
+    "max_uploads_per_creator": 2000
+  },
   "creators": [
     {
       "name": "Steph Ran",

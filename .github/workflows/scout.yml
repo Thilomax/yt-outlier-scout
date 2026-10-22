@@ -11,7 +11,7 @@ on:
         default: false
   push:                     # re-run when the script or topics change
     branches: [main]
-    paths: ["scout.py", "transcripts.py", "config.json", ".github/workflows/scout.yml"]
+    paths: ["scout.py", "transcripts.py", "creators_alltime.py", "config.json", ".github/workflows/scout.yml"]
 
 permissions:
   contents: write
@@ -32,6 +32,12 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YT_OUTLIER_SCOUT }}
         run: python scout.py
 
+      - name: All-time breakouts of my creators (refreshes monthly)
+        if: always()
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YT_OUTLIER_SCOUT }}
+        run: python creators_alltime.py
+
       - name: Fetch transcripts and comments
         if: always()
         env:
@@ -45,7 +51,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
-          for f in outliers.json seen.json creators_cache.json; do [ -f "$f" ] && git add "$f"; done
+          for f in outliers.json seen.json creators_cache.json creator_alltime.json; do [ -f "$f" ] && git add "$f"; done
           [ -d transcripts ] && git add -A transcripts
           git diff --cached --quiet || git commit -m "Outliers $(date -u +%F)"
           git push

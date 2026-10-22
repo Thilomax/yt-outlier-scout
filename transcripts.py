@@ -101,7 +101,12 @@ def main():
     data = load_json(ROOT / "outliers.json", {})
     keyword = data.get("outliers", []) or []
     creators = data.get("creator_outliers", []) or []
-    targets = creators + keyword[: cfg.get("top_keyword_outliers", 25)]
+    alltime_data = load_json(ROOT / "creator_alltime.json", {})
+    alltime = [b for c in alltime_data.get("creators", {}).values() for b in c.get("breakouts", [])]
+    for b in alltime:  # header fields the files use
+        b.setdefault("channel_median_views", b.get("neighbour_median_views", 0))
+        b.setdefault("outlier_score", b.get("breakout_score", 0))
+    targets = creators + keyword[: cfg.get("top_keyword_outliers", 25)] + alltime
     if not targets:
         print("No outliers to fetch transcripts for")
         return
@@ -169,7 +174,7 @@ def main():
             time.sleep(1.5)  # be gentle
 
     # keep only files for videos that are still in the pool
-    keep = {f"{r['video_id']}.txt" for r in keyword + creators}
+    keep = {f"{r['video_id']}.txt" for r in keyword + creators + alltime}
     for f in OUT_DIR.glob("*.txt"):
         if f.name not in keep:
             f.unlink()
@@ -181,6 +186,13 @@ def main():
     (ROOT / "outliers.json").write_text(
         json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
+    if alltime:
+        for b in alltime:  # drop the helper fields again
+            b.pop("channel_median_views", None)
+            b.pop("outlier_score", None)
+        (ROOT / "creator_alltime.json").write_text(
+            json.dumps(alltime_data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+        )
     print(f"Transcripts: {fetched} new, {failed} failed, {len(targets)} targets")
 
 

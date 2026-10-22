@@ -13,6 +13,8 @@ Finds YouTube **outlier videos** — videos that massively outperformed their ch
 
 Then `transcripts.py` saves the transcript and top comments of every creator outlier and the top keyword outliers to `transcripts/<video_id>.txt` (settings under `transcripts` in `config.json`), so the weekly idea run can analyse how the videos are actually built instead of guessing from titles. It uses the free `youtube-transcript-api` package; comments cost 1 quota unit per video. YouTube currently blocks transcript requests from GitHub's servers; entries then get a `transcript_error`, and the file still holds the chapters and top comments. To fetch transcripts without re-running the search: **Actions → Run workflow → tick "Only fetch transcripts"**.
 
+`creators_alltime.py` finds what made each creator in `creators` big: it goes through their whole upload history and scores every long-form video against the median of the ~20 videos they posted around the same time (`breakout_score`), so early breakouts from when they were small count as much as recent hits. The top breakouts per creator go to `creator_alltime.json`. It refreshes at most once every `refresh_days` (settings under `creator_alltime`) and costs about 2 quota units per 50 uploads.
+
 `scout.py` uses only the Python standard library. One run costs roughly 6,500 of the 10,000 free daily API quota units (each of the ~50 searches is 100 units, plus about 2 units per channel checked), so only one full run fits per day. The quota resets at midnight Pacific time. Every push that changes `scout.py`, `config.json` or the workflow also triggers a run, which uses up that day's quota; add `[skip ci]` to the commit message to leave it for the next scheduled run.
 
 ## Setup
