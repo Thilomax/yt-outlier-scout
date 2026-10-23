@@ -1,9 +1,27 @@
 {
-  "generated": "2026-10-22",
+  "generated": "2026-10-23",
   "pool_days": 7,
-  "new_today": 64,
-  "count": 204,
+  "new_today": 16,
+  "count": 218,
   "outliers": [
+    {
+      "video_id": "h9exdt_io5k",
+      "title": "4 WAYS TO READ YOUR BIBLE (very important!)",
+      "url": "https://www.youtube.com/watch?v=h9exdt_io5k",
+      "channel": "thegoodshepherd ",
+      "subscribers": 26400,
+      "views": 395154,
+      "channel_median_views": 884,
+      "outlier_score": 447.0,
+      "published": "2026-09-17",
+      "duration_min": 25,
+      "topic": "Studying",
+      "query": "how I study effectively",
+      "chapters": [],
+      "found": "2026-10-23",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/h9exdt_io5k.txt"
+    },
     {
       "video_id": "QhOEUWK3QQE",
       "title": "One Brave Trunk",
@@ -63,6 +81,24 @@
       "transcript": "transcripts/aCY1wCc_2Ps.txt"
     },
     {
+      "video_id": "Rc8dodyx894",
+      "title": "22 INSANE Home Defense Weapons Nobody Tells You About on Amazon!",
+      "url": "https://www.youtube.com/watch?v=Rc8dodyx894",
+      "channel": "Rugged Gear",
+      "subscribers": 7400,
+      "views": 327170,
+      "channel_median_views": 2838,
+      "outlier_score": 115.3,
+      "published": "2026-09-24",
+      "duration_min": 26,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [],
+      "found": "2026-10-23",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/Rc8dodyx894.txt"
+    },
+    {
       "video_id": "97PA1XGmFas",
       "title": "Aaj Mera Placement Ho Gaya! 🥹❤️ | Finally Placed in Cognizant",
       "url": "https://www.youtube.com/watch?v=97PA1XGmFas",
@@ -109,22 +145,6 @@
       "found": "2026-10-19",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/5IXUKEHtyT0.txt"
-    },
-    {
-      "video_id": "LsEx1N6hja0",
-      "title": "Endless Love part-2 | Nagamese Movie | Short Film",
-      "url": "https://www.youtube.com/watch?v=LsEx1N6hja0",
-      "channel": "CR Mission Church KOHIMA",
-      "subscribers": 15500,
-      "views": 118791,
-      "channel_median_views": 1224,
-      "outlier_score": 97.0,
-      "published": "2026-09-14",
-      "duration_min": 34,
-      "topic": "Short film / cinematic",
-      "found": "2026-10-16",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/LsEx1N6hja0.txt"
     },
     {
       "video_id": "iw4dcvRtvco",
@@ -546,6 +566,22 @@
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
+      "video_id": "b2t4o_SoCiI",
+      "title": "JEE 2027: The Last 100 Days — The Reality Nobody Tells You",
+      "url": "https://www.youtube.com/watch?v=b2t4o_SoCiI",
+      "channel": "Vedant Builds",
+      "subscribers": 1060,
+      "views": 31056,
+      "channel_median_views": 973,
+      "outlier_score": 31.9,
+      "published": "2026-09-19",
+      "duration_min": 25,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [],
+      "found": "2026-10-23"
+    },
+    {
       "video_id": "IP357MKliHw",
       "title": "22 Surprising Japanese Cleaning Hacks You’ll Wish You Knew Sooner!",
       "url": "https://www.youtube.com/watch?v=IP357MKliHw",
@@ -601,6 +637,22 @@
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
+      "video_id": "c1XKBBmUSNQ",
+      "title": "What Life in Iran is ACTUALLY Like 🇮🇷 | Living Alone in Tehran",
+      "url": "https://www.youtube.com/watch?v=c1XKBBmUSNQ",
+      "channel": "Nazanin - Daily Life in Iran",
+      "subscribers": 3160,
+      "views": 480021,
+      "channel_median_views": 15977,
+      "outlier_score": 30.0,
+      "published": "2026-09-16",
+      "duration_min": 12,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "what it's actually like to",
+      "chapters": [],
+      "found": "2026-10-23"
+    },
+    {
       "video_id": "kgy5GtLOcSc",
       "title": "How to Study Chess Efficiently | The System That Actually Works",
       "url": "https://www.youtube.com/watch?v=kgy5GtLOcSc",
@@ -645,21 +697,6 @@
       "duration_min": 7,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
-    },
-    {
-      "video_id": "47ImeDiMKlQ",
-      "title": "I studied 60 HOURS in a week🥱 - send help.",
-      "url": "https://www.youtube.com/watch?v=47ImeDiMKlQ",
-      "channel": "yana patel",
-      "subscribers": 11000,
-      "views": 15005,
-      "channel_median_views": 668,
-      "outlier_score": 22.4,
-      "published": "2026-10-13",
-      "duration_min": 12,
-      "topic": "Day in the life",
-      "found": "2026-10-16",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
@@ -864,6 +901,38 @@
       "duration_min": 10,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "YJvgy2nKdMc",
+      "title": "10 Things Nobody Told You About Gray Zone Warfare 0.5",
+      "url": "https://www.youtube.com/watch?v=YJvgy2nKdMc",
+      "channel": "DamnitBennett",
+      "subscribers": 3970,
+      "views": 52030,
+      "channel_median_views": 2965,
+      "outlier_score": 17.5,
+      "published": "2026-10-19",
+      "duration_min": 12,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [
+        "0:00 Intro",
+        "0:21 1. Everyone Knows When You're Smuggling",
+        "1:31 2. The AI Is No Joke",
+        "2:56 3. The Max Hacking Tool Opens Every Door",
+        "4:10 4. New Keyed Areas in Old POIs",
+        "4:51 5. 60 kg Carry Weight and Two Encumbered States",
+        "5:52 6. Hideout Materials Stack but Get Heavy",
+        "6:37 7. How to Get the New Guns From Vendors",
+        "7:22 8. More Landing Zones",
+        "8:11 9. Old COPs Are Now Remote Outposts",
+        "8:56 10. Bear Traps",
+        "9:23 Bonus: Fireflies",
+        "9:54 Bonus: The Map Got Bigger",
+        "10:32 Bonus: Trip Flares Light Up the Night",
+        "11:13 Outro"
+      ],
+      "found": "2026-10-23"
     },
     {
       "video_id": "p4t4gIBoP7U",
@@ -1361,6 +1430,22 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "hII2sHeD5EE",
+      "title": "Exploring EVERY DEAD Roblox Game..",
+      "url": "https://www.youtube.com/watch?v=hII2sHeD5EE",
+      "channel": "Vindooly",
+      "subscribers": 10100000,
+      "views": 2647106,
+      "channel_median_views": 257391,
+      "outlier_score": 10.3,
+      "published": "2026-10-07",
+      "duration_min": 21,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "query": "I tried every",
+      "chapters": [],
+      "found": "2026-10-23"
+    },
+    {
       "video_id": "yB-mf6m7otw",
       "title": "Bubble Wrap on Your Windows? 4 Things Nobody Tells You",
       "url": "https://www.youtube.com/watch?v=yB-mf6m7otw",
@@ -1431,6 +1516,22 @@
       "duration_min": 13,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "oRIRU4jTCtY",
+      "title": "What It Was Actually Like Living Inside a Hooverville Shack in 1932",
+      "url": "https://www.youtube.com/watch?v=oRIRU4jTCtY",
+      "channel": "Forgotten American Shelter",
+      "subscribers": 1320,
+      "views": 107490,
+      "channel_median_views": 11149,
+      "outlier_score": 9.6,
+      "published": "2026-10-08",
+      "duration_min": 28,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "what it's actually like to",
+      "chapters": [],
+      "found": "2026-10-23"
     },
     {
       "video_id": "JdzVLRG17GU",
@@ -1652,6 +1753,22 @@
         "26:57 – Advanced Mechanical Solutions"
       ],
       "found": "2026-10-22"
+    },
+    {
+      "video_id": "1hqIUYHT1xA",
+      "title": "First week back in Nile university | 300 Level cybersecurity student | Nathan vs Nile 🧑🏽‍💻",
+      "url": "https://www.youtube.com/watch?v=1hqIUYHT1xA",
+      "channel": "Nathan in 4K 🎥",
+      "subscribers": 1500,
+      "views": 12015,
+      "channel_median_views": 1428,
+      "outlier_score": 8.4,
+      "published": "2026-10-18",
+      "duration_min": 31,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "week in my life university student",
+      "chapters": [],
+      "found": "2026-10-23"
     },
     {
       "video_id": "zHI71Kb4zTg",
@@ -2577,6 +2694,22 @@
       "found": "2026-10-22"
     },
     {
+      "video_id": "YDZeXvCf-h0",
+      "title": "I Tested FAMOUS YouTuber Products",
+      "url": "https://www.youtube.com/watch?v=YDZeXvCf-h0",
+      "channel": "SIMJI and Kai",
+      "subscribers": 71900,
+      "views": 1048589,
+      "channel_median_views": 235756,
+      "outlier_score": 4.4,
+      "published": "2026-09-12",
+      "duration_min": 21,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tested every",
+      "chapters": [],
+      "found": "2026-10-23"
+    },
+    {
       "video_id": "uJcc4hiNwsg",
       "title": "13 Hours Effortless Study For UPSC 2027 | A Day in a Life of a UPSC Aspirant. ",
       "url": "https://www.youtube.com/watch?v=uJcc4hiNwsg",
@@ -2800,6 +2933,28 @@
       "found": "2026-10-22"
     },
     {
+      "video_id": "EwnbNwrOcvc",
+      "title": "I Tried DIY Dragon Puppets",
+      "url": "https://www.youtube.com/watch?v=EwnbNwrOcvc",
+      "channel": "viyaura",
+      "subscribers": 1580000,
+      "views": 1060690,
+      "channel_median_views": 276241,
+      "outlier_score": 3.8,
+      "published": "2026-09-12",
+      "duration_min": 16,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
+      "chapters": [
+        "00:00 - the challenge",
+        "0:35 - dragon 1.0",
+        "8:21 - drawing 2.0",
+        "10:53 - deleted scenes + sister's reaction",
+        "12:27 - fun bonus storytime"
+      ],
+      "found": "2026-10-23"
+    },
+    {
       "video_id": "ncitwRaVneY",
       "title": "A Realistic Day in My Life after SSC CGL | Gym, Study & Streaming | Daily Vlog",
       "url": "https://www.youtube.com/watch?v=ncitwRaVneY",
@@ -2854,6 +3009,46 @@
       "duration_min": 11,
       "topic": "Short film / cinematic",
       "found": "2026-10-20"
+    },
+    {
+      "video_id": "4TcKGZeg9AI",
+      "title": "I Caught Every Exotic Ocean Animal!",
+      "url": "https://www.youtube.com/watch?v=4TcKGZeg9AI",
+      "channel": "Nick Kratka",
+      "subscribers": 6860000,
+      "views": 16458146,
+      "channel_median_views": 4573007,
+      "outlier_score": 3.6,
+      "published": "2026-09-26",
+      "duration_min": 28,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "query": "I tried every",
+      "chapters": [],
+      "found": "2026-10-23"
+    },
+    {
+      "video_id": "AEfXGUFU1h8",
+      "title": "The Mariah Carey Mindset",
+      "url": "https://www.youtube.com/watch?v=AEfXGUFU1h8",
+      "channel": "The Muse Manual",
+      "subscribers": 4070,
+      "views": 24096,
+      "channel_median_views": 6726,
+      "outlier_score": 3.6,
+      "published": "2026-09-25",
+      "duration_min": 10,
+      "topic": "Short film / cinematic",
+      "query": "personal video essay",
+      "chapters": [
+        "00:00 - Intro",
+        "01:32 - Principle one: You don't have to accept the frame.",
+        "02:36 - Principle two: Your timeline belongs to you.",
+        "03:49 - Principle three: Stop performing through something broken.",
+        "05:46 - Principle four: Keep the pen in your hand.",
+        "07:39 - Principle five: Control your season.",
+        "09:02 - Principle six: Privacy is a luxury, so treat it like one."
+      ],
+      "found": "2026-10-23"
     },
     {
       "video_id": "e8-7bR5WzTc",
@@ -2914,6 +3109,22 @@
       "query": "the truth about my",
       "chapters": [],
       "found": "2026-10-22"
+    },
+    {
+      "video_id": "bDC73klFXMk",
+      "title": "We Tried Making Pottery For The First Time 😱🏺 | Funny Challenge",
+      "url": "https://www.youtube.com/watch?v=bDC73klFXMk",
+      "channel": "Mahi & Insu",
+      "subscribers": 2570000,
+      "views": 1900279,
+      "channel_median_views": 541220,
+      "outlier_score": 3.5,
+      "published": "2026-09-19",
+      "duration_min": 13,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
+      "chapters": [],
+      "found": "2026-10-23"
     },
     {
       "video_id": "OlHOkn6Tlys",
@@ -3231,6 +3442,38 @@
       "found": "2026-10-22"
     },
     {
+      "video_id": "D9SYbyyyRGA",
+      "title": "There's No Way People Actually Like This Movie",
+      "url": "https://www.youtube.com/watch?v=D9SYbyyyRGA",
+      "channel": "penguinz0",
+      "subscribers": 18300000,
+      "views": 6510013,
+      "channel_median_views": 2125832,
+      "outlier_score": 3.1,
+      "published": "2026-09-14",
+      "duration_min": 25,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "what it's actually like to",
+      "chapters": [],
+      "found": "2026-10-23"
+    },
+    {
+      "video_id": "TWKEpjabmFk",
+      "title": "A Day in the Life of a Chinese College Student Who Does Things Differently",
+      "url": "https://www.youtube.com/watch?v=TWKEpjabmFk",
+      "channel": "Dan In China",
+      "subscribers": 8440,
+      "views": 182696,
+      "channel_median_views": 59455,
+      "outlier_score": 3.1,
+      "published": "2026-10-17",
+      "duration_min": 17,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "a normal day in my life college student",
+      "chapters": [],
+      "found": "2026-10-23"
+    },
+    {
       "video_id": "OdukppDj78w",
       "title": "We Tried EVERY Food At McDonald's",
       "url": "https://www.youtube.com/watch?v=OdukppDj78w",
@@ -3330,6 +3573,22 @@
       "query": "day in my life software engineering student",
       "chapters": [],
       "found": "2026-10-22"
+    },
+    {
+      "video_id": "Vuz8jP2E0oA",
+      "title": "What is was ACTUALLY like growing up in the Class of '92 😳🗣",
+      "url": "https://www.youtube.com/watch?v=Vuz8jP2E0oA",
+      "channel": "Amazon Prime Video Sport",
+      "subscribers": 1030000,
+      "views": 166791,
+      "channel_median_views": 54980,
+      "outlier_score": 3.0,
+      "published": "2026-09-22",
+      "duration_min": 7,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "what it's actually like to",
+      "chapters": [],
+      "found": "2026-10-23"
     }
   ],
   "creator_outliers": [
