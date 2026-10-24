@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-23",
+  "generated": "2026-10-24",
   "pool_days": 7,
-  "new_today": 16,
-  "count": 218,
+  "new_today": 14,
+  "count": 228,
   "outliers": [
     {
       "video_id": "h9exdt_io5k",
@@ -131,6 +131,24 @@
       "transcript": "transcripts/53jWKu7wEVw.txt"
     },
     {
+      "video_id": "fwWFdYlhaHg",
+      "title": "Why I WALKED Away & The Truth Beyond The Camera | Success Unscripted",
+      "url": "https://www.youtube.com/watch?v=fwWFdYlhaHg",
+      "channel": "Unscripted Network",
+      "subscribers": 13200,
+      "views": 193984,
+      "channel_median_views": 1893,
+      "outlier_score": 102.5,
+      "published": "2026-10-07",
+      "duration_min": 54,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "the truth about my",
+      "chapters": [],
+      "found": "2026-10-24",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/fwWFdYlhaHg.txt"
+    },
+    {
       "video_id": "5IXUKEHtyT0",
       "title": "I Tested Opus 5.5 Build the Same App at Every Effort Level",
       "url": "https://www.youtube.com/watch?v=5IXUKEHtyT0",
@@ -224,22 +242,6 @@
       "found": "2026-10-22",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/PM60AZ8p5WY.txt"
-    },
-    {
-      "video_id": "Y3ZUyc8qB1o",
-      "title": "WINTER ARC - The Ultimate 90 Days Challenge to Change Your Life ( Last Chance )",
-      "url": "https://www.youtube.com/watch?v=Y3ZUyc8qB1o",
-      "channel": "Soulvance",
-      "subscribers": 6360,
-      "views": 113223,
-      "channel_median_views": 1610,
-      "outlier_score": 70.3,
-      "published": "2026-09-29",
-      "duration_min": 11,
-      "topic": "Talking about interests",
-      "found": "2026-10-17",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/Y3ZUyc8qB1o.txt"
     },
     {
       "video_id": "JYKQgk7pSbg",
@@ -440,6 +442,24 @@
       "found": "2026-10-22",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/l6hrGAnc7eM.txt"
+    },
+    {
+      "video_id": "eW1bA52U1S4",
+      "title": "Maid Arrived 2 Hours Early Every Day—Her Billionaire Boss Followed Her and Froze at What He Saw",
+      "url": "https://www.youtube.com/watch?v=eW1bA52U1S4",
+      "channel": "Nia's Movies",
+      "subscribers": 3840,
+      "views": 918560,
+      "channel_median_views": 20563,
+      "outlier_score": 44.7,
+      "published": "2026-10-18",
+      "duration_min": 21,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I followed a routine for 24 hours",
+      "chapters": [],
+      "found": "2026-10-24",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/eW1bA52U1S4.txt"
     },
     {
       "video_id": "CNHDmAZ0Nlk",
@@ -653,6 +673,40 @@
       "found": "2026-10-23"
     },
     {
+      "video_id": "silAatVSXwg",
+      "title": "How I Built a $200/day Business With Grok Bot (Step-by-Step)",
+      "url": "https://www.youtube.com/watch?v=silAatVSXwg",
+      "channel": "Jordan Rafealov",
+      "subscribers": 9980,
+      "views": 49486,
+      "channel_median_views": 1665,
+      "outlier_score": 29.7,
+      "published": "2026-10-16",
+      "duration_min": 25,
+      "topic": "Programming",
+      "query": "I built an app",
+      "chapters": [
+        "00:00 Grok Bot built me an entire business",
+        "01:10 The goal: $200 a day on autopilot",
+        "01:51 The plan in 3 steps",
+        "02:45 Step 1: Set up the CEO bot",
+        "03:48 Step 2: Research ideas on X",
+        "05:00 The 6 ideas Grok Bot found",
+        "07:42 We pick an idea live",
+        "07:56 Step 3: The plan and the name",
+        "10:16 Free design trick for better websites",
+        "12:24 Buying the domain",
+        "13:26 What Grok Bot built in 2.5 hours",
+        "15:00 Why we switched to a $9 one-time price",
+        "16:47 The 3-email sequence",
+        "17:28 Making it run on its own",
+        "19:30 The CEO creates 5 worker bots",
+        "22:28 What we built today and the $200 a day goal",
+        "23:42 Get every prompt free"
+      ],
+      "found": "2026-10-24"
+    },
+    {
       "video_id": "kgy5GtLOcSc",
       "title": "How to Study Chess Efficiently | The System That Actually Works",
       "url": "https://www.youtube.com/watch?v=kgy5GtLOcSc",
@@ -847,6 +901,22 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "OTnuDWJz3bA",
+      "title": "2027 Tesla Model Y: 7 New Features Nobody Told You About",
+      "url": "https://www.youtube.com/watch?v=OTnuDWJz3bA",
+      "channel": "The Billionaire’s Garage",
+      "subscribers": 1520,
+      "views": 33980,
+      "channel_median_views": 1768,
+      "outlier_score": 19.2,
+      "published": "2026-10-16",
+      "duration_min": 8,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [],
+      "found": "2026-10-24"
+    },
+    {
       "video_id": "wruvp0Kj6yg",
       "title": "My Viewers Broke The Choicer Voicer Again With My Soundboard...",
       "url": "https://www.youtube.com/watch?v=wruvp0Kj6yg",
@@ -935,20 +1005,6 @@
       "found": "2026-10-23"
     },
     {
-      "video_id": "p4t4gIBoP7U",
-      "title": "Last 3 Months TIMETABLE to Score 99% in Boards 2027 🔥| AIR 1 TOPPER ROUTINE",
-      "url": "https://www.youtube.com/watch?v=p4t4gIBoP7U",
-      "channel": "Learn With Fahima",
-      "subscribers": 99400,
-      "views": 136615,
-      "channel_median_views": 8069,
-      "outlier_score": 16.9,
-      "published": "2026-09-26",
-      "duration_min": 18,
-      "topic": "Studying",
-      "found": "2026-10-17"
-    },
-    {
       "video_id": "uT_cVa2T7sM",
       "title": "Full Day Of Eating As a 9-5 College Student",
       "url": "https://www.youtube.com/watch?v=uT_cVa2T7sM",
@@ -961,6 +1017,22 @@
       "duration_min": 15,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "0V8pp7MxZGo",
+      "title": "MW4 DMZ: 10 Things I Wish I Knew Sooner",
+      "url": "https://www.youtube.com/watch?v=0V8pp7MxZGo",
+      "channel": "SiNisterFPS",
+      "subscribers": 59400,
+      "views": 172514,
+      "channel_median_views": 10320,
+      "outlier_score": 16.7,
+      "published": "2026-10-21",
+      "duration_min": 21,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [],
+      "found": "2026-10-24"
     },
     {
       "video_id": "75ebbGgRFnw",
@@ -1138,6 +1210,22 @@
       "duration_min": 36,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "Z5pZI2vP_W0",
+      "title": "GenX is Getting Old:  Here's What Nobody Tells You About It",
+      "url": "https://www.youtube.com/watch?v=Z5pZI2vP_W0",
+      "channel": "The Dadbod Veteran",
+      "subscribers": 205000,
+      "views": 272593,
+      "channel_median_views": 20373,
+      "outlier_score": 13.4,
+      "published": "2026-09-25",
+      "duration_min": 22,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [],
+      "found": "2026-10-24"
     },
     {
       "video_id": "pRi4EeWONVE",
@@ -1534,6 +1622,34 @@
       "found": "2026-10-23"
     },
     {
+      "video_id": "g5gptFkgBlI",
+      "title": "iPhone Duo review (emotional)",
+      "url": "https://www.youtube.com/watch?v=g5gptFkgBlI",
+      "channel": "The Verge",
+      "subscribers": 3520000,
+      "views": 353900,
+      "channel_median_views": 37285,
+      "outlier_score": 9.5,
+      "published": "2026-10-21",
+      "duration_min": 26,
+      "topic": "Trending: Science & Tech",
+      "query": "trending US / Science & Tech",
+      "chapters": [
+        "0:00 Intro",
+        "0:56 Hardware and Design",
+        "2:28 Matte display",
+        "2:59 Under display FaceTime camera",
+        "6:55 TouchID hack",
+        "8:47 Software and Apps",
+        "13:31 What about the Galaxy Z Fold 8?",
+        "16:47 Performance and Battery life",
+        "18:27 Camera test",
+        "22:43 Other Notes: MagSafe, new cases",
+        "23:56 Final thoughts"
+      ],
+      "found": "2026-10-24"
+    },
+    {
       "video_id": "JdzVLRG17GU",
       "title": "Aniimo - Wish I Knew Sooner | Tips, Tricks, & Game Knowledge for New Players",
       "url": "https://www.youtube.com/watch?v=JdzVLRG17GU",
@@ -1668,18 +1784,33 @@
       "found": "2026-10-21"
     },
     {
-      "video_id": "9hpibIQiKwI",
-      "title": "I Spent 24 HOURS With A Stranger From Omegle.. (we met irl)",
-      "url": "https://www.youtube.com/watch?v=9hpibIQiKwI",
-      "channel": "JankEmJONNI",
-      "subscribers": 285000,
-      "views": 376956,
-      "channel_median_views": 42874,
+      "video_id": "LlhTEttKcwQ",
+      "title": "I Tried The LAZIEST Way to Make Money With AI",
+      "url": "https://www.youtube.com/watch?v=LlhTEttKcwQ",
+      "channel": "Mark Tilbury",
+      "subscribers": 9290000,
+      "views": 7503867,
+      "channel_median_views": 854643,
       "outlier_score": 8.8,
-      "published": "2026-10-10",
-      "duration_min": 27,
-      "topic": "Advice & self-improvement",
-      "found": "2026-10-17"
+      "published": "2026-09-21",
+      "duration_min": 33,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "query": "I tried every",
+      "chapters": [
+        "00:00 Intro",
+        "01:14 Step 1. Spy On The Competition",
+        "04:23 Step 2. Generate Character Ideas",
+        "06:36 Step 3. Generate The Photos",
+        "11:57 Step 4. Map Out Viral Content",
+        "14:08 Step 5. Give Them A Voice",
+        "15:22 Step 6. Bring Them To Life",
+        "19:07 Step 7. Launch Our Accounts",
+        "21:26 Step 8: Crown The Winning Account",
+        "21:28 Unplanned Check-in",
+        "22:37 Step 9. Start Making Money",
+        "29:05 Step 10. Count The Profits"
+      ],
+      "found": "2026-10-24"
     },
     {
       "video_id": "Lm62oftMHdc",
@@ -2044,6 +2175,22 @@
       "duration_min": 22,
       "topic": "Things I'm into (gym, healthy eating, productivity)",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "PazNLK9BwxM",
+      "title": "I Bought Every KUKIRIN Scooter! (G2, G4, G2 MASTER)",
+      "url": "https://www.youtube.com/watch?v=PazNLK9BwxM",
+      "channel": "zeekster",
+      "subscribers": 291000,
+      "views": 1023222,
+      "channel_median_views": 152079,
+      "outlier_score": 6.7,
+      "published": "2026-10-17",
+      "duration_min": 18,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tested every",
+      "chapters": [],
+      "found": "2026-10-24"
     },
     {
       "video_id": "VLlaBN-yDY4",
@@ -2955,6 +3102,22 @@
       "found": "2026-10-23"
     },
     {
+      "video_id": "5VbZzy0VC7A",
+      "title": "I Spent 24 Hours Chasing Gang Members with Sheriffs",
+      "url": "https://www.youtube.com/watch?v=5VbZzy0VC7A",
+      "channel": "Mr Manny",
+      "subscribers": 854000,
+      "views": 1104301,
+      "channel_median_views": 291383,
+      "outlier_score": 3.8,
+      "published": "2026-10-09",
+      "duration_min": 31,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I spent 24 hours doing",
+      "chapters": [],
+      "found": "2026-10-24"
+    },
+    {
       "video_id": "ncitwRaVneY",
       "title": "A Realistic Day in My Life after SSC CGL | Gym, Study & Streaming | Daily Vlog",
       "url": "https://www.youtube.com/watch?v=ncitwRaVneY",
@@ -3051,6 +3214,41 @@
       "found": "2026-10-23"
     },
     {
+      "video_id": "9ZBbirmxULw",
+      "title": "Taylor Swift: When the Brand Becomes Bigger and Better Than the Music",
+      "url": "https://www.youtube.com/watch?v=9ZBbirmxULw",
+      "channel": "ABBIANCA",
+      "subscribers": 8490,
+      "views": 31640,
+      "channel_median_views": 8805,
+      "outlier_score": 3.6,
+      "published": "2026-09-30",
+      "duration_min": 26,
+      "topic": "Short film / cinematic",
+      "query": "personal video essay",
+      "chapters": [
+        "00:00 Is Taylor Swift actually good?",
+        "01:18 Commercial success vs musical quality",
+        "03:12 What does “good musician” actually mean?",
+        "04:21 Is Taylor Swift a good singer?",
+        "06:08 Is Taylor Swift a good songwriter?",
+        "08:02 Why “All Too Well” works",
+        "09:35 “Blank Space” and Taylor Swift’s public persona",
+        "10:51 “Cruel Summer,” melody and pop structure",
+        "12:04 “Cardigan,” “August” and the Folklore shift",
+        "13:32 Taylor Swift’s collaborators: Jack Antonoff, Aaron Dessner, Max Martin and Shellback",
+        "15:08 Did Taylor Swift evolve musically—or just aesthetically?",
+        "16:38 Why Taylor Swift became so successful",
+        "18:05 Taylor Swift’s target audience, cultural timing and fandom",
+        "19:18 Did Kanye West make Taylor Swift famous?",
+        "20:12 Swifties, parasocial relationships and consumer psychology",
+        "21:31 Album variants, Taylor Swift marketing and fan loyalty",
+        "22:38 Why some Swifties are criticising The Life of a Showgirl",
+        "23:28 The verdict: Taylor Swift’s music, myth and marketing"
+      ],
+      "found": "2026-10-24"
+    },
+    {
       "video_id": "e8-7bR5WzTc",
       "title": "I'm Trapped in a Buffet Until I Eat Every Item",
       "url": "https://www.youtube.com/watch?v=e8-7bR5WzTc",
@@ -3125,6 +3323,22 @@
       "query": "I tried it for the first time",
       "chapters": [],
       "found": "2026-10-23"
+    },
+    {
+      "video_id": "HhVJzCX9k70",
+      "title": "A PRODUCTIVE DAY! realistic work day in my life",
+      "url": "https://www.youtube.com/watch?v=HhVJzCX9k70",
+      "channel": "Ardina Rani",
+      "subscribers": 24600,
+      "views": 10355,
+      "channel_median_views": 2981,
+      "outlier_score": 3.5,
+      "published": "2026-10-18",
+      "duration_min": 13,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "day in my life studying abroad student",
+      "chapters": [],
+      "found": "2026-10-24"
     },
     {
       "video_id": "OlHOkn6Tlys",
@@ -3211,6 +3425,22 @@
       "query": "internet rabbit hole",
       "chapters": [],
       "found": "2026-10-22"
+    },
+    {
+      "video_id": "bbSQLiKxnJc",
+      "title": "last day of uni | student in Australia",
+      "url": "https://www.youtube.com/watch?v=bbSQLiKxnJc",
+      "channel": "yours truly, kasturi",
+      "subscribers": 6470,
+      "views": 15975,
+      "channel_median_views": 4655,
+      "outlier_score": 3.4,
+      "published": "2026-10-21",
+      "duration_min": 12,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "day in my life studying abroad student",
+      "chapters": [],
+      "found": "2026-10-24"
     },
     {
       "video_id": "A_ARa0vhEkI",
@@ -3611,23 +3841,6 @@
       "transcript": "transcripts/93b8yGGoWr8.txt"
     },
     {
-      "video_id": "8OMFpnvQHZs",
-      "title": "This Artist Is Insufferable...",
-      "url": "https://www.youtube.com/watch?v=8OMFpnvQHZs",
-      "channel": "kat 'n chat",
-      "creator": "katnchat",
-      "core_vibe": false,
-      "subscribers": 364000,
-      "views": 173221,
-      "channel_median_views": 71476,
-      "outlier_score": 2.4,
-      "published": "2026-10-13",
-      "duration_min": 30,
-      "found": "2026-10-17",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/8OMFpnvQHZs.txt"
-    },
-    {
       "video_id": "BML9GqxfrGw",
       "title": "I Tricked the Internet with a Fake AI Song",
       "url": "https://www.youtube.com/watch?v=BML9GqxfrGw",
@@ -3713,6 +3926,31 @@
       "transcript": "transcripts/J4MxCuBYOso.txt"
     },
     {
+      "video_id": "ESABTN4VtrA",
+      "title": "iPhone Duo Review: First Generation Fun!",
+      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+      "channel": "Marques Brownlee",
+      "creator": "Marques Brownlee",
+      "core_vibe": false,
+      "subscribers": 21400000,
+      "views": 10690409,
+      "channel_median_views": 6003118,
+      "outlier_score": 1.8,
+      "published": "2026-10-21",
+      "duration_min": 29,
+      "chapters": [
+        "0:00 Intro",
+        "1:13 First Generation",
+        "3:21 The Hardware",
+        "14:18 The Apps Situation",
+        "20:02 What It's Good At",
+        "25:11 Conclusion"
+      ],
+      "found": "2026-10-24",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/ESABTN4VtrA.txt"
+    },
+    {
       "video_id": "jQYrt39XEA8",
       "title": "The Public Is Torn Over This Artist's Work...",
       "url": "https://www.youtube.com/watch?v=jQYrt39XEA8",
@@ -3728,23 +3966,6 @@
       "found": "2026-10-18",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/jQYrt39XEA8.txt"
-    },
-    {
-      "video_id": "QVv3mQzlrN0",
-      "title": "Apple Homeview Impressions: Not Convinced!",
-      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
-      "channel": "Marques Brownlee",
-      "creator": "Marques Brownlee",
-      "core_vibe": false,
-      "subscribers": 21400000,
-      "views": 9364329,
-      "channel_median_views": 5794212,
-      "outlier_score": 1.6,
-      "published": "2026-10-13",
-      "duration_min": 12,
-      "found": "2026-10-17",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/QVv3mQzlrN0.txt"
     }
   ],
   "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
