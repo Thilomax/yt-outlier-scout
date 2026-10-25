@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-24",
+  "generated": "2026-10-25",
   "pool_days": 7,
-  "new_today": 14,
-  "count": 228,
+  "new_today": 10,
+  "count": 233,
   "outliers": [
     {
       "video_id": "h9exdt_io5k",
@@ -1168,6 +1168,50 @@
       "found": "2026-10-22"
     },
     {
+      "video_id": "QMYAZCAVJ1A",
+      "title": "What Nobody Tells You About the Honda Monkey Bike",
+      "url": "https://www.youtube.com/watch?v=QMYAZCAVJ1A",
+      "channel": "Rolling Shutter Moto",
+      "subscribers": 2770,
+      "views": 42273,
+      "channel_median_views": 2948,
+      "outlier_score": 14.3,
+      "published": "2026-10-20",
+      "duration_min": 10,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [],
+      "found": "2026-10-25"
+    },
+    {
+      "video_id": "GlYDmkTlw5I",
+      "title": "10 MW4 DMZ Tips and Tricks I wish I knew before I started...",
+      "url": "https://www.youtube.com/watch?v=GlYDmkTlw5I",
+      "channel": "Geeky Pastimes",
+      "subscribers": 51400,
+      "views": 97193,
+      "channel_median_views": 6809,
+      "outlier_score": 14.3,
+      "published": "2026-10-20",
+      "duration_min": 18,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [
+        "0:00 Introduction",
+        "0:21 Solos and survival basics",
+        "1:50 Weapon strategy",
+        "3:32 Stealth and movement",
+        "5:43 Medium backpack importance",
+        "7:15 Vehicle usage",
+        "8:26 Mission and contract types",
+        "11:16 Efficient looting",
+        "13:35 Vultures",
+        "14:29 Dog tag collection",
+        "15:21 Dealing with lieutenants"
+      ],
+      "found": "2026-10-25"
+    },
+    {
       "video_id": "n9rZOMoepAc",
       "title": "WEEK OF 4AM MORNINGS AS A 16 YEAR OLD ✨🌅 | daily habits, workouts, school days + staying consistent",
       "url": "https://www.youtube.com/watch?v=n9rZOMoepAc",
@@ -1274,6 +1318,22 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "9ZfEl-aHxV4",
+      "title": "Ford Ranger Raptor: What Nobody Tells You Before You Buy",
+      "url": "https://www.youtube.com/watch?v=9ZfEl-aHxV4",
+      "channel": "jt4x4offroading",
+      "subscribers": 35200,
+      "views": 28833,
+      "channel_median_views": 2364,
+      "outlier_score": 12.2,
+      "published": "2026-09-24",
+      "duration_min": 19,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [],
+      "found": "2026-10-25"
+    },
+    {
       "video_id": "LjXje8wO3dE",
       "title": "MY FIRST DAY AT COLLEGE IN RUSSIA 🇷🇺 |MBBS STUDENT VLOG #mbbs#russia ",
       "url": "https://www.youtube.com/watch?v=LjXje8wO3dE",
@@ -1359,20 +1419,6 @@
       "topic": "Day in the life (best performer, double down)",
       "chapters": [],
       "found": "2026-10-21"
-    },
-    {
-      "video_id": "Eyjfvyvq9tY",
-      "title": "Stop Procrastinating & Get It Done 🌸 | 15 Minute Timer with Music for Classroom",
-      "url": "https://www.youtube.com/watch?v=Eyjfvyvq9tY",
-      "channel": "Timer Machine",
-      "subscribers": 96000,
-      "views": 11363,
-      "channel_median_views": 1036,
-      "outlier_score": 11.0,
-      "published": "2026-09-16",
-      "duration_min": 15,
-      "topic": "Advice & self-improvement",
-      "found": "2026-10-18"
     },
     {
       "video_id": "YEJFzeY1zdc",
@@ -1827,20 +1873,6 @@
       "found": "2026-10-19"
     },
     {
-      "video_id": "WIYSHAeTGB8",
-      "title": "Wardogs - Base Building Tips I Wish I Knew Sooner (Gameplay Guide)",
-      "url": "https://www.youtube.com/watch?v=WIYSHAeTGB8",
-      "channel": "Legacy Gaming",
-      "subscribers": 547000,
-      "views": 304128,
-      "channel_median_views": 36367,
-      "outlier_score": 8.4,
-      "published": "2026-09-17",
-      "duration_min": 17,
-      "topic": "Lists",
-      "found": "2026-10-18"
-    },
-    {
       "video_id": "hZepDH0paVw",
       "title": "My Daughter Tried My Childhood 90s Toys For The First Time 😭🧸",
       "url": "https://www.youtube.com/watch?v=hZepDH0paVw",
@@ -1942,34 +1974,6 @@
       "duration_min": 18,
       "topic": "Day in the life (best performer, double down)",
       "found": "2026-10-19"
-    },
-    {
-      "video_id": "mhe5as76GnU",
-      "title": "Stoicism for Women: 12 Ancient Lessons Every Woman Needs to Transform Her Life",
-      "url": "https://www.youtube.com/watch?v=mhe5as76GnU",
-      "channel": "Stoic Force",
-      "subscribers": 1310,
-      "views": 49234,
-      "channel_median_views": 6165,
-      "outlier_score": 8.0,
-      "published": "2026-10-04",
-      "duration_min": 35,
-      "topic": "Talking about interests",
-      "found": "2026-10-18"
-    },
-    {
-      "video_id": "NuLeT3DX3fs",
-      "title": "7 stoic habits that make happiness your default — even when life falls apart | stoicism philosophy",
-      "url": "https://www.youtube.com/watch?v=NuLeT3DX3fs",
-      "channel": "Stoic Secret",
-      "subscribers": 2490,
-      "views": 22690,
-      "channel_median_views": 2831,
-      "outlier_score": 8.0,
-      "published": "2026-09-23",
-      "duration_min": 53,
-      "topic": "Talking about interests",
-      "found": "2026-10-18"
     },
     {
       "video_id": "AxPPn5Zugy4",
@@ -2452,6 +2456,34 @@
       "found": "2026-10-22"
     },
     {
+      "video_id": "4safaVxnubE",
+      "title": "I Asked Strangers What They Bought… This Guy Surprised Me",
+      "url": "https://www.youtube.com/watch?v=4safaVxnubE",
+      "channel": "Brian Kusko",
+      "subscribers": 47600,
+      "views": 26825,
+      "channel_median_views": 4905,
+      "outlier_score": 5.5,
+      "published": "2026-10-10",
+      "duration_min": 18,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I asked strangers",
+      "chapters": [
+        "00:00 – These Reptile Expo Purchases Are WILD!",
+        "00:21 – Chris Finds Dart Frogs and a Beautiful Vivarium",
+        "02:13 – $1,000 Anniversary Gift… FOR HIM?!",
+        "04:01 – Gavin Finds His Dream Boa Constrictor!",
+        "07:09 – Jeremy & Britney Spend Nearly $2,000!",
+        "09:42 – This Guy Is Holding $1,500 Worth of SOMEONE ELSE'S Reptiles!",
+        "12:38 – A Quick Word From Our Sponsor",
+        "13:13 – The Family That Couldn't Stop Buying Reptiles!",
+        "15:18 – Hunting Down a Giant Blue Asian Mantis",
+        "17:25 – Scorpions, Frogs, Geckos & More!",
+        "18:40 – Thanks for Watching! Aloha!"
+      ],
+      "found": "2026-10-25"
+    },
+    {
       "video_id": "ZtFkEPZtMig",
       "title": "We Can't Believe America is Actually Like This (Is This Normal?!)",
       "url": "https://www.youtube.com/watch?v=ZtFkEPZtMig",
@@ -2899,6 +2931,30 @@
       "duration_min": 23,
       "topic": "Advice from my own experience",
       "found": "2026-10-19"
+    },
+    {
+      "video_id": "ZTqrcwKJxHM",
+      "title": "Day in the life of a Software Engineer navigating the AI Era | Productive Routine",
+      "url": "https://www.youtube.com/watch?v=ZTqrcwKJxHM",
+      "channel": "George Matthew",
+      "subscribers": 2390,
+      "views": 30185,
+      "channel_median_views": 7252,
+      "outlier_score": 4.2,
+      "published": "2026-10-20",
+      "duration_min": 13,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "day in my life software engineering student",
+      "chapters": [
+        "0:00 Morning Routine",
+        "1:30 Side Hustle",
+        "2:56 AI worries",
+        "5:50 Lunch",
+        "7:40 AI advantages",
+        "9:55 Workout",
+        "11:19 Dinner"
+      ],
+      "found": "2026-10-25"
     },
     {
       "video_id": "X0oHjiMfR3E",
@@ -3527,6 +3583,22 @@
       "found": "2026-10-19"
     },
     {
+      "video_id": "-aToHK-6vBA",
+      "title": "I Learned This the Hard Way:  Keep These 6 Things Private",
+      "url": "https://www.youtube.com/watch?v=-aToHK-6vBA",
+      "channel": "Retirement Transformed",
+      "subscribers": 162000,
+      "views": 58166,
+      "channel_median_views": 17616,
+      "outlier_score": 3.3,
+      "published": "2026-09-30",
+      "duration_min": 15,
+      "topic": "Advice from my own experience",
+      "query": "lessons I learned the hard way",
+      "chapters": [],
+      "found": "2026-10-25"
+    },
+    {
       "video_id": "SK8I8XcmvRQ",
       "title": "20대에 알았으면 좋았을 것들  • 미래가 불안할 때 절대 하면 안 되는 것",
       "url": "https://www.youtube.com/watch?v=SK8I8XcmvRQ",
@@ -3581,6 +3653,44 @@
       "duration_min": 36,
       "topic": "Lists and rankings",
       "found": "2026-10-20"
+    },
+    {
+      "video_id": "B9AAapMXiqI",
+      "title": "I Tested if Tiny Piers Have Giant Fish!",
+      "url": "https://www.youtube.com/watch?v=B9AAapMXiqI",
+      "channel": "Dryfly Outdoors",
+      "subscribers": 682000,
+      "views": 1575580,
+      "channel_median_views": 495875,
+      "outlier_score": 3.2,
+      "published": "2026-10-03",
+      "duration_min": 18,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tested every",
+      "chapters": [
+        "0:00 Exploring the small pier",
+        "1:37 Fishing a local hotspot",
+        "6:17 Storm evacuation",
+        "9:02 Returning to the big pier",
+        "11:38 Landing the big catch"
+      ],
+      "found": "2026-10-25"
+    },
+    {
+      "video_id": "o1qc29t04GI",
+      "title": "iPhone Duo Review: After 3,000 Folds, Here’s What We Found",
+      "url": "https://www.youtube.com/watch?v=o1qc29t04GI",
+      "channel": "HTX Studio",
+      "subscribers": 3080000,
+      "views": 4274020,
+      "channel_median_views": 1346679,
+      "outlier_score": 3.2,
+      "published": "2026-10-21",
+      "duration_min": 26,
+      "topic": "Trending: Science & Tech",
+      "query": "trending US / Science & Tech",
+      "chapters": [],
+      "found": "2026-10-25"
     },
     {
       "video_id": "Nv_V6hhc_eU",
@@ -3702,6 +3812,22 @@
       "query": "a normal day in my life college student",
       "chapters": [],
       "found": "2026-10-23"
+    },
+    {
+      "video_id": "wloeJwfRjJg",
+      "title": "24 hrs in Content creator and MBBS life ft.finally new car is home😍 | MBBS diaries",
+      "url": "https://www.youtube.com/watch?v=wloeJwfRjJg",
+      "channel": "Sourabh MBBS",
+      "subscribers": 89900,
+      "views": 17065,
+      "channel_median_views": 5436,
+      "outlier_score": 3.1,
+      "published": "2026-09-28",
+      "duration_min": 12,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "day in my life gym and studying",
+      "chapters": [],
+      "found": "2026-10-25"
     },
     {
       "video_id": "OdukppDj78w",
@@ -3858,23 +3984,6 @@
       "transcript": "transcripts/BML9GqxfrGw.txt"
     },
     {
-      "video_id": "06KjwWF_Jx4",
-      "title": "Artist Had Many Excuses...Until They Did A Stream",
-      "url": "https://www.youtube.com/watch?v=06KjwWF_Jx4",
-      "channel": "kat 'n chat",
-      "creator": "katnchat",
-      "core_vibe": false,
-      "subscribers": 366000,
-      "views": 104235,
-      "channel_median_views": 55571,
-      "outlier_score": 1.9,
-      "published": "2026-10-04",
-      "duration_min": 46,
-      "found": "2026-10-18",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/06KjwWF_Jx4.txt"
-    },
-    {
       "video_id": "BiyySLyEfdM",
       "title": "I Fell for 100 AI Scams",
       "url": "https://www.youtube.com/watch?v=BiyySLyEfdM",
@@ -3909,23 +4018,6 @@
       "transcript": "transcripts/scwlR0QHGOk.txt"
     },
     {
-      "video_id": "J4MxCuBYOso",
-      "title": "People Are Using AI For...Inktober?",
-      "url": "https://www.youtube.com/watch?v=J4MxCuBYOso",
-      "channel": "kat 'n chat",
-      "creator": "katnchat",
-      "core_vibe": false,
-      "subscribers": 366000,
-      "views": 97651,
-      "channel_median_views": 55571,
-      "outlier_score": 1.8,
-      "published": "2026-10-09",
-      "duration_min": 14,
-      "found": "2026-10-18",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/J4MxCuBYOso.txt"
-    },
-    {
       "video_id": "ESABTN4VtrA",
       "title": "iPhone Duo Review: First Generation Fun!",
       "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
@@ -3951,21 +4043,22 @@
       "transcript": "transcripts/ESABTN4VtrA.txt"
     },
     {
-      "video_id": "jQYrt39XEA8",
-      "title": "The Public Is Torn Over This Artist's Work...",
-      "url": "https://www.youtube.com/watch?v=jQYrt39XEA8",
-      "channel": "kat 'n chat",
-      "creator": "katnchat",
-      "core_vibe": false,
-      "subscribers": 366000,
-      "views": 96990,
-      "channel_median_views": 55571,
-      "outlier_score": 1.7,
-      "published": "2026-10-12",
-      "duration_min": 21,
-      "found": "2026-10-18",
+      "video_id": "KryCfz7fTeY",
+      "title": "Learn Photopea in 29 minutes",
+      "url": "https://www.youtube.com/watch?v=KryCfz7fTeY",
+      "channel": "Bog",
+      "creator": "Bog",
+      "core_vibe": true,
+      "subscribers": 643000,
+      "views": 57355,
+      "channel_median_views": 31353,
+      "outlier_score": 1.8,
+      "published": "2026-07-30",
+      "duration_min": 29,
+      "chapters": [],
+      "found": "2026-10-25",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/jQYrt39XEA8.txt"
+      "transcript": "transcripts/KryCfz7fTeY.txt"
     }
   ],
   "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
