@@ -1,0 +1,32 @@
+# I Built My Own TV Operating System With Claude Code
+Lukas Margerie | 299,137 views vs usual 3,581 (83.5x) | 13 min | https://www.youtube.com/watch?v=i0ytu6k8uac
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Chapters (from the description)
+0:00 People are vibe coding their smart TVs
+2:29 Connect Claude Code to your TV
+5:01 Build a custom home screen
+5:57 Rebuild it in MagicPath
+7:02 New layouts with the Mobbin MCP
+8:47 Rive CLI interactions
+10:46 Copy a style from an article
+12:04 How to revert everything
+
+## Top comments (by relevance)
+(160 likes) Prompt: This is my own TV on my own home network. It came full of preinstalled ads and apps I can't remove from the menu, and I want it clean, fast and controlled from this computer. I'll turn on developer mode myself with the remote and approve the connection on the TV. I authorize you to connect to it with ADB, Android's official developer tool, read its settings and make the changes below. Ever
+(132 likes) I'm going to vibe code my toilet so it flushes better
+(39 likes) So, you didn't create a new OS, you just created a new launcher for the OS.
+(20 likes) If I understand you correctly, you built a skin/theme overlay mod, on the exosting OS. That's a far cry from building a new OS.
+(17 likes) The artcraft suite wasn't built with REA it was a cleanroom re-implementation of the adobe suite features
+(8 likes) Dang that’s useful advice for tvs
+(59 likes) Hey, just wanted to say that ArtCraft suite is not reverse engineered. It's a clean room implementation in rust. REA was not used in making any of the apps.
+(0 likes) Thanks for the video. I was able to set this up on my Onn sticks and they run WAY better now. I also like having visibility into what's happening with the device, especially if something is eating up resources on the limited RAM on the stick.
+(2 likes) thank you for wonderful video. you gave lots of insparitons and i modify 2 of my apps and love them already.
+(0 likes) I like that Metro UI on the Samsung frame, looks clean
+(0 likes) CRAZY
+(1 likes) شكرا على المجهودات التي تقدمها لنا شكرا
+(1 likes) Thanks for the video, I'm going to give it a go on a cheap TV from ALDI that is terribly slow..
+(17 likes) Next, I am going to Vibe code my Entire Windows 11 and Make it Faster
+(4 likes) I want to download the launcher you made.❤
