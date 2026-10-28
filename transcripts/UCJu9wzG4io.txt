@@ -1,0 +1,22 @@
+# My channel got a fake DMCA request. Turns out it's a virus
+Bog | 114,266 views vs usual 46,970 (2.4x) | 10 min | https://www.youtube.com/watch?v=UCJu9wzG4io
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Top comments (by relevance)
+(166 likes) I also learned that you can fully shield yourself from spam emails by scrolling back up to S M A S H the like button
+(467 likes) Whole entire scam is vibecoded aswell 😭
+(354 likes) How could Top Dawg entertainment do this
+(165 likes) Slovakia mentioned (but in a sad way 😭)
+(62 likes) actual security professional here, when that fake browser window popped open, I saw the url and was like "that's the actual url for OAuth, wonder how they are going to steal this", I never even considered the whole browser was fake, that is fucking clever. I obviously never would have gotten to that point, but if i I somehow had, I could have fallen for that. And I do this shit for a living. This 
+(111 likes) its like these videos INSPIRE scammers to email their obviously fake files and websites to you lmao
+(8 likes) 9:37 scared the SHIT out of me
+(57 likes) They don't check the e-mail password. They collect it and assume it's the right one, say it's the wrong one, and collect any others you try so they can try those passwords on other sites too.
+(19 likes) AI be making their life 100x easier
+(17 likes) 0:27 that’s Kendrick Lamar’s former music label
+(35 likes) Hello Bog! I love your chess stream I hope you will continue to play more chess.
+(6 likes) 8:23 Actually no, what they do is POST request the credentials you enter back off to their server, but always make it say ‘Wrong’ so you enter it repeatedly, reducing the chance you entered a typoed password, giving them less room for error each time you try.
+(20 likes) it's okay Bog, i'll protect you.
+(5 likes) Very, very, very common for spammers and scammers to find a website or domain that’s not secure and hijack it to use as an email sender domain or as web hosting to host scam sites.
+(3 likes) 2:11 good idea that you deleted that
