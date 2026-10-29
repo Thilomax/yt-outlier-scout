@@ -1,0 +1,41 @@
+# How I Built a $200/day Business With Grok Bot (Step-by-Step)
+Jordan Rafealov | 49,486 views vs usual 1,665 (29.7x) | 25 min | https://www.youtube.com/watch?v=silAatVSXwg
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Chapters (from the description)
+00:00 Grok Bot built me an entire business
+01:10 The goal: $200 a day on autopilot
+01:51 The plan in 3 steps
+02:45 Step 1: Set up the CEO bot
+03:48 Step 2: Research ideas on X
+05:00 The 6 ideas Grok Bot found
+07:42 We pick an idea live
+07:56 Step 3: The plan and the name
+10:16 Free design trick for better websites
+12:24 Buying the domain
+13:26 What Grok Bot built in 2.5 hours
+15:00 Why we switched to a $9 one-time price
+16:47 The 3-email sequence
+17:28 Making it run on its own
+19:30 The CEO creates 5 worker bots
+22:28 What we built today and the $200 a day goal
+23:42 Get every prompt free
+
+## Top comments (by relevance)
+(24 likes) Its been 8 days where is the update?
+(12 likes) Its been 9 days. Where is the update? Empty promises
+(7 likes) I started this week the conpany structure, even without a name, Grok Bot already deployed the rest of the team bots, rules, documentation, contracts, etc, even without having a fomal company name 😂. I love that! Thanks for the video, I'll double check against my existing structure.
+(0 likes) I was hooked the whole way. Looking forward to the update.
+(7 likes) You just advertised the app on your YouTube channel. It’s not a fair test. If you really wanted to see the capabilities of Grok, you should’ve built it and waited to do the video until it had run for a week or two.
+(0 likes) This is great but where is your follow up Video? Please post it! Cheers
+(0 likes) a boogie in the intro ?? who on the aux???🔥🔥
+(0 likes) This is a good prompt to get you started. What's left out is the host of services you need and have to pay for, because the FREE options likely won't suffice. This isn't fully automated (in the beginning) because Grok Bot is somewhat limited in what it can do, so manual setup is likely required. All that to say, don't expect this to be a 2.5 hour job. It's never as easy as the videos make it seem,
+(0 likes) This is also great if you have a product already and just need to start distributing it and getting paid. Start at 13:30 if this is you.
+(3 likes) Let me check this out
+(5 likes) If someone ia vibe coding, the first thing they will do is ask the same Ai to do this risk check for free?
+(0 likes) It pass 12 days where is the update??
+(0 likes) Can I know which subscription ru using?
+(1 likes) Every time your bots talk to each other, they are eating up your usage fast. You better have a lot of monthly usage spend. You’ve spent money up front. I’ll believe this only when you show the end result and give alllll of the costs.
+(0 likes) Unbelievable. Which subscription is required for everything you showed? Do you have a partner link? Might as well subscribe through you.
