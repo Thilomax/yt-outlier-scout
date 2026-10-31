@@ -1,0 +1,29 @@
+# How I use AI to learn engineering (anti brain rot studying)
+Aleks Gornik | 347,543 views vs usual 7,632 (45.5x) | 13 min | https://www.youtube.com/watch?v=GPM5MgFEkpk
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Chapters (from the description)
+0:00 - Learning hard things used to take me weeks
+0:56 - Make AI turn concepts into visuals
+4:11 - Use AI to decide what's worth reading
+6:47 - Find the 20% that gets you unstuck 1
+0:19 - Make AI find you the best resources 11:59 Recap
+
+## Top comments (by relevance)
+(5 likes) My free CV template here aleksgornik.com/resume
+(190 likes) I sped up this video x2 to learn 200 times faster!
+(23 likes) respect for 3blue1brown <3
+(12 likes) With Gemini 4 Argon Being Curated for Boston Dynamics-level robotics, I can't wait to see how fast we can accelerate STEM.
+(4 likes) The same thing also works for text based learning. If you are a reader type, AI can write you explanations in a way that suits your learning way.
+(84 likes) Hey Aleks! Really loved the video. But I ran into a problem: AI often compresses material too aggressively. It gives you the "what" but skips the "why" and the theoretical foundation. And the hardest part is you don't even know the theory is missing, because the summary sounds so complete. How do you deal with this? Do you change your prompts to get more depth, or do you use AI just as a map and s
+(11 likes) Don‘t ask the AI „what’s the best?“. This is actually terrible. To fight the rot, decision making is the skill to practice. When you ask it for the best, what’s the point of the 2 “worse” options? Nobody is going to choose them.
+(2 likes) AI is an insanely useful learning tool but I urge everyone to use it as a tool to learn and not do the work for them blindly. I believe AI will become more expensive decreasing usage and then it is good that you learned from it and know how to use it without needing AI
+(2 likes) Hey Aleks, thanks for the video! It was really helpful, and I particularly liked your approach. There’s just one point I’d look at a little differently: filtering information using the 80/20 rule. It sounds great in theory, but I think there’s a catch when it comes to how we humans learn. When you let an AI model decide which sources or sections matter most, you’re also outsourcing the reasoning b
+(0 likes) Awesome! Thanks a lot man.
+(6 likes) pro tip: voice mode on chatGPT. Combine everything from the video with it.
+(4 likes) amazing video mate 🔥
+(0 likes) good point on 20% that is essential. Thanks
+(5 likes) This is really helpful. Thanks Aleks 🙏
+(0 likes) bro show us what you build with CAD. i know you're doing some small robotics, with that EE and software exp

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-30",
+  "generated": "2026-10-31",
   "pool_days": 7,
-  "new_today": 30,
-  "count": 100,
+  "new_today": 15,
+  "count": 101,
   "outliers": [
     {
       "video_id": "9QXJQGrbUAY",
@@ -19,7 +19,7 @@
       "query": "short film about growing up",
       "chapters": [],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/9QXJQGrbUAY.txt"
     },
     {
@@ -37,7 +37,7 @@
       "query": "I pretended to be",
       "chapters": [],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/Cf4yCWFjo3g.txt"
     },
     {
@@ -69,7 +69,7 @@
         "13:56 Rewind"
       ],
       "found": "2026-10-29",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/SqXLCmc8RfU.txt"
     },
     {
@@ -87,7 +87,7 @@
       "query": "I tested every",
       "chapters": [],
       "found": "2026-10-29",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/YgR2uBqTk7E.txt"
     },
     {
@@ -120,7 +120,7 @@
         "8:40 - Super Quick Outro"
       ],
       "found": "2026-10-26",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/QtFUMcwSgQg.txt"
     },
     {
@@ -138,7 +138,7 @@
       "query": "I ranked every",
       "chapters": [],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/hQP36yKKW68.txt"
     },
     {
@@ -170,26 +170,8 @@
         "14:55 - Thanks For Watching"
       ],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/nQq1q4YL_G4.txt"
-    },
-    {
-      "video_id": "fwWFdYlhaHg",
-      "title": "Why I WALKED Away & The Truth Beyond The Camera | Success Unscripted",
-      "url": "https://www.youtube.com/watch?v=fwWFdYlhaHg",
-      "channel": "Unscripted Network",
-      "subscribers": 13200,
-      "views": 193984,
-      "channel_median_views": 1893,
-      "outlier_score": 102.5,
-      "published": "2026-10-07",
-      "duration_min": 54,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "the truth about my",
-      "chapters": [],
-      "found": "2026-10-24",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/fwWFdYlhaHg.txt"
     },
     {
       "video_id": "NynM1W2etkM",
@@ -206,7 +188,7 @@
       "query": "my morning routine honest",
       "chapters": [],
       "found": "2026-10-29",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/NynM1W2etkM.txt"
     },
     {
@@ -233,7 +215,7 @@
         "12:04 How to revert everything"
       ],
       "found": "2026-10-26",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/i0ytu6k8uac.txt"
     },
     {
@@ -251,7 +233,7 @@
       "query": "internet rabbit hole",
       "chapters": [],
       "found": "2026-10-27",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/ySBersWEx6o.txt"
     },
     {
@@ -275,7 +257,7 @@
         "13:40 — How Long It Takes"
       ],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/5cGqIlYEdJY.txt"
     },
     {
@@ -293,26 +275,32 @@
       "query": "what it's actually like to",
       "chapters": [],
       "found": "2026-10-28",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/zt8bSrRC4ms.txt"
     },
     {
-      "video_id": "eW1bA52U1S4",
-      "title": "Maid Arrived 2 Hours Early Every Day—Her Billionaire Boss Followed Her and Froze at What He Saw",
-      "url": "https://www.youtube.com/watch?v=eW1bA52U1S4",
-      "channel": "Nia's Movies",
-      "subscribers": 3840,
-      "views": 918560,
-      "channel_median_views": 20563,
-      "outlier_score": 44.7,
-      "published": "2026-10-18",
-      "duration_min": 21,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I followed a routine for 24 hours",
-      "chapters": [],
-      "found": "2026-10-24",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/eW1bA52U1S4.txt"
+      "video_id": "GPM5MgFEkpk",
+      "title": "How I use AI to learn engineering (anti brain rot studying)",
+      "url": "https://www.youtube.com/watch?v=GPM5MgFEkpk",
+      "channel": "Aleks Gornik",
+      "subscribers": 27300,
+      "views": 347543,
+      "channel_median_views": 7632,
+      "outlier_score": 45.5,
+      "published": "2026-10-06",
+      "duration_min": 13,
+      "topic": "Studying",
+      "query": "how I study effectively",
+      "chapters": [
+        "0:00 - Learning hard things used to take me weeks",
+        "0:56 - Make AI turn concepts into visuals",
+        "4:11 - Use AI to decide what's worth reading",
+        "6:47 - Find the 20% that gets you unstuck 1",
+        "0:19 - Make AI find you the best resources 11:59 Recap"
+      ],
+      "found": "2026-10-31",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/GPM5MgFEkpk.txt"
     },
     {
       "video_id": "SCpqD4kpuOA",
@@ -337,7 +325,7 @@
         "32:54 Dead Island 2"
       ],
       "found": "2026-10-26",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/SCpqD4kpuOA.txt"
     },
     {
@@ -355,7 +343,7 @@
       "query": "internet rabbit hole",
       "chapters": [],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/t1JmbUDXVIw.txt"
     },
     {
@@ -385,7 +373,7 @@
         "09:54 Issues I have"
       ],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/JikQHbp6nQw.txt"
     },
     {
@@ -403,44 +391,8 @@
       "query": "week in my life university student",
       "chapters": [],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/zGDewHglYho.txt"
-    },
-    {
-      "video_id": "silAatVSXwg",
-      "title": "How I Built a $200/day Business With Grok Bot (Step-by-Step)",
-      "url": "https://www.youtube.com/watch?v=silAatVSXwg",
-      "channel": "Jordan Rafealov",
-      "subscribers": 9980,
-      "views": 49486,
-      "channel_median_views": 1665,
-      "outlier_score": 29.7,
-      "published": "2026-10-16",
-      "duration_min": 25,
-      "topic": "Programming",
-      "query": "I built an app",
-      "chapters": [
-        "00:00 Grok Bot built me an entire business",
-        "01:10 The goal: $200 a day on autopilot",
-        "01:51 The plan in 3 steps",
-        "02:45 Step 1: Set up the CEO bot",
-        "03:48 Step 2: Research ideas on X",
-        "05:00 The 6 ideas Grok Bot found",
-        "07:42 We pick an idea live",
-        "07:56 Step 3: The plan and the name",
-        "10:16 Free design trick for better websites",
-        "12:24 Buying the domain",
-        "13:26 What Grok Bot built in 2.5 hours",
-        "15:00 Why we switched to a $9 one-time price",
-        "16:47 The 3-email sequence",
-        "17:28 Making it run on its own",
-        "19:30 The CEO creates 5 worker bots",
-        "22:28 What we built today and the $200 a day goal",
-        "23:42 Get every prompt free"
-      ],
-      "found": "2026-10-24",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/silAatVSXwg.txt"
     },
     {
       "video_id": "0oDVxaXp0Ck",
@@ -457,26 +409,8 @@
       "query": "things I wish I knew earlier",
       "chapters": [],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/0oDVxaXp0Ck.txt"
-    },
-    {
-      "video_id": "OTnuDWJz3bA",
-      "title": "2027 Tesla Model Y: 7 New Features Nobody Told You About",
-      "url": "https://www.youtube.com/watch?v=OTnuDWJz3bA",
-      "channel": "The Billionaire’s Garage",
-      "subscribers": 1520,
-      "views": 33980,
-      "channel_median_views": 1768,
-      "outlier_score": 19.2,
-      "published": "2026-10-16",
-      "duration_min": 8,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [],
-      "found": "2026-10-24",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/OTnuDWJz3bA.txt"
     },
     {
       "video_id": "NFju-oga5nY",
@@ -493,7 +427,7 @@
       "query": "internet rabbit hole",
       "chapters": [],
       "found": "2026-10-30",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/NFju-oga5nY.txt"
     },
     {
@@ -539,7 +473,7 @@
         "8:21 26. Every goal requires a sacrifice"
       ],
       "found": "2026-10-29",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/qhq1mCFwGAw.txt"
     },
     {
@@ -569,7 +503,7 @@
         "49:34 - Thank You All!"
       ],
       "found": "2026-10-27",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/ol4GLfQNw-g.txt"
     },
     {
@@ -587,26 +521,8 @@
       "query": "I built an app",
       "chapters": [],
       "found": "2026-10-29",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/CgkdaeQ58eE.txt"
-    },
-    {
-      "video_id": "0V8pp7MxZGo",
-      "title": "MW4 DMZ: 10 Things I Wish I Knew Sooner",
-      "url": "https://www.youtube.com/watch?v=0V8pp7MxZGo",
-      "channel": "SiNisterFPS",
-      "subscribers": 59400,
-      "views": 172514,
-      "channel_median_views": 10320,
-      "outlier_score": 16.7,
-      "published": "2026-10-21",
-      "duration_min": 21,
-      "topic": "Lists and rankings",
-      "query": "things I wish I knew earlier",
-      "chapters": [],
-      "found": "2026-10-24",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/0V8pp7MxZGo.txt"
     },
     {
       "video_id": "ZB1LzHVyatY",
@@ -623,7 +539,7 @@
       "query": "internet rabbit hole",
       "chapters": [],
       "found": "2026-10-27",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/ZB1LzHVyatY.txt"
     },
     {
@@ -641,7 +557,7 @@
       "query": "things nobody tells you about",
       "chapters": [],
       "found": "2026-10-25",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/QMYAZCAVJ1A.txt"
     },
     {
@@ -671,26 +587,8 @@
         "15:21 Dealing with lieutenants"
       ],
       "found": "2026-10-25",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/GlYDmkTlw5I.txt"
-    },
-    {
-      "video_id": "Z5pZI2vP_W0",
-      "title": "GenX is Getting Old:  Here's What Nobody Tells You About It",
-      "url": "https://www.youtube.com/watch?v=Z5pZI2vP_W0",
-      "channel": "The Dadbod Veteran",
-      "subscribers": 205000,
-      "views": 272593,
-      "channel_median_views": 20373,
-      "outlier_score": 13.4,
-      "published": "2026-09-25",
-      "duration_min": 22,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [],
-      "found": "2026-10-24",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/Z5pZI2vP_W0.txt"
     },
     {
       "video_id": "2Q1UG9wYgc0",
@@ -707,6 +605,22 @@
       "query": "trending GB / Science & Tech",
       "chapters": [],
       "found": "2026-10-28"
+    },
+    {
+      "video_id": "VxLV1s9EeVc",
+      "title": "What It’s Actually Like Living Inside the Department Stores America Turned Into Senior Housing",
+      "url": "https://www.youtube.com/watch?v=VxLV1s9EeVc",
+      "channel": "Quiet Americans",
+      "subscribers": 17000,
+      "views": 97077,
+      "channel_median_views": 7531,
+      "outlier_score": 12.9,
+      "published": "2026-10-16",
+      "duration_min": 20,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "what it's actually like to",
+      "chapters": [],
+      "found": "2026-10-31"
     },
     {
       "video_id": "9ZfEl-aHxV4",
@@ -799,63 +713,6 @@
         "27:55 — End"
       ],
       "found": "2026-10-30"
-    },
-    {
-      "video_id": "g5gptFkgBlI",
-      "title": "iPhone Duo review (emotional)",
-      "url": "https://www.youtube.com/watch?v=g5gptFkgBlI",
-      "channel": "The Verge",
-      "subscribers": 3520000,
-      "views": 353900,
-      "channel_median_views": 37285,
-      "outlier_score": 9.5,
-      "published": "2026-10-21",
-      "duration_min": 26,
-      "topic": "Trending: Science & Tech",
-      "query": "trending US / Science & Tech",
-      "chapters": [
-        "0:00 Intro",
-        "0:56 Hardware and Design",
-        "2:28 Matte display",
-        "2:59 Under display FaceTime camera",
-        "6:55 TouchID hack",
-        "8:47 Software and Apps",
-        "13:31 What about the Galaxy Z Fold 8?",
-        "16:47 Performance and Battery life",
-        "18:27 Camera test",
-        "22:43 Other Notes: MagSafe, new cases",
-        "23:56 Final thoughts"
-      ],
-      "found": "2026-10-24"
-    },
-    {
-      "video_id": "LlhTEttKcwQ",
-      "title": "I Tried The LAZIEST Way to Make Money With AI",
-      "url": "https://www.youtube.com/watch?v=LlhTEttKcwQ",
-      "channel": "Mark Tilbury",
-      "subscribers": 9290000,
-      "views": 7503867,
-      "channel_median_views": 854643,
-      "outlier_score": 8.8,
-      "published": "2026-09-21",
-      "duration_min": 33,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "query": "I tried every",
-      "chapters": [
-        "00:00 Intro",
-        "01:14 Step 1. Spy On The Competition",
-        "04:23 Step 2. Generate Character Ideas",
-        "06:36 Step 3. Generate The Photos",
-        "11:57 Step 4. Map Out Viral Content",
-        "14:08 Step 5. Give Them A Voice",
-        "15:22 Step 6. Bring Them To Life",
-        "19:07 Step 7. Launch Our Accounts",
-        "21:26 Step 8: Crown The Winning Account",
-        "21:28 Unplanned Check-in",
-        "22:37 Step 9. Start Making Money",
-        "29:05 Step 10. Count The Profits"
-      ],
-      "found": "2026-10-24"
     },
     {
       "video_id": "acH37PjS6m8",
@@ -1041,20 +898,20 @@
       "found": "2026-10-30"
     },
     {
-      "video_id": "PazNLK9BwxM",
-      "title": "I Bought Every KUKIRIN Scooter! (G2, G4, G2 MASTER)",
-      "url": "https://www.youtube.com/watch?v=PazNLK9BwxM",
-      "channel": "zeekster",
-      "subscribers": 291000,
-      "views": 1023222,
-      "channel_median_views": 152079,
-      "outlier_score": 6.7,
-      "published": "2026-10-17",
-      "duration_min": 18,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I tested every",
+      "video_id": "1_O2-rGroOE",
+      "title": "My Apartment is Gone… So I’m Living in a Treehouse",
+      "url": "https://www.youtube.com/watch?v=1_O2-rGroOE",
+      "channel": "Dough Dash",
+      "subscribers": 93200,
+      "views": 144355,
+      "channel_median_views": 20981,
+      "outlier_score": 6.9,
+      "published": "2026-10-27",
+      "duration_min": 41,
+      "topic": "Trending: People & Blogs",
+      "query": "trending US / People & Blogs",
       "chapters": [],
-      "found": "2026-10-24"
+      "found": "2026-10-31"
     },
     {
       "video_id": "YjBlwrKkGoU",
@@ -1252,6 +1109,22 @@
       "found": "2026-10-30"
     },
     {
+      "video_id": "hhgEYt3Y_j4",
+      "title": "Back to school in your 30s 🎓*NOT* the first week that I expected",
+      "url": "https://www.youtube.com/watch?v=hhgEYt3Y_j4",
+      "channel": "Chelsea Callahan",
+      "subscribers": 153000,
+      "views": 371281,
+      "channel_median_views": 70120,
+      "outlier_score": 5.3,
+      "published": "2026-10-03",
+      "duration_min": 26,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "week in my life university student",
+      "chapters": [],
+      "found": "2026-10-31"
+    },
+    {
       "video_id": "R8i0cl6mC60",
       "title": "How to Create a Complete Cinematic AI Short Film & Series!",
       "url": "https://www.youtube.com/watch?v=R8i0cl6mC60",
@@ -1298,6 +1171,22 @@
       "query": "how I study effectively",
       "chapters": [],
       "found": "2026-10-30"
+    },
+    {
+      "video_id": "p_utPhQGGjM",
+      "title": "i spent 24 hours overnight at Jewel Changi Airport! (vlog)",
+      "url": "https://www.youtube.com/watch?v=p_utPhQGGjM",
+      "channel": "Jordan Chua",
+      "subscribers": 57800,
+      "views": 132954,
+      "channel_median_views": 26906,
+      "outlier_score": 4.9,
+      "published": "2026-10-24",
+      "duration_min": 27,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I spent 24 hours doing",
+      "chapters": [],
+      "found": "2026-10-31"
     },
     {
       "video_id": "TjmP73qLe3E",
@@ -1404,6 +1293,47 @@
       "found": "2026-10-30"
     },
     {
+      "video_id": "WrupS2DQH-U",
+      "title": "31+ EARLY Game Tips You Must Know (Fire Emblem Fortune's Weave)",
+      "url": "https://www.youtube.com/watch?v=WrupS2DQH-U",
+      "channel": "PhillyBeatzU",
+      "subscribers": 769000,
+      "views": 89307,
+      "channel_median_views": 21195,
+      "outlier_score": 4.2,
+      "published": "2026-09-18",
+      "duration_min": 14,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [
+        "0:00 Intro",
+        "0:18 Update to Version 1.0.1 (FREE Weapons)",
+        "0:35 Notable Deeds & Boons of Salvation",
+        "1:19 Door of Destiny (Don't Do This)",
+        "1:43 Obelisk Music Swap & Best Way to Play the Story",
+        "3:03 Dungeon Tips: ZR Trail & Break Everything",
+        "3:37 Explore Every Area",
+        "4:14 Battlefield Camera & Screenshot Mode",
+        "5:14 Turn & Week System Explained",
+        "6:43 Raven's Perch & Foresight",
+        "7:21 Pale Raven Support",
+        "7:40 New Dialogue & Town Events",
+        "8:03 Side Quests",
+        "8:24 Shops & Settlement Shops",
+        "9:08 Deities, Holy Days & Blessings",
+        "10:10 ZR Fast Travel",
+        "10:31 Gifting Recruitable Units",
+        "10:49 Combat Tip",
+        "11:07 Unit Matchups & Counterattacks",
+        "11:24 Positioning",
+        "11:41 Combat Arts & Blaze Arts Trick",
+        "12:15 Inn Meals & Sunday Discount",
+        "13:14 Support Grinding Trick",
+        "13:35 Rest & Auto Activity"
+      ],
+      "found": "2026-10-31"
+    },
+    {
       "video_id": "XkTl08YAdnI",
       "title": "How to Study Even When You Don't Want To",
       "url": "https://www.youtube.com/watch?v=XkTl08YAdnI",
@@ -1431,6 +1361,22 @@
       "found": "2026-10-26"
     },
     {
+      "video_id": "rxkWuRGnrsA",
+      "title": "I Pretended to be a NOOB, Then Used OWNER GUNS in Rivals!!",
+      "url": "https://www.youtube.com/watch?v=rxkWuRGnrsA",
+      "channel": "KAYE",
+      "subscribers": 3740000,
+      "views": 696168,
+      "channel_median_views": 174298,
+      "outlier_score": 4.0,
+      "published": "2026-10-10",
+      "duration_min": 19,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I pretended to be",
+      "chapters": [],
+      "found": "2026-10-31"
+    },
+    {
       "video_id": "IQMztXHYLJQ",
       "title": "All 17 Devils & Their Hosts in Black Clover Ranked and Explained! (Final Ranking)",
       "url": "https://www.youtube.com/watch?v=IQMztXHYLJQ",
@@ -1447,55 +1393,20 @@
       "found": "2026-10-30"
     },
     {
-      "video_id": "5VbZzy0VC7A",
-      "title": "I Spent 24 Hours Chasing Gang Members with Sheriffs",
-      "url": "https://www.youtube.com/watch?v=5VbZzy0VC7A",
-      "channel": "Mr Manny",
-      "subscribers": 854000,
-      "views": 1104301,
-      "channel_median_views": 291383,
+      "video_id": "wajoP_5Cpw8",
+      "title": "Every app on Earth is now open source... whether it likes it or not",
+      "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
+      "channel": "Fireship",
+      "subscribers": 4320000,
+      "views": 6688967,
+      "channel_median_views": 1774935,
       "outlier_score": 3.8,
-      "published": "2026-10-09",
-      "duration_min": 31,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I spent 24 hours doing",
+      "published": "2026-10-12",
+      "duration_min": 6,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "query": "testing viral apps",
       "chapters": [],
-      "found": "2026-10-24"
-    },
-    {
-      "video_id": "9ZBbirmxULw",
-      "title": "Taylor Swift: When the Brand Becomes Bigger and Better Than the Music",
-      "url": "https://www.youtube.com/watch?v=9ZBbirmxULw",
-      "channel": "ABBIANCA",
-      "subscribers": 8490,
-      "views": 31640,
-      "channel_median_views": 8805,
-      "outlier_score": 3.6,
-      "published": "2026-09-30",
-      "duration_min": 26,
-      "topic": "Short film / cinematic",
-      "query": "personal video essay",
-      "chapters": [
-        "00:00 Is Taylor Swift actually good?",
-        "01:18 Commercial success vs musical quality",
-        "03:12 What does “good musician” actually mean?",
-        "04:21 Is Taylor Swift a good singer?",
-        "06:08 Is Taylor Swift a good songwriter?",
-        "08:02 Why “All Too Well” works",
-        "09:35 “Blank Space” and Taylor Swift’s public persona",
-        "10:51 “Cruel Summer,” melody and pop structure",
-        "12:04 “Cardigan,” “August” and the Folklore shift",
-        "13:32 Taylor Swift’s collaborators: Jack Antonoff, Aaron Dessner, Max Martin and Shellback",
-        "15:08 Did Taylor Swift evolve musically—or just aesthetically?",
-        "16:38 Why Taylor Swift became so successful",
-        "18:05 Taylor Swift’s target audience, cultural timing and fandom",
-        "19:18 Did Kanye West make Taylor Swift famous?",
-        "20:12 Swifties, parasocial relationships and consumer psychology",
-        "21:31 Album variants, Taylor Swift marketing and fan loyalty",
-        "22:38 Why some Swifties are criticising The Life of a Showgirl",
-        "23:28 The verdict: Taylor Swift’s music, myth and marketing"
-      ],
-      "found": "2026-10-24"
+      "found": "2026-10-31"
     },
     {
       "video_id": "P5vHaRmhTIs",
@@ -1530,20 +1441,27 @@
       "found": "2026-10-28"
     },
     {
-      "video_id": "HhVJzCX9k70",
-      "title": "A PRODUCTIVE DAY! realistic work day in my life",
-      "url": "https://www.youtube.com/watch?v=HhVJzCX9k70",
-      "channel": "Ardina Rani",
-      "subscribers": 24600,
-      "views": 10355,
-      "channel_median_views": 2981,
-      "outlier_score": 3.5,
-      "published": "2026-10-18",
-      "duration_min": 13,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "day in my life studying abroad student",
-      "chapters": [],
-      "found": "2026-10-24"
+      "video_id": "89QjMzUHalY",
+      "title": "Build, Update & Publish Android App to Google Play Store (Full Course) Hindi 2026",
+      "url": "https://www.youtube.com/watch?v=89QjMzUHalY",
+      "channel": "Java Goat",
+      "subscribers": 20600,
+      "views": 29925,
+      "channel_median_views": 8386,
+      "outlier_score": 3.6,
+      "published": "2026-09-19",
+      "duration_min": 43,
+      "topic": "Programming",
+      "query": "I built an app",
+      "chapters": [
+        "00:00 - Introduction & Course Overview",
+        "00:32 - Creating App with Google AI Studio",
+        "04:51 - Google Play Console Setup & Store Listing (icons, screenshots, description)",
+        "30:17 - Sending App For Review",
+        "35:19 - Updating the App",
+        "41:55 - Final App Result"
+      ],
+      "found": "2026-10-31"
     },
     {
       "video_id": "rr8Z0q6AqgI",
@@ -1613,20 +1531,36 @@
       "found": "2026-10-30"
     },
     {
-      "video_id": "bbSQLiKxnJc",
-      "title": "last day of uni | student in Australia",
-      "url": "https://www.youtube.com/watch?v=bbSQLiKxnJc",
-      "channel": "yours truly, kasturi",
-      "subscribers": 6470,
-      "views": 15975,
-      "channel_median_views": 4655,
-      "outlier_score": 3.4,
-      "published": "2026-10-21",
-      "duration_min": 12,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "day in my life studying abroad student",
+      "video_id": "xn8f-JuIMXk",
+      "title": "I Trained like SHXRK for 72 Hours...",
+      "url": "https://www.youtube.com/watch?v=xn8f-JuIMXk",
+      "channel": "mizery",
+      "subscribers": 203000,
+      "views": 224726,
+      "channel_median_views": 65053,
+      "outlier_score": 3.5,
+      "published": "2026-09-30",
+      "duration_min": 17,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I followed a routine for 24 hours",
       "chapters": [],
-      "found": "2026-10-24"
+      "found": "2026-10-31"
+    },
+    {
+      "video_id": "3auNiIMU3KY",
+      "title": "I Survived A Catholic Priest's 18-Hour Workday",
+      "url": "https://www.youtube.com/watch?v=3auNiIMU3KY",
+      "channel": "Evan Raugust",
+      "subscribers": 249000,
+      "views": 137368,
+      "channel_median_views": 38975,
+      "outlier_score": 3.5,
+      "published": "2026-10-17",
+      "duration_min": 20,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I followed a routine for 24 hours",
+      "chapters": [],
+      "found": "2026-10-31"
     },
     {
       "video_id": "MAV_wxHvJc8",
@@ -1924,6 +1858,52 @@
       "found": "2026-10-30"
     },
     {
+      "video_id": "jmarmsmscKA",
+      "title": "I Built The Same App in 9 AI Agents",
+      "url": "https://www.youtube.com/watch?v=jmarmsmscKA",
+      "channel": "Manware",
+      "subscribers": 67900,
+      "views": 85019,
+      "channel_median_views": 26743,
+      "outlier_score": 3.2,
+      "published": "2026-10-24",
+      "duration_min": 13,
+      "topic": "Programming",
+      "query": "I built an app",
+      "chapters": [
+        "00:00 - Peak intro",
+        "00:59 - Kimi K3 + OpenCode",
+        "02:02 - DeepSeek V4.1 Flash + OpenCode",
+        "03:02 - DeepSeek V4.1 Flash + DeepSeek Harness",
+        "03:55 - Cursor + Grok 4.7",
+        "04:40 - Claude Opus 5.5 + Claude Code",
+        "06:16 - GPT Sol 5.1 Ultra + Codex",
+        "07:23 - DeepSeek V4.1 Flash + Claude Code",
+        "08:07 - GLM 5.3 + OpenCode",
+        "08:22 - Slave",
+        "08:47 - Results and opinions",
+        "09:37 - Arcade - Sponsor",
+        "10:37 - Discord Submissions"
+      ],
+      "found": "2026-10-31"
+    },
+    {
+      "video_id": "XYOyPNBhtoY",
+      "title": "Ranking Every Rivals Weapon By How Legal They Are",
+      "url": "https://www.youtube.com/watch?v=XYOyPNBhtoY",
+      "channel": "Stefan",
+      "subscribers": 517000,
+      "views": 530195,
+      "channel_median_views": 164695,
+      "outlier_score": 3.2,
+      "published": "2026-10-08",
+      "duration_min": 22,
+      "topic": "Lists and rankings",
+      "query": "I ranked every",
+      "chapters": [],
+      "found": "2026-10-31"
+    },
+    {
       "video_id": "wloeJwfRjJg",
       "title": "24 hrs in Content creator and MBBS life ft.finally new car is home😍 | MBBS diaries",
       "url": "https://www.youtube.com/watch?v=wloeJwfRjJg",
@@ -2058,6 +2038,22 @@
       "found": "2026-10-30"
     },
     {
+      "video_id": "PhpO5rnKiPI",
+      "title": "Whale Species and Monsters Sizes Ranked",
+      "url": "https://www.youtube.com/watch?v=PhpO5rnKiPI",
+      "channel": "Axtro Explainer",
+      "subscribers": 45300,
+      "views": 382435,
+      "channel_median_views": 123574,
+      "outlier_score": 3.1,
+      "published": "2026-10-23",
+      "duration_min": 13,
+      "topic": "Lists and rankings",
+      "query": "I ranked every",
+      "chapters": [],
+      "found": "2026-10-31"
+    },
+    {
       "video_id": "fqX3GAUwKQA",
       "title": "Moving Abroad for my Masters' | Study Abroad vlog 🇮🇳🇮🇪",
       "url": "https://www.youtube.com/watch?v=fqX3GAUwKQA",
@@ -2114,7 +2110,7 @@
       "duration_min": 12,
       "chapters": [],
       "found": "2026-10-26",
-      "transcript_error": "RequestBlocked",
+      "transcript_error": "IpBlocked",
       "transcript": "transcripts/9Lu6o3rwcDk.txt"
     },
     {
@@ -2132,33 +2128,8 @@
       "duration_min": 10,
       "chapters": [],
       "found": "2026-10-28",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/UCJu9wzG4io.txt"
-    },
-    {
-      "video_id": "ESABTN4VtrA",
-      "title": "iPhone Duo Review: First Generation Fun!",
-      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-      "channel": "Marques Brownlee",
-      "creator": "Marques Brownlee",
-      "core_vibe": false,
-      "subscribers": 21400000,
-      "views": 10690409,
-      "channel_median_views": 6003118,
-      "outlier_score": 1.8,
-      "published": "2026-10-21",
-      "duration_min": 29,
-      "chapters": [
-        "0:00 Intro",
-        "1:13 First Generation",
-        "3:21 The Hardware",
-        "14:18 The Apps Situation",
-        "20:02 What It's Good At",
-        "25:11 Conclusion"
-      ],
-      "found": "2026-10-24",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/ESABTN4VtrA.txt"
     },
     {
       "video_id": "KryCfz7fTeY",
@@ -2175,7 +2146,7 @@
       "duration_min": 29,
       "chapters": [],
       "found": "2026-10-25",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/KryCfz7fTeY.txt"
     },
     {
@@ -2193,7 +2164,7 @@
       "duration_min": 19,
       "chapters": [],
       "found": "2026-10-29",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/Lwg2Jz-1jg0.txt"
     },
     {
@@ -2211,9 +2182,27 @@
       "duration_min": 39,
       "chapters": [],
       "found": "2026-10-26",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/Kjpez8vJllk.txt"
+    },
+    {
+      "video_id": "eAmtvCX4Od8",
+      "title": "This Artist Is Teaching People To Trace AI…",
+      "url": "https://www.youtube.com/watch?v=eAmtvCX4Od8",
+      "channel": "kat 'n chat",
+      "creator": "katnchat",
+      "core_vibe": false,
+      "subscribers": 373000,
+      "views": 68502,
+      "channel_median_views": 44674,
+      "outlier_score": 1.5,
+      "published": "2026-10-19",
+      "duration_min": 16,
+      "chapters": [],
+      "found": "2026-10-31",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/eAmtvCX4Od8.txt"
     }
   ],
-  "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
+  "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)"
 }
