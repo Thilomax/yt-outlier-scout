@@ -4697,6 +4697,416 @@
      ]
     }
    }
+  },
+  {
+   "date": "2026-11-03",
+   "searches": {
+    "I tried it for the first time": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 1,
+     "examples": [
+      "Irish People Try Brazilian Alcohol For The First Time (Cachaça) (5.0x)"
+     ]
+    },
+    "what it's actually like to": {
+     "returned": 50,
+     "new": 37,
+     "outliers": 0,
+     "examples": []
+    },
+    "I spent a day as": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 2,
+     "examples": [
+      "N3on & Yera Spend The Day With The Richest Man In The Philippines! (44.9x)",
+      "I Spent the Day With Fingerboard Legends in Manila 🇵🇭 (15.6x)"
+     ]
+    },
+    "I tested every": {
+     "returned": 50,
+     "new": 42,
+     "outliers": 1,
+     "examples": [
+      "Testing EVERY SECRET INTERACTION in Jujutsu Shenanigans... (3.9x)"
+     ]
+    },
+    "the truth about my": {
+     "returned": 50,
+     "new": 39,
+     "outliers": 0,
+     "examples": []
+    },
+    "things nobody tells you about": {
+     "returned": 50,
+     "new": 31,
+     "outliers": 2,
+     "examples": [
+      "My First Night in Assisted Living at 76—What Nobody Prepares You For (35.2x)",
+      "What Nobody Tells You About Life After Awakening - Carl Jung (3.1x)"
+     ]
+    },
+    "I did the thing everyone told me not to": {
+     "returned": 18,
+     "new": 18,
+     "outliers": 0,
+     "examples": []
+    },
+    "I asked strangers": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "realistic day in my life computer science student": {
+     "returned": 32,
+     "new": 30,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in the life cs student europe": {
+     "returned": 2,
+     "new": 2,
+     "outliers": 0,
+     "examples": []
+    },
+    "productive day in my life student": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 1,
+     "examples": [
+      "90 Days to Transform Your Life | 7 Things You MUST Do Before 2027 (17.0x)"
+     ]
+    },
+    "day in my life vlog 20s": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life gym and studying": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "week in my life university student": {
+     "returned": 50,
+     "new": 40,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life software engineering student": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 1,
+     "examples": [
+      "Day in My Life as a Software Engineer in Munich 🇩🇪  | Calm & Productive (3.7x)"
+     ]
+    },
+    "day in my life studying abroad student": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 1,
+     "examples": [
+      "I Graduated in Italy… Then My Life Took an Unexpected Turn | Life After Graduati (36.3x)"
+     ]
+    },
+    "a normal day in my life college student": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 0,
+     "examples": []
+    },
+    "exam season day in my life": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried coding a game in one hour": {
+     "returned": 9,
+     "new": 8,
+     "outliers": 1,
+     "examples": [
+      "I Spent 100 Hours Making a Game With Claude (this is cooked) (14.5x)"
+     ]
+    },
+    "exploring weird websites": {
+     "returned": 24,
+     "new": 24,
+     "outliers": 0,
+     "examples": []
+    },
+    "trying cool apps you didn't know existed": {
+     "returned": 11,
+     "new": 11,
+     "outliers": 0,
+     "examples": []
+    },
+    "internet rabbit hole": {
+     "returned": 50,
+     "new": 39,
+     "outliers": 1,
+     "examples": [
+      "Cybersecurity Rabbit Holes to Escape Web Hacking (3.2x)"
+     ]
+    },
+    "going through my old videos commentary": {
+     "returned": 9,
+     "new": 9,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried every": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "testing viral apps": {
+     "returned": 45,
+     "new": 33,
+     "outliers": 0,
+     "examples": []
+    },
+    "rating my subscribers": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "I let my viewers decide": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 2,
+     "examples": [
+      "I Let My Chat Order Me Amazon Products (3.1x)",
+      "My Viewers Turned Cat Sitting For 7 Days Into Meme Chaos! (3.1x)"
+     ]
+    },
+    "I copied a youtuber until he noticed me": {
+     "returned": 6,
+     "new": 6,
+     "outliers": 0,
+     "examples": []
+    },
+    "I spent 24 hours doing": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried living like": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 1,
+     "examples": [
+      "I Dressed Like a 1950s Man for a Week, Here's What Happened (30.5x)"
+     ]
+    },
+    "I pretended to be": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 0,
+     "examples": []
+    },
+    "I followed a routine for 24 hours": {
+     "returned": 18,
+     "new": 13,
+     "outliers": 0,
+     "examples": []
+    },
+    "learning to code journey": {
+     "returned": 41,
+     "new": 41,
+     "outliers": 0,
+     "examples": []
+    },
+    "I built an app": {
+     "returned": 50,
+     "new": 37,
+     "outliers": 0,
+     "examples": []
+    },
+    "coding vlog": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 1,
+     "examples": [
+      "cozy coding vlog 🕹️ beta test feedback was rough (App Launch Series) (4.1x)"
+     ]
+    },
+    "first year computer science student honest": {
+     "returned": 9,
+     "new": 9,
+     "outliers": 0,
+     "examples": []
+    },
+    "how I study effectively": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "university student routine": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "advice for people in their 20s": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "honest advice from my first year of university": {
+     "returned": 9,
+     "new": 9,
+     "outliers": 0,
+     "examples": []
+    },
+    "what I learned in my first year of university": {
+     "returned": 22,
+     "new": 21,
+     "outliers": 0,
+     "examples": []
+    },
+    "lessons I learned the hard way": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 1,
+     "examples": [
+      "Microsoft Chairman and CEO Satya Nadella on Empathy and Lessons He Learned the H (55.5x)"
+     ]
+    },
+    "my productivity system honest": {
+     "returned": 2,
+     "new": 2,
+     "outliers": 0,
+     "examples": []
+    },
+    "my morning routine honest": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 1,
+     "examples": [
+      "24 Hours with the Pixel 11 Pro (as an iPhone User) (5.4x)"
+     ]
+    },
+    "cinematic short film about life": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 3,
+     "examples": [
+      "End of Humanity | Short AI Film (31.7x)",
+      "Pragati Verma made a Netflix Movie in just 48 hours!! Bhulakkad Papa ki Lottery  (27.0x)",
+      "If Technoblade's Life Was a Movie... (3.2x)"
+     ]
+    },
+    "personal video essay": {
+     "returned": 50,
+     "new": 38,
+     "outliers": 2,
+     "examples": [
+      "the most hurtful season of jetlag the game (7.0x)",
+      "why ariana grande’s “petal” was mildly terrifying. (6.3x)"
+     ]
+    },
+    "short film about growing up": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "things I wish I knew earlier": {
+     "returned": 50,
+     "new": 34,
+     "outliers": 2,
+     "examples": [
+      "I Just Turned 60. Here’s What I Wish I Knew at 40 | Dan Churchill (4.0x)",
+      "What I Wish I Knew About Caffeine Sooner (3.3x)"
+     ]
+    },
+    "I ranked every": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 0,
+     "examples": []
+    },
+    "tier list": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 1,
+     "examples": [
+      "The ULTIMATE Dad Gamer Class TIER LIST for Casual Players in WoW Forever (5.3x)"
+     ]
+    },
+    "trending US / People & Blogs": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 1,
+     "examples": [
+      "🧐 \"PREPARE\" or Just Boost a Failing Economy? (3.5x)"
+     ]
+    },
+    "trending US / Comedy": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Science & Tech": {
+     "returned": 48,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / People & Blogs": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Comedy": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Science & Tech": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    }
+   }
   }
  ]
 }
