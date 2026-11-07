@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "pool_days": 7,
-  "new_today": 14,
-  "count": 101,
+  "new_today": 13,
+  "count": 99,
   "outliers": [
     {
       "video_id": "6pxddze1PnE",
@@ -39,6 +39,24 @@
       "found": "2026-11-02",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/11UOq4kwdxE.txt"
+    },
+    {
+      "video_id": "o5C34JgfkV0",
+      "title": "Why Do We Actually Like Music??",
+      "url": "https://www.youtube.com/watch?v=o5C34JgfkV0",
+      "channel": "Prolly Not",
+      "subscribers": 8350,
+      "views": 524605,
+      "channel_median_views": 3399,
+      "outlier_score": 154.3,
+      "published": "2026-10-06",
+      "duration_min": 9,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "what it's actually like to",
+      "chapters": [],
+      "found": "2026-11-07",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/o5C34JgfkV0.txt"
     },
     {
       "video_id": "6Ll2s6gFR2g",
@@ -127,6 +145,24 @@
       "transcript": "transcripts/ctKXPiBB3hw.txt"
     },
     {
+      "video_id": "ftKU_iW7tl4",
+      "title": "How I Survive a 20-Hour Workday as a Truck Driver in China",
+      "url": "https://www.youtube.com/watch?v=ftKU_iW7tl4",
+      "channel": "Paul in China",
+      "subscribers": 12600,
+      "views": 858972,
+      "channel_median_views": 14107,
+      "outlier_score": 60.9,
+      "published": "2026-10-10",
+      "duration_min": 23,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "day in my life vlog 20s",
+      "chapters": [],
+      "found": "2026-11-07",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/ftKU_iW7tl4.txt"
+    },
+    {
       "video_id": "2fD2HXr9HXo",
       "title": "Microsoft Chairman and CEO Satya Nadella on Empathy and Lessons He Learned the Hard Way",
       "url": "https://www.youtube.com/watch?v=2fD2HXr9HXo",
@@ -206,30 +242,6 @@
       "found": "2026-11-01",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/CFna3GWBrD4.txt"
-    },
-    {
-      "video_id": "GPM5MgFEkpk",
-      "title": "How I use AI to learn engineering (anti brain rot studying)",
-      "url": "https://www.youtube.com/watch?v=GPM5MgFEkpk",
-      "channel": "Aleks Gornik",
-      "subscribers": 27300,
-      "views": 347543,
-      "channel_median_views": 7632,
-      "outlier_score": 45.5,
-      "published": "2026-10-06",
-      "duration_min": 13,
-      "topic": "Studying",
-      "query": "how I study effectively",
-      "chapters": [
-        "0:00 - Learning hard things used to take me weeks",
-        "0:56 - Make AI turn concepts into visuals",
-        "4:11 - Use AI to decide what's worth reading",
-        "6:47 - Find the 20% that gets you unstuck 1",
-        "0:19 - Make AI find you the best resources 11:59 Recap"
-      ],
-      "found": "2026-10-31",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/GPM5MgFEkpk.txt"
     },
     {
       "video_id": "PZNsBGjNH0U",
@@ -399,6 +411,24 @@
       "transcript": "transcripts/VBlxAP8hGZ8.txt"
     },
     {
+      "video_id": "HGwdhg-NxQo",
+      "title": "A CEO Millionaire Asked 10 Strangers for $5 -Only a Broke Single Mom Helped Him. What Happened Next…",
+      "url": "https://www.youtube.com/watch?v=HGwdhg-NxQo",
+      "channel": "Soul-Stirring Stories",
+      "subscribers": 112000,
+      "views": 360531,
+      "channel_median_views": 11800,
+      "outlier_score": 30.6,
+      "published": "2026-11-04",
+      "duration_min": 27,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I asked strangers",
+      "chapters": [],
+      "found": "2026-11-07",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/HGwdhg-NxQo.txt"
+    },
+    {
       "video_id": "aCH0eUXFMk0",
       "title": "I Dressed Like a 1950s Man for a Week, Here's What Happened",
       "url": "https://www.youtube.com/watch?v=aCH0eUXFMk0",
@@ -451,6 +481,46 @@
       "found": "2026-11-03",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/54vcxujnAJU.txt"
+    },
+    {
+      "video_id": "qol4IwTiRkE",
+      "title": "I Pretended To Be a Girl In Steal an Egg To Troll My Pro Friend..!",
+      "url": "https://www.youtube.com/watch?v=qol4IwTiRkE",
+      "channel": "YGG ULTRA",
+      "subscribers": 17300,
+      "views": 704667,
+      "channel_median_views": 27977,
+      "outlier_score": 25.2,
+      "published": "2026-10-09",
+      "duration_min": 23,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I pretended to be",
+      "chapters": [
+        "0:00 — Troll",
+        "5:31 — Steal An Egg",
+        "14:35 — Revenge"
+      ],
+      "found": "2026-11-07",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/qol4IwTiRkE.txt"
+    },
+    {
+      "video_id": "7mYzILei46Q",
+      "title": "Inside an AMISH Hardware Store - What It Actually Looks Like",
+      "url": "https://www.youtube.com/watch?v=7mYzILei46Q",
+      "channel": "Amish Insider",
+      "subscribers": 18600,
+      "views": 121894,
+      "channel_median_views": 6133,
+      "outlier_score": 19.9,
+      "published": "2026-10-28",
+      "duration_min": 21,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "what it's actually like to",
+      "chapters": [],
+      "found": "2026-11-07",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/7mYzILei46Q.txt"
     },
     {
       "video_id": "Ho-ZEagmTsk",
@@ -565,22 +635,6 @@
       "query": "productive day in my life student",
       "chapters": [],
       "found": "2026-11-04"
-    },
-    {
-      "video_id": "VxLV1s9EeVc",
-      "title": "What It’s Actually Like Living Inside the Department Stores America Turned Into Senior Housing",
-      "url": "https://www.youtube.com/watch?v=VxLV1s9EeVc",
-      "channel": "Quiet Americans",
-      "subscribers": 17000,
-      "views": 97077,
-      "channel_median_views": 7531,
-      "outlier_score": 12.9,
-      "published": "2026-10-16",
-      "duration_min": 20,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "what it's actually like to",
-      "chapters": [],
-      "found": "2026-10-31"
     },
     {
       "video_id": "d3-aRjyHgf0",
@@ -780,20 +834,20 @@
       "found": "2026-11-03"
     },
     {
-      "video_id": "1_O2-rGroOE",
-      "title": "My Apartment is Gone… So I’m Living in a Treehouse",
-      "url": "https://www.youtube.com/watch?v=1_O2-rGroOE",
-      "channel": "Dough Dash",
-      "subscribers": 93200,
-      "views": 144355,
-      "channel_median_views": 20981,
+      "video_id": "LRvJGhCpMgo",
+      "title": "Trying American Steak for the First Time 🇺🇸",
+      "url": "https://www.youtube.com/watch?v=LRvJGhCpMgo",
+      "channel": "L3WG Reacts",
+      "subscribers": 608000,
+      "views": 963630,
+      "channel_median_views": 139563,
       "outlier_score": 6.9,
-      "published": "2026-10-27",
-      "duration_min": 41,
-      "topic": "Trending: People & Blogs",
-      "query": "trending US / People & Blogs",
+      "published": "2026-11-03",
+      "duration_min": 20,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
       "chapters": [],
-      "found": "2026-10-31"
+      "found": "2026-11-07"
     },
     {
       "video_id": "WIYuumNsBu4",
@@ -929,22 +983,6 @@
       "found": "2026-11-06"
     },
     {
-      "video_id": "hhgEYt3Y_j4",
-      "title": "Back to school in your 30s 🎓*NOT* the first week that I expected",
-      "url": "https://www.youtube.com/watch?v=hhgEYt3Y_j4",
-      "channel": "Chelsea Callahan",
-      "subscribers": 153000,
-      "views": 371281,
-      "channel_median_views": 70120,
-      "outlier_score": 5.3,
-      "published": "2026-10-03",
-      "duration_min": 26,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "week in my life university student",
-      "chapters": [],
-      "found": "2026-10-31"
-    },
-    {
       "video_id": "hvvj5p5oGwI",
       "title": "The ULTIMATE Dad Gamer Class TIER LIST for Casual Players in WoW Forever",
       "url": "https://www.youtube.com/watch?v=hvvj5p5oGwI",
@@ -1004,6 +1042,36 @@
       "found": "2026-11-02"
     },
     {
+      "video_id": "rfogsSuiRpY",
+      "title": "A typical day in my life.",
+      "url": "https://www.youtube.com/watch?v=rfogsSuiRpY",
+      "channel": "Nico Rauchenwald",
+      "subscribers": 12500,
+      "views": 60744,
+      "channel_median_views": 11978,
+      "outlier_score": 5.1,
+      "published": "2026-10-20",
+      "duration_min": 20,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "day in my life vlog 20s",
+      "chapters": [
+        "0:00 Intro",
+        "1:31 Ice bath",
+        "3:01 Breakfast",
+        "6:15 First working session",
+        "7:04 Easy run 10k",
+        "9:45 Lunch",
+        "11:41 Second working session",
+        "14:12 Sushi snack",
+        "14:38 Gym strength",
+        "17:48 Post gym routine",
+        "18:25 Dinner",
+        "18:55 Third working session",
+        "20:02 Bedtime routine"
+      ],
+      "found": "2026-11-07"
+    },
+    {
       "video_id": "5JwuFh3xO3Y",
       "title": "Bob Hickman: A Strange Internet Rabbithole",
       "url": "https://www.youtube.com/watch?v=5JwuFh3xO3Y",
@@ -1052,22 +1120,6 @@
       "found": "2026-11-04"
     },
     {
-      "video_id": "p_utPhQGGjM",
-      "title": "i spent 24 hours overnight at Jewel Changi Airport! (vlog)",
-      "url": "https://www.youtube.com/watch?v=p_utPhQGGjM",
-      "channel": "Jordan Chua",
-      "subscribers": 57800,
-      "views": 132954,
-      "channel_median_views": 26906,
-      "outlier_score": 4.9,
-      "published": "2026-10-24",
-      "duration_min": 27,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I spent 24 hours doing",
-      "chapters": [],
-      "found": "2026-10-31"
-    },
-    {
       "video_id": "_Xe2JAoMwIA",
       "title": "iPhone Duo Teardown – APPLE SHOULD APOLOGIZE",
       "url": "https://www.youtube.com/watch?v=_Xe2JAoMwIA",
@@ -1090,6 +1142,35 @@
         "15:43 Protection is a Good thing"
       ],
       "found": "2026-11-02"
+    },
+    {
+      "video_id": "yU9F_A5bOBY",
+      "title": "Essential Rogue Tips I Wish I Knew Earlier! | WoW Forever",
+      "url": "https://www.youtube.com/watch?v=yU9F_A5bOBY",
+      "channel": "Funcida",
+      "subscribers": 1580,
+      "views": 91658,
+      "channel_median_views": 19124,
+      "outlier_score": 4.8,
+      "published": "2026-11-01",
+      "duration_min": 10,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [
+        "00:00 - Introduction",
+        "00:27 - Replace Starting Dagger with a Sword",
+        "01:17 - Use Ranged Pulling to Snipe Mobs",
+        "02:05 - Early Leatherworking Gear Upgrades",
+        "03:44 - Level 20 Rogue Poison Quest & Sharpening Stones",
+        "04:26 - Lockpicking Grind & Early Lockboxes",
+        "05:00 - Thistle Tea & First Aid",
+        "05:34 - Best Early Dungeon Weapons (RFC, WC, BFD, Gnomeregan)",
+        "06:58 - 5% Bonus XP Food Buff (Cooking & Fishing)",
+        "07:33 - Early Game Rogue Talent Build",
+        "08:24 - Essential Rogue Leveling Macros",
+        "09:14 - Final Thoughts & Wrap Up"
+      ],
+      "found": "2026-11-07"
     },
     {
       "video_id": "YHfxDWriljQ",
@@ -1168,47 +1249,6 @@
       "found": "2026-11-06"
     },
     {
-      "video_id": "WrupS2DQH-U",
-      "title": "31+ EARLY Game Tips You Must Know (Fire Emblem Fortune's Weave)",
-      "url": "https://www.youtube.com/watch?v=WrupS2DQH-U",
-      "channel": "PhillyBeatzU",
-      "subscribers": 769000,
-      "views": 89307,
-      "channel_median_views": 21195,
-      "outlier_score": 4.2,
-      "published": "2026-09-18",
-      "duration_min": 14,
-      "topic": "Lists and rankings",
-      "query": "things I wish I knew earlier",
-      "chapters": [
-        "0:00 Intro",
-        "0:18 Update to Version 1.0.1 (FREE Weapons)",
-        "0:35 Notable Deeds & Boons of Salvation",
-        "1:19 Door of Destiny (Don't Do This)",
-        "1:43 Obelisk Music Swap & Best Way to Play the Story",
-        "3:03 Dungeon Tips: ZR Trail & Break Everything",
-        "3:37 Explore Every Area",
-        "4:14 Battlefield Camera & Screenshot Mode",
-        "5:14 Turn & Week System Explained",
-        "6:43 Raven's Perch & Foresight",
-        "7:21 Pale Raven Support",
-        "7:40 New Dialogue & Town Events",
-        "8:03 Side Quests",
-        "8:24 Shops & Settlement Shops",
-        "9:08 Deities, Holy Days & Blessings",
-        "10:10 ZR Fast Travel",
-        "10:31 Gifting Recruitable Units",
-        "10:49 Combat Tip",
-        "11:07 Unit Matchups & Counterattacks",
-        "11:24 Positioning",
-        "11:41 Combat Arts & Blaze Arts Trick",
-        "12:15 Inn Meals & Sunday Discount",
-        "13:14 Support Grinding Trick",
-        "13:35 Rest & Auto Activity"
-      ],
-      "found": "2026-10-31"
-    },
-    {
       "video_id": "svDSHEZ8bBE",
       "title": "10 Things Nobody Tells You About Owning a Tesla Model 3",
       "url": "https://www.youtube.com/watch?v=svDSHEZ8bBE",
@@ -1266,22 +1306,6 @@
       "found": "2026-11-03"
     },
     {
-      "video_id": "rxkWuRGnrsA",
-      "title": "I Pretended to be a NOOB, Then Used OWNER GUNS in Rivals!!",
-      "url": "https://www.youtube.com/watch?v=rxkWuRGnrsA",
-      "channel": "KAYE",
-      "subscribers": 3740000,
-      "views": 696168,
-      "channel_median_views": 174298,
-      "outlier_score": 4.0,
-      "published": "2026-10-10",
-      "duration_min": 19,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I pretended to be",
-      "chapters": [],
-      "found": "2026-10-31"
-    },
-    {
       "video_id": "foqxXBbwnOE",
       "title": "I Just Turned 60. Here’s What I Wish I Knew at 40 | Dan Churchill",
       "url": "https://www.youtube.com/watch?v=foqxXBbwnOE",
@@ -1298,6 +1322,33 @@
       "found": "2026-11-03"
     },
     {
+      "video_id": "gtHcK7SeqGg",
+      "title": "Uni Student Day In The Life | iPhone 18 Pro Battery and Camera Test",
+      "url": "https://www.youtube.com/watch?v=gtHcK7SeqGg",
+      "channel": "Flying Pig",
+      "subscribers": 15900,
+      "views": 72649,
+      "channel_median_views": 18288,
+      "outlier_score": 4.0,
+      "published": "2026-10-13",
+      "duration_min": 22,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "a normal day in my life college student",
+      "chapters": [
+        "0:00 Intro",
+        "0:15 Battery Test",
+        "1:39 MOFT!",
+        "4:30 Battery Test Continued",
+        "11:53 Battery Test Debrief",
+        "12:22 Charging Test (15 minutes)",
+        "13:00 Camera Test",
+        "19:58 Outro",
+        "20:29 21st Night Shenanigans",
+        "21:15 Post Party Poopers"
+      ],
+      "found": "2026-11-07"
+    },
+    {
       "video_id": "BRalTNZ1__k",
       "title": "Testing EVERY SECRET INTERACTION in Jujutsu Shenanigans...",
       "url": "https://www.youtube.com/watch?v=BRalTNZ1__k",
@@ -1312,22 +1363,6 @@
       "query": "I tested every",
       "chapters": [],
       "found": "2026-11-03"
-    },
-    {
-      "video_id": "wajoP_5Cpw8",
-      "title": "Every app on Earth is now open source... whether it likes it or not",
-      "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
-      "channel": "Fireship",
-      "subscribers": 4320000,
-      "views": 6688967,
-      "channel_median_views": 1774935,
-      "outlier_score": 3.8,
-      "published": "2026-10-12",
-      "duration_min": 6,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "query": "testing viral apps",
-      "chapters": [],
-      "found": "2026-10-31"
     },
     {
       "video_id": "CM546XSC1jM",
@@ -1423,61 +1458,6 @@
         "11:43 #1 What one man can do for you"
       ],
       "found": "2026-11-06"
-    },
-    {
-      "video_id": "89QjMzUHalY",
-      "title": "Build, Update & Publish Android App to Google Play Store (Full Course) Hindi 2026",
-      "url": "https://www.youtube.com/watch?v=89QjMzUHalY",
-      "channel": "Java Goat",
-      "subscribers": 20600,
-      "views": 29925,
-      "channel_median_views": 8386,
-      "outlier_score": 3.6,
-      "published": "2026-09-19",
-      "duration_min": 43,
-      "topic": "Programming",
-      "query": "I built an app",
-      "chapters": [
-        "00:00 - Introduction & Course Overview",
-        "00:32 - Creating App with Google AI Studio",
-        "04:51 - Google Play Console Setup & Store Listing (icons, screenshots, description)",
-        "30:17 - Sending App For Review",
-        "35:19 - Updating the App",
-        "41:55 - Final App Result"
-      ],
-      "found": "2026-10-31"
-    },
-    {
-      "video_id": "xn8f-JuIMXk",
-      "title": "I Trained like SHXRK for 72 Hours...",
-      "url": "https://www.youtube.com/watch?v=xn8f-JuIMXk",
-      "channel": "mizery",
-      "subscribers": 203000,
-      "views": 224726,
-      "channel_median_views": 65053,
-      "outlier_score": 3.5,
-      "published": "2026-09-30",
-      "duration_min": 17,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I followed a routine for 24 hours",
-      "chapters": [],
-      "found": "2026-10-31"
-    },
-    {
-      "video_id": "3auNiIMU3KY",
-      "title": "I Survived A Catholic Priest's 18-Hour Workday",
-      "url": "https://www.youtube.com/watch?v=3auNiIMU3KY",
-      "channel": "Evan Raugust",
-      "subscribers": 249000,
-      "views": 137368,
-      "channel_median_views": 38975,
-      "outlier_score": 3.5,
-      "published": "2026-10-17",
-      "duration_min": 20,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I followed a routine for 24 hours",
-      "chapters": [],
-      "found": "2026-10-31"
     },
     {
       "video_id": "5cYptvCtUwk",
@@ -1579,52 +1559,6 @@
       "found": "2026-11-03"
     },
     {
-      "video_id": "jmarmsmscKA",
-      "title": "I Built The Same App in 9 AI Agents",
-      "url": "https://www.youtube.com/watch?v=jmarmsmscKA",
-      "channel": "Manware",
-      "subscribers": 67900,
-      "views": 85019,
-      "channel_median_views": 26743,
-      "outlier_score": 3.2,
-      "published": "2026-10-24",
-      "duration_min": 13,
-      "topic": "Programming",
-      "query": "I built an app",
-      "chapters": [
-        "00:00 - Peak intro",
-        "00:59 - Kimi K3 + OpenCode",
-        "02:02 - DeepSeek V4.1 Flash + OpenCode",
-        "03:02 - DeepSeek V4.1 Flash + DeepSeek Harness",
-        "03:55 - Cursor + Grok 4.7",
-        "04:40 - Claude Opus 5.5 + Claude Code",
-        "06:16 - GPT Sol 5.1 Ultra + Codex",
-        "07:23 - DeepSeek V4.1 Flash + Claude Code",
-        "08:07 - GLM 5.3 + OpenCode",
-        "08:22 - Slave",
-        "08:47 - Results and opinions",
-        "09:37 - Arcade - Sponsor",
-        "10:37 - Discord Submissions"
-      ],
-      "found": "2026-10-31"
-    },
-    {
-      "video_id": "XYOyPNBhtoY",
-      "title": "Ranking Every Rivals Weapon By How Legal They Are",
-      "url": "https://www.youtube.com/watch?v=XYOyPNBhtoY",
-      "channel": "Stefan",
-      "subscribers": 517000,
-      "views": 530195,
-      "channel_median_views": 164695,
-      "outlier_score": 3.2,
-      "published": "2026-10-08",
-      "duration_min": 22,
-      "topic": "Lists and rankings",
-      "query": "I ranked every",
-      "chapters": [],
-      "found": "2026-10-31"
-    },
-    {
       "video_id": "eTkJWdzrWh0",
       "title": "CRYING WOMAN VS PARKOUR POV HORROR MOVIE IN REAL LIFE SHORT FILM",
       "url": "https://www.youtube.com/watch?v=eTkJWdzrWh0",
@@ -1711,22 +1645,6 @@
         "10:30 8. No Contact Is Only the First Step"
       ],
       "found": "2026-11-04"
-    },
-    {
-      "video_id": "PhpO5rnKiPI",
-      "title": "Whale Species and Monsters Sizes Ranked",
-      "url": "https://www.youtube.com/watch?v=PhpO5rnKiPI",
-      "channel": "Axtro Explainer",
-      "subscribers": 45300,
-      "views": 382435,
-      "channel_median_views": 123574,
-      "outlier_score": 3.1,
-      "published": "2026-10-23",
-      "duration_min": 13,
-      "topic": "Lists and rankings",
-      "query": "I ranked every",
-      "chapters": [],
-      "found": "2026-10-31"
     },
     {
       "video_id": "ylZ49Hs2u-s",
@@ -1947,6 +1865,38 @@
       "found": "2026-11-06"
     },
     {
+      "video_id": "ghTAgLahIC0",
+      "title": "cyraxandflyraxx: A Disturbing Internet Rabbit Hole",
+      "url": "https://www.youtube.com/watch?v=ghTAgLahIC0",
+      "channel": "Highwayman",
+      "subscribers": 3710,
+      "views": 28196,
+      "channel_median_views": 9212,
+      "outlier_score": 3.1,
+      "published": "2026-10-30",
+      "duration_min": 15,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "query": "internet rabbit hole",
+      "chapters": [],
+      "found": "2026-11-07"
+    },
+    {
+      "video_id": "9v778H0fXM0",
+      "title": "WINTER ARC PREP EP  10❄️🎧  6am gym morning routine before work",
+      "url": "https://www.youtube.com/watch?v=9v778H0fXM0",
+      "channel": "Caitie June",
+      "subscribers": 204000,
+      "views": 30392,
+      "channel_median_views": 9936,
+      "outlier_score": 3.1,
+      "published": "2026-09-30",
+      "duration_min": 17,
+      "topic": "Things I'm into (gym, healthy eating, productivity)",
+      "query": "my morning routine honest",
+      "chapters": [],
+      "found": "2026-11-07"
+    },
+    {
       "video_id": "1jJfmQYm_UE",
       "title": "Rivals, but AI chooses our loadout in Ranked!",
       "url": "https://www.youtube.com/watch?v=1jJfmQYm_UE",
@@ -2101,6 +2051,31 @@
         "14:13 Should you build an AI agent?"
       ],
       "found": "2026-11-04"
+    },
+    {
+      "video_id": "XIYA4QaV1gI",
+      "title": "I Tried Decluttering like a Privileged Japanese Woman: 6 things they toss to level up their lives",
+      "url": "https://www.youtube.com/watch?v=XIYA4QaV1gI",
+      "channel": "The Japanese Method",
+      "subscribers": 157000,
+      "views": 54813,
+      "channel_median_views": 18164,
+      "outlier_score": 3.0,
+      "published": "2026-10-10",
+      "duration_min": 23,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I tried living like",
+      "chapters": [
+        "0:00 - 6 Things Japanese Women Refuse to Keep",
+        "2:22 - 1.",
+        "5:35 - 2.",
+        "8:37 - 3.",
+        "11:56 - 4.",
+        "15:16 - 5.",
+        "18:24 - 6.",
+        "21:42 - The One Rule Behind All Six"
+      ],
+      "found": "2026-11-07"
     }
   ],
   "creator_outliers": [
@@ -2249,24 +2224,6 @@
       "transcript": "transcripts/iRKP9oqjjTg.txt"
     },
     {
-      "video_id": "eAmtvCX4Od8",
-      "title": "This Artist Is Teaching People To Trace AI…",
-      "url": "https://www.youtube.com/watch?v=eAmtvCX4Od8",
-      "channel": "kat 'n chat",
-      "creator": "katnchat",
-      "core_vibe": false,
-      "subscribers": 373000,
-      "views": 68502,
-      "channel_median_views": 44674,
-      "outlier_score": 1.5,
-      "published": "2026-10-19",
-      "duration_min": 16,
-      "chapters": [],
-      "found": "2026-10-31",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/eAmtvCX4Od8.txt"
-    },
-    {
       "video_id": "1Ro9x6UUwrE",
       "title": "I Copied IShowSpeed Until He Noticed",
       "url": "https://www.youtube.com/watch?v=1Ro9x6UUwrE",
@@ -2301,6 +2258,24 @@
       "found": "2026-11-05",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/Sk7721dVu4A.txt"
+    },
+    {
+      "video_id": "j59db-4ky4E",
+      "title": "Ranking Your UNHINGED Setups",
+      "url": "https://www.youtube.com/watch?v=j59db-4ky4E",
+      "channel": "Bog",
+      "creator": "Bog",
+      "core_vibe": true,
+      "subscribers": 646000,
+      "views": 161015,
+      "channel_median_views": 106822,
+      "outlier_score": 1.5,
+      "published": "2026-11-04",
+      "duration_min": 16,
+      "chapters": [],
+      "found": "2026-11-07",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/j59db-4ky4E.txt"
     }
   ],
   "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
