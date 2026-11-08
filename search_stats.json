@@ -6646,6 +6646,403 @@
      "examples": []
     }
    }
+  },
+  {
+   "date": "2026-11-08",
+   "searches": {
+    "I tried it for the first time": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 1,
+     "examples": [
+      "Trying American Breakfast Pancakes & Bacon for the First Time 🇺🇸 (4.4x)"
+     ]
+    },
+    "what it's actually like to": {
+     "returned": 50,
+     "new": 36,
+     "outliers": 0,
+     "examples": []
+    },
+    "I spent a day as": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tested every": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 1,
+     "examples": [
+      "Abandoned Bike’s Grave Yard Testing Every Bike  (67.5x)"
+     ]
+    },
+    "the truth about my": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "things nobody tells you about": {
+     "returned": 50,
+     "new": 30,
+     "outliers": 1,
+     "examples": [
+      "Things Nobody Tells You About Tiny Living (12.4x)"
+     ]
+    },
+    "I did the thing everyone told me not to": {
+     "returned": 18,
+     "new": 18,
+     "outliers": 0,
+     "examples": []
+    },
+    "I asked strangers": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "realistic day in my life computer science student": {
+     "returned": 32,
+     "new": 31,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in the life cs student europe": {
+     "returned": 2,
+     "new": 2,
+     "outliers": 0,
+     "examples": []
+    },
+    "productive day in my life student": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 1,
+     "examples": [
+      "I Tried The Most Productive Day Possible Vs Doing Absolutely Nothing (528.1x)"
+     ]
+    },
+    "day in my life vlog 20s": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life gym and studying": {
+     "returned": 50,
+     "new": 42,
+     "outliers": 1,
+     "examples": [
+      "productive uni vlog | university of nottingham | law student | my birthday | pil (13.6x)"
+     ]
+    },
+    "week in my life university student": {
+     "returned": 50,
+     "new": 39,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life software engineering student": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life studying abroad student": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 0,
+     "examples": []
+    },
+    "a normal day in my life college student": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "exam season day in my life": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried coding a game in one hour": {
+     "returned": 9,
+     "new": 7,
+     "outliers": 0,
+     "examples": []
+    },
+    "exploring weird websites": {
+     "returned": 27,
+     "new": 27,
+     "outliers": 0,
+     "examples": []
+    },
+    "trying cool apps you didn't know existed": {
+     "returned": 10,
+     "new": 10,
+     "outliers": 0,
+     "examples": []
+    },
+    "internet rabbit hole": {
+     "returned": 50,
+     "new": 38,
+     "outliers": 0,
+     "examples": []
+    },
+    "going through my old videos commentary": {
+     "returned": 7,
+     "new": 7,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried every": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "testing viral apps": {
+     "returned": 42,
+     "new": 31,
+     "outliers": 0,
+     "examples": []
+    },
+    "rating my subscribers": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "I let my viewers decide": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 1,
+     "examples": [
+      "I Let My Viewers Decide My Team To Use In DIVISION 1 On eFootball 2027 (5.3x)"
+     ]
+    },
+    "I copied a youtuber until he noticed me": {
+     "returned": 7,
+     "new": 6,
+     "outliers": 0,
+     "examples": []
+    },
+    "I spent 24 hours doing": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 1,
+     "examples": [
+      "I Automated my Minecraft World in 24 Hours (178.6x)"
+     ]
+    },
+    "I tried living like": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 1,
+     "examples": [
+      "Trying To Live A Dignified Life in 2026 Is A Humiliation Ritual (6.0x)"
+     ]
+    },
+    "I pretended to be": {
+     "returned": 50,
+     "new": 42,
+     "outliers": 1,
+     "examples": [
+      "Pretending to be NOOB in +1 Spider Arm (9.0x)"
+     ]
+    },
+    "I followed a routine for 24 hours": {
+     "returned": 16,
+     "new": 12,
+     "outliers": 0,
+     "examples": []
+    },
+    "learning to code journey": {
+     "returned": 47,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "I built an app": {
+     "returned": 50,
+     "new": 39,
+     "outliers": 0,
+     "examples": []
+    },
+    "coding vlog": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "first year computer science student honest": {
+     "returned": 8,
+     "new": 8,
+     "outliers": 0,
+     "examples": []
+    },
+    "how I study effectively": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 0,
+     "examples": []
+    },
+    "university student routine": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "advice for people in their 20s": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "honest advice from my first year of university": {
+     "returned": 11,
+     "new": 11,
+     "outliers": 0,
+     "examples": []
+    },
+    "what I learned in my first year of university": {
+     "returned": 43,
+     "new": 42,
+     "outliers": 0,
+     "examples": []
+    },
+    "lessons I learned the hard way": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 0,
+     "examples": []
+    },
+    "my productivity system honest": {
+     "returned": 3,
+     "new": 3,
+     "outliers": 0,
+     "examples": []
+    },
+    "my morning routine honest": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "cinematic short film about life": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "personal video essay": {
+     "returned": 50,
+     "new": 40,
+     "outliers": 2,
+     "examples": [
+      "The Art of Video Essay Music-ing (84.5x)",
+      "Castlevania's Sapphic Inheritance: A Carmilla Video Essay (6.3x)"
+     ]
+    },
+    "short film about growing up": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 1,
+     "examples": [
+      "Seen ✓✓ but No Reply 💔 | Madurai Tamil Romance Short Film | Love Kadhal Trip (5.5x)"
+     ]
+    },
+    "things I wish I knew earlier": {
+     "returned": 50,
+     "new": 37,
+     "outliers": 2,
+     "examples": [
+      "MW4 DMZ: Things I Wish I Knew Sooner After 200+ Hours (11.5x)",
+      "42+ EARLY Game Tips You Must Know (Zelda Ocarina of Time) (5.1x)"
+     ]
+    },
+    "I ranked every": {
+     "returned": 50,
+     "new": 42,
+     "outliers": 0,
+     "examples": []
+    },
+    "tier list": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 1,
+     "examples": [
+      "Scary Ocean Sounds Tier List (11.3x)"
+     ]
+    },
+    "trending US / People & Blogs": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 1,
+     "examples": [
+      "🔥 Is Our Country OVER & What to Do Now? (3.1x)"
+     ]
+    },
+    "trending US / Comedy": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Science & Tech": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / People & Blogs": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 1,
+     "examples": [
+      "How Raising My Child in Britain HUMBLED My American Arrogance (13.7x)"
+     ]
+    },
+    "trending GB / Comedy": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Science & Tech": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    }
+   }
   }
  ]
 }
