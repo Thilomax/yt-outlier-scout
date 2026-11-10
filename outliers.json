@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "pool_days": 7,
-  "new_today": 14,
-  "count": 100,
+  "new_today": 11,
+  "count": 84,
   "outliers": [
     {
       "video_id": "GMXRSE9GK8w",
@@ -57,6 +57,33 @@
       "found": "2026-11-07",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/o5C34JgfkV0.txt"
+    },
+    {
+      "video_id": "dF2jbfYirlU",
+      "title": "If the US Power Grid Failed, These States Go Dark First (All 50 Ranked)",
+      "url": "https://www.youtube.com/watch?v=dF2jbfYirlU",
+      "channel": "Grid Atlas",
+      "subscribers": 3630,
+      "views": 1359279,
+      "channel_median_views": 10829,
+      "outlier_score": 125.5,
+      "published": "2026-10-23",
+      "duration_min": 15,
+      "topic": "Lists and rankings",
+      "query": "I ranked every",
+      "chapters": [
+        "00:00 Intro",
+        "01:03 Three Grids",
+        "01:48 The First 72 Hours",
+        "03:03 How We Ranked",
+        "03:50 The Safest States",
+        "06:18 The Middle of the Pack",
+        "08:53 The Top Ten",
+        "14:05 What Decides Your Rank"
+      ],
+      "found": "2026-11-10",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/dF2jbfYirlU.txt"
     },
     {
       "video_id": "HjhZJhTZeVA",
@@ -154,22 +181,38 @@
       "transcript": "transcripts/ftKU_iW7tl4.txt"
     },
     {
-      "video_id": "2fD2HXr9HXo",
-      "title": "Microsoft Chairman and CEO Satya Nadella on Empathy and Lessons He Learned the Hard Way",
-      "url": "https://www.youtube.com/watch?v=2fD2HXr9HXo",
-      "channel": "Confession with Ali Partovi",
-      "subscribers": 1110,
-      "views": 60875,
-      "channel_median_views": 1096,
-      "outlier_score": 55.5,
-      "published": "2026-10-13",
-      "duration_min": 31,
-      "topic": "Advice from my own experience",
-      "query": "lessons I learned the hard way",
-      "chapters": [],
-      "found": "2026-11-03",
+      "video_id": "ji07Fr0AvBk",
+      "title": "What Traveling the Albanian Riviera is ACTUALLY Like",
+      "url": "https://www.youtube.com/watch?v=ji07Fr0AvBk",
+      "channel": "Mike and Nina",
+      "subscribers": 2360,
+      "views": 97193,
+      "channel_median_views": 1714,
+      "outlier_score": 56.7,
+      "published": "2026-10-16",
+      "duration_min": 37,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "what it's actually like to",
+      "chapters": [
+        "0:00 - Intro",
+        "0:36 - Bus from Tirana to Saranda",
+        "1:56 - Apartment Tour",
+        "4:26 - Saranda Promenade",
+        "8:02 - Boat Tour",
+        "10:13 - Krorëza Beach",
+        "13:22 - Kakoma Beach",
+        "16:45 - Bus to Ksamil",
+        "18:14 - Ksamil Beach",
+        "24:28 - Day Trip",
+        "24:58 - Lëkurësi Castle",
+        "26:11 - The Blue Eye",
+        "28:48 - Castle of Gjirokastra",
+        "31:15 - Gjirokastër",
+        "34:30 - Conclusion"
+      ],
+      "found": "2026-11-10",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/2fD2HXr9HXo.txt"
+      "transcript": "transcripts/ji07Fr0AvBk.txt"
     },
     {
       "video_id": "-Vk6MzuzRVk",
@@ -188,60 +231,6 @@
       "found": "2026-11-09",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/-Vk6MzuzRVk.txt"
-    },
-    {
-      "video_id": "PZNsBGjNH0U",
-      "title": "N3on & Yera Spend The Day With The Richest Man In The Philippines!",
-      "url": "https://www.youtube.com/watch?v=PZNsBGjNH0U",
-      "channel": "N3ON",
-      "subscribers": 1200000,
-      "views": 1185262,
-      "channel_median_views": 26387,
-      "outlier_score": 44.9,
-      "published": "2026-10-06",
-      "duration_min": 48,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I spent a day as",
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/PZNsBGjNH0U.txt"
-    },
-    {
-      "video_id": "TTD6J44seaw",
-      "title": "I Graduated in Italy… Then My Life Took an Unexpected Turn | Life After Graduating in Italy Ep. 2",
-      "url": "https://www.youtube.com/watch?v=TTD6J44seaw",
-      "channel": "Fine Girl Abroad",
-      "subscribers": 8810,
-      "views": 80872,
-      "channel_median_views": 2228,
-      "outlier_score": 36.3,
-      "published": "2026-10-01",
-      "duration_min": 31,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "day in my life studying abroad student",
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/TTD6J44seaw.txt"
-    },
-    {
-      "video_id": "pQEPXtBRhxs",
-      "title": "My First Night in Assisted Living at 76—What Nobody Prepares You For",
-      "url": "https://www.youtube.com/watch?v=pQEPXtBRhxs",
-      "channel": "Joan Whitaker",
-      "subscribers": 1000,
-      "views": 99960,
-      "channel_median_views": 2841,
-      "outlier_score": 35.2,
-      "published": "2026-10-26",
-      "duration_min": 20,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/pQEPXtBRhxs.txt"
     },
     {
       "video_id": "MyMXR_sp4WQ",
@@ -321,24 +310,6 @@
       "transcript": "transcripts/zmOif9DXtWA.txt"
     },
     {
-      "video_id": "VBlxAP8hGZ8",
-      "title": "End of Humanity | Short AI Film",
-      "url": "https://www.youtube.com/watch?v=VBlxAP8hGZ8",
-      "channel": "Teer",
-      "subscribers": 18700,
-      "views": 3272568,
-      "channel_median_views": 103257,
-      "outlier_score": 31.7,
-      "published": "2026-10-11",
-      "duration_min": 18,
-      "topic": "Short film / cinematic",
-      "query": "cinematic short film about life",
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/VBlxAP8hGZ8.txt"
-    },
-    {
       "video_id": "HGwdhg-NxQo",
       "title": "A CEO Millionaire Asked 10 Strangers for $5 -Only a Broke Single Mom Helped Him. What Happened Next…",
       "url": "https://www.youtube.com/watch?v=HGwdhg-NxQo",
@@ -357,24 +328,6 @@
       "transcript": "transcripts/HGwdhg-NxQo.txt"
     },
     {
-      "video_id": "aCH0eUXFMk0",
-      "title": "I Dressed Like a 1950s Man for a Week, Here's What Happened",
-      "url": "https://www.youtube.com/watch?v=aCH0eUXFMk0",
-      "channel": "Buff Dudes",
-      "subscribers": 2790000,
-      "views": 5030557,
-      "channel_median_views": 165197,
-      "outlier_score": 30.5,
-      "published": "2026-10-31",
-      "duration_min": 29,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I tried living like",
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/aCH0eUXFMk0.txt"
-    },
-    {
       "video_id": "SfMw_FcBbq0",
       "title": "I Tried Every Sketchy Game at a Pokémon Card Show",
       "url": "https://www.youtube.com/watch?v=SfMw_FcBbq0",
@@ -391,24 +344,6 @@
       "found": "2026-11-05",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/SfMw_FcBbq0.txt"
-    },
-    {
-      "video_id": "54vcxujnAJU",
-      "title": "Pragati Verma made a Netflix Movie in just 48 hours!! Bhulakkad Papa ki Lottery | Netflix India",
-      "url": "https://www.youtube.com/watch?v=54vcxujnAJU",
-      "channel": "Netflix India",
-      "subscribers": 29500000,
-      "views": 1899891,
-      "channel_median_views": 70421,
-      "outlier_score": 27.0,
-      "published": "2026-10-29",
-      "duration_min": 17,
-      "topic": "Short film / cinematic",
-      "query": "cinematic short film about life",
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/54vcxujnAJU.txt"
     },
     {
       "video_id": "qol4IwTiRkE",
@@ -451,42 +386,6 @@
       "transcript": "transcripts/7mYzILei46Q.txt"
     },
     {
-      "video_id": "Ho-ZEagmTsk",
-      "title": "90 Days to Transform Your Life | 7 Things You MUST Do Before 2027",
-      "url": "https://www.youtube.com/watch?v=Ho-ZEagmTsk",
-      "channel": "Saumya Singh",
-      "subscribers": 343000,
-      "views": 922241,
-      "channel_median_views": 54377,
-      "outlier_score": 17.0,
-      "published": "2026-09-20",
-      "duration_min": 16,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "productive day in my life student",
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/Ho-ZEagmTsk.txt"
-    },
-    {
-      "video_id": "QiMkEOYA5Iw",
-      "title": "I Spent the Day With Fingerboard Legends in Manila 🇵🇭",
-      "url": "https://www.youtube.com/watch?v=QiMkEOYA5Iw",
-      "channel": "Void Walker",
-      "subscribers": 16700,
-      "views": 163858,
-      "channel_median_views": 10489,
-      "outlier_score": 15.6,
-      "published": "2026-10-01",
-      "duration_min": 17,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I spent a day as",
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/QiMkEOYA5Iw.txt"
-    },
-    {
       "video_id": "Z9blHp_v0PM",
       "title": "Essential Tips I Wish I Knew Sooner - Phantom Blade Zero",
       "url": "https://www.youtube.com/watch?v=Z9blHp_v0PM",
@@ -522,33 +421,6 @@
       "transcript": "transcripts/Z9blHp_v0PM.txt"
     },
     {
-      "video_id": "tpbXZyRxWNY",
-      "title": "I Spent 100 Hours Making a Game With Claude (this is cooked)",
-      "url": "https://www.youtube.com/watch?v=tpbXZyRxWNY",
-      "channel": "Brendan Jowett",
-      "subscribers": 65100,
-      "views": 277948,
-      "channel_median_views": 19111,
-      "outlier_score": 14.5,
-      "published": "2026-10-29",
-      "duration_min": 22,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "query": "I tried coding a game in one hour",
-      "chapters": [
-        "00:00 - Intro",
-        "00:26 - What you need",
-        "01:00 - The prompts and costs",
-        "02:03 - 10-minute build",
-        "04:29 - 1-hour build",
-        "08:30 - 10-hour build",
-        "14:54 - 100-hour build",
-        "22:03 - Final thoughts"
-      ],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/tpbXZyRxWNY.txt"
-    },
-    {
       "video_id": "mrm76NNw-rI",
       "title": "how to manage time so well people think you have 30 hours a day",
       "url": "https://www.youtube.com/watch?v=mrm76NNw-rI",
@@ -562,7 +434,9 @@
       "topic": "Day in the life (best performer, double down)",
       "query": "productive day in my life student",
       "chapters": [],
-      "found": "2026-11-04"
+      "found": "2026-11-04",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/mrm76NNw-rI.txt"
     },
     {
       "video_id": "wI4L9aTzRp0",
@@ -584,7 +458,9 @@
         "5:23 Unlearning Narratives and Finding Perspective",
         "11:00 Leaving Behind the Culture of Constant Fear"
       ],
-      "found": "2026-11-08"
+      "found": "2026-11-08",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/wI4L9aTzRp0.txt"
     },
     {
       "video_id": "khwo0gsQeqA",
@@ -600,7 +476,9 @@
       "topic": "Day in the life (best performer, double down)",
       "query": "day in my life gym and studying",
       "chapters": [],
-      "found": "2026-11-08"
+      "found": "2026-11-08",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/khwo0gsQeqA.txt"
     },
     {
       "video_id": "d3-aRjyHgf0",
@@ -616,7 +494,9 @@
       "topic": "Broad (any topic strangers click on)",
       "query": "what it's actually like to",
       "chapters": [],
-      "found": "2026-11-05"
+      "found": "2026-11-05",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/d3-aRjyHgf0.txt"
     },
     {
       "video_id": "iERa5cupg0U",
@@ -632,7 +512,9 @@
       "topic": "Broad (any topic strangers click on)",
       "query": "the truth about my",
       "chapters": [],
-      "found": "2026-11-06"
+      "found": "2026-11-06",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/iERa5cupg0U.txt"
     },
     {
       "video_id": "-aALsjGAxxY",
@@ -648,7 +530,9 @@
       "topic": "Broad (any topic strangers click on)",
       "query": "things nobody tells you about",
       "chapters": [],
-      "found": "2026-11-08"
+      "found": "2026-11-08",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/-aALsjGAxxY.txt"
     },
     {
       "video_id": "Hc63chBVZ6Y",
@@ -664,7 +548,40 @@
       "topic": "Broad (any topic strangers click on)",
       "query": "I tried it for the first time",
       "chapters": [],
-      "found": "2026-11-09"
+      "found": "2026-11-09",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/Hc63chBVZ6Y.txt"
+    },
+    {
+      "video_id": "proWC2646TE",
+      "title": "it's time you took your education more seriously.",
+      "url": "https://www.youtube.com/watch?v=proWC2646TE",
+      "channel": "vidhi kaloya",
+      "subscribers": 1000,
+      "views": 27951,
+      "channel_median_views": 2397,
+      "outlier_score": 11.7,
+      "published": "2026-11-01",
+      "duration_min": 17,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "week in my life university student",
+      "chapters": [
+        "0:00 Intro",
+        "0:36 One unproductive day doesn't define all your other days",
+        "3:50 Getting into the habit of reading more",
+        "4:06 Figuring out how to use new software",
+        "4:52 Creating more original ideas",
+        "8:17 Experiment submission day",
+        "9:07 Library days & building the habit of studying longer",
+        "9:35 Surround yourself with motivated people",
+        "10:42 The feeling of going home after a really long day",
+        "11:06 Waking up for a 7 AM lecture",
+        "12:42 I love morning lectures",
+        "14:08 Studying forensic psychology",
+        "15:44 Setting unrealistic expectations or just not focusing enough?",
+        "16:32 Start to set goals for the last two months"
+      ],
+      "found": "2026-11-10"
     },
     {
       "video_id": "faHMU0n9A-0",
@@ -728,6 +645,22 @@
       "found": "2026-11-08"
     },
     {
+      "video_id": "SIkew3454ic",
+      "title": "72 HRS MIDTERMS STUDY VLOG: 7am mornings, overcaffeinated days, wave to earth concert",
+      "url": "https://www.youtube.com/watch?v=SIkew3454ic",
+      "channel": "Allison Chen",
+      "subscribers": 1710,
+      "views": 11700,
+      "channel_median_views": 1273,
+      "outlier_score": 9.2,
+      "published": "2026-11-06",
+      "duration_min": 12,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "week in my life university student",
+      "chapters": [],
+      "found": "2026-11-10"
+    },
+    {
       "video_id": "rwzVkrT6-WY",
       "title": "Pretending to be NOOB in +1 Spider Arm",
       "url": "https://www.youtube.com/watch?v=rwzVkrT6-WY",
@@ -783,32 +716,6 @@
       "found": "2026-11-06"
     },
     {
-      "video_id": "ptbI5wksoeo",
-      "title": "the most hurtful season of jetlag the game",
-      "url": "https://www.youtube.com/watch?v=ptbI5wksoeo",
-      "channel": "loveofnothing__",
-      "subscribers": 1840,
-      "views": 29269,
-      "channel_median_views": 4174,
-      "outlier_score": 7.0,
-      "published": "2026-10-29",
-      "duration_min": 12,
-      "topic": "Short film / cinematic",
-      "query": "personal video essay",
-      "chapters": [
-        "0:00 why are we here...?",
-        "1:06 im not only a hater",
-        "2:27 the phishing scam",
-        "3:44 im NOT willing to wait for it",
-        "4:27 men suck sometimes",
-        "6:58 proof for ADHD diagnosis",
-        "8:17 sam's final gamble (sadge)",
-        "9:42 the truth on why it hurts",
-        "11:44 thank you for 1k subs!!"
-      ],
-      "found": "2026-11-03"
-    },
-    {
       "video_id": "LRvJGhCpMgo",
       "title": "Trying American Steak for the First Time 🇺🇸",
       "url": "https://www.youtube.com/watch?v=LRvJGhCpMgo",
@@ -823,22 +730,6 @@
       "query": "I tried it for the first time",
       "chapters": [],
       "found": "2026-11-07"
-    },
-    {
-      "video_id": "WIYuumNsBu4",
-      "title": "why ariana grande’s “petal” was mildly terrifying.",
-      "url": "https://www.youtube.com/watch?v=WIYuumNsBu4",
-      "channel": "dabota",
-      "subscribers": 28000,
-      "views": 217498,
-      "channel_median_views": 34551,
-      "outlier_score": 6.3,
-      "published": "2026-10-18",
-      "duration_min": 18,
-      "topic": "Short film / cinematic",
-      "query": "personal video essay",
-      "chapters": [],
-      "found": "2026-11-03"
     },
     {
       "video_id": "aZd-05ywkgo",
@@ -1027,22 +918,6 @@
       "found": "2026-11-08"
     },
     {
-      "video_id": "a58PcZmgj7o",
-      "title": "24 Hours with the Pixel 11 Pro (as an iPhone User)",
-      "url": "https://www.youtube.com/watch?v=a58PcZmgj7o",
-      "channel": "Awesome Olive",
-      "subscribers": 13000,
-      "views": 378811,
-      "channel_median_views": 70412,
-      "outlier_score": 5.4,
-      "published": "2026-10-16",
-      "duration_min": 15,
-      "topic": "Things I'm into (gym, healthy eating, productivity)",
-      "query": "my morning routine honest",
-      "chapters": [],
-      "found": "2026-11-03"
-    },
-    {
       "video_id": "8riFURaob9g",
       "title": "First week of uni vlog ☁️🌸🎧| University of Leicester- Medical/Clinical Sciences 2nd Year",
       "url": "https://www.youtube.com/watch?v=8riFURaob9g",
@@ -1059,36 +934,6 @@
       "found": "2026-11-06"
     },
     {
-      "video_id": "hvvj5p5oGwI",
-      "title": "The ULTIMATE Dad Gamer Class TIER LIST for Casual Players in WoW Forever",
-      "url": "https://www.youtube.com/watch?v=hvvj5p5oGwI",
-      "channel": "Mobalytics",
-      "subscribers": 238000,
-      "views": 480182,
-      "channel_median_views": 90276,
-      "outlier_score": 5.3,
-      "published": "2026-10-23",
-      "duration_min": 31,
-      "topic": "Lists and rankings",
-      "query": "tier list",
-      "chapters": [
-        "00:00 Intro",
-        "01:03 Finding the Right Guild",
-        "02:13 Choosing Your Role",
-        "03:58 Warlock",
-        "06:12 Mage",
-        "07:42 Priest",
-        "10:02 Rogue",
-        "12:34 Hunter",
-        "14:39 Warrior",
-        "18:40 Druid",
-        "21:56 Paladin",
-        "24:30 Shaman",
-        "27:20 Class Rankings!"
-      ],
-      "found": "2026-11-03"
-    },
-    {
       "video_id": "MYvkHPvLXn4",
       "title": "I Let My Viewers Decide My Team To Use In DIVISION 1 On eFootball 2027",
       "url": "https://www.youtube.com/watch?v=MYvkHPvLXn4",
@@ -1103,6 +948,38 @@
       "query": "I let my viewers decide",
       "chapters": [],
       "found": "2026-11-08"
+    },
+    {
+      "video_id": "xhOdKkVMaW8",
+      "title": "Trying American Biscuits & Gravy for the First Time 🇺🇸",
+      "url": "https://www.youtube.com/watch?v=xhOdKkVMaW8",
+      "channel": "L3WG Reacts",
+      "subscribers": 611000,
+      "views": 932847,
+      "channel_median_views": 175821,
+      "outlier_score": 5.3,
+      "published": "2026-11-06",
+      "duration_min": 22,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
+      "chapters": [],
+      "found": "2026-11-10"
+    },
+    {
+      "video_id": "H7DoMgkRjxY",
+      "title": "Joseph (2026 Film) The Prisoner of Egypt | Full Biblical Movie 4K",
+      "url": "https://www.youtube.com/watch?v=H7DoMgkRjxY",
+      "channel": "Bible Stories - Movies",
+      "subscribers": 634000,
+      "views": 1629678,
+      "channel_median_views": 306030,
+      "outlier_score": 5.3,
+      "published": "2026-10-17",
+      "duration_min": 60,
+      "topic": "Short film / cinematic",
+      "query": "cinematic short film about life",
+      "chapters": [],
+      "found": "2026-11-10"
     },
     {
       "video_id": "rfogsSuiRpY",
@@ -1192,22 +1069,6 @@
       "found": "2026-11-08"
     },
     {
-      "video_id": "bsqBrMyLn90",
-      "title": "Irish People Try Brazilian Alcohol For The First Time (Cachaça)",
-      "url": "https://www.youtube.com/watch?v=bsqBrMyLn90",
-      "channel": "The TRY Channel",
-      "subscribers": 1380000,
-      "views": 458002,
-      "channel_median_views": 92313,
-      "outlier_score": 5.0,
-      "published": "2026-09-28",
-      "duration_min": 10,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I tried it for the first time",
-      "chapters": [],
-      "found": "2026-11-03"
-    },
-    {
       "video_id": "YF_Vly2iOoo",
       "title": "Nobody Tells You THIS About Playing in China",
       "url": "https://www.youtube.com/watch?v=YF_Vly2iOoo",
@@ -1293,6 +1154,22 @@
         "23:00 Outro"
       ],
       "found": "2026-11-09"
+    },
+    {
+      "video_id": "uF-ngzWS7B0",
+      "title": "20 Things I Wish I Knew Before Playing MapleStory Classic",
+      "url": "https://www.youtube.com/watch?v=uF-ngzWS7B0",
+      "channel": "ArikadouMS",
+      "subscribers": 3250,
+      "views": 75173,
+      "channel_median_views": 16809,
+      "outlier_score": 4.5,
+      "published": "2026-10-22",
+      "duration_min": 10,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [],
+      "found": "2026-11-10"
     },
     {
       "video_id": "wd_6VbSjStk",
@@ -1385,49 +1262,6 @@
       "found": "2026-11-05"
     },
     {
-      "video_id": "SqSu4xPbfkY",
-      "title": "cozy coding vlog 🕹️ beta test feedback was rough (App Launch Series)",
-      "url": "https://www.youtube.com/watch?v=SqSu4xPbfkY",
-      "channel": "Life Of Gaurz",
-      "subscribers": 41200,
-      "views": 34348,
-      "channel_median_views": 8324,
-      "outlier_score": 4.1,
-      "published": "2026-09-21",
-      "duration_min": 11,
-      "topic": "Programming",
-      "query": "coding vlog",
-      "chapters": [
-        "00:00 — I deleted 4 weeks of code on purpose",
-        "00:33 — What Stay Away is and what the beta test showed",
-        "01:27 — The Duolingo-style detox levels idea",
-        "02:02 — Building detox levels (1 hour to 14 days)",
-        "03:29 — Live timer that opens the panic button",
-        "04:04 — Wispr Flow voice-to-text demo (sponsored)",
-        "06:37 — Blocking Instagram after a relapse",
-        "08:09 — Writing native Swift inside a React Native app",
-        "09:36 — Offline highlights: daily 9 PM wins",
-        "10:26 — Wrap up"
-      ],
-      "found": "2026-11-03"
-    },
-    {
-      "video_id": "foqxXBbwnOE",
-      "title": "I Just Turned 60. Here’s What I Wish I Knew at 40 | Dan Churchill",
-      "url": "https://www.youtube.com/watch?v=foqxXBbwnOE",
-      "channel": "Rich Roll",
-      "subscribers": 1600000,
-      "views": 102317,
-      "channel_median_views": 25612,
-      "outlier_score": 4.0,
-      "published": "2026-10-30",
-      "duration_min": 24,
-      "topic": "Lists and rankings",
-      "query": "things I wish I knew earlier",
-      "chapters": [],
-      "found": "2026-11-03"
-    },
-    {
       "video_id": "gtHcK7SeqGg",
       "title": "Uni Student Day In The Life | iPhone 18 Pro Battery and Camera Test",
       "url": "https://www.youtube.com/watch?v=gtHcK7SeqGg",
@@ -1455,20 +1289,20 @@
       "found": "2026-11-07"
     },
     {
-      "video_id": "BRalTNZ1__k",
-      "title": "Testing EVERY SECRET INTERACTION in Jujutsu Shenanigans...",
-      "url": "https://www.youtube.com/watch?v=BRalTNZ1__k",
-      "channel": "FloatyZone",
-      "subscribers": 974000,
-      "views": 236086,
-      "channel_median_views": 59856,
-      "outlier_score": 3.9,
-      "published": "2026-10-10",
-      "duration_min": 17,
+      "video_id": "lN6RAP_oZKw",
+      "title": "What Nobody Tells You About Being Attractive and Black",
+      "url": "https://www.youtube.com/watch?v=lN6RAP_oZKw",
+      "channel": "Sincerely, Sincere",
+      "subscribers": 6470,
+      "views": 52715,
+      "channel_median_views": 13244,
+      "outlier_score": 4.0,
+      "published": "2026-10-31",
+      "duration_min": 13,
       "topic": "Broad (any topic strangers click on)",
-      "query": "I tested every",
+      "query": "things nobody tells you about",
       "chapters": [],
-      "found": "2026-11-03"
+      "found": "2026-11-10"
     },
     {
       "video_id": "CM546XSC1jM",
@@ -1503,36 +1337,6 @@
       "found": "2026-11-09"
     },
     {
-      "video_id": "-7SXxLqwG7s",
-      "title": "Day in My Life as a Software Engineer in Munich 🇩🇪  | Calm & Productive",
-      "url": "https://www.youtube.com/watch?v=-7SXxLqwG7s",
-      "channel": "Sakthi Kumar",
-      "subscribers": 1740,
-      "views": 13309,
-      "channel_median_views": 3567,
-      "outlier_score": 3.7,
-      "published": "2026-10-25",
-      "duration_min": 12,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "day in my life software engineering student",
-      "chapters": [
-        "0:00 How AI changed my workday",
-        "0:17 Morning routine",
-        "0:31 A workout before work",
-        "1:16 Back home, coffee and the first work block",
-        "2:07 Talking instead of typing with Wispr Flow",
-        "2:32 My desk setup",
-        "3:49 A quick Lidl run",
-        "4:43 Lunch at home",
-        "5:31 Heading into Munich",
-        "7:39 Watching the surfers at the Eisbach",
-        "8:16 Finding a café to work from",
-        "8:42 Why AI hasn’t made my days lighter",
-        "10:04 Finishing work and heading home"
-      ],
-      "found": "2026-11-03"
-    },
-    {
       "video_id": "rLIHasU83lk",
       "title": "9 Things Nobody Told Me My First Week in Vietnam (1969)",
       "url": "https://www.youtube.com/watch?v=rLIHasU83lk",
@@ -1560,20 +1364,20 @@
       "found": "2026-11-06"
     },
     {
-      "video_id": "5cYptvCtUwk",
-      "title": "🧐 \"PREPARE\" or Just Boost a Failing Economy?",
-      "url": "https://www.youtube.com/watch?v=5cYptvCtUwk",
-      "channel": "Appalachia's Homestead with Patara",
-      "subscribers": 559000,
-      "views": 90022,
-      "channel_median_views": 25671,
-      "outlier_score": 3.5,
-      "published": "2026-10-31",
-      "duration_min": 13,
+      "video_id": "EjgtdVUwC6g",
+      "title": "A Weekend in My Life | Beauty, Faith, Friends & Finding Balance | Dominique Sachse",
+      "url": "https://www.youtube.com/watch?v=EjgtdVUwC6g",
+      "channel": "Dominique Sachse",
+      "subscribers": 1890000,
+      "views": 87759,
+      "channel_median_views": 24312,
+      "outlier_score": 3.6,
+      "published": "2026-11-05",
+      "duration_min": 23,
       "topic": "Trending: People & Blogs",
       "query": "trending US / People & Blogs",
       "chapters": [],
-      "found": "2026-11-03"
+      "found": "2026-11-10"
     },
     {
       "video_id": "F8jidmEkIeM",
@@ -1618,31 +1422,6 @@
       "found": "2026-11-05"
     },
     {
-      "video_id": "_lkpRTCJgg8",
-      "title": "What I Wish I Knew About Caffeine Sooner",
-      "url": "https://www.youtube.com/watch?v=_lkpRTCJgg8",
-      "channel": "Nick Norwitz MD PhD",
-      "subscribers": 1330000,
-      "views": 659842,
-      "channel_median_views": 199729,
-      "outlier_score": 3.3,
-      "published": "2026-09-28",
-      "duration_min": 16,
-      "topic": "Lists and rankings",
-      "query": "things I wish I knew earlier",
-      "chapters": [
-        "0:00 – Why All Caffeine Doesn't Feel the Same",
-        "2:00 – Coffee vs Matcha vs Energy Drinks",
-        "2:20 – Coffee: Benefits, Jitters & Heart Health",
-        "3:40 – Matcha & Green Tea: The L-Theanine Advantage",
-        "5:45 – Yerba Mate: The Smoothest Source of Caffeine?",
-        "8:13 – Guarana: The Slow-Release Caffeine Plant",
-        "9:14 – Dark Chocolate: Caffeine vs Theobromine",
-        "10:46 – Energy Drinks & Celsius Explained"
-      ],
-      "found": "2026-11-03"
-    },
-    {
       "video_id": "nQdXp6HKKik",
       "title": "I tested the most Futuristic Tech - it scared me.",
       "url": "https://www.youtube.com/watch?v=nQdXp6HKKik",
@@ -1657,52 +1436,6 @@
       "query": "I tested every",
       "chapters": [],
       "found": "2026-11-09"
-    },
-    {
-      "video_id": "diRBvfMt3n4",
-      "title": "Cybersecurity Rabbit Holes to Escape Web Hacking",
-      "url": "https://www.youtube.com/watch?v=diRBvfMt3n4",
-      "channel": "rootsh",
-      "subscribers": 3440,
-      "views": 48224,
-      "channel_median_views": 15007,
-      "outlier_score": 3.2,
-      "published": "2026-10-26",
-      "duration_min": 12,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "query": "internet rabbit hole",
-      "chapters": [
-        "0:00 Intro",
-        "0:18 Why hacking feels cooked",
-        "1:01 Web hacking is crowded",
-        "1:42 Binary exploitation (pwn)",
-        "2:53 Reverse engineering",
-        "4:00 Game hacking",
-        "5:21 Malware analysis",
-        "6:28 Hardware hacking",
-        "7:46 Car hacking",
-        "8:54 Physical security",
-        "10:12 Speed round: crypto, radio, OSINT",
-        "10:45 Which one to pick",
-        "11:06 Sponsor: Hacker Blueprint"
-      ],
-      "found": "2026-11-03"
-    },
-    {
-      "video_id": "ZGYi_JjKhfE",
-      "title": "If Technoblade's Life Was a Movie...",
-      "url": "https://www.youtube.com/watch?v=ZGYi_JjKhfE",
-      "channel": "Sticks",
-      "subscribers": 1160000,
-      "views": 3046576,
-      "channel_median_views": 951442,
-      "outlier_score": 3.2,
-      "published": "2026-10-31",
-      "duration_min": 14,
-      "topic": "Short film / cinematic",
-      "query": "cinematic short film about life",
-      "chapters": [],
-      "found": "2026-11-03"
     },
     {
       "video_id": "W2IYvLt5Om0",
@@ -1767,63 +1500,6 @@
         "09:43 - Exporting your data to another password manager"
       ],
       "found": "2026-11-09"
-    },
-    {
-      "video_id": "HvDzSy0kxLc",
-      "title": "What Nobody Tells You About Life After Awakening - Carl Jung",
-      "url": "https://www.youtube.com/watch?v=HvDzSy0kxLc",
-      "channel": "The Shadow Work",
-      "subscribers": 276000,
-      "views": 43969,
-      "channel_median_views": 14214,
-      "outlier_score": 3.1,
-      "published": "2026-09-24",
-      "duration_min": 45,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [
-        "00:00 DON’T SKIP",
-        "01:52 AWAKENING IS NOT THE DESTINATION, BUT THE BEGINNING OF A LONG JOURNEY",
-        "09:02 THE RADIANCE WILL FADE, BUT WHAT YOU HAVE SEEN WILL REMAIN",
-        "15:54 WHEN YOU CHANGE, THE OLD ROLES IN YOUR RELATIONSHIPS BEGIN TO CRACK",
-        "22:58 YOU BEGIN TO SEE THE PARTS OF YOURSELF THAT YOUR MIND ONCE KEPT HIDDEN",
-        "29:41 YOU NO LONGER NEED OTHER PEOPLE TO UNDERSTAND WHAT YOU HAVE SEEN",
-        "36:25 AWAKENING BECOMES COMPLETE ONLY WHEN YOU BRING IT BACK INTO LIFE",
-        "43:25 CONCLUSION"
-      ],
-      "found": "2026-11-03"
-    },
-    {
-      "video_id": "4PtECYjIcvs",
-      "title": "I Let My Chat Order Me Amazon Products",
-      "url": "https://www.youtube.com/watch?v=4PtECYjIcvs",
-      "channel": "hxsain",
-      "subscribers": 5850000,
-      "views": 399352,
-      "channel_median_views": 128658,
-      "outlier_score": 3.1,
-      "published": "2026-10-30",
-      "duration_min": 37,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "query": "I let my viewers decide",
-      "chapters": [],
-      "found": "2026-11-03"
-    },
-    {
-      "video_id": "3NxEVEMsx1Q",
-      "title": "My Viewers Turned Cat Sitting For 7 Days Into Meme Chaos!",
-      "url": "https://www.youtube.com/watch?v=3NxEVEMsx1Q",
-      "channel": "Bushwhack 18",
-      "subscribers": 3210000,
-      "views": 195677,
-      "channel_median_views": 63993,
-      "outlier_score": 3.1,
-      "published": "2026-10-23",
-      "duration_min": 24,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "query": "I let my viewers decide",
-      "chapters": [],
-      "found": "2026-11-03"
     },
     {
       "video_id": "NPQA7XEotbg",
@@ -2075,6 +1751,22 @@
       "found": "2026-11-09"
     },
     {
+      "video_id": "Zo7CHMkpwIo",
+      "title": "After Work in Tokyo 🇯🇵 | Staying Alone in a Tiny Capsule Hotel on Friday Night",
+      "url": "https://www.youtube.com/watch?v=Zo7CHMkpwIo",
+      "channel": "asuka🇯🇵",
+      "subscribers": 194000,
+      "views": 565177,
+      "channel_median_views": 179619,
+      "outlier_score": 3.1,
+      "published": "2026-11-04",
+      "duration_min": 26,
+      "topic": "Trending: People & Blogs",
+      "query": "trending US / People & Blogs",
+      "chapters": [],
+      "found": "2026-11-10"
+    },
+    {
       "video_id": "C3I-_ZsUy8E",
       "title": "Funded Traders Admit What Nobody Tells You About Prop Firms (Secrets)",
       "url": "https://www.youtube.com/watch?v=C3I-_ZsUy8E",
@@ -2170,24 +1862,6 @@
   ],
   "creator_outliers": [
     {
-      "video_id": "VJaxM62dIxY",
-      "title": "Moving into My First NYC Studio",
-      "url": "https://www.youtube.com/watch?v=VJaxM62dIxY",
-      "channel": "Kelly Wakasa",
-      "creator": "Kelly Wakasa",
-      "core_vibe": false,
-      "subscribers": 2010000,
-      "views": 1771489,
-      "channel_median_views": 311051,
-      "outlier_score": 5.7,
-      "published": "2026-09-22",
-      "duration_min": 29,
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked",
-      "transcript": "transcripts/VJaxM62dIxY.txt"
-    },
-    {
       "video_id": "KLoJXyNO-s0",
       "title": "I Went Nocturnal for 5 Days",
       "url": "https://www.youtube.com/watch?v=KLoJXyNO-s0",
@@ -2202,7 +1876,7 @@
       "duration_min": 24,
       "chapters": [],
       "found": "2026-11-06",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked",
       "transcript": "transcripts/KLoJXyNO-s0.txt"
     },
     {
@@ -2224,6 +1898,24 @@
       "transcript": "transcripts/Hso5pAwcyR8.txt"
     },
     {
+      "video_id": "VmqwfEw4UoU",
+      "title": "I Stayed in Waterpark Hotels",
+      "url": "https://www.youtube.com/watch?v=VmqwfEw4UoU",
+      "channel": "Ryan Trahan",
+      "creator": "Ryan Trahan",
+      "core_vibe": true,
+      "subscribers": 24100000,
+      "views": 9133347,
+      "channel_median_views": 2729006,
+      "outlier_score": 3.3,
+      "published": "2026-11-07",
+      "duration_min": 28,
+      "chapters": [],
+      "found": "2026-11-10",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/VmqwfEw4UoU.txt"
+    },
+    {
       "video_id": "a-ug0gdZnKs",
       "title": "No One Believes Artist’s Excuse…",
       "url": "https://www.youtube.com/watch?v=a-ug0gdZnKs",
@@ -2240,24 +1932,6 @@
       "found": "2026-11-06",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/a-ug0gdZnKs.txt"
-    },
-    {
-      "video_id": "af-itsgyZ0I",
-      "title": "Moving Out of My Dream NYC Apartment",
-      "url": "https://www.youtube.com/watch?v=af-itsgyZ0I",
-      "channel": "Kelly Wakasa",
-      "creator": "Kelly Wakasa",
-      "core_vibe": false,
-      "subscribers": 2010000,
-      "views": 603029,
-      "channel_median_views": 311051,
-      "outlier_score": 1.9,
-      "published": "2026-10-10",
-      "duration_min": 17,
-      "chapters": [],
-      "found": "2026-11-03",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/af-itsgyZ0I.txt"
     },
     {
       "video_id": "hr4gsX2MN_4",
