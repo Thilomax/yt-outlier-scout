@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11",
+  "generated": "2026-11-12",
   "pool_days": 7,
-  "new_today": 13,
+  "new_today": 10,
   "count": 84,
   "outliers": [
     {
@@ -299,6 +299,51 @@
       "transcript": "transcripts/MyMXR_sp4WQ.txt"
     },
     {
+      "video_id": "nXM6oc-HFxE",
+      "title": "6 Things I Wish Every Woman Knew Before Starting Strength Training (Honest) | Women's Fitness",
+      "url": "https://www.youtube.com/watch?v=nXM6oc-HFxE",
+      "channel": "Aditi Zawar | AZ Yoga & More",
+      "subscribers": 11200,
+      "views": 100522,
+      "channel_median_views": 2927,
+      "outlier_score": 34.3,
+      "published": "2026-10-03",
+      "duration_min": 9,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [
+        "00:00 - Introduction & My Strength Training Journey",
+        "01:13 - 1. Will Lifting Weights Make You Look Bulky?",
+        "02:36 - 2. You Don’t Need a Gym Membership (Home Setup)",
+        "04:00 - 3. Don't Train Exactly Like a Man (Compound Movements)",
+        "05:07 - 4. Why You Should Combine Yoga & Weight Training",
+        "05:30 - 5. Start with Bodyweight Before Adding Weights",
+        "06:25 - 6. Train for Life & Longevity, Not Just Aesthetics",
+        "08:00 - How to Start Today (Final Thoughts)"
+      ],
+      "found": "2026-11-12",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/nXM6oc-HFxE.txt"
+    },
+    {
+      "video_id": "MwVBbj_L27M",
+      "title": "7 Felonies. 13.5 Years In Prison. JESUS Changed Everything! 🙌 | J. Truth \"Dance Alone\"",
+      "url": "https://www.youtube.com/watch?v=MwVBbj_L27M",
+      "channel": "The Debut",
+      "subscribers": 560000,
+      "views": 182718,
+      "channel_median_views": 5346,
+      "outlier_score": 34.2,
+      "published": "2026-10-30",
+      "duration_min": 5,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "the truth about my",
+      "chapters": [],
+      "found": "2026-11-12",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/MwVBbj_L27M.txt"
+    },
+    {
       "video_id": "HGwdhg-NxQo",
       "title": "A CEO Millionaire Asked 10 Strangers for $5 -Only a Broke Single Mom Helped Him. What Happened Next…",
       "url": "https://www.youtube.com/watch?v=HGwdhg-NxQo",
@@ -315,24 +360,6 @@
       "found": "2026-11-07",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/HGwdhg-NxQo.txt"
-    },
-    {
-      "video_id": "SfMw_FcBbq0",
-      "title": "I Tried Every Sketchy Game at a Pokémon Card Show",
-      "url": "https://www.youtube.com/watch?v=SfMw_FcBbq0",
-      "channel": "willquaza",
-      "subscribers": 31000,
-      "views": 952876,
-      "channel_median_views": 33916,
-      "outlier_score": 28.1,
-      "published": "2026-10-27",
-      "duration_min": 32,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "query": "I tried every",
-      "chapters": [],
-      "found": "2026-11-05",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/SfMw_FcBbq0.txt"
     },
     {
       "video_id": "qol4IwTiRkE",
@@ -373,41 +400,6 @@
       "found": "2026-11-07",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/7mYzILei46Q.txt"
-    },
-    {
-      "video_id": "Z9blHp_v0PM",
-      "title": "Essential Tips I Wish I Knew Sooner - Phantom Blade Zero",
-      "url": "https://www.youtube.com/watch?v=Z9blHp_v0PM",
-      "channel": "Arktix",
-      "subscribers": 171000,
-      "views": 92953,
-      "channel_median_views": 6024,
-      "outlier_score": 15.4,
-      "published": "2026-11-01",
-      "duration_min": 16,
-      "topic": "Lists and rankings",
-      "query": "things I wish I knew earlier",
-      "chapters": [
-        "00:00 - Key to the Combat Loop",
-        "01:43 - Weapon Switch Trick",
-        "02:16 - Prevent Sha-Chi Drain",
-        "02:54 - Get This to Boost Parrying & Perfect Dodge",
-        "04:13 - Don’t Miss This Weapon!",
-        "05:40 - Don’t Make This Gear Mistake",
-        "06:35 - Lifesteal Weapon is OP",
-        "07:13 - Get These Healing Medicines!",
-        "08:56 - Get These Abilities ASAP",
-        "09:19 - Get Extra Remnant Dust & All Collectables",
-        "10:09 - 2 Ways to Sheath Weapons",
-        "10:57 - Custom Controls (Souls-like Controls)",
-        "11:56 - Careful About Weak Heavy Attacks",
-        "12:46 - Blue Flash Atks Easier Than You Think",
-        "13:18 - Maximize Damage Output & Bleed",
-        "15:04 - Better Way to Heal"
-      ],
-      "found": "2026-11-05",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/Z9blHp_v0PM.txt"
     },
     {
       "video_id": "wI4L9aTzRp0",
@@ -468,24 +460,6 @@
       "found": "2026-11-11",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/3NSfYu4JXSA.txt"
-    },
-    {
-      "video_id": "d3-aRjyHgf0",
-      "title": "What it's ACTUALLY like to switch from Samsung to iPhone...",
-      "url": "https://www.youtube.com/watch?v=d3-aRjyHgf0",
-      "channel": "More Tech More Benefits",
-      "subscribers": 2100,
-      "views": 126153,
-      "channel_median_views": 9877,
-      "outlier_score": 12.8,
-      "published": "2026-09-30",
-      "duration_min": 18,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "what it's actually like to",
-      "chapters": [],
-      "found": "2026-11-05",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/d3-aRjyHgf0.txt"
     },
     {
       "video_id": "iERa5cupg0U",
@@ -555,7 +529,9 @@
       "topic": "Broad (any topic strangers click on)",
       "query": "I asked strangers",
       "chapters": [],
-      "found": "2026-11-11"
+      "found": "2026-11-11",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/F_JO_SQr27M.txt"
     },
     {
       "video_id": "proWC2646TE",
@@ -587,22 +563,6 @@
         "16:32 Start to set goals for the last two months"
       ],
       "found": "2026-11-10"
-    },
-    {
-      "video_id": "faHMU0n9A-0",
-      "title": "Procreate on the iPhone Duo – Is It Actually Any Good?",
-      "url": "https://www.youtube.com/watch?v=faHMU0n9A-0",
-      "channel": "James Julier",
-      "subscribers": 600000,
-      "views": 141817,
-      "channel_median_views": 12353,
-      "outlier_score": 11.5,
-      "published": "2026-11-01",
-      "duration_min": 15,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "what it's actually like to",
-      "chapters": [],
-      "found": "2026-11-05"
     },
     {
       "video_id": "Vowq0AjMAEQ",
@@ -891,6 +851,22 @@
       "found": "2026-11-09"
     },
     {
+      "video_id": "ogLco81XKb0",
+      "title": "What Nobody Tells You About Camping in Quartzsite",
+      "url": "https://www.youtube.com/watch?v=ogLco81XKb0",
+      "channel": "Got Out",
+      "subscribers": 10800,
+      "views": 26869,
+      "channel_median_views": 4655,
+      "outlier_score": 5.8,
+      "published": "2026-10-31",
+      "duration_min": 24,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [],
+      "found": "2026-11-12"
+    },
+    {
       "video_id": "7NKUk4jqHUA",
       "title": "I Worked Entry Level Jobs Everywhere So You Don't Have to",
       "url": "https://www.youtube.com/watch?v=7NKUk4jqHUA",
@@ -962,6 +938,22 @@
         "15:19 - Adiye (Song)"
       ],
       "found": "2026-11-08"
+    },
+    {
+      "video_id": "LO5iHyYa0XM",
+      "title": "Pete Hegseth: Last Week Tonight with John Oliver (HBO)",
+      "url": "https://www.youtube.com/watch?v=LO5iHyYa0XM",
+      "channel": "LastWeekTonight",
+      "subscribers": 10300000,
+      "views": 8421526,
+      "channel_median_views": 1544428,
+      "outlier_score": 5.5,
+      "published": "2026-11-09",
+      "duration_min": 35,
+      "topic": "Trending: Comedy",
+      "query": "trending US / Comedy",
+      "chapters": [],
+      "found": "2026-11-12"
     },
     {
       "video_id": "8riFURaob9g",
@@ -1115,6 +1107,22 @@
       "found": "2026-11-08"
     },
     {
+      "video_id": "2NhWOAk8GYM",
+      "title": "I Spent a Day Collecting Trash in China.How Much I Made？",
+      "url": "https://www.youtube.com/watch?v=2NhWOAk8GYM",
+      "channel": "xiaolinliveinchina",
+      "subscribers": 17400,
+      "views": 202054,
+      "channel_median_views": 41261,
+      "outlier_score": 4.9,
+      "published": "2026-10-21",
+      "duration_min": 12,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I spent a day as",
+      "chapters": [],
+      "found": "2026-11-12"
+    },
+    {
       "video_id": "yU9F_A5bOBY",
       "title": "Essential Rogue Tips I Wish I Knew Earlier! | WoW Forever",
       "url": "https://www.youtube.com/watch?v=yU9F_A5bOBY",
@@ -1142,22 +1150,6 @@
         "09:14 - Final Thoughts & Wrap Up"
       ],
       "found": "2026-11-07"
-    },
-    {
-      "video_id": "R-zNAZs_Uvw",
-      "title": "We pretended to accidentally go live in Roblox...",
-      "url": "https://www.youtube.com/watch?v=R-zNAZs_Uvw",
-      "channel": "MiniBloxia",
-      "subscribers": 2330000,
-      "views": 818556,
-      "channel_median_views": 173726,
-      "outlier_score": 4.7,
-      "published": "2026-10-27",
-      "duration_min": 30,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I pretended to be",
-      "chapters": [],
-      "found": "2026-11-05"
     },
     {
       "video_id": "IsLwIt85gAk",
@@ -1244,36 +1236,6 @@
         "15:37 Where I actually go to the bathroom"
       ],
       "found": "2026-11-06"
-    },
-    {
-      "video_id": "svDSHEZ8bBE",
-      "title": "10 Things Nobody Tells You About Owning a Tesla Model 3",
-      "url": "https://www.youtube.com/watch?v=svDSHEZ8bBE",
-      "channel": "Tesla Dave",
-      "subscribers": 3420,
-      "views": 20016,
-      "channel_median_views": 4780,
-      "outlier_score": 4.2,
-      "published": "2026-10-22",
-      "duration_min": 9,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [
-        "00:00 – Intro: Phil’s Top 10 Tesla Grievances",
-        "00:20 – 1. Reengineered Door Handles",
-        "00:55 – 2. Phone Key & Bluetooth Friction",
-        "01:16 – 3. No Apple CarPlay",
-        "01:44 – 4. Subscription-Based Navigation (£10/Month)",
-        "02:31 – 5. Missing Indicator Stalks & Roundabouts",
-        "03:50 – 6. Gimmicky \"Halloween Mode\"",
-        "04:38 – 7. Flashing Headlights Without a Stalk",
-        "05:14 – 8. Small Touchscreen Climate Controls",
-        "06:31 – 9. Magnetic Sun Visor Clips",
-        "06:56 – 10. Narrow Cup Holders & Spills",
-        "07:36 – The One Thing Phil Actually Likes",
-        "07:50 – Dave's Rebuttal & Outro"
-      ],
-      "found": "2026-11-05"
     },
     {
       "video_id": "gtHcK7SeqGg",
@@ -1420,22 +1382,6 @@
       "found": "2026-11-11"
     },
     {
-      "video_id": "q7AD3PNItDE",
-      "title": "7 Things Nobody Tells You Before Your First 1911",
-      "url": "https://www.youtube.com/watch?v=q7AD3PNItDE",
-      "channel": "Ivan's Journal",
-      "subscribers": 6340,
-      "views": 21860,
-      "channel_median_views": 6421,
-      "outlier_score": 3.4,
-      "published": "2026-11-02",
-      "duration_min": 24,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [],
-      "found": "2026-11-05"
-    },
-    {
       "video_id": "wFbgrPmVXb0",
       "title": "How I Make Realistic AI Short Films Using Seedance 2.5 - Full Guide",
       "url": "https://www.youtube.com/watch?v=wFbgrPmVXb0",
@@ -1476,6 +1422,34 @@
       "found": "2026-11-11"
     },
     {
+      "video_id": "BNRfzI6E1Es",
+      "title": "Brutally Honest Advice About Productivity in 26 Minutes",
+      "url": "https://www.youtube.com/watch?v=BNRfzI6E1Es",
+      "channel": "Ali Abdaal",
+      "subscribers": 6710000,
+      "views": 381629,
+      "channel_median_views": 112859,
+      "outlier_score": 3.4,
+      "published": "2026-10-16",
+      "duration_min": 26,
+      "topic": "Things I'm into (gym, healthy eating, productivity)",
+      "query": "my productivity system honest",
+      "chapters": [
+        "0:00 Intro",
+        "0:30 Why we procrastinate",
+        "3:23 When the system becomes the procrastination",
+        "5:46 Focusing is about saying no",
+        "7:31 Journaling prompts for clarity",
+        "10:23 Seasonal priorities",
+        "12:17 Put it in your calendar",
+        "16:41 Accountability vs discipline",
+        "19:25 Everything is hard",
+        "22:02 A confession about productivity influencers",
+        "23:32 When your system falls over"
+      ],
+      "found": "2026-11-12"
+    },
+    {
       "video_id": "nQdXp6HKKik",
       "title": "I tested the most Futuristic Tech - it scared me.",
       "url": "https://www.youtube.com/watch?v=nQdXp6HKKik",
@@ -1490,6 +1464,47 @@
       "query": "I tested every",
       "chapters": [],
       "found": "2026-11-09"
+    },
+    {
+      "video_id": "TuwmSWtVn-I",
+      "title": "Things NOBODY Tells You About Motorcycles",
+      "url": "https://www.youtube.com/watch?v=TuwmSWtVn-I",
+      "channel": "CycleCruza",
+      "subscribers": 377000,
+      "views": 24365,
+      "channel_median_views": 7381,
+      "outlier_score": 3.3,
+      "published": "2026-11-05",
+      "duration_min": 25,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [],
+      "found": "2026-11-12"
+    },
+    {
+      "video_id": "Rk6t9Uq1y9M",
+      "title": "Watch Me Vibe Code an Animated App with Claude Opus 5.5 (It's Super Smooth)",
+      "url": "https://www.youtube.com/watch?v=Rk6t9Uq1y9M",
+      "channel": "Jason Lee",
+      "subscribers": 215000,
+      "views": 369150,
+      "channel_median_views": 110464,
+      "outlier_score": 3.3,
+      "published": "2026-10-14",
+      "duration_min": 21,
+      "topic": "Programming",
+      "query": "I built an app",
+      "chapters": [
+        "0:00 Intro",
+        "0:47 The App We're Building",
+        "2:20 Step 1 - Building the App Structure",
+        "5:09 Sponsor",
+        "6:26 Build 1 Result",
+        "10:33 Step 2 - Improving Animation Quality",
+        "15:25 Build 2 Result",
+        "16:22 Step 3 - Adding Responsive Animation (Phone Tilt)"
+      ],
+      "found": "2026-11-12"
     },
     {
       "video_id": "_TLdMyCh1MM",
@@ -1544,50 +1559,6 @@
       "query": "trending US / Science & Tech",
       "chapters": [],
       "found": "2026-11-11"
-    },
-    {
-      "video_id": "6WXQngitfH8",
-      "title": "Living in Rural France: Things Nobody Tells You",
-      "url": "https://www.youtube.com/watch?v=6WXQngitfH8",
-      "channel": "French Lifestyle by Johnny Benoit",
-      "subscribers": 20000,
-      "views": 13682,
-      "channel_median_views": 4391,
-      "outlier_score": 3.1,
-      "published": "2026-09-23",
-      "duration_min": 31,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [],
-      "found": "2026-11-05"
-    },
-    {
-      "video_id": "N2oWiwbBnmQ",
-      "title": "We Built a $2M App: This is How We Grew It",
-      "url": "https://www.youtube.com/watch?v=N2oWiwbBnmQ",
-      "channel": "Starter Story Build",
-      "subscribers": 84600,
-      "views": 56425,
-      "channel_median_views": 18496,
-      "outlier_score": 3.1,
-      "published": "2026-10-29",
-      "duration_min": 20,
-      "topic": "Programming",
-      "query": "I built an app",
-      "chapters": [
-        "0:00 - Growing apps is STILL hard!",
-        "1:10 - Meet the Gleam team",
-        "2:09 - What you’ll get in this video",
-        "2:38 - More ways to grow your app",
-        "3:03 - Step 1: distribution",
-        "5:37 - Step 2: research",
-        "9:00 - Thinking strategically about distribution",
-        "10:13 - Step 3: format hunting",
-        "14:21 - Step 4: execution",
-        "17:06 - How much should I spend?",
-        "18:39 - Final advice"
-      ],
-      "found": "2026-11-05"
     },
     {
       "video_id": "YRBeGSMN5RQ",
@@ -1774,6 +1745,22 @@
       "found": "2026-11-10"
     },
     {
+      "video_id": "disx5G8ANNE",
+      "title": "Trying Texas BBQ for the First Time 🇺🇸",
+      "url": "https://www.youtube.com/watch?v=disx5G8ANNE",
+      "channel": "L3WG Reacts",
+      "subscribers": 613000,
+      "views": 763277,
+      "channel_median_views": 244551,
+      "outlier_score": 3.1,
+      "published": "2026-11-08",
+      "duration_min": 32,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
+      "chapters": [],
+      "found": "2026-11-12"
+    },
+    {
       "video_id": "XIYA4QaV1gI",
       "title": "I Tried Decluttering like a Privileged Japanese Woman: 6 things they toss to level up their lives",
       "url": "https://www.youtube.com/watch?v=XIYA4QaV1gI",
@@ -1884,6 +1871,24 @@
       "transcript": "transcripts/Hso5pAwcyR8.txt"
     },
     {
+      "video_id": "MSg_GL_014U",
+      "title": "Popular Creators Are Turning To Gen AI...",
+      "url": "https://www.youtube.com/watch?v=MSg_GL_014U",
+      "channel": "kat 'n chat",
+      "creator": "katnchat",
+      "core_vibe": false,
+      "subscribers": 378000,
+      "views": 216117,
+      "channel_median_views": 59746,
+      "outlier_score": 3.6,
+      "published": "2026-11-08",
+      "duration_min": 15,
+      "chapters": [],
+      "found": "2026-11-12",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/MSg_GL_014U.txt"
+    },
+    {
       "video_id": "VmqwfEw4UoU",
       "title": "I Stayed in Waterpark Hotels",
       "url": "https://www.youtube.com/watch?v=VmqwfEw4UoU",
@@ -1954,24 +1959,6 @@
       "found": "2026-11-09",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/hr4gsX2MN_4.txt"
-    },
-    {
-      "video_id": "Sk7721dVu4A",
-      "title": "iPhone Duo vs 18 Pro Max - don't waste your money.",
-      "url": "https://www.youtube.com/watch?v=Sk7721dVu4A",
-      "channel": "Luke Made It",
-      "creator": "Luke Made It",
-      "core_vibe": true,
-      "subscribers": 152000,
-      "views": 197332,
-      "channel_median_views": 128281,
-      "outlier_score": 1.5,
-      "published": "2026-10-23",
-      "duration_min": 23,
-      "chapters": [],
-      "found": "2026-11-05",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/Sk7721dVu4A.txt"
     },
     {
       "video_id": "j59db-4ky4E",
