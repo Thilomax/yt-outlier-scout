@@ -1,27 +1,9 @@
 {
-  "generated": "2026-11-14",
+  "generated": "2026-11-15",
   "pool_days": 7,
-  "new_today": 6,
-  "count": 74,
+  "new_today": 14,
+  "count": 70,
   "outliers": [
-    {
-      "video_id": "GMXRSE9GK8w",
-      "title": "I Tried The Most Productive Day Possible Vs Doing Absolutely Nothing",
-      "url": "https://www.youtube.com/watch?v=GMXRSE9GK8w",
-      "channel": "Brandonbb8",
-      "subscribers": 1280,
-      "views": 305227,
-      "channel_median_views": 578,
-      "outlier_score": 528.1,
-      "published": "2026-10-02",
-      "duration_min": 13,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "productive day in my life student",
-      "chapters": [],
-      "found": "2026-11-08",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/GMXRSE9GK8w.txt"
-    },
     {
       "video_id": "jEUiNOo2AKA",
       "title": "Tyler Crowe - Not Everybody Real",
@@ -37,7 +19,7 @@
       "query": "lessons I learned the hard way",
       "chapters": [],
       "found": "2026-11-11",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/jEUiNOo2AKA.txt"
     },
     {
@@ -55,26 +37,8 @@
       "query": "trending GB / Comedy",
       "chapters": [],
       "found": "2026-11-13",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/8V3eMYkV1Hw.txt"
-    },
-    {
-      "video_id": "xU_CV1_FvM4",
-      "title": "I Automated my Minecraft World in 24 Hours",
-      "url": "https://www.youtube.com/watch?v=xU_CV1_FvM4",
-      "channel": "vybz",
-      "subscribers": 6250,
-      "views": 806599,
-      "channel_median_views": 4516,
-      "outlier_score": 178.6,
-      "published": "2026-10-03",
-      "duration_min": 29,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I spent 24 hours doing",
-      "chapters": [],
-      "found": "2026-11-08",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/xU_CV1_FvM4.txt"
     },
     {
       "video_id": "dF2jbfYirlU",
@@ -100,7 +64,7 @@
         "14:05 What Decides Your Rank"
       ],
       "found": "2026-11-10",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/dF2jbfYirlU.txt"
     },
     {
@@ -131,7 +95,7 @@
         "8:05 Final recommendations"
       ],
       "found": "2026-11-09",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/HjhZJhTZeVA.txt"
     },
     {
@@ -149,54 +113,49 @@
       "query": "cinematic short film about life",
       "chapters": [],
       "found": "2026-11-11",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/QsH6CVYxfbQ.txt"
     },
     {
-      "video_id": "lZewNfsK6wU",
-      "title": "The Art of Video Essay Music-ing",
-      "url": "https://www.youtube.com/watch?v=lZewNfsK6wU",
-      "channel": "Nosette Network",
-      "subscribers": 1730,
-      "views": 42652,
-      "channel_median_views": 505,
-      "outlier_score": 84.5,
-      "published": "2026-11-01",
-      "duration_min": 18,
-      "topic": "Short film / cinematic",
-      "query": "personal video essay",
+      "video_id": "XugEaAf7x44",
+      "title": "Why is UK 5G so bad? We investigated - Which?",
+      "url": "https://www.youtube.com/watch?v=XugEaAf7x44",
+      "channel": "Which?",
+      "subscribers": 114000,
+      "views": 147115,
+      "channel_median_views": 1519,
+      "outlier_score": 96.8,
+      "published": "2026-11-11",
+      "duration_min": 12,
+      "topic": "Trending: Science & Tech",
+      "query": "trending GB / Science & Tech",
       "chapters": [
-        "0:00 Cold Open",
-        "0:38 Introduction",
-        "1:59 The World of Over-Used Music",
-        "4:52 General Situations",
-        "7:45 Single-Franchise Soundtracks",
-        "10:57 The Nintendo Zone",
-        "15:14 Conclusion",
-        "16:11 Closing Gag",
-        "17:07 Outro"
+        "0:00 Why Your Phone Lies About Signal",
+        "1:19 Decoding the 5G Icon Confusion",
+        "3:58 The Frustrating Reality of Train Wi-Fi",
+        "6:10 The Hidden Cost of Real-World Testing",
+        "10:47 Is Satellite Tech the Ultimate Fix?"
       ],
-      "found": "2026-11-08",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/lZewNfsK6wU.txt"
+      "found": "2026-11-15",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/XugEaAf7x44.txt"
     },
     {
-      "video_id": "8PChbbUGB_8",
-      "title": "Abandoned Bike’s Grave Yard Testing Every Bike ",
-      "url": "https://www.youtube.com/watch?v=8PChbbUGB_8",
-      "channel": "Fardeen Farooqui Vlogs ",
-      "subscribers": 1280000,
-      "views": 443973,
-      "channel_median_views": 6576,
-      "outlier_score": 67.5,
-      "published": "2026-11-02",
-      "duration_min": 14,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I tested every",
+      "video_id": "-bEEe2PhOIM",
+      "title": "Lekar Hum Deewana Dil Movie Best Romantic Scenes of Armaan Jain & Deeksha | HD",
+      "url": "https://www.youtube.com/watch?v=-bEEe2PhOIM",
+      "channel": "Eros Universe Cinema",
+      "subscribers": 3230000,
+      "views": 325662,
+      "channel_median_views": 4064,
+      "outlier_score": 80.1,
+      "published": "2026-11-08",
+      "duration_min": 11,
+      "topic": "Short film / cinematic",
+      "query": "cinematic short film about life",
       "chapters": [],
-      "found": "2026-11-08",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/8PChbbUGB_8.txt"
+      "found": "2026-11-15",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
     },
     {
       "video_id": "ji07Fr0AvBk",
@@ -229,8 +188,26 @@
         "34:30 - Conclusion"
       ],
       "found": "2026-11-10",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/ji07Fr0AvBk.txt"
+    },
+    {
+      "video_id": "1I0NjKqKWjg",
+      "title": "Korean Tries a Mexican Restaurant Alone for the First Time…",
+      "url": "https://www.youtube.com/watch?v=1I0NjKqKWjg",
+      "channel": "cookimsa",
+      "subscribers": 60500,
+      "views": 847975,
+      "channel_median_views": 17857,
+      "outlier_score": 47.5,
+      "published": "2026-10-28",
+      "duration_min": 12,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
+      "chapters": [],
+      "found": "2026-11-15",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/1I0NjKqKWjg.txt"
     },
     {
       "video_id": "-Vk6MzuzRVk",
@@ -247,7 +224,7 @@
       "query": "learning to code journey",
       "chapters": [],
       "found": "2026-11-09",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/-Vk6MzuzRVk.txt"
     },
     {
@@ -274,7 +251,7 @@
         "08:00 - How to Start Today (Final Thoughts)"
       ],
       "found": "2026-11-12",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/nXM6oc-HFxE.txt"
     },
     {
@@ -292,7 +269,7 @@
       "query": "the truth about my",
       "chapters": [],
       "found": "2026-11-12",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/MwVBbj_L27M.txt"
     },
     {
@@ -310,8 +287,35 @@
       "query": "day in my life studying abroad student",
       "chapters": [],
       "found": "2026-11-13",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/WqjO4LfessQ.txt"
+    },
+    {
+      "video_id": "Ejv4jrL_IRQ",
+      "title": "Your Life If You Retire Broke at 65, What Nobody Tells You",
+      "url": "https://www.youtube.com/watch?v=Ejv4jrL_IRQ",
+      "channel": "The Back Porch Ledger",
+      "subscribers": 1910,
+      "views": 190382,
+      "channel_median_views": 7418,
+      "outlier_score": 25.7,
+      "published": "2026-10-08",
+      "duration_min": 23,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [
+        "0:00 The retirement party",
+        "2:05 Level one, the coffee tin",
+        "4:55 Level two, the mailbox",
+        "8:01 Level three, the good years",
+        "10:46 Level four, the cardboard box",
+        "14:01 Level five, the floor",
+        "16:54 Level six, the letter",
+        "20:04 The last scene"
+      ],
+      "found": "2026-11-15",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/Ejv4jrL_IRQ.txt"
     },
     {
       "video_id": "Ebqu-3Foosg",
@@ -328,7 +332,7 @@
       "query": "things I wish I knew earlier",
       "chapters": [],
       "found": "2026-11-13",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/Ebqu-3Foosg.txt"
     },
     {
@@ -355,50 +359,26 @@
         "19:07 - Jordan Klepper Weighs in on Stephen Miller's First Day"
       ],
       "found": "2026-11-13",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/wrAuG5d2pvI.txt"
     },
     {
-      "video_id": "wI4L9aTzRp0",
-      "title": "How Raising My Child in Britain HUMBLED My American Arrogance",
-      "url": "https://www.youtube.com/watch?v=wI4L9aTzRp0",
-      "channel": "The Hickson Diaries",
-      "subscribers": 24200,
-      "views": 56469,
-      "channel_median_views": 4134,
-      "outlier_score": 13.7,
-      "published": "2026-11-05",
-      "duration_min": 14,
-      "topic": "Trending: People & Blogs",
-      "query": "trending GB / People & Blogs",
-      "chapters": [
-        "0:00 Reflecting on a Childhood Left Behind",
-        "2:02 Summer Traditions and the Freedom of Travel",
-        "3:43 Rethinking the College Experience",
-        "5:23 Unlearning Narratives and Finding Perspective",
-        "11:00 Leaving Behind the Culture of Constant Fear"
-      ],
-      "found": "2026-11-08",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/wI4L9aTzRp0.txt"
-    },
-    {
-      "video_id": "khwo0gsQeqA",
-      "title": "productive uni vlog | university of nottingham | law student | my birthday | pilates | studying ",
-      "url": "https://www.youtube.com/watch?v=khwo0gsQeqA",
-      "channel": "layomi",
-      "subscribers": 3720,
-      "views": 22642,
-      "channel_median_views": 1660,
+      "video_id": "-nogxfmwU-I",
+      "title": "Things I Wish I knew BEFORE reaching Level 40 in WoW Forever",
+      "url": "https://www.youtube.com/watch?v=-nogxfmwU-I",
+      "channel": "Zygor Guides",
+      "subscribers": 4040,
+      "views": 138335,
+      "channel_median_views": 10168,
       "outlier_score": 13.6,
-      "published": "2026-10-09",
-      "duration_min": 13,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "day in my life gym and studying",
+      "published": "2026-11-11",
+      "duration_min": 12,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
       "chapters": [],
-      "found": "2026-11-08",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/khwo0gsQeqA.txt"
+      "found": "2026-11-15",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/-nogxfmwU-I.txt"
     },
     {
       "video_id": "3NSfYu4JXSA",
@@ -415,7 +395,7 @@
       "query": "I tested every",
       "chapters": [],
       "found": "2026-11-11",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/3NSfYu4JXSA.txt"
     },
     {
@@ -441,7 +421,7 @@
         "8:04 What's coming next"
       ],
       "found": "2026-11-14",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/HQuK5D0gGSU.txt"
     },
     {
@@ -469,26 +449,8 @@
         "10:18 My final thoughts"
       ],
       "found": "2026-11-14",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/mVdpkrrEllk.txt"
-    },
-    {
-      "video_id": "-aALsjGAxxY",
-      "title": "Things Nobody Tells You About Tiny Living",
-      "url": "https://www.youtube.com/watch?v=-aALsjGAxxY",
-      "channel": "Life with Deb",
-      "subscribers": 7260,
-      "views": 57184,
-      "channel_median_views": 4607,
-      "outlier_score": 12.4,
-      "published": "2026-11-04",
-      "duration_min": 33,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [],
-      "found": "2026-11-08",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/-aALsjGAxxY.txt"
     },
     {
       "video_id": "Hc63chBVZ6Y",
@@ -505,7 +467,7 @@
       "query": "I tried it for the first time",
       "chapters": [],
       "found": "2026-11-09",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/Hc63chBVZ6Y.txt"
     },
     {
@@ -523,7 +485,7 @@
       "query": "I asked strangers",
       "chapters": [],
       "found": "2026-11-11",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/F_JO_SQr27M.txt"
     },
     {
@@ -556,53 +518,8 @@
         "16:32 Start to set goals for the last two months"
       ],
       "found": "2026-11-10",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/proWC2646TE.txt"
-    },
-    {
-      "video_id": "Vowq0AjMAEQ",
-      "title": "MW4 DMZ: Things I Wish I Knew Sooner After 200+ Hours",
-      "url": "https://www.youtube.com/watch?v=Vowq0AjMAEQ",
-      "channel": "SiNisterFPS",
-      "subscribers": 60500,
-      "views": 84351,
-      "channel_median_views": 7332,
-      "outlier_score": 11.5,
-      "published": "2026-11-05",
-      "duration_min": 32,
-      "topic": "Lists and rankings",
-      "query": "things I wish I knew earlier",
-      "chapters": [],
-      "found": "2026-11-08"
-    },
-    {
-      "video_id": "xegswbuSc7s",
-      "title": "Scary Ocean Sounds Tier List",
-      "url": "https://www.youtube.com/watch?v=xegswbuSc7s",
-      "channel": "Simply Curious",
-      "subscribers": 6430,
-      "views": 496904,
-      "channel_median_views": 44140,
-      "outlier_score": 11.3,
-      "published": "2026-10-19",
-      "duration_min": 9,
-      "topic": "Lists and rankings",
-      "query": "tier list",
-      "chapters": [
-        "00:00 - 00:09 Epic Intro",
-        "00:09 - 00:36 Unidentified Recording",
-        "00:36 - 01:05 Bearded Seal",
-        "01:05 - 01:26 Seismic Air gun",
-        "01:26 - 01:46 Bloop",
-        "01:46 - 02:06 Blue Whale",
-        "02:06 - 03:08 Humpback Whale",
-        "03:08 - 03:47 Julia",
-        "03:47 - 04:49 Killer Whale",
-        "04:49 - 05:31 Leppard Seal",
-        "05:31 - 05:56 Titan Implosion",
-        "05:56 - 08:37 Not Spoiling The rest"
-      ],
-      "found": "2026-11-08"
     },
     {
       "video_id": "SIkew3454ic",
@@ -618,23 +535,27 @@
       "topic": "Day in the life (best performer, double down)",
       "query": "week in my life university student",
       "chapters": [],
-      "found": "2026-11-10"
+      "found": "2026-11-10",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/SIkew3454ic.txt"
     },
     {
-      "video_id": "rwzVkrT6-WY",
-      "title": "Pretending to be NOOB in +1 Spider Arm",
-      "url": "https://www.youtube.com/watch?v=rwzVkrT6-WY",
-      "channel": "Sunny and Melon",
-      "subscribers": 3060000,
-      "views": 862527,
-      "channel_median_views": 95388,
-      "outlier_score": 9.0,
-      "published": "2026-11-03",
-      "duration_min": 13,
+      "video_id": "LNmUcudFCF8",
+      "title": "I Tried Storm Camping in a Tiny Car",
+      "url": "https://www.youtube.com/watch?v=LNmUcudFCF8",
+      "channel": "JPainter",
+      "subscribers": 261000,
+      "views": 18507579,
+      "channel_median_views": 2003085,
+      "outlier_score": 9.2,
+      "published": "2026-10-07",
+      "duration_min": 11,
       "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I pretended to be",
+      "query": "I tried living like",
       "chapters": [],
-      "found": "2026-11-08"
+      "found": "2026-11-15",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/LNmUcudFCF8.txt"
     },
     {
       "video_id": "kfc1srxMU2g",
@@ -694,20 +615,27 @@
       "found": "2026-11-11"
     },
     {
-      "video_id": "aZd-05ywkgo",
-      "title": "Castlevania's Sapphic Inheritance: A Carmilla Video Essay",
-      "url": "https://www.youtube.com/watch?v=aZd-05ywkgo",
-      "channel": "Ailing Loran",
-      "subscribers": 8190,
-      "views": 28478,
-      "channel_median_views": 4535,
-      "outlier_score": 6.3,
-      "published": "2026-11-03",
-      "duration_min": 22,
-      "topic": "Short film / cinematic",
-      "query": "personal video essay",
-      "chapters": [],
-      "found": "2026-11-08"
+      "video_id": "3Jb5LZ1QZQs",
+      "title": "I Spent a Day With the NFL’s Most SPOILED Fanbase",
+      "url": "https://www.youtube.com/watch?v=3Jb5LZ1QZQs",
+      "channel": "Jacob Rose",
+      "subscribers": 140000,
+      "views": 54668,
+      "channel_median_views": 8186,
+      "outlier_score": 6.7,
+      "published": "2026-10-23",
+      "duration_min": 21,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I spent a day as",
+      "chapters": [
+        "0:00 Experiencing the Faithful at Levi Stadium",
+        "0:37 Debating the Greatest 49ers Legends",
+        "1:44 Candlestick vs Levi Stadium Memories",
+        "4:11 Testing Skills on the Field",
+        "8:03 Monday Night Football Predictions",
+        "17:51 Final Verdict on the Levi Stadium Experience"
+      ],
+      "found": "2026-11-15"
     },
     {
       "video_id": "igqpq4HJjKw",
@@ -747,22 +675,6 @@
       "query": "I pretended to be",
       "chapters": [],
       "found": "2026-11-14"
-    },
-    {
-      "video_id": "lUJAvpvA9uc",
-      "title": "Trying To Live A Dignified Life in 2026 Is A Humiliation Ritual",
-      "url": "https://www.youtube.com/watch?v=lUJAvpvA9uc",
-      "channel": "Five Minutes Late with Jesse Grant",
-      "subscribers": 58500,
-      "views": 247901,
-      "channel_median_views": 41399,
-      "outlier_score": 6.0,
-      "published": "2026-11-04",
-      "duration_min": 10,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I tried living like",
-      "chapters": [],
-      "found": "2026-11-08"
     },
     {
       "video_id": "Mw5HswpHoic",
@@ -839,26 +751,6 @@
       "found": "2026-11-11"
     },
     {
-      "video_id": "ILT5dRfKiUg",
-      "title": "Seen ✓✓ but No Reply 💔 | Madurai Tamil Romance Short Film | Love Kadhal Trip",
-      "url": "https://www.youtube.com/watch?v=ILT5dRfKiUg",
-      "channel": "Cinema Calendar",
-      "subscribers": 343000,
-      "views": 32870,
-      "channel_median_views": 5983,
-      "outlier_score": 5.5,
-      "published": "2026-11-05",
-      "duration_min": 27,
-      "topic": "Short film / cinematic",
-      "query": "short film about growing up",
-      "chapters": [
-        "6:41 - Porapokula ~ Male (Song)",
-        "11:34 - Porapokula ~ Duet (Song)",
-        "15:19 - Adiye (Song)"
-      ],
-      "found": "2026-11-08"
-    },
-    {
       "video_id": "LO5iHyYa0XM",
       "title": "Pete Hegseth: Last Week Tonight with John Oliver (HBO)",
       "url": "https://www.youtube.com/watch?v=LO5iHyYa0XM",
@@ -875,20 +767,20 @@
       "found": "2026-11-12"
     },
     {
-      "video_id": "MYvkHPvLXn4",
-      "title": "I Let My Viewers Decide My Team To Use In DIVISION 1 On eFootball 2027",
-      "url": "https://www.youtube.com/watch?v=MYvkHPvLXn4",
-      "channel": "Romezz02",
-      "subscribers": 1800,
-      "views": 10049,
-      "channel_median_views": 1900,
-      "outlier_score": 5.3,
-      "published": "2026-11-04",
-      "duration_min": 15,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "query": "I let my viewers decide",
+      "video_id": "nZI_9mn47bE",
+      "title": "🇯🇵 A Productive Day in Jappanes ✨ | Aesthetic Study Vlog, Cozy Luxury Room & Deep Focus 📚",
+      "url": "https://www.youtube.com/watch?v=nZI_9mn47bE",
+      "channel": "Upgrade              2.4M",
+      "subscribers": 2740,
+      "views": 118503,
+      "channel_median_views": 21411,
+      "outlier_score": 5.5,
+      "published": "2026-11-08",
+      "duration_min": 11,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "productive day in my life student",
       "chapters": [],
-      "found": "2026-11-08"
+      "found": "2026-11-15"
     },
     {
       "video_id": "xhOdKkVMaW8",
@@ -921,63 +813,6 @@
       "query": "cinematic short film about life",
       "chapters": [],
       "found": "2026-11-10"
-    },
-    {
-      "video_id": "NS5HTtgguw4",
-      "title": "42+ EARLY Game Tips You Must Know (Zelda Ocarina of Time)",
-      "url": "https://www.youtube.com/watch?v=NS5HTtgguw4",
-      "channel": "PhillyBeatzU",
-      "subscribers": 772000,
-      "views": 152114,
-      "channel_median_views": 29914,
-      "outlier_score": 5.1,
-      "published": "2026-11-04",
-      "duration_min": 49,
-      "topic": "Lists and rankings",
-      "query": "things I wish I knew earlier",
-      "chapters": [
-        "0:00 Best Settings: Z-Targeting Hold vs Toggle",
-        "1:03 Quick Turn Trick with ZL",
-        "1:35 Camera Rotation Speed",
-        "2:27 Swap Jump Button (Game-Changing Setting)",
-        "3:32 Enemy Respawn Trick (Loading Zones)",
-        "4:31 Giveaway",
-        "4:49 Lock-On Combat Basics",
-        "6:00 HUD Interface: Normal vs Pro vs Master",
-        "7:02 Hidden Combat Tutorial",
-        "7:45 Warning: Only One Save File",
-        "8:09 How to Get the Deku Shield",
-        "8:37 Early Ways to Get Rupees",
-        "9:23 How to Get the Kokiri Sword",
-        "10:09 Gyro Aiming Settings",
-        "11:32 Instant Aim Lock Trick",
-        "11:45 Ocarina Control Settings",
-        "12:50 Play a Real Ocarina with Mic Input",
-        "13:25 Best Early Upgrades as Young Link",
-        "13:58 Bigger Deku Seed Bag (Lost Woods Target)",
-        "14:34 Lost Woods Heart Piece (Skull Kid Song Game)",
-        "15:05 How to Get the Bigger Deku Stick Bag",
-        "15:44 Charged Spin Attack Tip",
-        "15:57 Upgraded Bag Color Change",
-        "16:19 Amiibo Settings",
-        "16:55 Hyrule Castle Town Tips",
-        "17:27 Shooting Gallery: Biggest Deku Seed Bag + Rupee Farm",
-        "18:38 How to Get Your First Bottle",
-        "19:30 Map Icons Explained",
-        "19:46 Don't Buy the Hylian Shield",
-        "20:14 Bombchu Bowling Alley",
-        "20:31 Happy Mask Shop",
-        "20:46 Easy Way to Sneak to Princess Zelda",
-        "22:10 Use the Cucco to Wake Talon",
-        "24:50 Zelda's Courtyard Easter Egg Changed",
-        "26:36 Day and Night Cycle",
-        "26:51 How to Get the Hylian Shield for Free",
-        "28:31 Graveyard Heart Piece (Dampé's Digging Game)",
-        "29:54 How to Get the Sun's Song",
-        "32:19 How to Defeat ReDeads Easily",
-        "33:07 Hidden Graveyard Heart Piece"
-      ],
-      "found": "2026-11-08"
     },
     {
       "video_id": "2NhWOAk8GYM",
@@ -1038,22 +873,6 @@
       "found": "2026-11-10"
     },
     {
-      "video_id": "h2Bz2BlXm1k",
-      "title": "Trying American Breakfast Pancakes & Bacon for the First Time 🇺🇸",
-      "url": "https://www.youtube.com/watch?v=h2Bz2BlXm1k",
-      "channel": "L3WG Reacts",
-      "subscribers": 609000,
-      "views": 690315,
-      "channel_median_views": 157411,
-      "outlier_score": 4.4,
-      "published": "2026-11-04",
-      "duration_min": 26,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I tried it for the first time",
-      "chapters": [],
-      "found": "2026-11-08"
-    },
-    {
       "video_id": "UyJIntZiTNA",
       "title": "What Nobody Tells You About Marrying a Korean",
       "url": "https://www.youtube.com/watch?v=UyJIntZiTNA",
@@ -1086,6 +905,43 @@
       "found": "2026-11-10"
     },
     {
+      "video_id": "DINHleZzk-k",
+      "title": "DeWALT REGRETS: 5 Things I Wish I Knew Before Buying!",
+      "url": "https://www.youtube.com/watch?v=DINHleZzk-k",
+      "channel": "731 Woodworks",
+      "subscribers": 970000,
+      "views": 346546,
+      "channel_median_views": 89070,
+      "outlier_score": 3.9,
+      "published": "2026-10-03",
+      "duration_min": 31,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [
+        "0:00 I Wish I Knew This About DeWALT Tools",
+        "0:49 DeWALT New XR 20v Sander",
+        "1:15 DeWALT's Best Drill",
+        "2:05 DeWALT XR Plunge Router",
+        "4:10 Testing DeWALT's New XR Sanders",
+        "8:15 DeWALT Sander Vibration Test",
+        "9:51 DeWALT Batteries Explained",
+        "10:58 DeWALT Tool Lines Explained",
+        "12:08 DeWALT Battery Trap",
+        "14:13 Get Deals on DeWALT Batteries",
+        "14:28 Best SEller Trap",
+        "16:07 DeWALT's Best Kept Secret Drill",
+        "17:07 DeWALT Best Tools are Corded",
+        "20:48 Best Sander Under $100",
+        "21:11 DeWALT Table Saws",
+        "23:12 DeWALT DW618 Router",
+        "23:55 Hidden Gem DeWALT Tools",
+        "27:42 DeWALT Bit Sets",
+        "28:29 DeWALT 60v Track Saw",
+        "30:05 NEW DeWALT 20v XR Track Saw"
+      ],
+      "found": "2026-11-15"
+    },
+    {
       "video_id": "I9j4aRNHHaM",
       "title": "Trading New HELLFIRE GAS For 24 Hours In Blox Fruits Roblox!",
       "url": "https://www.youtube.com/watch?v=I9j4aRNHHaM",
@@ -1100,6 +956,30 @@
       "query": "I spent 24 hours doing",
       "chapters": [],
       "found": "2026-11-09"
+    },
+    {
+      "video_id": "U7aJMuVlq_g",
+      "title": "ENGINEERING MIDTERM SEASON📓ᯓ★ productive study vlog, a week of locking in, motivating study tips",
+      "url": "https://www.youtube.com/watch?v=U7aJMuVlq_g",
+      "channel": "Serena",
+      "subscribers": 121000,
+      "views": 112756,
+      "channel_median_views": 29309,
+      "outlier_score": 3.8,
+      "published": "2026-10-25",
+      "duration_min": 23,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "day in my life software engineering student",
+      "chapters": [
+        "0:00 intro",
+        "0:41 friday oct. 16",
+        "5:48 saturday oct. 17",
+        "10:24 sunday oct. 18",
+        "12:42 monday oct. 19",
+        "18:32 tuesday oct. 20 (midterm day!)",
+        "22:26 exam recap"
+      ],
+      "found": "2026-11-15"
     },
     {
       "video_id": "EjgtdVUwC6g",
@@ -1295,6 +1175,33 @@
       "found": "2026-11-12"
     },
     {
+      "video_id": "yVTcVtLn2o4",
+      "title": "I Put Apple's HomeView Ad to the Test",
+      "url": "https://www.youtube.com/watch?v=yVTcVtLn2o4",
+      "channel": "Joanna Stern",
+      "subscribers": 262000,
+      "views": 1166108,
+      "channel_median_views": 355235,
+      "outlier_score": 3.3,
+      "published": "2026-11-12",
+      "duration_min": 14,
+      "topic": "Trending: Science & Tech",
+      "query": "trending US / Science & Tech",
+      "chapters": [
+        "00:00 One week with the Apple HomeView",
+        "00:32  The wacky HomeView ad",
+        "00:55 What is the HomeView?",
+        "01:45 Challenge 1: Family Recognition",
+        "05:23  Mercury ad",
+        "06:23 Challenge 2: Smart home",
+        "07:44 Apple’s smart home fixes",
+        "09:49 Challenge 3: Siri AI",
+        "11:13 Siri’s problems",
+        "12:36 Conclusions, Apple’s Siri problem"
+      ],
+      "found": "2026-11-15"
+    },
+    {
       "video_id": "_TLdMyCh1MM",
       "title": "iPhone Passwords App: 10 Things Nobody Tells You",
       "url": "https://www.youtube.com/watch?v=_TLdMyCh1MM",
@@ -1371,20 +1278,20 @@
       "found": "2026-11-13"
     },
     {
-      "video_id": "gS2G1_Vow5E",
-      "title": "🔥 Is Our Country OVER & What to Do Now?",
-      "url": "https://www.youtube.com/watch?v=gS2G1_Vow5E",
-      "channel": "Appalachia's Homestead with Patara",
-      "subscribers": 560000,
-      "views": 148050,
-      "channel_median_views": 48171,
-      "outlier_score": 3.1,
-      "published": "2026-11-04",
-      "duration_min": 24,
-      "topic": "Trending: People & Blogs",
-      "query": "trending US / People & Blogs",
+      "video_id": "S0zWn-ssH8o",
+      "title": "How Many Free Skins Can I Get in 24 Hours?",
+      "url": "https://www.youtube.com/watch?v=S0zWn-ssH8o",
+      "channel": "Ali-A²",
+      "subscribers": 409000,
+      "views": 426371,
+      "channel_median_views": 132199,
+      "outlier_score": 3.2,
+      "published": "2026-10-04",
+      "duration_min": 21,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I spent 24 hours doing",
       "chapters": [],
-      "found": "2026-11-08"
+      "found": "2026-11-15"
     },
     {
       "video_id": "n6YZCvUHUug",
@@ -1523,6 +1430,40 @@
       "found": "2026-11-12"
     },
     {
+      "video_id": "dqEmcgs1KkU",
+      "title": "I Built A $30M iOS App: This is My Growth Playbook",
+      "url": "https://www.youtube.com/watch?v=dqEmcgs1KkU",
+      "channel": "Starter Story Build",
+      "subscribers": 85200,
+      "views": 56047,
+      "channel_median_views": 17906,
+      "outlier_score": 3.1,
+      "published": "2026-10-01",
+      "duration_min": 15,
+      "topic": "Programming",
+      "query": "I built an app",
+      "chapters": [
+        "0:00 - Why marketing matters",
+        "0:54 - Meet Jake Castillo",
+        "1:24 - Zero to revenue with UGC",
+        "1:49 - Step 1: finding creators",
+        "3:33 - How much should I pay creators?",
+        "3:51 - Negotiating with creators",
+        "4:17 - Mobile app growth cheat sheet",
+        "4:54 - Step 2: warming up accounts",
+        "5:57 - Step 3: magic moments and problems",
+        "7:54 - How to approach UGC",
+        "8:38 - Jake’s UGC brief",
+        "9:15 - Step 4: performance",
+        "10:50 - How realistic is this?",
+        "11:53 - Analyze creators",
+        "13:03 - Builder vs marketer",
+        "13:20 - Step 5: scale",
+        "14:32 - Final advice"
+      ],
+      "found": "2026-11-15"
+    },
+    {
       "video_id": "u9Au0vwR2Gk",
       "title": "I Got Promoted to SWE III  | A Day in My Life at Google",
       "url": "https://www.youtube.com/watch?v=u9Au0vwR2Gk",
@@ -1607,24 +1548,6 @@
   ],
   "creator_outliers": [
     {
-      "video_id": "Hso5pAwcyR8",
-      "title": "The Worst Thing Happened To AO3...",
-      "url": "https://www.youtube.com/watch?v=Hso5pAwcyR8",
-      "channel": "kat 'n chat",
-      "creator": "katnchat",
-      "core_vibe": false,
-      "subscribers": 376000,
-      "views": 239604,
-      "channel_median_views": 51900,
-      "outlier_score": 4.6,
-      "published": "2026-11-04",
-      "duration_min": 12,
-      "chapters": [],
-      "found": "2026-11-08",
-      "transcript_error": "IpBlocked",
-      "transcript": "transcripts/Hso5pAwcyR8.txt"
-    },
-    {
       "video_id": "MSg_GL_014U",
       "title": "Popular Creators Are Turning To Gen AI...",
       "url": "https://www.youtube.com/watch?v=MSg_GL_014U",
@@ -1639,7 +1562,7 @@
       "duration_min": 15,
       "chapters": [],
       "found": "2026-11-12",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked",
       "transcript": "transcripts/MSg_GL_014U.txt"
     },
     {
@@ -1657,7 +1580,7 @@
       "duration_min": 28,
       "chapters": [],
       "found": "2026-11-10",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/VmqwfEw4UoU.txt"
     },
     {
@@ -1675,7 +1598,7 @@
       "duration_min": 11,
       "chapters": [],
       "found": "2026-11-11",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/eQU3749e3oI.txt"
     },
     {
@@ -1693,7 +1616,7 @@
       "duration_min": 34,
       "chapters": [],
       "found": "2026-11-09",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/hr4gsX2MN_4.txt"
     },
     {
@@ -1725,7 +1648,7 @@
         "26:21 Test results"
       ],
       "found": "2026-11-14",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/oy1HyRXMK5I.txt"
     },
     {
@@ -1743,9 +1666,27 @@
       "duration_min": 13,
       "chapters": [],
       "found": "2026-11-11",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/g6Die8gVFn0.txt"
+    },
+    {
+      "video_id": "AMTELjfNXZg",
+      "title": "The Dark Reality Of Pro Bodybuilding",
+      "url": "https://www.youtube.com/watch?v=AMTELjfNXZg",
+      "channel": "Will Tennyson",
+      "creator": "Will Tennyson",
+      "core_vibe": false,
+      "subscribers": 5540000,
+      "views": 10468607,
+      "channel_median_views": 6900672,
+      "outlier_score": 1.5,
+      "published": "2026-10-18",
+      "duration_min": 44,
+      "chapters": [],
+      "found": "2026-11-15",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/AMTELjfNXZg.txt"
     }
   ],
-  "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)"
+  "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
 }

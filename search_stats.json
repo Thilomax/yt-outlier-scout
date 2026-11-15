@@ -9341,6 +9341,396 @@
      "examples": []
     }
    }
+  },
+  {
+   "date": "2026-11-15",
+   "searches": {
+    "I tried it for the first time": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 1,
+     "examples": [
+      "Korean Tries a Mexican Restaurant Alone for the First Time… (47.5x)"
+     ]
+    },
+    "what it's actually like to": {
+     "returned": 50,
+     "new": 39,
+     "outliers": 0,
+     "examples": []
+    },
+    "I spent a day as": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 1,
+     "examples": [
+      "I Spent a Day With the NFL’s Most SPOILED Fanbase (6.7x)"
+     ]
+    },
+    "I tested every": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "the truth about my": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "things nobody tells you about": {
+     "returned": 50,
+     "new": 27,
+     "outliers": 1,
+     "examples": [
+      "Your Life If You Retire Broke at 65, What Nobody Tells You (25.7x)"
+     ]
+    },
+    "I did the thing everyone told me not to": {
+     "returned": 16,
+     "new": 15,
+     "outliers": 0,
+     "examples": []
+    },
+    "I asked strangers": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "realistic day in my life computer science student": {
+     "returned": 34,
+     "new": 32,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in the life cs student europe": {
+     "returned": 3,
+     "new": 3,
+     "outliers": 0,
+     "examples": []
+    },
+    "productive day in my life student": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 1,
+     "examples": [
+      "🇯🇵 A Productive Day in Jappanes ✨ | Aesthetic Study Vlog, Cozy Luxury Room & Dee (5.5x)"
+     ]
+    },
+    "day in my life vlog 20s": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life gym and studying": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 0,
+     "examples": []
+    },
+    "week in my life university student": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life software engineering student": {
+     "returned": 50,
+     "new": 40,
+     "outliers": 1,
+     "examples": [
+      "ENGINEERING MIDTERM SEASON📓ᯓ★ productive study vlog, a week of locking in, motiv (3.8x)"
+     ]
+    },
+    "day in my life studying abroad student": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 0,
+     "examples": []
+    },
+    "a normal day in my life college student": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "exam season day in my life": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried coding a game in one hour": {
+     "returned": 8,
+     "new": 5,
+     "outliers": 0,
+     "examples": []
+    },
+    "exploring weird websites": {
+     "returned": 28,
+     "new": 28,
+     "outliers": 0,
+     "examples": []
+    },
+    "trying cool apps you didn't know existed": {
+     "returned": 11,
+     "new": 11,
+     "outliers": 0,
+     "examples": []
+    },
+    "internet rabbit hole": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 0,
+     "examples": []
+    },
+    "going through my old videos commentary": {
+     "returned": 6,
+     "new": 6,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried every": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "testing viral apps": {
+     "returned": 50,
+     "new": 40,
+     "outliers": 0,
+     "examples": []
+    },
+    "rating my subscribers": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "I let my viewers decide": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "I copied a youtuber until he noticed me": {
+     "returned": 7,
+     "new": 6,
+     "outliers": 0,
+     "examples": []
+    },
+    "I spent 24 hours doing": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 1,
+     "examples": [
+      "How Many Free Skins Can I Get in 24 Hours? (3.2x)"
+     ]
+    },
+    "I tried living like": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 1,
+     "examples": [
+      "I Tried Storm Camping in a Tiny Car (9.2x)"
+     ]
+    },
+    "I pretended to be": {
+     "returned": 50,
+     "new": 39,
+     "outliers": 0,
+     "examples": []
+    },
+    "I followed a routine for 24 hours": {
+     "returned": 20,
+     "new": 17,
+     "outliers": 0,
+     "examples": []
+    },
+    "learning to code journey": {
+     "returned": 48,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "I built an app": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 1,
+     "examples": [
+      "I Built A $30M iOS App: This is My Growth Playbook (3.1x)"
+     ]
+    },
+    "coding vlog": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "first year computer science student honest": {
+     "returned": 7,
+     "new": 7,
+     "outliers": 0,
+     "examples": []
+    },
+    "how I study effectively": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 0,
+     "examples": []
+    },
+    "university student routine": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "advice for people in their 20s": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "honest advice from my first year of university": {
+     "returned": 10,
+     "new": 10,
+     "outliers": 0,
+     "examples": []
+    },
+    "what I learned in my first year of university": {
+     "returned": 15,
+     "new": 14,
+     "outliers": 0,
+     "examples": []
+    },
+    "lessons I learned the hard way": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "my productivity system honest": {
+     "returned": 4,
+     "new": 3,
+     "outliers": 0,
+     "examples": []
+    },
+    "my morning routine honest": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "cinematic short film about life": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 1,
+     "examples": [
+      "Lekar Hum Deewana Dil Movie Best Romantic Scenes of Armaan Jain & Deeksha | HD (80.1x)"
+     ]
+    },
+    "personal video essay": {
+     "returned": 50,
+     "new": 42,
+     "outliers": 0,
+     "examples": []
+    },
+    "short film about growing up": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "things I wish I knew earlier": {
+     "returned": 50,
+     "new": 38,
+     "outliers": 2,
+     "examples": [
+      "Things I Wish I knew BEFORE reaching Level 40 in WoW Forever (13.6x)",
+      "DeWALT REGRETS: 5 Things I Wish I Knew Before Buying! (3.9x)"
+     ]
+    },
+    "I ranked every": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 0,
+     "examples": []
+    },
+    "tier list": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / People & Blogs": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Comedy": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Science & Tech": {
+     "returned": 49,
+     "new": 49,
+     "outliers": 1,
+     "examples": [
+      "I Put Apple's HomeView Ad to the Test (3.3x)"
+     ]
+    },
+    "trending GB / People & Blogs": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Comedy": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Science & Tech": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 1,
+     "examples": [
+      "Why is UK 5G so bad? We investigated - Which? (96.8x)"
+     ]
+    }
+   }
   }
  ]
 }
