@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "pool_days": 7,
-  "new_today": 15,
-  "count": 78,
+  "new_today": 16,
+  "count": 83,
   "outliers": [
     {
       "video_id": "JL91maB1dnw",
@@ -45,6 +45,34 @@
       "found": "2026-11-13",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/8V3eMYkV1Hw.txt"
+    },
+    {
+      "video_id": "SkwLHBsr4vw",
+      "title": "Every Special Forces Selection Ranked by Difficulty",
+      "url": "https://www.youtube.com/watch?v=SkwLHBsr4vw",
+      "channel": "Tactical Core",
+      "subscribers": 1320,
+      "views": 682122,
+      "channel_median_views": 3838,
+      "outlier_score": 177.7,
+      "published": "2026-11-07",
+      "duration_min": 8,
+      "topic": "Lists and rankings",
+      "query": "I ranked every",
+      "chapters": [
+        "0:00 100 candidates, 6 selections",
+        "0:40 #6 Marine Raiders",
+        "1:32 #5 75th Ranger Regiment",
+        "2:24 #4 Green Berets",
+        "3:37 #3 Navy SEALs",
+        "4:29 #2 Air Force Pararescue",
+        "5:39 #1 Delta Force",
+        "7:04 The countdown",
+        "7:16 Why the numbers aren't equal"
+      ],
+      "found": "2026-11-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/SkwLHBsr4vw.txt"
     },
     {
       "video_id": "RLsZi7rSR5U",
@@ -185,51 +213,6 @@
       "found": "2026-11-18",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/cM7_SXMq-b4.txt"
-    },
-    {
-      "video_id": "nXM6oc-HFxE",
-      "title": "6 Things I Wish Every Woman Knew Before Starting Strength Training (Honest) | Women's Fitness",
-      "url": "https://www.youtube.com/watch?v=nXM6oc-HFxE",
-      "channel": "Aditi Zawar | AZ Yoga & More",
-      "subscribers": 11200,
-      "views": 100522,
-      "channel_median_views": 2927,
-      "outlier_score": 34.3,
-      "published": "2026-10-03",
-      "duration_min": 9,
-      "topic": "Lists and rankings",
-      "query": "things I wish I knew earlier",
-      "chapters": [
-        "00:00 - Introduction & My Strength Training Journey",
-        "01:13 - 1. Will Lifting Weights Make You Look Bulky?",
-        "02:36 - 2. You Don’t Need a Gym Membership (Home Setup)",
-        "04:00 - 3. Don't Train Exactly Like a Man (Compound Movements)",
-        "05:07 - 4. Why You Should Combine Yoga & Weight Training",
-        "05:30 - 5. Start with Bodyweight Before Adding Weights",
-        "06:25 - 6. Train for Life & Longevity, Not Just Aesthetics",
-        "08:00 - How to Start Today (Final Thoughts)"
-      ],
-      "found": "2026-11-12",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/nXM6oc-HFxE.txt"
-    },
-    {
-      "video_id": "MwVBbj_L27M",
-      "title": "7 Felonies. 13.5 Years In Prison. JESUS Changed Everything! 🙌 | J. Truth \"Dance Alone\"",
-      "url": "https://www.youtube.com/watch?v=MwVBbj_L27M",
-      "channel": "The Debut",
-      "subscribers": 560000,
-      "views": 182718,
-      "channel_median_views": 5346,
-      "outlier_score": 34.2,
-      "published": "2026-10-30",
-      "duration_min": 5,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "the truth about my",
-      "chapters": [],
-      "found": "2026-11-12",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/MwVBbj_L27M.txt"
     },
     {
       "video_id": "Xztkkmdbw98",
@@ -389,6 +372,24 @@
       "transcript": "transcripts/ihElfZhR-eI.txt"
     },
     {
+      "video_id": "wwAKUSfIJ9U",
+      "title": "An Old Mechanic Asked 3 Strangers to Be His Grandsons... He Had No Idea Who They Were",
+      "url": "https://www.youtube.com/watch?v=wwAKUSfIJ9U",
+      "channel": "CAIstudio",
+      "subscribers": 8840,
+      "views": 2442296,
+      "channel_median_views": 112487,
+      "outlier_score": 21.7,
+      "published": "2026-11-12",
+      "duration_min": 31,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I asked strangers",
+      "chapters": [],
+      "found": "2026-11-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/wwAKUSfIJ9U.txt"
+    },
+    {
       "video_id": "SUJaIce4FqY",
       "title": "Testing EVERY Nuclear Bomb in a Huge Forest | GMod",
       "url": "https://www.youtube.com/watch?v=SUJaIce4FqY",
@@ -441,6 +442,24 @@
       "found": "2026-11-16",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/7swKPkUIiII.txt"
+    },
+    {
+      "video_id": "5eFUeZojzcI",
+      "title": "What is it actually like to live in an infill property?",
+      "url": "https://www.youtube.com/watch?v=5eFUeZojzcI",
+      "channel": "CBC News Alberta",
+      "subscribers": 27700,
+      "views": 15589,
+      "channel_median_views": 1092,
+      "outlier_score": 14.3,
+      "published": "2026-11-16",
+      "duration_min": 6,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "what it's actually like to",
+      "chapters": [],
+      "found": "2026-11-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/5eFUeZojzcI.txt"
     },
     {
       "video_id": "wrAuG5d2pvI",
@@ -589,6 +608,22 @@
       "transcript": "transcripts/HQuK5D0gGSU.txt"
     },
     {
+      "video_id": "rw2K4RoK4KM",
+      "title": "What (Actually) Happened to Taika Waititi",
+      "url": "https://www.youtube.com/watch?v=rw2K4RoK4KM",
+      "channel": "Pentex Productions",
+      "subscribers": 92000,
+      "views": 866779,
+      "channel_median_views": 68277,
+      "outlier_score": 12.7,
+      "published": "2026-11-13",
+      "duration_min": 17,
+      "topic": "Short film / cinematic",
+      "query": "personal video essay",
+      "chapters": [],
+      "found": "2026-11-19"
+    },
+    {
       "video_id": "mVdpkrrEllk",
       "title": "Studying Japanese in Japan: A Day at Language School",
       "url": "https://www.youtube.com/watch?v=mVdpkrrEllk",
@@ -631,6 +666,22 @@
       "query": "I tested every",
       "chapters": [],
       "found": "2026-11-17"
+    },
+    {
+      "video_id": "Qq64nK_zc_I",
+      "title": "Vibrators, Orgasms & The Female Body: What Nobody Tells You",
+      "url": "https://www.youtube.com/watch?v=Qq64nK_zc_I",
+      "channel": "Dr. Kelly Casperson, M.D. ",
+      "subscribers": 59900,
+      "views": 94935,
+      "channel_median_views": 8780,
+      "outlier_score": 10.8,
+      "published": "2026-11-05",
+      "duration_min": 54,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "things nobody tells you about",
+      "chapters": [],
+      "found": "2026-11-19"
     },
     {
       "video_id": "LNmUcudFCF8",
@@ -731,6 +782,22 @@
       "found": "2026-11-18"
     },
     {
+      "video_id": "4WB4rYeFrIo",
+      "title": "stop setting goals for 2027. build an architecture instead.",
+      "url": "https://www.youtube.com/watch?v=4WB4rYeFrIo",
+      "channel": "sahar",
+      "subscribers": 13100,
+      "views": 78931,
+      "channel_median_views": 11256,
+      "outlier_score": 7.0,
+      "published": "2026-10-26",
+      "duration_min": 20,
+      "topic": "Short film / cinematic",
+      "query": "personal video essay",
+      "chapters": [],
+      "found": "2026-11-19"
+    },
+    {
       "video_id": "ljqPbD117c4",
       "title": "I Tried to Finish an ENTIRE Colouring Book in 24 HOURS!",
       "url": "https://www.youtube.com/watch?v=ljqPbD117c4",
@@ -813,6 +880,22 @@
       "found": "2026-11-18"
     },
     {
+      "video_id": "JnA2N4Gc4fM",
+      "title": "midterms week ☕ *realistic* college study vlog",
+      "url": "https://www.youtube.com/watch?v=JnA2N4Gc4fM",
+      "channel": "chloe bote",
+      "subscribers": 13000,
+      "views": 41552,
+      "channel_median_views": 6677,
+      "outlier_score": 6.2,
+      "published": "2026-10-17",
+      "duration_min": 11,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "week in my life university student",
+      "chapters": [],
+      "found": "2026-11-19"
+    },
+    {
       "video_id": "zSQHusjkipQ",
       "title": "Pretending to be NOOB in +1 VENOM Evolution",
       "url": "https://www.youtube.com/watch?v=zSQHusjkipQ",
@@ -843,22 +926,6 @@
       "query": "tier list",
       "chapters": [],
       "found": "2026-11-17"
-    },
-    {
-      "video_id": "ogLco81XKb0",
-      "title": "What Nobody Tells You About Camping in Quartzsite",
-      "url": "https://www.youtube.com/watch?v=ogLco81XKb0",
-      "channel": "Got Out",
-      "subscribers": 10800,
-      "views": 26869,
-      "channel_median_views": 4655,
-      "outlier_score": 5.8,
-      "published": "2026-10-31",
-      "duration_min": 24,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [],
-      "found": "2026-11-12"
     },
     {
       "video_id": "rW60K1WGFD8",
@@ -915,22 +982,6 @@
       "found": "2026-11-16"
     },
     {
-      "video_id": "LO5iHyYa0XM",
-      "title": "Pete Hegseth: Last Week Tonight with John Oliver (HBO)",
-      "url": "https://www.youtube.com/watch?v=LO5iHyYa0XM",
-      "channel": "LastWeekTonight",
-      "subscribers": 10300000,
-      "views": 8421526,
-      "channel_median_views": 1544428,
-      "outlier_score": 5.5,
-      "published": "2026-11-09",
-      "duration_min": 35,
-      "topic": "Trending: Comedy",
-      "query": "trending US / Comedy",
-      "chapters": [],
-      "found": "2026-11-12"
-    },
-    {
       "video_id": "nZI_9mn47bE",
       "title": "🇯🇵 A Productive Day in Jappanes ✨ | Aesthetic Study Vlog, Cozy Luxury Room & Deep Focus 📚",
       "url": "https://www.youtube.com/watch?v=nZI_9mn47bE",
@@ -945,22 +996,6 @@
       "query": "productive day in my life student",
       "chapters": [],
       "found": "2026-11-15"
-    },
-    {
-      "video_id": "2NhWOAk8GYM",
-      "title": "I Spent a Day Collecting Trash in China.How Much I Made？",
-      "url": "https://www.youtube.com/watch?v=2NhWOAk8GYM",
-      "channel": "xiaolinliveinchina",
-      "subscribers": 17400,
-      "views": 202054,
-      "channel_median_views": 41261,
-      "outlier_score": 4.9,
-      "published": "2026-10-21",
-      "duration_min": 12,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I spent a day as",
-      "chapters": [],
-      "found": "2026-11-12"
     },
     {
       "video_id": "LSVfvGpLLOg",
@@ -1042,6 +1077,22 @@
         "10:01 - A Culture of Humiliation"
       ],
       "found": "2026-11-17"
+    },
+    {
+      "video_id": "lXmB-eDyk5Y",
+      "title": "college diaries | study sessions, gym & balancing fun ",
+      "url": "https://www.youtube.com/watch?v=lXmB-eDyk5Y",
+      "channel": "Kaylee Malcolm ",
+      "subscribers": 28800,
+      "views": 34559,
+      "channel_median_views": 8665,
+      "outlier_score": 4.0,
+      "published": "2026-11-08",
+      "duration_min": 27,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "day in my life gym and studying",
+      "chapters": [],
+      "found": "2026-11-19"
     },
     {
       "video_id": "DINHleZzk-k",
@@ -1135,6 +1186,38 @@
       "query": "personal video essay",
       "chapters": [],
       "found": "2026-11-17"
+    },
+    {
+      "video_id": "hnxn16HtLIk",
+      "title": "How I Built It: $400K/Month iOS App",
+      "url": "https://www.youtube.com/watch?v=hnxn16HtLIk",
+      "channel": "Starter Story",
+      "subscribers": 903000,
+      "views": 214400,
+      "channel_median_views": 54735,
+      "outlier_score": 3.9,
+      "published": "2026-11-01",
+      "duration_min": 12,
+      "topic": "Programming",
+      "query": "I built an app",
+      "chapters": [
+        "0:00 - the $400K/month app",
+        "0:58 - Meet Yoni",
+        "1:27 - Brainrot",
+        "2:00 - Yoni’s background",
+        "2:30 - Start your own business",
+        "3:07 - Building a personal brand",
+        "3:38 - Idea behind Brainrot",
+        "4:11 - Launch and early traction",
+        "4:41 - More growth strategies",
+        "5:47 - When to go all-in?",
+        "6:29 - Building apps in 2026",
+        "9:04 - Yoni’s advice for finding app ideas",
+        "10:04 - Tech stack and tools",
+        "10:29 - Brainrot demo",
+        "11:18 - Final advice"
+      ],
+      "found": "2026-11-19"
     },
     {
       "video_id": "U7aJMuVlq_g",
@@ -1245,32 +1328,30 @@
       "found": "2026-11-14"
     },
     {
-      "video_id": "BNRfzI6E1Es",
-      "title": "Brutally Honest Advice About Productivity in 26 Minutes",
-      "url": "https://www.youtube.com/watch?v=BNRfzI6E1Es",
-      "channel": "Ali Abdaal",
-      "subscribers": 6710000,
-      "views": 381629,
-      "channel_median_views": 112859,
-      "outlier_score": 3.4,
-      "published": "2026-10-16",
-      "duration_min": 26,
-      "topic": "Things I'm into (gym, healthy eating, productivity)",
-      "query": "my productivity system honest",
+      "video_id": "FU3oUQNn0S4",
+      "title": "Trisha Paytas Tries Korean Foods For The First Time | Buzz Bites",
+      "url": "https://www.youtube.com/watch?v=FU3oUQNn0S4",
+      "channel": "BuzzFeed Celeb",
+      "subscribers": 4290000,
+      "views": 807238,
+      "channel_median_views": 228235,
+      "outlier_score": 3.5,
+      "published": "2026-11-10",
+      "duration_min": 14,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
       "chapters": [
-        "0:00 Intro",
-        "0:30 Why we procrastinate",
-        "3:23 When the system becomes the procrastination",
-        "5:46 Focusing is about saying no",
-        "7:31 Journaling prompts for clarity",
-        "10:23 Seasonal priorities",
-        "12:17 Put it in your calendar",
-        "16:41 Accountability vs discipline",
-        "19:25 Everything is hard",
-        "22:02 A confession about productivity influencers",
-        "23:32 When your system falls over"
+        "00:00 - Intro",
+        "01:03 - Tteokbokki with Fried Mandu",
+        "04:11 - Korean Barbecue",
+        "06:57 - Marinated raw crab",
+        "07:20 - Corn latte",
+        "09:00 - Buldak Carbonara Ramen",
+        "10:55 - Bingsu (Korean shaved ice)",
+        "11:34 - Learning Korean & getting into K-pop",
+        "13:28 - Food Rankings"
       ],
-      "found": "2026-11-12"
+      "found": "2026-11-19"
     },
     {
       "video_id": "IjHdgHDYCvI",
@@ -1287,47 +1368,6 @@
       "query": "I built an app",
       "chapters": [],
       "found": "2026-11-17"
-    },
-    {
-      "video_id": "TuwmSWtVn-I",
-      "title": "Things NOBODY Tells You About Motorcycles",
-      "url": "https://www.youtube.com/watch?v=TuwmSWtVn-I",
-      "channel": "CycleCruza",
-      "subscribers": 377000,
-      "views": 24365,
-      "channel_median_views": 7381,
-      "outlier_score": 3.3,
-      "published": "2026-11-05",
-      "duration_min": 25,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [],
-      "found": "2026-11-12"
-    },
-    {
-      "video_id": "Rk6t9Uq1y9M",
-      "title": "Watch Me Vibe Code an Animated App with Claude Opus 5.5 (It's Super Smooth)",
-      "url": "https://www.youtube.com/watch?v=Rk6t9Uq1y9M",
-      "channel": "Jason Lee",
-      "subscribers": 215000,
-      "views": 369150,
-      "channel_median_views": 110464,
-      "outlier_score": 3.3,
-      "published": "2026-10-14",
-      "duration_min": 21,
-      "topic": "Programming",
-      "query": "I built an app",
-      "chapters": [
-        "0:00 Intro",
-        "0:47 The App We're Building",
-        "2:20 Step 1 - Building the App Structure",
-        "5:09 Sponsor",
-        "6:26 Build 1 Result",
-        "10:33 Step 2 - Improving Animation Quality",
-        "15:25 Build 2 Result",
-        "16:22 Step 3 - Adding Responsive Animation (Phone Tilt)"
-      ],
-      "found": "2026-11-12"
     },
     {
       "video_id": "yVTcVtLn2o4",
@@ -1427,20 +1467,43 @@
       "found": "2026-11-17"
     },
     {
-      "video_id": "disx5G8ANNE",
-      "title": "Trying Texas BBQ for the First Time 🇺🇸",
-      "url": "https://www.youtube.com/watch?v=disx5G8ANNE",
-      "channel": "L3WG Reacts",
-      "subscribers": 613000,
-      "views": 763277,
-      "channel_median_views": 244551,
-      "outlier_score": 3.1,
-      "published": "2026-11-08",
-      "duration_min": 32,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I tried it for the first time",
+      "video_id": "HEzEIFGX0HY",
+      "title": "A How Much Does University Cost? Only $57 Per Semester!",
+      "url": "https://www.youtube.com/watch?v=HEzEIFGX0HY",
+      "channel": "Daily Life with Elahe",
+      "subscribers": 12600,
+      "views": 140817,
+      "channel_median_views": 44508,
+      "outlier_score": 3.2,
+      "published": "2026-10-11",
+      "duration_min": 16,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "a normal day in my life college student",
       "chapters": [],
-      "found": "2026-11-12"
+      "found": "2026-11-19"
+    },
+    {
+      "video_id": "j9sJIQi1gAY",
+      "title": "Why is Japanese Horror Like That?",
+      "url": "https://www.youtube.com/watch?v=j9sJIQi1gAY",
+      "channel": "Edward Rigby",
+      "subscribers": 40100,
+      "views": 75730,
+      "channel_median_views": 23313,
+      "outlier_score": 3.2,
+      "published": "2026-11-06",
+      "duration_min": 19,
+      "topic": "Short film / cinematic",
+      "query": "personal video essay",
+      "chapters": [
+        "0:00 start",
+        "1:44 Part 1",
+        "7:07 Part 2",
+        "12:39 Part 3",
+        "16:32 conclusion (but not really)",
+        "17:58 outro (yap-a-thon)"
+      ],
+      "found": "2026-11-19"
     },
     {
       "video_id": "dqEmcgs1KkU",
@@ -1491,6 +1554,22 @@
       "query": "trending GB / People & Blogs",
       "chapters": [],
       "found": "2026-11-18"
+    },
+    {
+      "video_id": "jFB2grTilZU",
+      "title": "I Tried Cooking STEAK For The First Time...",
+      "url": "https://www.youtube.com/watch?v=jFB2grTilZU",
+      "channel": "Fanum Live",
+      "subscribers": 3970000,
+      "views": 575559,
+      "channel_median_views": 187671,
+      "outlier_score": 3.1,
+      "published": "2026-11-06",
+      "duration_min": 39,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
+      "chapters": [],
+      "found": "2026-11-19"
     },
     {
       "video_id": "lcc3eV6O_jQ",
@@ -1615,27 +1694,25 @@
         "15:34 Where Should We Go Next?"
       ],
       "found": "2026-11-18"
+    },
+    {
+      "video_id": "s-0_guXU1fk",
+      "title": "Roasting My Subscribers SHTF Rifles ",
+      "url": "https://www.youtube.com/watch?v=s-0_guXU1fk",
+      "channel": "Trench Grenade",
+      "subscribers": 88500,
+      "views": 58194,
+      "channel_median_views": 19291,
+      "outlier_score": 3.0,
+      "published": "2026-10-22",
+      "duration_min": 41,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "query": "rating my subscribers",
+      "chapters": [],
+      "found": "2026-11-19"
     }
   ],
   "creator_outliers": [
-    {
-      "video_id": "MSg_GL_014U",
-      "title": "Popular Creators Are Turning To Gen AI...",
-      "url": "https://www.youtube.com/watch?v=MSg_GL_014U",
-      "channel": "kat 'n chat",
-      "creator": "katnchat",
-      "core_vibe": false,
-      "subscribers": 378000,
-      "views": 216117,
-      "channel_median_views": 59746,
-      "outlier_score": 3.6,
-      "published": "2026-11-08",
-      "duration_min": 15,
-      "chapters": [],
-      "found": "2026-11-12",
-      "transcript_error": "RequestBlocked",
-      "transcript": "transcripts/MSg_GL_014U.txt"
-    },
     {
       "video_id": "KTUW_2vnA7k",
       "title": "These AI Bros Have Gone Too Far...",
@@ -1651,8 +1728,26 @@
       "duration_min": 16,
       "chapters": [],
       "found": "2026-11-17",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "RequestBlocked",
       "transcript": "transcripts/KTUW_2vnA7k.txt"
+    },
+    {
+      "video_id": "TCXr9H99Rtg",
+      "title": "This Is What An AI Vtuber Looks Like...",
+      "url": "https://www.youtube.com/watch?v=TCXr9H99Rtg",
+      "channel": "kat 'n chat",
+      "creator": "katnchat",
+      "core_vibe": false,
+      "subscribers": 381000,
+      "views": 157544,
+      "channel_median_views": 71221,
+      "outlier_score": 2.2,
+      "published": "2026-11-16",
+      "duration_min": 11,
+      "chapters": [],
+      "found": "2026-11-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/TCXr9H99Rtg.txt"
     },
     {
       "video_id": "oy1HyRXMK5I",
@@ -1703,6 +1798,24 @@
       "found": "2026-11-18",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/9cCeZka48mw.txt"
+    },
+    {
+      "video_id": "gGD8v2smkLE",
+      "title": "Living With World's Unhealthiest Man For 24 Hours",
+      "url": "https://www.youtube.com/watch?v=gGD8v2smkLE",
+      "channel": "Will Tennyson",
+      "creator": "Will Tennyson",
+      "core_vibe": false,
+      "subscribers": 5620000,
+      "views": 13564149,
+      "channel_median_views": 8428193,
+      "outlier_score": 1.6,
+      "published": "2026-11-15",
+      "duration_min": 32,
+      "chapters": [],
+      "found": "2026-11-19",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/gGD8v2smkLE.txt"
     },
     {
       "video_id": "AMTELjfNXZg",

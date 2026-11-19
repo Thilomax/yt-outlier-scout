@@ -10898,6 +10898,396 @@
      "examples": []
     }
    }
+  },
+  {
+   "date": "2026-11-19",
+   "searches": {
+    "I tried it for the first time": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 2,
+     "examples": [
+      "Trisha Paytas Tries Korean Foods For The First Time | Buzz Bites (3.5x)",
+      "I Tried Cooking STEAK For The First Time... (3.1x)"
+     ]
+    },
+    "what it's actually like to": {
+     "returned": 50,
+     "new": 38,
+     "outliers": 1,
+     "examples": [
+      "What is it actually like to live in an infill property? (14.3x)"
+     ]
+    },
+    "I spent a day as": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tested every": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 0,
+     "examples": []
+    },
+    "the truth about my": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "things nobody tells you about": {
+     "returned": 50,
+     "new": 26,
+     "outliers": 1,
+     "examples": [
+      "Vibrators, Orgasms & The Female Body: What Nobody Tells You (10.8x)"
+     ]
+    },
+    "I did the thing everyone told me not to": {
+     "returned": 20,
+     "new": 19,
+     "outliers": 0,
+     "examples": []
+    },
+    "I asked strangers": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 1,
+     "examples": [
+      "An Old Mechanic Asked 3 Strangers to Be His Grandsons... He Had No Idea Who They (21.7x)"
+     ]
+    },
+    "realistic day in my life computer science student": {
+     "returned": 33,
+     "new": 31,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in the life cs student europe": {
+     "returned": 2,
+     "new": 2,
+     "outliers": 0,
+     "examples": []
+    },
+    "productive day in my life student": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life vlog 20s": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life gym and studying": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 1,
+     "examples": [
+      "college diaries | study sessions, gym & balancing fun  (4.0x)"
+     ]
+    },
+    "week in my life university student": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 1,
+     "examples": [
+      "midterms week ☕ *realistic* college study vlog (6.2x)"
+     ]
+    },
+    "day in my life software engineering student": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life studying abroad student": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "a normal day in my life college student": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 1,
+     "examples": [
+      "A How Much Does University Cost? Only $57 Per Semester! (3.2x)"
+     ]
+    },
+    "exam season day in my life": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried coding a game in one hour": {
+     "returned": 8,
+     "new": 6,
+     "outliers": 0,
+     "examples": []
+    },
+    "exploring weird websites": {
+     "returned": 26,
+     "new": 26,
+     "outliers": 0,
+     "examples": []
+    },
+    "trying cool apps you didn't know existed": {
+     "returned": 13,
+     "new": 13,
+     "outliers": 0,
+     "examples": []
+    },
+    "internet rabbit hole": {
+     "returned": 50,
+     "new": 42,
+     "outliers": 0,
+     "examples": []
+    },
+    "going through my old videos commentary": {
+     "returned": 4,
+     "new": 4,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried every": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "testing viral apps": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 0,
+     "examples": []
+    },
+    "rating my subscribers": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 1,
+     "examples": [
+      "Roasting My Subscribers SHTF Rifles  (3.0x)"
+     ]
+    },
+    "I let my viewers decide": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "I copied a youtuber until he noticed me": {
+     "returned": 9,
+     "new": 8,
+     "outliers": 0,
+     "examples": []
+    },
+    "I spent 24 hours doing": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried living like": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "I pretended to be": {
+     "returned": 50,
+     "new": 38,
+     "outliers": 0,
+     "examples": []
+    },
+    "I followed a routine for 24 hours": {
+     "returned": 31,
+     "new": 28,
+     "outliers": 0,
+     "examples": []
+    },
+    "learning to code journey": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "I built an app": {
+     "returned": 50,
+     "new": 42,
+     "outliers": 1,
+     "examples": [
+      "How I Built It: $400K/Month iOS App (3.9x)"
+     ]
+    },
+    "coding vlog": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "first year computer science student honest": {
+     "returned": 9,
+     "new": 9,
+     "outliers": 0,
+     "examples": []
+    },
+    "how I study effectively": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "university student routine": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "advice for people in their 20s": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "honest advice from my first year of university": {
+     "returned": 9,
+     "new": 9,
+     "outliers": 0,
+     "examples": []
+    },
+    "what I learned in my first year of university": {
+     "returned": 46,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "lessons I learned the hard way": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "my productivity system honest": {
+     "returned": 2,
+     "new": 1,
+     "outliers": 0,
+     "examples": []
+    },
+    "my morning routine honest": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "cinematic short film about life": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "personal video essay": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 3,
+     "examples": [
+      "What (Actually) Happened to Taika Waititi (12.7x)",
+      "stop setting goals for 2027. build an architecture instead. (7.0x)",
+      "Why is Japanese Horror Like That? (3.2x)"
+     ]
+    },
+    "short film about growing up": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "things I wish I knew earlier": {
+     "returned": 50,
+     "new": 38,
+     "outliers": 0,
+     "examples": []
+    },
+    "I ranked every": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 1,
+     "examples": [
+      "Every Special Forces Selection Ranked by Difficulty (177.7x)"
+     ]
+    },
+    "tier list": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / People & Blogs": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Comedy": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Science & Tech": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / People & Blogs": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Comedy": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Science & Tech": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    }
+   }
   }
  ]
 }
