@@ -1,0 +1,35 @@
+# The Best Monopoly Strategy, Tested on 300 Million Games
+Perfect Play | 3,009,674 views vs usual 200,826 (15.0x) | 9 min | https://www.youtube.com/watch?v=S_2eVAaw1UM
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Chapters (from the description)
+0:00 8 strategies, 300 million games
+0:35 The rules my players follow
+1:24 Meet the eight players
+2:12 The tournament
+3:17 Mistake 1: Being picky
+4:14 Mistake 2: Saving money
+4:39 Mistake 3: Stopping at three houses
+5:27 Mistake 4: Refusing to trade
+5:59 Which color is worth fighting for
+6:47 The tuned player
+8:15 What to do at your table
+
+## Top comments (by relevance)
+(1651 likes) wtf am i doing here? its 3 am and i ain't even have a monopoly table
+(2847 likes) This neglects a major part of monopoly - human psychology. The players who are behind will team up against the leader. Or you just get screwed because someone at the table doesn’t like you in particular, even if their sabotage is detrimental to their own game as well.
+(646 likes) I made a monopoly game simulator 35 years ago on a Texas TI 99 4a, in BASIC. Computing power was 1:1,000,000th what's available today, but I discovered that buy everything, use your cash, and stick to Orange and Lt Blue, Red/Yellow/Green next, in that order. Pretty similar results, I've been crushing people's will to live for 35 years with this wisdom.
+(272 likes) There was this online monopoly game where I landed on both browns and snatched all the railways, then I realize I had exactly 1 of each color, I just knew I won there and then, I just refused to trade and just bled them by a thousand cuts, after the 20th spin I had like $10k. My theory is that they all ragequitted and I played against bots because the game was just attrition simulator, after the 1
+(810 likes) Dope video, but what's up with the random accent changes
+(208 likes) You forgot one big strategy : you build as many houses as possible but no hotel. There is only 32 houses in the game, and if there is no one left, nobody can buy it anymore. So you can trade your big cards against light blue and brown and build 20 houses ASAP (but no hotels!). 12 houses left for 3 peoples trying to fight for it.
+(60 likes) Do The Settlers of Catan next!
+(58 likes) Collecting Railroads is an S tier strategy as long as it isnt your ONLY strategy. They won't knock out a player, but they will suck up cash and really slow down the other players build and trade.
+(202 likes) I love to get the cheaper properties to suck up houses. The goal is to have so many houses no one else can build to 3 on all three properties. If the other players distain brown and light blue, I pick them up cheap, & buy houses. I might give a couple players monopolies so they fight each other for the remaining houses and neither can get to 3. Manufacturing housing shortages is the key to winning
+(67 likes) As a teen I was playing monopoly with my siblings and one of them suggested a trade but one of the cards she wanted she already had . So I made it clear with witnesses that after the trade she would have these cards and I would these cards. After the trade she realized what she had done and demanded the deal be undone out of fairness. My other siblings sided with her and it’s been 20 years since I
+(13 likes) I think doing Monopoly Mega might be interesting because of the speed die moving you to the next property where you pay rent after all properties are owned and the auction square moving to the highest rent after all properties are owned. You could reuse most of your simulation code. It might not make enough new content for a whole video though. Some other suggestions I have are Risk and Ticket to 
+(25 likes) Wait why does your accent keep changing? Are there two people running the channel?
+(3 likes) Dude, this was genuinely a FANTASTIC first vid on your channel. I haven't sat down and watched a video to the end like this one in awhile.
+(96 likes) Why does it sound like you keep swapping between an American accent and a British one?
+(25 likes) Good job. You might want to see Hanna Fry's video on monopoly. Mathematically, the best color depends on how many players play the game. Also there is one strategy that is super strong - rush to 4 houses as fast as possible and don't build hotels. This will block other players from developing their properties.
