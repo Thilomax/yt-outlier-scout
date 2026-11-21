@@ -1,9 +1,36 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "pool_days": 7,
-  "new_today": 9,
-  "count": 83,
+  "new_today": 14,
+  "count": 92,
   "outliers": [
+    {
+      "video_id": "BCZGUDZgT1I",
+      "title": "Horrors of the North Korea Internet Iceberg",
+      "url": "https://www.youtube.com/watch?v=BCZGUDZgT1I",
+      "channel": "Corium",
+      "subscribers": 3620,
+      "views": 1856794,
+      "channel_median_views": 4773,
+      "outlier_score": 389.0,
+      "published": "2026-10-14",
+      "duration_min": 27,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "query": "internet rabbit hole",
+      "chapters": [
+        "0:00 - Intro",
+        "0:34 - Level 1",
+        "3:37 - Level 2",
+        "7:05 - Level 3",
+        "10:08 - Level 4",
+        "13:23 - Level 5",
+        "16:51 - Level 6",
+        "21:39 - Level 7"
+      ],
+      "found": "2026-11-21",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/BCZGUDZgT1I.txt"
+    },
     {
       "video_id": "JL91maB1dnw",
       "title": "Horrors of the 1990s Internet Iceberg",
@@ -25,7 +52,7 @@
         "25:12 - Level 4"
       ],
       "found": "2026-11-18",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/JL91maB1dnw.txt"
     },
     {
@@ -53,8 +80,26 @@
         "7:16 Why the numbers aren't equal"
       ],
       "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/SkwLHBsr4vw.txt"
+    },
+    {
+      "video_id": "uGxQhMn4-QI",
+      "title": "8 Things I Wish I Knew Earlier in Castlevania: Belmont’s Curse",
+      "url": "https://www.youtube.com/watch?v=uGxQhMn4-QI",
+      "channel": "Gfinity",
+      "subscribers": 47700,
+      "views": 76424,
+      "channel_median_views": 518,
+      "outlier_score": 147.5,
+      "published": "2026-10-16",
+      "duration_min": 5,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [],
+      "found": "2026-11-21",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/uGxQhMn4-QI.txt"
     },
     {
       "video_id": "RLsZi7rSR5U",
@@ -71,7 +116,7 @@
       "query": "I pretended to be",
       "chapters": [],
       "found": "2026-11-17",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/RLsZi7rSR5U.txt"
     },
     {
@@ -95,7 +140,7 @@
         "10:47 Is Satellite Tech the Ultimate Fix?"
       ],
       "found": "2026-11-15",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/XugEaAf7x44.txt"
     },
     {
@@ -113,7 +158,7 @@
       "query": "I pretended to be",
       "chapters": [],
       "found": "2026-11-16",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/l1eVe4E5c4E.txt"
     },
     {
@@ -131,7 +176,7 @@
       "query": "cinematic short film about life",
       "chapters": [],
       "found": "2026-11-15",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/-bEEe2PhOIM.txt"
     },
     {
@@ -157,7 +202,7 @@
         "10:02 Fishing Is Passive Gold While Leveling!"
       ],
       "found": "2026-11-18",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/PtKhvLQGn3M.txt"
     },
     {
@@ -175,7 +220,7 @@
       "query": "I tried it for the first time",
       "chapters": [],
       "found": "2026-11-15",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/1I0NjKqKWjg.txt"
     },
     {
@@ -193,7 +238,7 @@
       "query": "rating my subscribers",
       "chapters": [],
       "found": "2026-11-18",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/cM7_SXMq-b4.txt"
     },
     {
@@ -211,7 +256,7 @@
       "query": "I tried it for the first time",
       "chapters": [],
       "found": "2026-11-17",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/Xztkkmdbw98.txt"
     },
     {
@@ -251,7 +296,7 @@
         "15:36 Bloopers"
       ],
       "found": "2026-11-16",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/xQSINs1gnOA.txt"
     },
     {
@@ -269,7 +314,7 @@
       "query": "things nobody tells you about",
       "chapters": [],
       "found": "2026-11-18",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/vKqkRIICuZ4.txt"
     },
     {
@@ -296,7 +341,7 @@
         "20:04 The last scene"
       ],
       "found": "2026-11-15",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/Ejv4jrL_IRQ.txt"
     },
     {
@@ -314,7 +359,7 @@
       "query": "I built an app",
       "chapters": [],
       "found": "2026-11-16",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/ihElfZhR-eI.txt"
     },
     {
@@ -332,7 +377,7 @@
       "query": "I asked strangers",
       "chapters": [],
       "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/wwAKUSfIJ9U.txt"
     },
     {
@@ -350,8 +395,26 @@
       "query": "I tested every",
       "chapters": [],
       "found": "2026-11-16",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/SUJaIce4FqY.txt"
+    },
+    {
+      "video_id": "BZkPquCm6v8",
+      "title": "The World After World War III | Sci-Fi Short Film",
+      "url": "https://www.youtube.com/watch?v=BZkPquCm6v8",
+      "channel": "Causality",
+      "subscribers": 85400,
+      "views": 9013886,
+      "channel_median_views": 562547,
+      "outlier_score": 16.0,
+      "published": "2026-11-11",
+      "duration_min": 26,
+      "topic": "Short film / cinematic",
+      "query": "cinematic short film about life",
+      "chapters": [],
+      "found": "2026-11-21",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/BZkPquCm6v8.txt"
     },
     {
       "video_id": "S_2eVAaw1UM",
@@ -380,7 +443,7 @@
         "8:15 What to do at your table"
       ],
       "found": "2026-11-20",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/S_2eVAaw1UM.txt"
     },
     {
@@ -398,7 +461,7 @@
       "query": "rating my subscribers",
       "chapters": [],
       "found": "2026-11-18",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/kpCyKefwiJA.txt"
     },
     {
@@ -416,7 +479,7 @@
       "query": "learning to code journey",
       "chapters": [],
       "found": "2026-11-16",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/7swKPkUIiII.txt"
     },
     {
@@ -434,7 +497,7 @@
       "query": "what it's actually like to",
       "chapters": [],
       "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/5eFUeZojzcI.txt"
     },
     {
@@ -452,7 +515,7 @@
       "query": "rating my subscribers",
       "chapters": [],
       "found": "2026-11-18",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/pef5qEIVBPc.txt"
     },
     {
@@ -479,7 +542,7 @@
         "13:33 If I Could Only Have One!"
       ],
       "found": "2026-11-16",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/1xLYivLbdZ8.txt"
     },
     {
@@ -557,30 +620,33 @@
       "transcript": "transcripts/26WCfEM1FnU.txt"
     },
     {
-      "video_id": "HQuK5D0gGSU",
-      "title": "First Time in London 🇬🇧 | What I Wish I Knew Before Visiting",
-      "url": "https://www.youtube.com/watch?v=HQuK5D0gGSU",
-      "channel": "Elisa Does ",
-      "subscribers": 3460,
-      "views": 70724,
-      "channel_median_views": 5506,
-      "outlier_score": 12.8,
-      "published": "2026-11-08",
-      "duration_min": 9,
-      "topic": "Lists and rankings",
-      "query": "things I wish I knew earlier",
+      "video_id": "dVPCPK14sSk",
+      "title": "KoRn Drummer Hears Arctic Monkeys For The First Time",
+      "url": "https://www.youtube.com/watch?v=dVPCPK14sSk",
+      "channel": "Drumeo",
+      "subscribers": 5710000,
+      "views": 2609096,
+      "channel_median_views": 202987,
+      "outlier_score": 12.9,
+      "published": "2026-11-13",
+      "duration_min": 18,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
       "chapters": [
-        "0:00 Arriving in London — and it's freezing",
-        "0:19 Nobody warned me about 4:30 PM sunsets",
-        "1:32 The red phone booths have no phones",
-        "2:54 My first double-decker ride",
-        "5:50 Westminster Abbey",
-        "6:45 Big Ben & the Houses of Parliament",
-        "8:04 What's coming next"
+        "00:00 - Intro",
+        "00:52 - Who Is Ray Luzier?",
+        "01:23 - The Challenge",
+        "01:58 - Trying To Stump Ray",
+        "02:41 - First Listen",
+        "03:50 - Initial Thoughts",
+        "04:18 - Learning The Song",
+        "08:41 - Final Take",
+        "12:08 - Revealing The Song",
+        "12:59 - Listening To The Original",
+        "14:28 - Final Thoughts From Ray Luzier",
+        "15:50 - Reaction From Matt Helders (Arctic Monkeys)"
       ],
-      "found": "2026-11-14",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/HQuK5D0gGSU.txt"
+      "found": "2026-11-21"
     },
     {
       "video_id": "rw2K4RoK4KM",
@@ -597,34 +663,6 @@
       "query": "personal video essay",
       "chapters": [],
       "found": "2026-11-19"
-    },
-    {
-      "video_id": "mVdpkrrEllk",
-      "title": "Studying Japanese in Japan: A Day at Language School",
-      "url": "https://www.youtube.com/watch?v=mVdpkrrEllk",
-      "channel": "Tokuyuu とくゆー",
-      "subscribers": 133000,
-      "views": 40851,
-      "channel_median_views": 3243,
-      "outlier_score": 12.6,
-      "published": "2026-10-15",
-      "duration_min": 11,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "day in my life studying abroad student",
-      "chapters": [
-        "0:00 Intro Preview",
-        "0:34 Where are we?",
-        "1:10 Class 1 - Conversation",
-        "4:03 My thoughts on class",
-        "4:52 Class 2 - Kanji",
-        "6:54 How language school works",
-        "7:36 Interviews with students",
-        "9:21 How to apply",
-        "10:18 My final thoughts"
-      ],
-      "found": "2026-11-14",
-      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/mVdpkrrEllk.txt"
     },
     {
       "video_id": "MQQ_zsWnL84",
@@ -657,6 +695,38 @@
       "query": "things nobody tells you about",
       "chapters": [],
       "found": "2026-11-19"
+    },
+    {
+      "video_id": "iBs-wMYMd9k",
+      "title": "GTA 6 - Do These 15 Things FIRST",
+      "url": "https://www.youtube.com/watch?v=iBs-wMYMd9k",
+      "channel": "GamingBolt",
+      "subscribers": 1350000,
+      "views": 338342,
+      "channel_median_views": 32062,
+      "outlier_score": 10.6,
+      "published": "2026-11-18",
+      "duration_min": 8,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [],
+      "found": "2026-11-21"
+    },
+    {
+      "video_id": "j5f2cfTPdYg",
+      "title": "A Day in My Life 💕🇰🇷 Korean Edition || Sakura School Simulator #sakura ",
+      "url": "https://www.youtube.com/watch?v=j5f2cfTPdYg",
+      "channel": "Yennefer",
+      "subscribers": 215000,
+      "views": 80222,
+      "channel_median_views": 8523,
+      "outlier_score": 9.4,
+      "published": "2026-10-17",
+      "duration_min": 6,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "a normal day in my life college student",
+      "chapters": [],
+      "found": "2026-11-21"
     },
     {
       "video_id": "LNmUcudFCF8",
@@ -839,6 +909,22 @@
       "found": "2026-11-18"
     },
     {
+      "video_id": "kR8bhkVAgBY",
+      "title": "iShowSpeed's First Time PLaying GTA 6!",
+      "url": "https://www.youtube.com/watch?v=kR8bhkVAgBY",
+      "channel": "SpeedUniverse",
+      "subscribers": 4210000,
+      "views": 1514568,
+      "channel_median_views": 233113,
+      "outlier_score": 6.5,
+      "published": "2026-11-18",
+      "duration_min": 35,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tried it for the first time",
+      "chapters": [],
+      "found": "2026-11-21"
+    },
+    {
       "video_id": "JnA2N4Gc4fM",
       "title": "midterms week ☕ *realistic* college study vlog",
       "url": "https://www.youtube.com/watch?v=JnA2N4Gc4fM",
@@ -853,22 +939,6 @@
       "query": "week in my life university student",
       "chapters": [],
       "found": "2026-11-19"
-    },
-    {
-      "video_id": "zSQHusjkipQ",
-      "title": "Pretending to be NOOB in +1 VENOM Evolution",
-      "url": "https://www.youtube.com/watch?v=zSQHusjkipQ",
-      "channel": "Sunny and Melon",
-      "subscribers": 3070000,
-      "views": 673615,
-      "channel_median_views": 111340,
-      "outlier_score": 6.1,
-      "published": "2026-11-08",
-      "duration_min": 13,
-      "topic": "High-concept hook (click for one thing, get more)",
-      "query": "I pretended to be",
-      "chapters": [],
-      "found": "2026-11-14"
     },
     {
       "video_id": "bYKPS5T4Blo",
@@ -957,6 +1027,56 @@
       "found": "2026-11-15"
     },
     {
+      "video_id": "fo6M8Z2tsmA",
+      "title": "How to Study Effectively for UPSC? | UPSC Preparation | Time Management | Drishti IAS English",
+      "url": "https://www.youtube.com/watch?v=fo6M8Z2tsmA",
+      "channel": "Drishti IAS : English",
+      "subscribers": 3710000,
+      "views": 29104,
+      "channel_median_views": 5875,
+      "outlier_score": 5.0,
+      "published": "2026-10-15",
+      "duration_min": 15,
+      "topic": "Studying",
+      "query": "how I study effectively",
+      "chapters": [],
+      "found": "2026-11-21"
+    },
+    {
+      "video_id": "x0dQh4VA6gQ",
+      "title": "Harvard Psychiatrist: 90% of Criticism is Just Projection | Dr. K",
+      "url": "https://www.youtube.com/watch?v=x0dQh4VA6gQ",
+      "channel": "Jay Shetty Podcast",
+      "subscribers": 6250000,
+      "views": 519972,
+      "channel_median_views": 111582,
+      "outlier_score": 4.7,
+      "published": "2026-10-27",
+      "duration_min": 46,
+      "topic": "Advice from my own experience",
+      "query": "advice for people in their 20s",
+      "chapters": [
+        "0:00 Why people feel lost when life looks fine",
+        "1:08 The quarter life crisis",
+        "2:52 Why the goals can't be reached anymore",
+        "5:34 What to do when you feel behind",
+        "6:00 Identification vs. identity",
+        "9:03 The second arrow",
+        "10:12 Why good news can trap you too",
+        "12:43 How to stop caring what people think",
+        "19:31 The baggage you carry into every date",
+        "24:18 Why you should look at people you're not attracted to",
+        "24:56 Why \"be yourself\" is terrible advice",
+        "26:13 What it means to be a man right now",
+        "31:32 Why knowing what to do doesn't change what you do",
+        "34:23 Focus on the cost, not the benefit",
+        "35:58 The three things that create purpose",
+        "41:01 The Final Five",
+        "43:34 Watch what happens, not what you do"
+      ],
+      "found": "2026-11-21"
+    },
+    {
       "video_id": "LSVfvGpLLOg",
       "title": "10 years of coding in 13 minutes",
       "url": "https://www.youtube.com/watch?v=LSVfvGpLLOg",
@@ -998,6 +1118,22 @@
       "query": "I tested every",
       "chapters": [],
       "found": "2026-11-17"
+    },
+    {
+      "video_id": "ALGzyOHmxzw",
+      "title": "I Pretended to Be Surronster at a Night Rideout!",
+      "url": "https://www.youtube.com/watch?v=ALGzyOHmxzw",
+      "channel": "zeekster",
+      "subscribers": 304000,
+      "views": 645785,
+      "channel_median_views": 156497,
+      "outlier_score": 4.1,
+      "published": "2026-10-31",
+      "duration_min": 19,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I pretended to be",
+      "chapters": [],
+      "found": "2026-11-21"
     },
     {
       "video_id": "-_buE--NkRg",
@@ -1163,6 +1299,36 @@
       "found": "2026-11-19"
     },
     {
+      "video_id": "9ggM3pK0_ts",
+      "title": "Day in the Life of a Mathematical Astrophysicist",
+      "url": "https://www.youtube.com/watch?v=9ggM3pK0_ts",
+      "channel": "Ellie Sleightholm",
+      "subscribers": 192000,
+      "views": 804666,
+      "channel_median_views": 206136,
+      "outlier_score": 3.9,
+      "published": "2026-11-01",
+      "duration_min": 18,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "productive day in my life student",
+      "chapters": [
+        "00:45 Walking around Cambridge",
+        "01:40 Arriving at the Centre for Mathematical Sciences",
+        "02:00 First lecture of the day",
+        "02:11 Arriving at the office",
+        "04:00 Doing some work in between lectures",
+        "05:47 Second lecture of the day",
+        "06:21 Visit to the library",
+        "07:57 Catch up",
+        "11:52 Postgraduate Seminar Supper",
+        "13:00 Start of day 2",
+        "13:25 Study session in the library",
+        "15:51 Little walk around Cambridge",
+        "16:21 Studying in the postgraduate common room"
+      ],
+      "found": "2026-11-21"
+    },
+    {
       "video_id": "U7aJMuVlq_g",
       "title": "ENGINEERING MIDTERM SEASON📓ᯓ★ productive study vlog, a week of locking in, motivating study tips",
       "url": "https://www.youtube.com/watch?v=U7aJMuVlq_g",
@@ -1260,20 +1426,20 @@
       "found": "2026-11-20"
     },
     {
-      "video_id": "cQWW4uCKuTY",
-      "title": "Everyone Told Me Not To Visit Rio… I Did 🇧🇷",
-      "url": "https://www.youtube.com/watch?v=cQWW4uCKuTY",
-      "channel": "Roman_onboard",
-      "subscribers": 61000,
-      "views": 33885,
-      "channel_median_views": 9764,
-      "outlier_score": 3.5,
-      "published": "2026-10-19",
-      "duration_min": 38,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I did the thing everyone told me not to",
+      "video_id": "Q6UN7kIXGTY",
+      "title": "The Remake is Worse But it's Still WAY BETTER (Karate Kid)",
+      "url": "https://www.youtube.com/watch?v=Q6UN7kIXGTY",
+      "channel": "Jevo",
+      "subscribers": 86100,
+      "views": 262042,
+      "channel_median_views": 72370,
+      "outlier_score": 3.6,
+      "published": "2026-11-02",
+      "duration_min": 18,
+      "topic": "Short film / cinematic",
+      "query": "personal video essay",
       "chapters": [],
-      "found": "2026-11-14"
+      "found": "2026-11-21"
     },
     {
       "video_id": "FU3oUQNn0S4",
@@ -1586,39 +1752,20 @@
       "found": "2026-11-19"
     },
     {
-      "video_id": "lcc3eV6O_jQ",
-      "title": "Enshrouded 1.0: 17 Things Nobody Tells You (100 Hours In)",
-      "url": "https://www.youtube.com/watch?v=lcc3eV6O_jQ",
-      "channel": "P4wnyhof",
-      "subscribers": 409000,
-      "views": 172692,
-      "channel_median_views": 57318,
-      "outlier_score": 3.0,
-      "published": "2026-11-03",
-      "duration_min": 19,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [
-        "00:00 100 hours of Enshrouded 1.0",
-        "00:13 Pin recipes to your screen",
-        "00:56 Farm sparks the fast way",
-        "01:38 Stop companions from roaming",
-        "02:39 Dig out your base perfectly",
-        "04:16 Gear has no level requirement",
-        "06:03 Don't upgrade legendaries",
-        "08:20 Repair kits & farming tool upgrades",
-        "09:02 Skills every build should take",
-        "11:34 Updraft setting for long glides",
-        "12:29 Cancel your glide before landing",
-        "13:06 Pull down flying enemies",
-        "13:38 Evasion attack with Blink",
-        "14:18 Crash down jump attack",
-        "15:33 Merciless attacks = invulnerable",
-        "16:14 What each gear slot is for",
-        "17:10 Health on hit vs % health",
-        "18:16 Inner Fires: longer shroud time"
-      ],
-      "found": "2026-11-14"
+      "video_id": "1Judga7rBB4",
+      "title": "I Pretended to be a NOOB in Bike Universe then used a $100,000 Bike...",
+      "url": "https://www.youtube.com/watch?v=1Judga7rBB4",
+      "channel": "Dash Roblox",
+      "subscribers": 1620000,
+      "views": 568496,
+      "channel_median_views": 183043,
+      "outlier_score": 3.1,
+      "published": "2026-10-28",
+      "duration_min": 17,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I pretended to be",
+      "chapters": [],
+      "found": "2026-11-21"
     },
     {
       "video_id": "cVKG388YYIg",
@@ -1740,6 +1887,35 @@
       "query": "I pretended to be",
       "chapters": [],
       "found": "2026-11-20"
+    },
+    {
+      "video_id": "vYfqF3lHDmQ",
+      "title": "How to Make Your Christmas Home Look Like a Designer Did It",
+      "url": "https://www.youtube.com/watch?v=vYfqF3lHDmQ",
+      "channel": "Ashley Childers",
+      "subscribers": 152000,
+      "views": 130976,
+      "channel_median_views": 43192,
+      "outlier_score": 3.0,
+      "published": "2026-11-15",
+      "duration_min": 22,
+      "topic": "Trending: People & Blogs",
+      "query": "trending US / People & Blogs",
+      "chapters": [
+        "0:00 How to Make Your Christmas Home Look Like a Designer Did It",
+        "0:32 Choosing a Cohesive Christmas Color Palette",
+        "1:55 Making Everyday Moments Feel Special",
+        "3:12 Festive Touches in Unexpected Places",
+        "3:59 Beautiful Christmas Gift Wrapping Ideas",
+        "6:50 Creating a Meaningful Family Gift with Mixbook",
+        "8:55 Creating Beautiful Christmas Greenery Arrangements",
+        "11:04 Planting Paperwhites and Amaryllis for Christmas",
+        "14:21 Scale and Proportion in Christmas Decorating",
+        "15:38 Layered Christmas Lighting for a Cozy Home",
+        "18:16 Why Every Beautiful Room Needs Breathing Room",
+        "19:46 Final Christmas Decorating Tips and Inspiration"
+      ],
+      "found": "2026-11-21"
     }
   ],
   "creator_outliers": [
@@ -1758,7 +1934,7 @@
       "duration_min": 16,
       "chapters": [],
       "found": "2026-11-17",
-      "transcript_error": "RequestBlocked",
+      "transcript_error": "IpBlocked",
       "transcript": "transcripts/KTUW_2vnA7k.txt"
     },
     {
@@ -1776,40 +1952,8 @@
       "duration_min": 11,
       "chapters": [],
       "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/TCXr9H99Rtg.txt"
-    },
-    {
-      "video_id": "oy1HyRXMK5I",
-      "title": "Viewers keep calling me dumb so I took an IQ test",
-      "url": "https://www.youtube.com/watch?v=oy1HyRXMK5I",
-      "channel": "Bog",
-      "creator": "Bog",
-      "core_vibe": true,
-      "subscribers": 648000,
-      "views": 230743,
-      "channel_median_views": 128126,
-      "outlier_score": 1.8,
-      "published": "2026-11-10",
-      "duration_min": 27,
-      "chapters": [
-        "0:00 Intro",
-        "1:00 Reaction time",
-        "1:57 Aim",
-        "3:06 Sequence memory",
-        "4:43 Typing speed",
-        "6:51 Number memory",
-        "12:05 Verbal memory",
-        "15:00 Chimp test",
-        "18:03 Visual memory",
-        "19:56 IQ test",
-        "25:45 IQ test 2",
-        "26:05 IQ test 3",
-        "26:21 Test results"
-      ],
-      "found": "2026-11-14",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/oy1HyRXMK5I.txt"
     },
     {
       "video_id": "9cCeZka48mw",
@@ -1826,7 +1970,7 @@
       "duration_min": 25,
       "chapters": [],
       "found": "2026-11-18",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/9cCeZka48mw.txt"
     },
     {
@@ -1844,7 +1988,7 @@
       "duration_min": 32,
       "chapters": [],
       "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/gGD8v2smkLE.txt"
     },
     {
@@ -1862,9 +2006,9 @@
       "duration_min": 44,
       "chapters": [],
       "found": "2026-11-15",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/AMTELjfNXZg.txt"
     }
   ],
-  "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
+  "transcript_error": "IpBlocked (YouTube blocked transcript requests from this server)"
 }

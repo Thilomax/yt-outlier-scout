@@ -11670,6 +11670,396 @@
      "examples": []
     }
    }
+  },
+  {
+   "date": "2026-11-21",
+   "searches": {
+    "I tried it for the first time": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 2,
+     "examples": [
+      "KoRn Drummer Hears Arctic Monkeys For The First Time (12.9x)",
+      "iShowSpeed's First Time PLaying GTA 6! (6.5x)"
+     ]
+    },
+    "what it's actually like to": {
+     "returned": 50,
+     "new": 39,
+     "outliers": 0,
+     "examples": []
+    },
+    "I spent a day as": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tested every": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 0,
+     "examples": []
+    },
+    "the truth about my": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "things nobody tells you about": {
+     "returned": 50,
+     "new": 27,
+     "outliers": 0,
+     "examples": []
+    },
+    "I did the thing everyone told me not to": {
+     "returned": 19,
+     "new": 18,
+     "outliers": 0,
+     "examples": []
+    },
+    "I asked strangers": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "realistic day in my life computer science student": {
+     "returned": 31,
+     "new": 29,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in the life cs student europe": {
+     "returned": 1,
+     "new": 1,
+     "outliers": 0,
+     "examples": []
+    },
+    "productive day in my life student": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 1,
+     "examples": [
+      "Day in the Life of a Mathematical Astrophysicist (3.9x)"
+     ]
+    },
+    "day in my life vlog 20s": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life gym and studying": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 0,
+     "examples": []
+    },
+    "week in my life university student": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life software engineering student": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 0,
+     "examples": []
+    },
+    "day in my life studying abroad student": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "a normal day in my life college student": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 1,
+     "examples": [
+      "A Day in My Life 💕🇰🇷 Korean Edition || Sakura School Simulator #sakura  (9.4x)"
+     ]
+    },
+    "exam season day in my life": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried coding a game in one hour": {
+     "returned": 8,
+     "new": 5,
+     "outliers": 0,
+     "examples": []
+    },
+    "exploring weird websites": {
+     "returned": 24,
+     "new": 24,
+     "outliers": 0,
+     "examples": []
+    },
+    "trying cool apps you didn't know existed": {
+     "returned": 13,
+     "new": 12,
+     "outliers": 0,
+     "examples": []
+    },
+    "internet rabbit hole": {
+     "returned": 50,
+     "new": 42,
+     "outliers": 1,
+     "examples": [
+      "Horrors of the North Korea Internet Iceberg (389.0x)"
+     ]
+    },
+    "going through my old videos commentary": {
+     "returned": 5,
+     "new": 5,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried every": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "testing viral apps": {
+     "returned": 50,
+     "new": 39,
+     "outliers": 0,
+     "examples": []
+    },
+    "rating my subscribers": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 0,
+     "examples": []
+    },
+    "I let my viewers decide": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "I copied a youtuber until he noticed me": {
+     "returned": 9,
+     "new": 8,
+     "outliers": 0,
+     "examples": []
+    },
+    "I spent 24 hours doing": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 0,
+     "examples": []
+    },
+    "I tried living like": {
+     "returned": 50,
+     "new": 46,
+     "outliers": 0,
+     "examples": []
+    },
+    "I pretended to be": {
+     "returned": 50,
+     "new": 39,
+     "outliers": 2,
+     "examples": [
+      "I Pretended to Be Surronster at a Night Rideout! (4.1x)",
+      "I Pretended to be a NOOB in Bike Universe then used a $100,000 Bike... (3.1x)"
+     ]
+    },
+    "I followed a routine for 24 hours": {
+     "returned": 36,
+     "new": 33,
+     "outliers": 0,
+     "examples": []
+    },
+    "learning to code journey": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "I built an app": {
+     "returned": 50,
+     "new": 41,
+     "outliers": 0,
+     "examples": []
+    },
+    "coding vlog": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "first year computer science student honest": {
+     "returned": 9,
+     "new": 9,
+     "outliers": 0,
+     "examples": []
+    },
+    "how I study effectively": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 1,
+     "examples": [
+      "How to Study Effectively for UPSC? | UPSC Preparation | Time Management | Drisht (5.0x)"
+     ]
+    },
+    "university student routine": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "advice for people in their 20s": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 1,
+     "examples": [
+      "Harvard Psychiatrist: 90% of Criticism is Just Projection | Dr. K (4.7x)"
+     ]
+    },
+    "honest advice from my first year of university": {
+     "returned": 8,
+     "new": 8,
+     "outliers": 0,
+     "examples": []
+    },
+    "what I learned in my first year of university": {
+     "returned": 26,
+     "new": 24,
+     "outliers": 0,
+     "examples": []
+    },
+    "lessons I learned the hard way": {
+     "returned": 50,
+     "new": 45,
+     "outliers": 0,
+     "examples": []
+    },
+    "my productivity system honest": {
+     "returned": 2,
+     "new": 1,
+     "outliers": 0,
+     "examples": []
+    },
+    "my morning routine honest": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "cinematic short film about life": {
+     "returned": 50,
+     "new": 44,
+     "outliers": 1,
+     "examples": [
+      "The World After World War III | Sci-Fi Short Film (16.0x)"
+     ]
+    },
+    "personal video essay": {
+     "returned": 50,
+     "new": 40,
+     "outliers": 1,
+     "examples": [
+      "The Remake is Worse But it's Still WAY BETTER (Karate Kid) (3.6x)"
+     ]
+    },
+    "short film about growing up": {
+     "returned": 50,
+     "new": 48,
+     "outliers": 0,
+     "examples": []
+    },
+    "things I wish I knew earlier": {
+     "returned": 50,
+     "new": 40,
+     "outliers": 2,
+     "examples": [
+      "8 Things I Wish I Knew Earlier in Castlevania: Belmont’s Curse (147.5x)",
+      "GTA 6 - Do These 15 Things FIRST (10.6x)"
+     ]
+    },
+    "I ranked every": {
+     "returned": 50,
+     "new": 43,
+     "outliers": 0,
+     "examples": []
+    },
+    "tier list": {
+     "returned": 50,
+     "new": 47,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / People & Blogs": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 1,
+     "examples": [
+      "How to Make Your Christmas Home Look Like a Designer Did It (3.0x)"
+     ]
+    },
+    "trending US / Comedy": {
+     "returned": 50,
+     "new": 49,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending US / Science & Tech": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / People & Blogs": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Comedy": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Entertainment": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Howto & Style": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    },
+    "trending GB / Science & Tech": {
+     "returned": 50,
+     "new": 50,
+     "outliers": 0,
+     "examples": []
+    }
+   }
   }
  ]
 }

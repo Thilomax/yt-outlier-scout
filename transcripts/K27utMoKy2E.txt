@@ -1,0 +1,22 @@
+# The Mac App Iceberg
+Bog | 363,064 views vs usual 28,106 (12.9x) | 10 min | https://www.youtube.com/watch?v=K27utMoKy2E
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Top comments (by relevance)
+(237 likes) constructive criticism: please show whether any given app is free or not somewhere, it gets quite disappointing to search for an app only to find out it costs 12 dollars
+(6 likes) Ex windows user getting Mac: everything is paid, where are my features Ex linux user getting Mac: macOS is a real UNIX, let's brew some open source cool apps
+(171 likes) awesome to see arc on the iceberg now 😎
+(285 likes) timestamps (maybe put in description), cool vid as always. - 0:33 Amethyst - 1:05 Menu Bar Dock - 1:25 Unsplash Wallpapers - 1:42 tyke - 1:48 TinkerTool - 2:20 Oversight - 2:37 Latest - 2:45 Cleanshot/Shotr - 3:09 BetterDisplay - 4:03 Pika/Sip - 4:21 Arc - 4:35 Setapp - 5:08 Bartender - 5:10 Craft - 5:14 BetterTouchTool - 5:25 Mission Control Plus - 5:29 Disk Drill - 5:38 AltTab - 5:56 1Password -
+(95 likes) The note app curve diagram chart thing is actually pretty accurate. I used to use Apple Notes, then I started looking at other options and used Obsidian on and off for a while, and just recently I decided to switch back to Apple Notes.
+(11 likes) If somebody had shown this guy what raycast is the video would have been half as long. Raycast is the one to rule them all.
+(111 likes) Honestly this is, in my opinion, one of the best ways to make a video like this. The footage is professional and clean, however the jokes make me stay for the entire video!
+(3 likes) Is it just me or does anyone else just not like having 10-20 apps installed and running. I like a clean OS with minimal stuff running.. only shit I absolutely need or am working on currently. I feel like unless the app is open source and from a well-known source I’d rather not have it running 24/7 on my mac
+(694 likes) I love Atom
+(6 likes) I always start with Apple native apps for everything. If there is really crucial functionality missing I try out other apps. They need to be significantly better to justify the price (most are paid).
+(2 likes) The most essential one, imo, is Sip. Because it has a very nice logo.
+(3 likes) Fun fact, MacOS does have their own Pika app called Digital Color Meter which shows you the color code of the pixel your cursor is on
+(21 likes) Absolutely loved your energy for this video! ELMENT OF SURPRISE
+(1 likes) Nice one mentioning Arc. Biggest productivity boost.
+(11 likes) Keyboard maestro is probably the single most powerful mac app for me. You can control and script basically anything you can think of. Worth exploring!

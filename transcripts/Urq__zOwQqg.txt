@@ -1,0 +1,22 @@
+# The Linux Experience - Omarchy
+Bog | 1,441,522 views vs usual 128,355 (11.2x) | 37 min | https://www.youtube.com/watch?v=Urq__zOwQqg
+
+## Transcript
+(unavailable: watch the video itself)
+
+## Top comments (by relevance)
+(166 likes) 🚀 Try the #1 AI powered personal productivity time-blocking tool, Akiflow, today: https://akiflow.pro/BogSep1
+(7306 likes) Thank You SOOOO much for making this video!! That was me who sent the email lol
+(3716 likes) 6:28 "since im using hdmi" _shows a display port cable_
+(1545 likes) i appreciate how you're reading the documentation more now instead of asking chatgpt and getting wrong answers like that one time
+(178 likes) "Grass grows, birds fly, sun shines, and brotha? the ease with which you can install and remove stuff in omarchy is soooo amazing"
+(220 likes) now I'm sure omarchy's user friendly given that bog was able to do it with minimal efforts.
+(1036 likes) Calling this a baby from Windows and Mac OS and then spending half the video in vim is such an Arch Linux thing, good one
+(406 likes) You can't use some profiles with 240hz on Linux because of lawyers at the HDMI standard organization. Yes you understood correctly, the reason you can't use HDMI is because HDMI has specifically said so and will take legal action if used in an open source context. Shout out HDMI SIG.
+(463 likes) Duuuude. For your bootable USBs, try Ventoy instead of Rufus. It basically creates a scaffolding around the storage area of the drive, kind of a launcher menu that can read straight ISO files. So there's no need to make a new drive setup every time, you just drop whatever disk image you want to use into the drive and it'll be accessible when you boot up. It's a game changer for sure.
+(93 likes) Clipboard history is embedded on latest Omarchy and the keybinding is Ctrl + ; You choose with number, you clear the queue with backspace or delete.
+(62 likes) 3:48 classical linux experience
+(884 likes) 10:11 Catppuccin mentioned! 👀 as always a very entertaining video. ✨ ~ lemon
+(618 likes) i love these vids as they actually show what its like to use the distro, please keep em coming
+(65 likes) Dude just got out of geogusser phase and returned to Linux lol 😂
+(65 likes) This is by far the least painful Linux video by Bog I've ever watched. Our boy is learning. Also kudos to DHH because the arch+hyprland experience is really streamlined.
