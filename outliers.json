@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-25",
+  "generated": "2026-11-26",
   "pool_days": 7,
-  "new_today": 15,
-  "count": 90,
+  "new_today": 13,
+  "count": 87,
   "outliers": [
     {
       "video_id": "BCZGUDZgT1I",
@@ -50,34 +50,6 @@
       "transcript": "transcripts/cFK1y2-PteU.txt"
     },
     {
-      "video_id": "SkwLHBsr4vw",
-      "title": "Every Special Forces Selection Ranked by Difficulty",
-      "url": "https://www.youtube.com/watch?v=SkwLHBsr4vw",
-      "channel": "Tactical Core",
-      "subscribers": 1320,
-      "views": 682122,
-      "channel_median_views": 3838,
-      "outlier_score": 177.7,
-      "published": "2026-11-07",
-      "duration_min": 8,
-      "topic": "Lists and rankings",
-      "query": "I ranked every",
-      "chapters": [
-        "0:00 100 candidates, 6 selections",
-        "0:40 #6 Marine Raiders",
-        "1:32 #5 75th Ranger Regiment",
-        "2:24 #4 Green Berets",
-        "3:37 #3 Navy SEALs",
-        "4:29 #2 Air Force Pararescue",
-        "5:39 #1 Delta Force",
-        "7:04 The countdown",
-        "7:16 Why the numbers aren't equal"
-      ],
-      "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/SkwLHBsr4vw.txt"
-    },
-    {
       "video_id": "uGxQhMn4-QI",
       "title": "8 Things I Wish I Knew Earlier in Castlevania: Belmont’s Curse",
       "url": "https://www.youtube.com/watch?v=uGxQhMn4-QI",
@@ -94,6 +66,24 @@
       "found": "2026-11-21",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/uGxQhMn4-QI.txt"
+    },
+    {
+      "video_id": "AIvSTjArIZo",
+      "title": "Do GTA 6 NPCs Actually Have Lives?",
+      "url": "https://www.youtube.com/watch?v=AIvSTjArIZo",
+      "channel": "Sonny Evans",
+      "subscribers": 557000,
+      "views": 6092898,
+      "channel_median_views": 45328,
+      "outlier_score": 134.4,
+      "published": "2026-11-19",
+      "duration_min": 10,
+      "topic": "High-concept hook (click for one thing, get more)",
+      "query": "I followed a routine for 24 hours",
+      "chapters": [],
+      "found": "2026-11-26",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/AIvSTjArIZo.txt"
     },
     {
       "video_id": "KmxiakHk6y4",
@@ -387,24 +377,6 @@
       "transcript": "transcripts/1GeQU0SEC-E.txt"
     },
     {
-      "video_id": "wwAKUSfIJ9U",
-      "title": "An Old Mechanic Asked 3 Strangers to Be His Grandsons... He Had No Idea Who They Were",
-      "url": "https://www.youtube.com/watch?v=wwAKUSfIJ9U",
-      "channel": "CAIstudio",
-      "subscribers": 8840,
-      "views": 2442296,
-      "channel_median_views": 112487,
-      "outlier_score": 21.7,
-      "published": "2026-11-12",
-      "duration_min": 31,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I asked strangers",
-      "chapters": [],
-      "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/wwAKUSfIJ9U.txt"
-    },
-    {
       "video_id": "dJDf76QVv70",
       "title": "GTA 6 - 13 Things I Wish I Knew",
       "url": "https://www.youtube.com/watch?v=dJDf76QVv70",
@@ -489,24 +461,6 @@
       "transcript": "transcripts/S_2eVAaw1UM.txt"
     },
     {
-      "video_id": "5eFUeZojzcI",
-      "title": "What is it actually like to live in an infill property?",
-      "url": "https://www.youtube.com/watch?v=5eFUeZojzcI",
-      "channel": "CBC News Alberta",
-      "subscribers": 27700,
-      "views": 15589,
-      "channel_median_views": 1092,
-      "outlier_score": 14.3,
-      "published": "2026-11-16",
-      "duration_min": 6,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "what it's actually like to",
-      "chapters": [],
-      "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/5eFUeZojzcI.txt"
-    },
-    {
       "video_id": "now0emhNT4A",
       "title": "The FAA Crashes Out Over a Router & Why Is Trump Protecting AI and Jensen Huang? | The Daily Show",
       "url": "https://www.youtube.com/watch?v=now0emhNT4A",
@@ -531,6 +485,24 @@
       "found": "2026-11-20",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/now0emhNT4A.txt"
+    },
+    {
+      "video_id": "d_RSNs1thrM",
+      "title": "21 Things I WISH I Knew Before Finishing Chapter 1 (GTA 6)",
+      "url": "https://www.youtube.com/watch?v=d_RSNs1thrM",
+      "channel": "Jaac",
+      "subscribers": 329000,
+      "views": 594804,
+      "channel_median_views": 45673,
+      "outlier_score": 13.0,
+      "published": "2026-11-23",
+      "duration_min": 14,
+      "topic": "Lists and rankings",
+      "query": "things I wish I knew earlier",
+      "chapters": [],
+      "found": "2026-11-26",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/d_RSNs1thrM.txt"
     },
     {
       "video_id": "dVPCPK14sSk",
@@ -591,24 +563,6 @@
       "transcript": "transcripts/1fvyhojOzMk.txt"
     },
     {
-      "video_id": "rw2K4RoK4KM",
-      "title": "What (Actually) Happened to Taika Waititi",
-      "url": "https://www.youtube.com/watch?v=rw2K4RoK4KM",
-      "channel": "Pentex Productions",
-      "subscribers": 92000,
-      "views": 866779,
-      "channel_median_views": 68277,
-      "outlier_score": 12.7,
-      "published": "2026-11-13",
-      "duration_min": 17,
-      "topic": "Short film / cinematic",
-      "query": "personal video essay",
-      "chapters": [],
-      "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/rw2K4RoK4KM.txt"
-    },
-    {
       "video_id": "d3UaVoP6dPg",
       "title": "GTA 6's HDR Calibration is 𝗕𝗥𝗢𝗞𝗘𝗡… Here's What to Do Instead",
       "url": "https://www.youtube.com/watch?v=d3UaVoP6dPg",
@@ -646,23 +600,9 @@
         "5:58 The Reality of Parental Leave",
         "7:43 Acknowledging the Other Side"
       ],
-      "found": "2026-11-22"
-    },
-    {
-      "video_id": "Qq64nK_zc_I",
-      "title": "Vibrators, Orgasms & The Female Body: What Nobody Tells You",
-      "url": "https://www.youtube.com/watch?v=Qq64nK_zc_I",
-      "channel": "Dr. Kelly Casperson, M.D. ",
-      "subscribers": 59900,
-      "views": 94935,
-      "channel_median_views": 8780,
-      "outlier_score": 10.8,
-      "published": "2026-11-05",
-      "duration_min": 54,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "things nobody tells you about",
-      "chapters": [],
-      "found": "2026-11-19"
+      "found": "2026-11-22",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/wQFG0xnFwZo.txt"
     },
     {
       "video_id": "iBs-wMYMd9k",
@@ -678,7 +618,9 @@
       "topic": "Lists and rankings",
       "query": "things I wish I knew earlier",
       "chapters": [],
-      "found": "2026-11-21"
+      "found": "2026-11-21",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/iBs-wMYMd9k.txt"
     },
     {
       "video_id": "xszy-5OSj7E",
@@ -727,6 +669,22 @@
       "query": "a normal day in my life college student",
       "chapters": [],
       "found": "2026-11-21"
+    },
+    {
+      "video_id": "XVl-qeN53Ck",
+      "title": "LAST Exam Of My Life!😤| The Ultimate Study Vlog 📖",
+      "url": "https://www.youtube.com/watch?v=XVl-qeN53Ck",
+      "channel": "Jui Nigudkar",
+      "subscribers": 103000,
+      "views": 96852,
+      "channel_median_views": 10582,
+      "outlier_score": 9.2,
+      "published": "2026-11-22",
+      "duration_min": 19,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "exam season day in my life",
+      "chapters": [],
+      "found": "2026-11-26"
     },
     {
       "video_id": "16yiBCn4WYg",
@@ -823,22 +781,6 @@
       "found": "2026-11-25"
     },
     {
-      "video_id": "4WB4rYeFrIo",
-      "title": "stop setting goals for 2027. build an architecture instead.",
-      "url": "https://www.youtube.com/watch?v=4WB4rYeFrIo",
-      "channel": "sahar",
-      "subscribers": 13100,
-      "views": 78931,
-      "channel_median_views": 11256,
-      "outlier_score": 7.0,
-      "published": "2026-10-26",
-      "duration_min": 20,
-      "topic": "Short film / cinematic",
-      "query": "personal video essay",
-      "chapters": [],
-      "found": "2026-11-19"
-    },
-    {
       "video_id": "ta3lDIP2rxw",
       "title": "The Truth About My Divorce I've Never Told Online",
       "url": "https://www.youtube.com/watch?v=ta3lDIP2rxw",
@@ -903,22 +845,6 @@
       "query": "I tried it for the first time",
       "chapters": [],
       "found": "2026-11-21"
-    },
-    {
-      "video_id": "JnA2N4Gc4fM",
-      "title": "midterms week ☕ *realistic* college study vlog",
-      "url": "https://www.youtube.com/watch?v=JnA2N4Gc4fM",
-      "channel": "chloe bote",
-      "subscribers": 13000,
-      "views": 41552,
-      "channel_median_views": 6677,
-      "outlier_score": 6.2,
-      "published": "2026-10-17",
-      "duration_min": 11,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "week in my life university student",
-      "chapters": [],
-      "found": "2026-11-19"
     },
     {
       "video_id": "Rnrxr_e8lq0",
@@ -1093,6 +1019,22 @@
       "found": "2026-11-21"
     },
     {
+      "video_id": "eLLS4eHO4iU",
+      "title": "I was robbed at Costco",
+      "url": "https://www.youtube.com/watch?v=eLLS4eHO4iU",
+      "channel": "SquirrelTribe 2.0",
+      "subscribers": 47000,
+      "views": 155338,
+      "channel_median_views": 33294,
+      "outlier_score": 4.7,
+      "published": "2026-11-23",
+      "duration_min": 36,
+      "topic": "Trending: People & Blogs",
+      "query": "trending US / People & Blogs",
+      "chapters": [],
+      "found": "2026-11-26"
+    },
+    {
       "video_id": "6LqNInSDYKc",
       "title": "Arc Raiders 12 Things I Wish I Knew Sooner With Frozen Trail",
       "url": "https://www.youtube.com/watch?v=6LqNInSDYKc",
@@ -1107,6 +1049,22 @@
       "query": "things I wish I knew earlier",
       "chapters": [],
       "found": "2026-11-23"
+    },
+    {
+      "video_id": "aPoYgAimNzM",
+      "title": "YOU Test EVERY Shooting Star Orbital Strike Mod in Minecraft!",
+      "url": "https://www.youtube.com/watch?v=aPoYgAimNzM",
+      "channel": "ShadCraft",
+      "subscribers": 218000,
+      "views": 339760,
+      "channel_median_views": 80008,
+      "outlier_score": 4.2,
+      "published": "2026-10-28",
+      "duration_min": 15,
+      "topic": "Broad (any topic strangers click on)",
+      "query": "I tested every",
+      "chapters": [],
+      "found": "2026-11-26"
     },
     {
       "video_id": "ALGzyOHmxzw",
@@ -1141,22 +1099,6 @@
       "found": "2026-11-25"
     },
     {
-      "video_id": "lXmB-eDyk5Y",
-      "title": "college diaries | study sessions, gym & balancing fun ",
-      "url": "https://www.youtube.com/watch?v=lXmB-eDyk5Y",
-      "channel": "Kaylee Malcolm ",
-      "subscribers": 28800,
-      "views": 34559,
-      "channel_median_views": 8665,
-      "outlier_score": 4.0,
-      "published": "2026-11-08",
-      "duration_min": 27,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "day in my life gym and studying",
-      "chapters": [],
-      "found": "2026-11-19"
-    },
-    {
       "video_id": "RJc5KSlcuFI",
       "title": "I Upgraded My Subscribers Account in Steal an Egg!",
       "url": "https://www.youtube.com/watch?v=RJc5KSlcuFI",
@@ -1171,38 +1113,6 @@
       "query": "rating my subscribers",
       "chapters": [],
       "found": "2026-11-22"
-    },
-    {
-      "video_id": "hnxn16HtLIk",
-      "title": "How I Built It: $400K/Month iOS App",
-      "url": "https://www.youtube.com/watch?v=hnxn16HtLIk",
-      "channel": "Starter Story",
-      "subscribers": 903000,
-      "views": 214400,
-      "channel_median_views": 54735,
-      "outlier_score": 3.9,
-      "published": "2026-11-01",
-      "duration_min": 12,
-      "topic": "Programming",
-      "query": "I built an app",
-      "chapters": [
-        "0:00 - the $400K/month app",
-        "0:58 - Meet Yoni",
-        "1:27 - Brainrot",
-        "2:00 - Yoni’s background",
-        "2:30 - Start your own business",
-        "3:07 - Building a personal brand",
-        "3:38 - Idea behind Brainrot",
-        "4:11 - Launch and early traction",
-        "4:41 - More growth strategies",
-        "5:47 - When to go all-in?",
-        "6:29 - Building apps in 2026",
-        "9:04 - Yoni’s advice for finding app ideas",
-        "10:04 - Tech stack and tools",
-        "10:29 - Brainrot demo",
-        "11:18 - Final advice"
-      ],
-      "found": "2026-11-19"
     },
     {
       "video_id": "9ggM3pK0_ts",
@@ -1403,32 +1313,6 @@
       "found": "2026-11-22"
     },
     {
-      "video_id": "FU3oUQNn0S4",
-      "title": "Trisha Paytas Tries Korean Foods For The First Time | Buzz Bites",
-      "url": "https://www.youtube.com/watch?v=FU3oUQNn0S4",
-      "channel": "BuzzFeed Celeb",
-      "subscribers": 4290000,
-      "views": 807238,
-      "channel_median_views": 228235,
-      "outlier_score": 3.5,
-      "published": "2026-11-10",
-      "duration_min": 14,
-      "topic": "Broad (any topic strangers click on)",
-      "query": "I tried it for the first time",
-      "chapters": [
-        "00:00 - Intro",
-        "01:03 - Tteokbokki with Fried Mandu",
-        "04:11 - Korean Barbecue",
-        "06:57 - Marinated raw crab",
-        "07:20 - Corn latte",
-        "09:00 - Buldak Carbonara Ramen",
-        "10:55 - Bingsu (Korean shaved ice)",
-        "11:34 - Learning Korean & getting into K-pop",
-        "13:28 - Food Rankings"
-      ],
-      "found": "2026-11-19"
-    },
-    {
       "video_id": "tW8OQWxRlwk",
       "title": "\"My Parents Think I'm Bringing Someone Home For Christmas.\" The Stranger On The Train Smiled",
       "url": "https://www.youtube.com/watch?v=tW8OQWxRlwk",
@@ -1550,6 +1434,22 @@
       "found": "2026-11-25"
     },
     {
+      "video_id": "Y0iw4eyNauY",
+      "title": "Finish Preboards Syllabus in 10 DAYS *ALL SUBJECTS*🔥Class 10 Just Do These Topics!🤫",
+      "url": "https://www.youtube.com/watch?v=Y0iw4eyNauY",
+      "channel": "CREATIVE LEARNING 2.0",
+      "subscribers": 1700000,
+      "views": 205432,
+      "channel_median_views": 60304,
+      "outlier_score": 3.4,
+      "published": "2026-11-10",
+      "duration_min": 15,
+      "topic": "Studying",
+      "query": "how I study effectively",
+      "chapters": [],
+      "found": "2026-11-26"
+    },
+    {
       "video_id": "oJujjch9ops",
       "title": "I Tested 3,000,000 Years of Catching Ocean Animals!",
       "url": "https://www.youtube.com/watch?v=oJujjch9ops",
@@ -1622,43 +1522,20 @@
       "found": "2026-11-25"
     },
     {
-      "video_id": "HEzEIFGX0HY",
-      "title": "A How Much Does University Cost? Only $57 Per Semester!",
-      "url": "https://www.youtube.com/watch?v=HEzEIFGX0HY",
-      "channel": "Daily Life with Elahe",
-      "subscribers": 12600,
-      "views": 140817,
-      "channel_median_views": 44508,
-      "outlier_score": 3.2,
-      "published": "2026-10-11",
-      "duration_min": 16,
-      "topic": "Day in the life (best performer, double down)",
-      "query": "a normal day in my life college student",
+      "video_id": "H5TwIPs1kT8",
+      "title": "I Tried EVERY Steak from Costco!",
+      "url": "https://www.youtube.com/watch?v=H5TwIPs1kT8",
+      "channel": "Guga Foods",
+      "subscribers": 5930000,
+      "views": 3134246,
+      "channel_median_views": 957997,
+      "outlier_score": 3.3,
+      "published": "2026-11-11",
+      "duration_min": 23,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "query": "I tried every",
       "chapters": [],
-      "found": "2026-11-19"
-    },
-    {
-      "video_id": "j9sJIQi1gAY",
-      "title": "Why is Japanese Horror Like That?",
-      "url": "https://www.youtube.com/watch?v=j9sJIQi1gAY",
-      "channel": "Edward Rigby",
-      "subscribers": 40100,
-      "views": 75730,
-      "channel_median_views": 23313,
-      "outlier_score": 3.2,
-      "published": "2026-11-06",
-      "duration_min": 19,
-      "topic": "Short film / cinematic",
-      "query": "personal video essay",
-      "chapters": [
-        "0:00 start",
-        "1:44 Part 1",
-        "7:07 Part 2",
-        "12:39 Part 3",
-        "16:32 conclusion (but not really)",
-        "17:58 outro (yap-a-thon)"
-      ],
-      "found": "2026-11-19"
+      "found": "2026-11-26"
     },
     {
       "video_id": "iIzXeEkiNZc",
@@ -1743,20 +1620,36 @@
       "found": "2026-11-24"
     },
     {
-      "video_id": "jFB2grTilZU",
-      "title": "I Tried Cooking STEAK For The First Time...",
-      "url": "https://www.youtube.com/watch?v=jFB2grTilZU",
-      "channel": "Fanum Live",
-      "subscribers": 3970000,
-      "views": 575559,
-      "channel_median_views": 187671,
-      "outlier_score": 3.1,
-      "published": "2026-11-06",
-      "duration_min": 39,
+      "video_id": "ZBMqEZNXgno",
+      "title": "3 Things Nobody Will Tell You About GTA 6",
+      "url": "https://www.youtube.com/watch?v=ZBMqEZNXgno",
+      "channel": "Ben Shapiro",
+      "subscribers": 6950000,
+      "views": 354377,
+      "channel_median_views": 110873,
+      "outlier_score": 3.2,
+      "published": "2026-11-19",
+      "duration_min": 42,
       "topic": "Broad (any topic strangers click on)",
-      "query": "I tried it for the first time",
+      "query": "things nobody tells you about",
       "chapters": [],
-      "found": "2026-11-19"
+      "found": "2026-11-26"
+    },
+    {
+      "video_id": "dRSF5HAwDYo",
+      "title": "VLOG: GENDER REVEAL, GIFT FROM MY HUSBAND, MAINTENANCE, FAMILY ROAD TRIP, AND MORE ",
+      "url": "https://www.youtube.com/watch?v=dRSF5HAwDYo",
+      "channel": "Qui Renea",
+      "subscribers": 128000,
+      "views": 145890,
+      "channel_median_views": 45681,
+      "outlier_score": 3.2,
+      "published": "2026-11-23",
+      "duration_min": 43,
+      "topic": "Trending: People & Blogs",
+      "query": "trending US / People & Blogs",
+      "chapters": [],
+      "found": "2026-11-26"
     },
     {
       "video_id": "1Judga7rBB4",
@@ -1877,22 +1770,6 @@
       "found": "2026-11-24"
     },
     {
-      "video_id": "s-0_guXU1fk",
-      "title": "Roasting My Subscribers SHTF Rifles ",
-      "url": "https://www.youtube.com/watch?v=s-0_guXU1fk",
-      "channel": "Trench Grenade",
-      "subscribers": 88500,
-      "views": 58194,
-      "channel_median_views": 19291,
-      "outlier_score": 3.0,
-      "published": "2026-10-22",
-      "duration_min": 41,
-      "topic": "PC-only (facecam + screen, under 2h to record)",
-      "query": "rating my subscribers",
-      "chapters": [],
-      "found": "2026-11-19"
-    },
-    {
       "video_id": "2x0YfyrnZ_0",
       "title": "JJ Pretended to Be a BABY CAT on an OP One Chunk!",
       "url": "https://www.youtube.com/watch?v=2x0YfyrnZ_0",
@@ -1966,6 +1843,38 @@
         "29:51 - Outro"
       ],
       "found": "2026-11-23"
+    },
+    {
+      "video_id": "XIcJGQj9CHw",
+      "title": "STUDY DIARIES👩🏻‍💻: 5AM productivity, hefty workloads, long exam study sessions & tiring uni days🖇️☕️",
+      "url": "https://www.youtube.com/watch?v=XIcJGQj9CHw",
+      "channel": "baie",
+      "subscribers": 57100,
+      "views": 45081,
+      "channel_median_views": 14934,
+      "outlier_score": 3.0,
+      "published": "2026-11-21",
+      "duration_min": 33,
+      "topic": "Day in the life (best performer, double down)",
+      "query": "week in my life university student",
+      "chapters": [],
+      "found": "2026-11-26"
+    },
+    {
+      "video_id": "1Kypm0ZbxuU",
+      "title": "We Try EVERY Food We've Hated",
+      "url": "https://www.youtube.com/watch?v=1Kypm0ZbxuU",
+      "channel": "Good Mythical Morning",
+      "subscribers": 19800000,
+      "views": 3760968,
+      "channel_median_views": 1241123,
+      "outlier_score": 3.0,
+      "published": "2026-10-30",
+      "duration_min": 22,
+      "topic": "PC-only (facecam + screen, under 2h to record)",
+      "query": "I tried every",
+      "chapters": [],
+      "found": "2026-11-26"
     }
   ],
   "creator_outliers": [
@@ -2006,24 +1915,6 @@
       "transcript": "transcripts/XOG-mpHQeNU.txt"
     },
     {
-      "video_id": "TCXr9H99Rtg",
-      "title": "This Is What An AI Vtuber Looks Like...",
-      "url": "https://www.youtube.com/watch?v=TCXr9H99Rtg",
-      "channel": "kat 'n chat",
-      "creator": "katnchat",
-      "core_vibe": false,
-      "subscribers": 381000,
-      "views": 157544,
-      "channel_median_views": 71221,
-      "outlier_score": 2.2,
-      "published": "2026-11-16",
-      "duration_min": 11,
-      "chapters": [],
-      "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/TCXr9H99Rtg.txt"
-    },
-    {
       "video_id": "P8m60v4F4kM",
       "title": "Oldest version of Adobe Premiere is insane",
       "url": "https://www.youtube.com/watch?v=P8m60v4F4kM",
@@ -2042,24 +1933,6 @@
       "transcript": "transcripts/P8m60v4F4kM.txt"
     },
     {
-      "video_id": "gGD8v2smkLE",
-      "title": "Living With World's Unhealthiest Man For 24 Hours",
-      "url": "https://www.youtube.com/watch?v=gGD8v2smkLE",
-      "channel": "Will Tennyson",
-      "creator": "Will Tennyson",
-      "core_vibe": false,
-      "subscribers": 5620000,
-      "views": 13564149,
-      "channel_median_views": 8428193,
-      "outlier_score": 1.6,
-      "published": "2026-11-15",
-      "duration_min": 32,
-      "chapters": [],
-      "found": "2026-11-19",
-      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
-      "transcript": "transcripts/gGD8v2smkLE.txt"
-    },
-    {
       "video_id": "XXcWhCEiDeQ",
       "title": "Gen AI Is Getting Impossible To Tell…",
       "url": "https://www.youtube.com/watch?v=XXcWhCEiDeQ",
@@ -2076,6 +1949,42 @@
       "found": "2026-11-25",
       "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
       "transcript": "transcripts/XXcWhCEiDeQ.txt"
+    },
+    {
+      "video_id": "Zl4HMSQPHzM",
+      "title": "Guy with no name sent me a weird puzzle",
+      "url": "https://www.youtube.com/watch?v=Zl4HMSQPHzM",
+      "channel": "Bog",
+      "creator": "Bog",
+      "core_vibe": true,
+      "subscribers": 653000,
+      "views": 226280,
+      "channel_median_views": 141746,
+      "outlier_score": 1.6,
+      "published": "2026-11-14",
+      "duration_min": 15,
+      "chapters": [],
+      "found": "2026-11-26",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/Zl4HMSQPHzM.txt"
+    },
+    {
+      "video_id": "Cz2RhYhvi0E",
+      "title": "Did Prada Lie To Everyone?",
+      "url": "https://www.youtube.com/watch?v=Cz2RhYhvi0E",
+      "channel": "kat 'n chat",
+      "creator": "katnchat",
+      "core_vibe": false,
+      "subscribers": 385000,
+      "views": 82941,
+      "channel_median_views": 53732,
+      "outlier_score": 1.5,
+      "published": "2026-11-11",
+      "duration_min": 19,
+      "chapters": [],
+      "found": "2026-11-26",
+      "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)",
+      "transcript": "transcripts/Cz2RhYhvi0E.txt"
     }
   ],
   "transcript_error": "RequestBlocked (YouTube blocked transcript requests from this server)"
